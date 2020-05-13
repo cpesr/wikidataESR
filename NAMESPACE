@@ -1,0 +1,14 @@
+
+export(wdesr_get_data)
+export(wdesr_get_graph)
+export(wdesr_ggplot_graph)
+export(wdesr_load_and_plot)
+export(wdesr_get_cache)
+export(wdesr_load_cache)
+export(wdesr_save_cache)
+export(wdesr_clear_cache)
+
+import(dplyr)
+import(ggplot2)
+import(ggnetwork)
+

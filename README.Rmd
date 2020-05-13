@@ -1,0 +1,9 @@
+---
+title: "Tenter d'y voir clair dans l'ESR : tutorial R/WikidataESR"
+author: "Julien Gossa"
+date: "29/07/2019"
+output:  github_document
+---
+
+```{r child = '../R/tutorial.Rmd'}
+```

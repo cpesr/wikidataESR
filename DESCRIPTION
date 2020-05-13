@@ -1,0 +1,25 @@
+Package: wikidataESR
+Type: Package
+Title: From wikidata to R, for french ESR
+Version: 0.1.0
+Author: Julien Gossa
+Maintainer: <gossa@unistra.fr>
+Description: This package uses data about the french university system (ESR) 
+    to build and plot graphs.
+License: GPLv3
+Encoding: UTF-8
+LazyData: true
+RoxygenNote: 6.1.1
+Roxygen: list(markdown = TRUE)
+Imports:
+    WikidataR,
+    stringr,
+    stringi,
+    WikidataR,
+    plotly,
+    ggnetwork,
+    ggplot2,
+    intergraph,
+    network,
+    dplyr,
+    scales
