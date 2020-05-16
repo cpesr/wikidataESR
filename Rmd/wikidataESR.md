@@ -141,7 +141,7 @@ différencier des autres types de relations.
 Les statuts d’établissement sont hiérarchisés en différents niveaux
 :
 
-| niveau | label               | description                                                                       | exemple                         |
+| niveau | libellé             | description                                                                       | exemple                         |
 | -----: | :------------------ | :-------------------------------------------------------------------------------- | :------------------------------ |
 |      1 | national            | institutions nationales                                                           | CNRS                            |
 |      2 | regroupement        | groupe d’établissement ou intitutions régionales                                  | COMUEs                          |
@@ -185,9 +185,10 @@ librairie
 | [Q3550804](https://www.wikidata.org/wiki/Q3550804)   | UFR                         |      5 |                               | [ref](https://fr.wikipedia.org/wiki/Unit%C3%A9_de_formation_et_de_recherche)                                                 |
 | [Q13220391](https://www.wikidata.org/wiki/Q13220391) | école doctorale             |      5 |                               |                                                                                                                              |
 | [Q57314035](https://www.wikidata.org/wiki/Q57314035) | faculté de médecine         |      5 |                               |                                                                                                                              |
-| [Q1254933](https://www.wikidata.org/wiki/Q1254933)   | observatoire astronomique   |      5 |                               |                                                                                                                              |
 | [Q1622062](https://www.wikidata.org/wiki/Q1622062)   | BU                          |      5 |                               |                                                                                                                              |
 | [Q180958](https://www.wikidata.org/wiki/Q180958)     | composante                  |      5 | A défaut de plus précis       | [ref](https://fr.wikipedia.org/wiki/Universit%C3%A9_en_France#Composantes)                                                   |
+| [Q1254933](https://www.wikidata.org/wiki/Q1254933)   | observatoire astronomique   |      6 |                               |                                                                                                                              |
+| [Q1298668](https://www.wikidata.org/wiki/Q1298668)   | projet de recherche         |      6 |                               |                                                                                                                              |
 
 ### Liste des statuts déconseillés
 

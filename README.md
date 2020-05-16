@@ -16,7 +16,7 @@ WikidataESR peut s’installer directement depuis GitHub avec devtools :
 install.packages("devtools")
 library(devtools)
 
-install_github("juliengossa/DataESR", subdir="etablissements.esr/wikidataESR")
+install_github("cpesr/wikidataESR")
 ```
 
 ## Les bases de WikidataESR
@@ -25,7 +25,7 @@ install_github("juliengossa/DataESR", subdir="etablissements.esr/wikidataESR")
 
 Pour récupérer les données, vous devez disposer d’un identifiant
 wikidata racine, et savoir quelles
-[propriétés](https://github.com/juliengossa/DataESR/tree/master/etablissements.esr#liste-proprietes)
+[propriétés](https://github.com/cpesr/wikidata/tree/master/etablissements.esr#liste-proprietes)
 vous souhaitez explorer.
 
 L’exploration se fait avec la fonction `wdesr_get_graph`.
@@ -57,9 +57,9 @@ df.alsace <- wdesr_get_graph("Q61716176", c('composante','associé'), 1)
 
     ## [1] "Loading:  Q630461"
 
-    ## Warning in wdesr_get_item_status(item): The instance of wikidata item Q630461 is not recommended: bibliothèque.
-    ##   Reason is: préférer BU/biliothèque universitaire.
-    ##   Please check https://www.wikidata.org/wiki/Q630461
+    ## Warning in wdesr_get_item_status(item): The instance of wikidata item Q630461 is unknown by wikidataESR: bibliothèque nationale.
+    ##   Default level (size of the node) is set to 4.
+    ##   Please check the property P31 at https://www.wikidata.org/wiki/Q630461
     ##   using the guideline at https://github.com/juliengossa/DataESR/tree/master/etablissements.esr
 
     ## [1] "Loading:  Q3578190"
@@ -78,15 +78,15 @@ Elle retourne un objet contenant `vertices` et `edges`, qui représentent
 les établissements et leurs
 relations.
 
-| id        | label                                                   | alias           | statut                     | niveau |
-| :-------- | :------------------------------------------------------ | :-------------- | :------------------------- | :----- |
-| Q157575   | université de Strasbourg                                | UdS             | Université (EPSCP)         | 3      |
-| Q21041502 | Haute école des arts du Rhin                            | HEAR            | école d’art                | 4      |
-| Q280183   | université de Haute-Alsace                              | UHA             | Université (EPSCP)         | 3      |
-| Q3578190  | École nationale supérieure d’architecture de Strasbourg | ENSAS           | École nationale supérieure | 4      |
-| Q521036   | Institut national des sciences appliquées de Strasbourg | INSA Strasbourg | école d’ingé               | 4      |
-| Q61716176 | Université de Strasbourg                                | Site alsacien   | Regroupement universitaire | 2      |
-| Q630461   | Bibliothèque nationale et universitaire de Strasbourg   | BNUS            | bibliothèque               | 5      |
+| id        | label                                                   | alias                    | statut                     | niveau |
+| :-------- | :------------------------------------------------------ | :----------------------- | :------------------------- | :----- |
+| Q157575   | université de Strasbourg                                | UdS                      | Université (EPSCP)         | 3      |
+| Q21041502 | Haute école des arts du Rhin                            | HEAR                     | école d’art                | 4      |
+| Q280183   | université de Haute-Alsace                              | UHA                      | Université (EPSCP)         | 3      |
+| Q3578190  | École nationale supérieure d’architecture de Strasbourg | ENSAS                    | École nationale supérieure | 4      |
+| Q521036   | Institut national des sciences appliquées de Strasbourg | INSA Strasbourg          | école d’ingé               | 4      |
+| Q61716176 | université de Strasbourg                                | université de Strasbourg | Regroupement universitaire | 2      |
+| Q630461   | bibliothèque nationale et universitaire de Strasbourg   | BNUS                     | bibliothèque nationale     | 5      |
 
 | from      | to        | type    | date | depth |
 | :-------- | :-------- | :------ | :--- | ----: |

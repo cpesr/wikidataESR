@@ -1,0 +1,18 @@
+id;libellé wikidata;libellé ESR;note;qualificatif
+[P31](https://www.wikidata.org/wiki/Property:P31);nature de l'élément;nature;voir la liste en annexe;
+[P3202](https://www.wikidata.org/wiki/Property:P3202);code UAI;;permet de faire le lien avec les autres bases de données;
+[P571](https://www.wikidata.org/wiki/Property:P571);date de fondation;fondation;;
+[P576](https://www.wikidata.org/wiki/Property:P576);date de dissolution;dissolution;;
+[P527](https://www.wikidata.org/wiki/Property:P527);comprend;associé;lien de subordination horizontal : avec une moindre hiérachie, avec une indépendance politique et financière;[date de début](https://www.wikidata.org/wiki/Property:P580) [date de fin](https://www.wikidata.org/wiki/Property:P582)
+[P361](https://www.wikidata.org/wiki/Property:P361);partie de;associé de;inverse de associé;[date de début](https://www.wikidata.org/wiki/Property:P580) [date de fin](https://www.wikidata.org/wiki/Property:P582)
+[P355](https://www.wikidata.org/wiki/Property:P355);organisation filiale;composante;lien de subordination vertical: avec hiérarchie et dépendance politique ou financière accrue;[date de début](https://www.wikidata.org/wiki/Property:P580) [date de fin](https://www.wikidata.org/wiki/Property:P582)
+[P749](https://www.wikidata.org/wiki/Property:P749);organisation mère;composante de;inverse de composante;[date de début](https://www.wikidata.org/wiki/Property:P580) [date de fin](https://www.wikidata.org/wiki/Property:P582)
+[P1365](https://www.wikidata.org/wiki/Property:P1365);remplace;prédécesseur;marque un changement de statut;[date](https://www.wikidata.org/wiki/Property:P585)
+[P1366](https://www.wikidata.org/wiki/Property:P1366);remplacé par;successeur;inverse de prédécesseur;
+[P807](https://www.wikidata.org/wiki/Property:P807);séparé de;;marque une séparation, lorsqu'un établissement nouveau est créé à partir d'une partie d'un autre (doit être renseigné dans les deux établissements);[date](https://www.wikidata.org/wiki/Property:P585)
+[P1416](https://www.wikidata.org/wiki/Property:P1416);affilié à;;pour les tutelles (CNRS, etc.);[date de début](https://www.wikidata.org/wiki/Property:P580) [date de fin](https://www.wikidata.org/wiki/Property:P582)
+[P463](https://www.wikidata.org/wiki/Property:P463);membre de;;pour les adhésions aux diverses associations;[date de début](https://www.wikidata.org/wiki/Property:P580) [date de fin](https://www.wikidata.org/wiki/Property:P582)
+[P1830](https://www.wikidata.org/wiki/Property:P1830);propriétaire de;;pour les équipements de recherche par exemple;[date de début](https://www.wikidata.org/wiki/Property:P580) [date de fin](https://www.wikidata.org/wiki/Property:P582)
+[P1344](https://www.wikidata.org/wiki/Property:P1344);participant à;;pour les projets par exemple;[date de début](https://www.wikidata.org/wiki/Property:P580) [date de fin](https://www.wikidata.org/wiki/Property:P582)
+
+

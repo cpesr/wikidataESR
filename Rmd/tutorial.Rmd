@@ -1,0 +1,174 @@
+---
+output:
+  html_document: default
+  word_document: default
+  pdf_document: default
+---
+
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+library(knitr)
+
+library(wikidataESR)
+
+library(ggplot2)
+library(network)
+library(ggnetwork)
+library(scales)
+library(dplyr)
+```
+
+WikidataESR est une librairie R s'appuyant sur [wikidataR](https://cran.r-project.org/web/packages/WikidataR/index.html) pour récupérer les données de l'ESR dans [wikidata](https://www.wikidata.org) et produire des graphiques.
+
+## Installation 
+
+WikidataESR peut s'installer directement depuis GitHub avec devtools :
+
+```{r installation, eval=FALSE}
+install.packages("devtools")
+library(devtools)
+
+install_github("cpesr/wikidataESR")
+```
+
+## Les bases de WikidataESR
+
+### Récupérer les données
+
+Pour récupérer les données, vous devez disposer d'un identifiant wikidata racine, et savoir quelles [propriétés](https://github.com/cpesr/wikidata/tree/master/etablissements.esr#liste-proprietes) vous souhaitez explorer.
+
+L'exploration se fait avec la fonction `wdesr_get_graph`.
+
+Par exemple, il est possible d'explorer les établissements du Site Alsace :
+
+- l'_identifiant wikidata_ est [Q61716176](https://www.wikidata.org/wiki/Q61716176) ;
+- les _propriétés_ sont "composante" et "associé" ;
+- il est possible de fixer une _profondeur_ pour l'exploration.
+
+
+```{r alsace}
+library(wikidataESR)
+df.alsace <- wdesr_get_graph("Q61716176", c('composante','associé'), 1)
+```
+
+Pour faciliter les contributions, la fonction déclenche des warning pour chaque problème potentiel lié aux données saisie dans wikidata. 
+
+Elle retourne un objet contenant `vertices` et `edges`, qui représentent les établissements et leurs relations.
+
+```{r df.alsace, echo = FALSE, results='asis'}
+kable(df.alsace$vertices[,1:5])
+kable(df.alsace$edges)
+```
+
+### Tracer des représentations
+
+Depuis le graphes retourné par `wdesr_get_graph`, il est possible de tracer directement en utilisant la librairie `network`.
+
+```{r basic-plot}
+library(network)
+net <- network(df.alsace$edges,
+               matrix.type="edgelist", ignore.eval=FALSE,
+               directed = TRUE)
+
+plot(net)
+```
+
+Cependant, pour faciliter les choses, `wikidataESR` propose une fonction adaptatée : `wdesr_ggplot_graph`
+
+```{r wdesr-plot, warning=FALSE, message=FALSE}
+wdesr_ggplot_graph(df.alsace)
+```
+
+### Deux en un
+
+Pour facilier les choses, la fonction `wdesr_load_and_plot` permet de tout faire d'un coup :
+
+```{r wdesr-loadandplot, warning=FALSE, message=FALSE}
+wdesr_load_and_plot("Q61716176", c('composante','associé'), 1)
+```
+
+On peut observer que les deux images ne sont pas identiques : le processus de traçage des graphes est aléatoire. Il est ainsi parfois utile de tracer plusieurs fois un graphiques pour arriver à un résultat satisfaisant.
+
+### Gestion du cache
+
+Afin de ne pas avoir à retélécharger systématiquement les données, `wikidataESR` utilise un cache local. Il est possible de sauvegarder ce cache pour une utilisation future avec `wdesr_save_cache()`.
+
+Il suffira ensuite de recharger le cache à la prochaine session pour ne pas retélécharger les données avec `wdesr_load_cache()`. Attention : en cas de modification des données sur wikidata, les données du cache local peuvent être périmées.
+
+Il est enfin possible d'accéder directement au cache avec `wdesr_get_cache()`
+
+
+## Pour aller plus loin
+
+### Plus de profondeur 
+
+```{r wdesr-load, echo=FALSE, warning=FALSE, message=FALSE, results='hide'}
+#wdesr_load_cache()
+```
+
+Il est souvent utile d'aller plus en profondeur pour explorer plus de relations. Cela se fait en modifiant l'argument `depth` :
+
+```{r wdesr-depth, warning=FALSE, message=FALSE, results='hide'}
+wdesr_load_and_plot("Q61716176", c('composante','associé'), depth = 3)
+```
+
+```{r wdesr-save, echo=FALSE, warning=FALSE, message=FALSE, results='hide'}
+wdesr_save_cache()
+```
+
+
+### Plus de contrôle 
+
+Pour contrôler les graphiques, plusieurs paramètres sont disponibles :
+
+#### Taille des noeuds 
+
+```{r wdesr-nodesize, warning=FALSE, message=FALSE}
+wdesr_load_and_plot("Q61716176",c('composante','associé'), 3,
+                    node_size = c(2,5), label_sizes = c(3,5), 
+                    arrow_gap = 0.0,
+                    node_label = "alias", node_type = "text",
+                    edge_label = FALSE)
+```
+
+#### Taille des textes
+
+```{r wdesr-labelsize, warning=FALSE, message=FALSE}
+wdesr_load_and_plot("Q61716176",c('composante','associé'), 3,
+                    node_size = c(2,8), label_sizes = c(1,10), 
+                    arrow_gap = 0.0,
+                    node_label = "alias", node_type = "text",
+                    edge_label = FALSE)
+```
+
+#### Taille des textes
+
+```{r wdesr-textsize, warning=FALSE, message=FALSE}
+wdesr_load_and_plot("Q61716176",c('composante','associé'), 3,
+                    node_size = c(2,8), label_sizes = c(3,5), 
+                    arrow_gap = 0.0,
+                    node_label = "alias", node_type = "text",
+                    edge_label = FALSE)
+```
+
+#### Type des textes
+
+```{r wdesr-texttype, warning=FALSE, message=FALSE}
+wdesr_load_and_plot("Q61716176",c('composante','associé'), 3,
+                    node_size = 3, label_sizes = c(3,5), 
+                    arrow_gap = 0.0,
+                    node_label = "alias_date", node_type = "text",
+                    edge_label = TRUE)
+```
+
+#### Type des noeuds
+
+```{r wdesr-nodetype, warning=FALSE, message=FALSE}
+wdesr_load_and_plot("Q61716176",c('composante','associé'), 3,
+                    node_size = 3, label_sizes = c(1,3), 
+                    arrow_gap = 0.0,
+                    node_label = "alias_date", node_type = "label_repel",
+                    edge_label = FALSE)
+```
+
