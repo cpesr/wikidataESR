@@ -5,5 +5,5 @@ date: "29/07/2019"
 output:  github_document
 ---
 
-```{r child = '../R/tutorial.Rmd'}
+```{r child = 'Rmd/tutorial.Rmd'}
 ```
