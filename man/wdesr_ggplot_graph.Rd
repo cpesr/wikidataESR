@@ -4,10 +4,21 @@
 \alias{wdesr_ggplot_graph}
 \title{Plot an ESR graph.}
 \usage{
-wdesr_ggplot_graph(df.g, layout = "kamadakawai", active_only = FALSE,
-  node_sizes = c(10, 30), label_sizes = c(4, 6),
-  node_label = "alias", node_type = "text", edge_label = TRUE,
-  arrow_gap = 0.05, size_guide = FALSE)
+wdesr_ggplot_graph(
+  df.g,
+  layout = "kamadakawai",
+  active_only = FALSE,
+  node_sizes = c(10, 30),
+  label_sizes = c(4, 6),
+  node_label = "alias",
+  node_type = "text",
+  edge_label = TRUE,
+  arrow_gap = 0.05,
+  size_guide = FALSE,
+  legend_position = "right",
+  margin_x = 0.2,
+  margin_y = 0.03
+)
 }
 \arguments{
 \item{df.g}{A dataframe representing a graph, as returned by wdesr_get_graph.}
@@ -28,7 +39,13 @@ wdesr_ggplot_graph(df.g, layout = "kamadakawai", active_only = FALSE,
 
 \item{arrow_gap}{A parameter that will shorten the network edges in order to avoid overplotting edge arrows and nodes see \code{\link[ggnetwork]{fortify.network}}.}
 
-\item{size_guide}{TRUE to plot the guide for sizes (defalut to "FALSE").}
+\item{size_guide}{TRUE to plot the guide for sizes (default to "FALSE").}
+
+\item{legend_position}{The position of the legend, "none" to remove (default to "right").}
+
+\item{margin_x}{The horizontal margins, useful for big nodes (defautl to 0.2).}
+
+\item{margin_y}{The vertical margins, useful for long node texts (defautl to 0.03).}
 }
 \value{
 A ggplot2.

@@ -4,7 +4,8 @@
 \name{wdesr.statuts}
 \alias{wdesr.statuts}
 \title{Status of french ESR institutions.}
-\format{A data frame with 6 variables:
+\format{
+A data frame with 6 variables:
 \itemize{
 \item id: the wikipedia id of the item;
 \item libellé: the label of the item;
@@ -12,7 +13,16 @@
 \item niveau: level of the item (see \code{\link{wdesr.niveaux}})
 \item wikipedia: url to the wikipedia notice;
 \item note: note to help the user.
-}}
+}
+
+A data frame with 4 variables:
+\itemize{
+\item niveau: an integer to id the level;
+\item libellé: the label of the level;
+\item description: a description of the level;
+\item exemple: some example of status of this level.
+}
+}
 \source{
 \url{https://www.wikidata.org}
 }

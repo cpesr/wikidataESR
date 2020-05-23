@@ -4,8 +4,14 @@
 \alias{wdesr_load_and_plot}
 \title{Wrapper to load and plot ESR graphs.}
 \usage{
-wdesr_load_and_plot(wdid, props = c("composante", "associé"),
-  depth = 3, active_only = FALSE, plot_type = "ggplot", ...)
+wdesr_load_and_plot(
+  wdid,
+  props = c("composante", "associé"),
+  depth = 3,
+  active_only = FALSE,
+  plot_type = "ggplot",
+  ...
+)
 }
 \arguments{
 \item{wdid}{The wikidata id of the root.}

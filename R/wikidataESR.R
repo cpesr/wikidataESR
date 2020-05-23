@@ -366,7 +366,10 @@ wdesr_node_geom <- function(node_type = "text") {
 #' @param node_type Define the type of drawing for the nodes. Either "text", "text_repel", "label", or "label_repel" (default to "text").
 #' @param edge_label TRUE to plot dates on edges (default to "TRUE").
 #' @param arrow_gap A parameter that will shorten the network edges in order to avoid overplotting edge arrows and nodes see \code{\link[ggnetwork]{fortify.network}}.
-#' @param size_guide TRUE to plot the guide for sizes (defalut to "FALSE").
+#' @param size_guide TRUE to plot the guide for sizes (default to "FALSE").
+#' @param legend_position The position of the legend, "none" to remove (default to "right").
+#' @param margin_x The horizontal margins, useful for big nodes (defautl to 0.2).
+#' @param margin_y The vertical margins, useful for long node texts (defautl to 0.03).
 #'
 #' @return A ggplot2.
 #' @export
@@ -393,10 +396,14 @@ wdesr_ggplot_graph <- function( df.g,
                                 node_type = "text",
                                 edge_label = TRUE,
                                 arrow_gap = 0.05,
-                                size_guide = FALSE) {
+                                size_guide = FALSE,
+                                legend_position = "right",
+                                margin_x = 0.2,
+                                margin_y = 0.03) {
 
-  if( nrow(df.g$vertices) == 0 | nrow(df.g$edges) == 0 )
+  if( nrow(df.g$vertices) == 0 | nrow(df.g$edges) == 0 ) {
     stop("Empty ESR graph: something went wrong with the graph production parameters")
+  }
 
   #df.g$edges$weight <- scales::rescale(as.numeric(df.g$edges$depth),c(1,2))
   geom_node_fun <- wdesr_node_geom(node_type)
@@ -430,15 +437,15 @@ wdesr_ggplot_graph <- function( df.g,
     fill = statut),
     size = scales::rescale(-as.numeric(df.g$vertices$niveau),label_sizes)
     )
-  g <- g + scale_alpha_manual(labels=c("dissous","actif"), values = (c(0.6,1)), name='statut')
+  g <- g + scale_alpha_manual(labels=c("dissous","actif"), values = (c(0.8,1)), name='statut')
   g <- g + scale_size_manual(breaks=as.character(wdesr.niveaux$niveau),
                              values=scales::rescale(-as.numeric(wdesr.niveaux$niveau),node_sizes),
                              labels=wdesr.niveaux$libellé,
                              name="niveau",
                              drop=FALSE,
                              guide=ifelse(size_guide,"legend",FALSE))
-  g <- g + xlim(-0.2,1.2) + ylim(-0.03,1.03)
-  g <- g + theme_blank()
+  g <- g + xlim(-margin_x,1+margin_x) + ylim(-margin_y,1+margin_y)
+  g <- g + theme_blank() + theme(legend.position=legend_position)
 
   return(g)
 }

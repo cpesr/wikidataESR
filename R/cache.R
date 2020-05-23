@@ -45,18 +45,19 @@
 
 
 #' Maintainance function to build local cache and datasets
+#' @param path The path of the csv files (defaut to "./R/")
 #'
 #' @return nothing
 #'
 #' @examples wdesr_make_package_data()
 #' @noRd
-wdesr_make_package_data <- function() {
-  wdesr.statuts <- read.table("wdesr.statuts.csv",header=TRUE,sep=';',quote='"',stringsAsFactors=FALSE)
-  wdesr.niveaux <- read.table("wdesr.niveaux.csv",header=TRUE,sep=';',quote='"',stringsAsFactors=FALSE)
+wdesr_make_package_data <- function(path="./R/") {
+  wdesr.statuts <- read.table(paste0(path,"wdesr.statuts.csv"),header=TRUE,sep=';',quote='"',stringsAsFactors=FALSE)
+  wdesr.niveaux <- read.table(paste0(path,"wdesr.niveaux.csv"),header=TRUE,sep=';',quote='"',stringsAsFactors=FALSE)
   usethis::use_data(wdesr.statuts, wdesr.niveaux, overwrite = TRUE, internal = FALSE)
 
-  write.table(wdesr.statuts, file = "wdesr.statuts.csv", sep=';', quote = TRUE, row.names = FALSE)
-  write.table(wdesr.niveaux, file = "wdesr.niveaux.csv", sep=';', quote = TRUE, row.names = FALSE)
+  write.table(wdesr.statuts, file = paste0(path,"wdesr.statuts.csv"), sep=';', quote = TRUE, row.names = FALSE)
+  write.table(wdesr.niveaux, file = paste0(path,"wdesr.niveaux.csv"), sep=';', quote = TRUE, row.names = FALSE)
 
   #usethis::use_data(items,instance_ofs, internal = TRUE, overwrite = TRUE)
 }
@@ -159,7 +160,9 @@ wdesr_save_cache <- function(file = "wdesr-cache.RData") {
 #'
 wdesr_load_cache <- function(file = "wdesr-cache.RData", package_statuts = FALSE) {
 
-  load(file = "wdesr-cache.RData", envir = wdesr.cache )
+  try(
+    load(file = "wdesr-cache.RData", envir = wdesr.cache )
+  )
 
   if (package_statuts) {
     wdesr.cache$status <- wdesr.statuts

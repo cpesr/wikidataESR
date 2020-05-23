@@ -4,8 +4,13 @@
 \alias{wdesr_get_graph}
 \title{Get a graph of universities.}
 \usage{
-wdesr_get_graph(wdid, props, depth = 3, active_only = FALSE,
-  stop_at = c("EPST"))
+wdesr_get_graph(
+  wdid,
+  props,
+  depth = 3,
+  active_only = FALSE,
+  stop_at = c("EPST")
+)
 }
 \arguments{
 \item{wdid}{The wikidata id of the root.}
