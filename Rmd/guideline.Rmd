@@ -1,5 +1,5 @@
 
-```{r setup, include=FALSE}
+```{r setup.guideline, include=FALSE}
 knitr::opts_chunk$set(echo = TRUE)
 library(wikidataESR)
 library(knitr)

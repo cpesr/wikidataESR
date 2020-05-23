@@ -1,7 +1,7 @@
-niveau;libellé;description;exemple
-1;national;institutions nationales;CNRS
-2;regroupement;groupe d'établissement ou intitutions régionales;COMUEs
-3;grand établissement;établissements de grande taille ou institutions locales;universités
-4;intermédiaire;établissemebts de moindre taille ou premier sous-niveau des grands établissements;école indépendante ou collégium
-5;composante;sous-partie d'un établissement;UFR ou UMR
-6;autre;ni établissement, ni institution;équipements ou projets
+"niveau";"libellé";"description";"exemple"
+1;"national";"institutions nationales";"CNRS"
+2;"regroupement";"groupe d'établissement ou intitutions régionales";"COMUEs"
+3;"grand établissement";"établissements de grande taille ou institutions locales";"universités"
+4;"intermédiaire";"établissements de moindre taille, premier sous-niveau des grands établissements, ou réseau d'établissements";"école indépendante, collégium, COUPERIN"
+5;"composante";"sous-partie d'un établissement";"UFR ou UMR"
+6;"autre";"ni établissement, ni institution";"équipements ou projets"

@@ -3,7 +3,6 @@
 \docType{package}
 \name{wikidataESR}
 \alias{wikidataESR}
-\alias{wikidataESR-package}
 \title{wikidataESR: A package for retrieving and plotting ESR data from wikidata.}
 \description{
 Wikidata is a convenient tool to model universities information.

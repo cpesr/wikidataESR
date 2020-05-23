@@ -11,7 +11,7 @@ id;libellé wikidata;libellé ESR;note;qualificatif
 [P1366](https://www.wikidata.org/wiki/Property:P1366);remplacé par;successeur;inverse de prédécesseur;
 [P807](https://www.wikidata.org/wiki/Property:P807);séparé de;;marque une séparation, lorsqu'un établissement nouveau est créé à partir d'une partie d'un autre (doit être renseigné dans les deux établissements);[date](https://www.wikidata.org/wiki/Property:P585)
 [P1416](https://www.wikidata.org/wiki/Property:P1416);affilié à;;pour les tutelles (CNRS, etc.);[date de début](https://www.wikidata.org/wiki/Property:P580) [date de fin](https://www.wikidata.org/wiki/Property:P582)
-[P463](https://www.wikidata.org/wiki/Property:P463);membre de;;pour les adhésions aux diverses associations;[date de début](https://www.wikidata.org/wiki/Property:P580) [date de fin](https://www.wikidata.org/wiki/Property:P582)
+[P463](https://www.wikidata.org/wiki/Property:P463);membre de;;pour les adhésions aux diverses associations, également pour l'IDEX (de façon un peu abusive);[date de début](https://www.wikidata.org/wiki/Property:P580) [date de fin](https://www.wikidata.org/wiki/Property:P582)
 [P1830](https://www.wikidata.org/wiki/Property:P1830);propriétaire de;;pour les équipements de recherche par exemple;[date de début](https://www.wikidata.org/wiki/Property:P580) [date de fin](https://www.wikidata.org/wiki/Property:P582)
 [P1344](https://www.wikidata.org/wiki/Property:P1344);participant à;;pour les projets par exemple;[date de début](https://www.wikidata.org/wiki/Property:P580) [date de fin](https://www.wikidata.org/wiki/Property:P582)
 
