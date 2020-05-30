@@ -8,7 +8,7 @@ library(scales)
 library(dplyr)
 
 
-## Examples 
+## Examples
 wdesr_load_cache()
 df.alsace <- wdesr_get_graph("Q61716176",c('composante','associé'), 2)
 wdesr_save_cache()
@@ -30,6 +30,16 @@ wdesr_load_and_plot("Q61716176",c('composante','associé'), 1,
                     node_label = "alias", node_type = "text",
                     edge_label = FALSE)
 
+wdesr_load_cache()
+wdesr_load_and_plot("Q2302586",c('séparé_de','successeur', 'prédécesseur'), 10,
+                    node_size = c(10,30), label_sizes = c(3,5), arrow_gap = 0.0,
+                    node_label = "alias", node_type = "text",
+                    edge_label = FALSE)
+
+wdesr_load_and_plot("Q2302586",c('séparé_de','successeur', 'prédécesseur'), 10,
+                    node_size = c(10,30), label_sizes = c(3,3), arrow_gap = 0.0,
+                    node_label = "alias_date", node_type = "text",
+                    edge_label = TRUE)
 
 wdesr_load_and_plot("Q209842",c('successeur', 'séparé_de', 'composante_de', 'associé_de'), depth=10,
                     node_size = 3, label_sizes = 4, arrow_gap = 0.05,

@@ -225,7 +225,13 @@ wdesr_get_graph <- function(wdid, props, depth = 3, active_only = FALSE, stop_at
 
   wdesr_get_subgraph(wgge, wdid, props, depth, active_only, stop_at)
 
-  wgge$vertices <- wgge$vertices %>% mutate_all(as.character) %>% arrange(id)
+  wgge$vertices <- wgge$vertices %>%
+    mutate_all(as.character) %>%
+    mutate(
+      niveau = as.numeric(niveau),
+      état = ifelse(is.na(dissolution), "actif", "dissout")
+    ) %>%
+    arrange(id)
   #wgge$vertices$niveau <- factor(wgge$vertices$niveau, levels = wdesr.niveaux$niveau)
 
   res <- list('edges'=wgge$edges, 'vertices'=wgge$vertices)
@@ -405,6 +411,13 @@ wdesr_ggplot_graph <- function( df.g,
     stop("Empty ESR graph: something went wrong with the graph production parameters")
   }
 
+  statuts <- unique(df.g$vertices$statut)
+  statuts <- statuts[! statuts %in% wdesr.statuts$libellé]
+  statuts <- c(wdesr.statuts$libellé, statuts)
+  statuts_colors <- setNames(
+    colorRampPalette(brewer.pal(n=9, name="Accent"))(length(statuts)),
+    statuts)
+
   #df.g$edges$weight <- scales::rescale(as.numeric(df.g$edges$depth),c(1,2))
   geom_node_fun <- wdesr_node_geom(node_type)
 
@@ -423,13 +436,15 @@ wdesr_ggplot_graph <- function( df.g,
   g <- g + geom_edges(aes(linetype = type),#, size = weight),
                       arrow = arrow(length = unit(8, "pt"), type = "closed"),
                       alpha=1,
-                      color="darkgrey")
+                      color="grey30")
 
   if(edge_label) g <- g + geom_edgetext(aes(label=date), size = min(label_sizes))
 
-  g <- g + geom_nodes(aes(
-    color=statut,
-    alpha = (dissolution != "NA"),
+  g <- g + geom_nodes(shape = 21, aes(
+    fill = statut,
+    color = état,
+    #color=statut,
+    #alpha = (dissolution != "NA"),
     size = factor(niveau, levels=wdesr.niveaux$niveau)  #scales::rescale(-as.numeric(df.g$vertices$niveau),node_sizes)
   ))
   g <- g + geom_node_fun(aes(
@@ -438,6 +453,8 @@ wdesr_ggplot_graph <- function( df.g,
     size = scales::rescale(-as.numeric(df.g$vertices$niveau),label_sizes)
     )
   g <- g + scale_alpha_manual(labels=c("dissous","actif"), values = (c(0.8,1)), name='statut')
+  g <- g + scale_color_manual(values = c("grey30","white"))
+  g <- g + scale_fill_manual(values = statuts_colors)
   g <- g + scale_size_manual(breaks=as.character(wdesr.niveaux$niveau),
                              values=scales::rescale(-as.numeric(wdesr.niveaux$niveau),node_sizes),
                              labels=wdesr.niveaux$libellé,

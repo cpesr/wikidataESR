@@ -11,4 +11,5 @@ export(wdesr_clear_cache)
 import(dplyr)
 import(ggplot2)
 import(ggnetwork)
+import(RColorBrewer)
 
