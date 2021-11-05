@@ -24,7 +24,7 @@
 #' @name wikidataESR
 #'
 #' @references
-#' - \url{https://github.com/juliengossa/DataESR/tree/master/etablissements.esr/wikidataESR}
+#' - \url{https://github.com/cpesr/wikidataESR}
 #' - \url{https://www.wikidata.org}
 #'
 #' @author Julien Gossa, \email{gossa@unistra.fr}
@@ -43,7 +43,7 @@ NULL
 #' @examples
 #' wdesr_get_item_status(item)
 #'
-#' @references \url{https://github.com/juliengossa/DataESR/tree/master/etablissements.esr/wikidataESR}
+#' @references \url{https://github.com/cpesr/wikidataESR}
 #' @seealso \code{\link{wdesr.statuts}}, \code{\link[WikidataR]{WikidataR}}
 #' @author Julien Gossa, \email{gossa@unistra.fr}
 #' @noRd
@@ -54,7 +54,7 @@ wdesr_get_item_status <- function(item) {
     warning("The instance of wikidata item ", item_id, " is not set.\n",
             "  Default level (size of the node) is set to 7.\n",
             "  Please check the property P31 at https://www.wikidata.org/wiki/",item_id,"\n",
-            "  using the guideline at https://github.com/juliengossa/DataESR/tree/master/etablissements.esr")
+            "  using the guideline at https://github.com/cpesr")
 
     instance_of_id <- "NOID"
   }
@@ -66,7 +66,7 @@ wdesr_get_item_status <- function(item) {
     warning("The instance of wikidata item ", item_id, " is unknown by wikidataESR: ",label,".\n",
             "  Default level (size of the node) is set to 4.\n",
             "  Please check the property P31 at https://www.wikidata.org/wiki/",item_id,"\n",
-            "  using the guideline at https://github.com/juliengossa/DataESR/tree/master/etablissements.esr")
+            "  using the guideline at https://github.com/cpesr")
 
     wdesr.cache$status <- rbind(
       wdesr.cache$status,
@@ -84,7 +84,7 @@ wdesr_get_item_status <- function(item) {
     warning("The instance of wikidata item ", item_id, " is not recommended: ",status$libellé,".\n",
             "  Reason is: ", ifelse(status$note != "",status$note, "Statut pas assez précis"),".\n",
             "  Please check https://www.wikidata.org/wiki/",item_id,"\n",
-            "  using the guideline at https://github.com/juliengossa/DataESR/tree/master/etablissements.esr")
+            "  using the guideline at https://github.com/cpesr")
 
   return(status)
 }
@@ -100,7 +100,7 @@ wdesr_get_item_status <- function(item) {
 #' @examples wdesr_load_item("Q3551576")
 #'
 #' @references
-#' - \url{https://github.com/juliengossa/DataESR/tree/master/etablissements.esr/wikidataESR}
+#' - \url{https://github.com/cpesr/wikidataESR}
 #' - \url{https://www.wikidata.org}
 #' @author Julien Gossa, \email{gossa@unistra.fr}
 #' @noRd
@@ -148,7 +148,7 @@ wdesr_load_item <- function(wdid) {
 #' @examples wdesr_load_items(c("Q3551576","Q2013017"))
 #'
 #' @references
-#' - \url{https://github.com/juliengossa/DataESR/tree/master/etablissements.esr/wikidataESR}
+#' - \url{https://github.com/cpesr/wikidataESR}
 #' - \url{https://www.wikidata.org}
 #' @author Julien Gossa, \email{gossa@unistra.fr}
 #' @noRd
@@ -176,7 +176,7 @@ wdesr_load_items <- function(wdids) {
 #' @examples items <- wdesr_get_data(c("Q3551576","Q2013017"))
 #'
 #' @references
-#' - \url{https://github.com/juliengossa/DataESR/tree/master/etablissements.esr/wikidataESR}
+#' - \url{https://github.com/cpesr/wikidataESR}
 #' - \url{https://www.wikidata.org}
 #' @seealso \code{\link{wdesr_clear_cache}}
 #' @author Julien Gossa, \email{gossa@unistra.fr}
@@ -213,7 +213,7 @@ wdesr_get_data <- function(wdids) {
 #' g$vertice
 #'
 #' @references
-#' - \url{https://github.com/juliengossa/DataESR/tree/master/etablissements.esr/wikidataESR}
+#' - \url{https://github.com/cpesr/wikidataESR}
 #' - \url{https://www.wikidata.org}
 #' @seealso \code{\link{wdesr_clear_cache}}
 #' @author Julien Gossa, \email{gossa@unistra.fr}
@@ -234,8 +234,10 @@ wdesr_get_graph <- function(wdid, props, depth = 3, active_only = FALSE, stop_at
     arrange(id)
   #wgge$vertices$niveau <- factor(wgge$vertices$niveau, levels = wdesr.niveaux$niveau)
 
+  wgge$edges <- wgge$edges %>% mutate(across(where(is.factor), as.character))
+  wgge$vertices <- wgge$vertices %>% mutate(across(where(is.factor), as.character))
   res <- list('edges'=wgge$edges, 'vertices'=wgge$vertices)
-
+  
   return(res)
 }
 
@@ -313,7 +315,7 @@ wdesr_get_subgraph <- function(wgge, wdid, props, depth = 3, active_only = FALSE
 #'
 #' @examples node_label_aes("alias", alias, label, fondation, dissolution)
 #' @references
-#' - \url{https://github.com/juliengossa/DataESR/tree/master/etablissements.esr/wikidataESR}
+#' - \url{https://github.com/cpesr/wikidataESR}
 #' - \url{https://www.wikidata.org}
 #' @seealso \code{\link{wdesr_clear_cache}}
 #' @author Julien Gossa, \email{gossa@unistra.fr}
@@ -343,7 +345,7 @@ wdesr_node_label_aes <- function(node_label = "alias", alias, label, fondation, 
 #' @examples wdesr_node_geom("text_repel")
 #'
 #' @references
-#' - \url{https://github.com/juliengossa/DataESR/tree/master/etablissements.esr/wikidataESR}
+#' - \url{https://github.com/cpesr/wikidataESR}
 #' - \url{https://www.wikidata.org}
 #' @seealso \code{\link{wdesr_clear_cache}}
 #' @author Julien Gossa, \email{gossa@unistra.fr}
@@ -388,7 +390,7 @@ wdesr_node_geom <- function(node_type = "text") {
 #'   node_label = "alias", node_type = "text",
 #'   edge_label = FALSE)
 #' @references
-#' - \url{https://github.com/juliengossa/DataESR/tree/master/etablissements.esr/wikidataESR}
+#' - \url{https://github.com/cpesr/wikidataESR}
 #' - \url{https://www.wikidata.org}
 #' @seealso \code{\link{wdesr_clear_cache}}
 #' @author Julien Gossa, \email{gossa@unistra.fr}
@@ -402,7 +404,7 @@ wdesr_ggplot_graph <- function( df.g,
                                 node_type = "text",
                                 edge_label = TRUE,
                                 arrow_gap = 0.05,
-                                size_guide = FALSE,
+                                size_guide = "none",
                                 legend_position = "right",
                                 margin_x = 0.2,
                                 margin_y = 0.03) {
@@ -411,22 +413,24 @@ wdesr_ggplot_graph <- function( df.g,
     stop("Empty ESR graph: something went wrong with the graph production parameters")
   }
 
-  statuts <- unique(df.g$vertices$statut)
-  statuts <- statuts[! statuts %in% wdesr.statuts$libellé]
-  statuts <- c(wdesr.statuts$libellé, statuts)
+  statuts <- unique(c(wdesr.statuts$libellé,df.g$vertices$statut))
   statuts_colors <- setNames(
-    colorRampPalette(brewer.pal(n=9, name="Accent"))(length(statuts)),
-    statuts)
+    colorRampPalette(RColorBrewer::brewer.pal(n=8, name="Accent"))(length(statuts)),
+    statuts) 
+  statuts_colors <- statuts_colors[unique(df.g$vertices$statut)]
+  
+  # statuts <- statuts[! statuts %in% wdesr.statuts$libellé]
+  # statuts <- c(wdesr.statuts$libellé, statuts)
 
   #df.g$edges$weight <- scales::rescale(as.numeric(df.g$edges$depth),c(1,2))
   geom_node_fun <- wdesr_node_geom(node_type)
 
-  net <<- network::network(df.g$edges,
+  net <- network::network(df.g$edges,
                            vertex.attr=df.g$vertices,
                            matrix.type="edgelist", ignore.eval=FALSE,
                            directed = TRUE)
 
-  ggnet <<- ggnetwork(net,
+  ggnet <- ggnetwork(net,
                       layout = layout,
                       weights = "weight",
                       radii  = scales::rescale(-as.numeric(df.g$vertices$niveau)),
@@ -459,8 +463,8 @@ wdesr_ggplot_graph <- function( df.g,
                              values=scales::rescale(-as.numeric(wdesr.niveaux$niveau),node_sizes),
                              labels=wdesr.niveaux$libellé,
                              name="niveau",
-                             drop=FALSE,
-                             guide=ifelse(size_guide,"legend",FALSE))
+                             drop=TRUE,
+                             guide=size_guide)
   g <- g + xlim(-margin_x,1+margin_x) + ylim(-margin_y,1+margin_y)
   g <- g + theme_blank() + theme(legend.position=legend_position)
 
@@ -507,7 +511,7 @@ wdesr_ggplot_graph <- function( df.g,
 #'   node_label = "alias", node_type = "text",
 #'   edge_label = FALSE)
 #' @references
-#' - \url{https://github.com/juliengossa/DataESR/tree/master/etablissements.esr/wikidataESR}
+#' - \url{https://github.com/cpesr/wikidataESR}
 #' - \url{https://www.wikidata.org}
 #' @seealso \code{\link{wdesr_clear_cache}}
 #' @author Julien Gossa, \email{gossa@unistra.fr}
@@ -519,7 +523,7 @@ wdesr_load_and_plot <- function( wdid,
                                  plot_type      = 'ggplot',
                                  ...) {
 
-  df.g <<- wdesr_get_graph(wdid,props,depth,active_only)
+  df.g <- wdesr_get_graph(wdid,props,depth,active_only)
 
   if(plot_type == 'plotly') {
     wdesr_ggplotly_graph(df.g)

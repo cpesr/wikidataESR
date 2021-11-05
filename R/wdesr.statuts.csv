@@ -63,4 +63,5 @@
 "Q28863779";"centre de recherche";"non";5;"";""
 "Q7075";"bibliothèque";"non";5;"";"préférer BU/biliothèque universitaire (Q856234)"
 "Q1622062";"college library";"non";5;"";"Préférer bibliothèque universitaire (Q856234)"
+"Q22806";"bibliothèque nationale";"oui";5;"";""
 "NOID";"statut manquant";"non";6;"";"Absence de propriété P31 (instance_of/nature de l'élément)"

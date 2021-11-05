@@ -1,9 +1,16 @@
 ---
 title: "Tenter d'y voir clair dans l'ESR : tutorial R/WikidataESR"
 author: "Julien Gossa"
-date: "29/07/2019"
+date: "`r format(Sys.time(), '%d/%b/%Y')`"
 output:  github_document
 ---
+
+# Guide de style pour les données wikidata
+
+```{r child = 'Rmd/guideline.Rmd'}
+```
+
+# Tutorial pour la librairie R 
 
 ```{r child = 'Rmd/tutorial.Rmd'}
 ```

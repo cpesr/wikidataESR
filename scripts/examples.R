@@ -10,13 +10,12 @@ library(dplyr)
 
 ## Examples
 wdesr_load_cache()
-df.alsace <- wdesr_get_graph("Q61716176",c('composante','associé'), 2)
+df.alsace <- wdesr_get_graph("Q61716176",c('composante','associé'), 1)
 wdesr_save_cache()
 wdesr_ggplot_graph(df.alsace,
                    node_size = c(10,30), label_sizes = c(3,5), arrow_gap = 0.0,
                    node_label = "alias", node_type = "text",
-                   edge_label = FALSE,
-                   size_guide = TRUE)
+                   edge_label = FALSE)
 
 ggsave(paste("test.png",sep=''), width = 13, height = 8, dpi=150)
 
