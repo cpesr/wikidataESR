@@ -1,0 +1,45 @@
+Warnings pour : URCA_@universitereims
+Edition wikidata : https://www.wikidata.org/wiki/Q2496149 
+
+The instance of wikidata item Q61716216 is not recommended: association.
+  Reason is: Statut pas assez précis.
+  Please check https://www.wikidata.org/wiki/Q61716216
+  using the guideline at https://github.com/cpesr 
+
+The instance of wikidata item Q2945947 is unknown by wikidataESR: bâtiment de cirque.
+  Default level (size of the node) is set to 4.
+  Please check the property P31 at https://www.wikidata.org/wiki/Q2945947
+  using the guideline at https://github.com/cpesr 
+
+The instance of wikidata item Q56185631 is unknown by wikidataESR: formation en alternance.
+  Default level (size of the node) is set to 4.
+  Please check the property P31 at https://www.wikidata.org/wiki/Q56185631
+  using the guideline at https://github.com/cpesr 
+
+The instance of wikidata item Q19203245 is not recommended: université.
+  Reason is: Statut pas assez précis.
+  Please check https://www.wikidata.org/wiki/Q19203245
+  using the guideline at https://github.com/cpesr 
+
+The instance of wikidata item Q3046044 is not recommended: Grande ecole.
+  Reason is: Réserver aux écoles non contemporaines.
+  Please check https://www.wikidata.org/wiki/Q3046044
+  using the guideline at https://github.com/cpesr 
+
+The instance of wikidata item Q273483 is not recommended: Grande ecole.
+  Reason is: Réserver aux écoles non contemporaines.
+  Please check https://www.wikidata.org/wiki/Q273483
+  using the guideline at https://github.com/cpesr 
+
+The instance of wikidata item Q30255548 is not recommended: institution éducative.
+  Reason is: Statut pas assez précis.
+  Please check https://www.wikidata.org/wiki/Q30255548
+  using the guideline at https://github.com/cpesr 
+
+The instance of wikidata item Q50068210 is not recommended: agence publique.
+  Reason is: Statut pas assez précis.
+  Please check https://www.wikidata.org/wiki/Q50068210
+  using the guideline at https://github.com/cpesr 
+
+'x' is NULL so the result will be NULL 
+

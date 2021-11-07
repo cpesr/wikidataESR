@@ -1,27 +1,34 @@
-id;alias
-Q61716197;Picardie Universités
-Q61716142;Site AMPM
-Q61716216;Site champenois
-Q61716212;Sorbonne Université
-Q61716190;UCA&a
-Q64590454;Université de Lorraine
-Q61716176;Site alsacien
-Q16541346;Communauté d'universités et établissements d'Aquitaine
-Q3128622;HESAM
-Q3359833;Comue de Bourgogne Franche Comté
-Q3551472;Université Paris-Est
-Q3491149;Sorbonne Paris Cité
-Q3247880;Université Paris-Seine
-Q3551474;université Paris Lumières
-Q1322289;Université de Lille
-Q3551589;Comue UGA
-Q19370961;Comue UCA
-Q10176;UDL
-Q2944885;COMUE Centre Val de Loire
-Q2476558;Languedoc Roussillon Universités
-Q21994834;UBL
-Q20735682;Université confédérale Léonard-de-Vinci
-Q13531686;UPSa
-Q1163431;PSL
-Q3343880;Normandie Université
-Q20669873;Comue de Toulouse
+"id";"alias"
+"Q16541346";"COMUE d'Aquitaine"
+"Q13344";"COMUE d'Aquitaine"
+"Q2944885";"COMUE Centre Val de Loire"
+"Q3359833";"Comue de Bourgogne Franche Comté"
+"Q20669873";"Comue de Toulouse"
+"Q19370961";"Comue UCA"
+"Q3551589";"Comue UGA"
+"Q3128622";"HESAM"
+"Q2476558";"Languedoc Roussillon Universités"
+"Q3343880";"Normandie Université"
+"Q61716197";"Picardie Universités"
+"Q1163431";"PSL"
+"Q61716176";"Site alsacien"
+"Q61716142";"Site AMPM"
+"Q61716216";"Site champenois"
+"Q3491149";"Sorbonne Paris Cité"
+"Q61716212";"Sorbonne Université"
+"Q21994834";"UBL"
+"Q61716190";"UCA"
+"Q10176";"UDL"
+"Q20735682";"Université confédérale Léonard-de-Vinci"
+"Q1322289";"Université de Lille"
+"Q64590454";"PRES Université de Lorraine"
+"Q61718100";"Association Université de Lorraine"
+"Q578023";"Université fédérale de Toulouse Midi-Pyrénées"
+"Q3551474";"université Paris Lumières"
+"Q3551472";"Université Paris-Est"
+"Q3248808";"PRES UniverSud Paris"
+"Q3247880";"Université Paris-Seine"
+"Q13531686";"COMUE Université Paris-Saclay"
+"Q850927";"Union des universités de la Méditerranée"
+"Q3491150";"Sorbonne Universités"
+"Q104621964";"COMUE Angers-Le Mans"

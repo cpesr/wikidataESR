@@ -1,0 +1,13 @@
+Warnings pour : Site_alsacien
+Edition wikidata : https://www.wikidata.org/wiki/Q61716176 
+
+The instance of wikidata item Q101421949 is unknown by wikidataESR: bibliothèque régionale.
+  Default level (size of the node) is set to 4.
+  Please check the property P31 at https://www.wikidata.org/wiki/Q101421949
+  using the guideline at https://github.com/cpesr 
+
+The instance of wikidata item Q66372605 is unknown by wikidataESR: couvent.
+  Default level (size of the node) is set to 4.
+  Please check the property P31 at https://www.wikidata.org/wiki/Q66372605
+  using the guideline at https://github.com/cpesr 
+

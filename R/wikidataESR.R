@@ -235,7 +235,16 @@ wdesr_get_graph <- function(wdid, props, depth = 3, active_only = FALSE, stop_at
   #wgge$vertices$niveau <- factor(wgge$vertices$niveau, levels = wdesr.niveaux$niveau)
 
   wgge$edges <- wgge$edges %>% mutate(across(where(is.factor), as.character))
-  wgge$vertices <- wgge$vertices %>% mutate(across(where(is.factor), as.character))
+  suppressMessages(
+    dupes <- wgge$edges %>% janitor::get_dupes(from,to)
+    )
+  if (nrow(dupes) > 0) {
+    warning("Duplicated relations detected:\n", 
+            paste0(capture.output(as.data.frame(dupes)), collapse = "\n"))
+    wgge$edges <- wgge$edges %>% group_by(from,to) %>% slice_head()
+  }
+  
+  wgge$vertices <- wgge$vertices %>% unique() %>% mutate(across(where(is.factor), as.character))
   res <- list('edges'=wgge$edges, 'vertices'=wgge$vertices)
   
   return(res)
@@ -366,7 +375,6 @@ wdesr_node_geom <- function(node_type = "text") {
 #' A wrapper for ggplot2 to plot graph as returned by \code{\link{wdesr_get_graph}}.
 #'
 #' @param df.g A dataframe representing a graph, as returned by wdesr_get_graph.
-#' @param layout The layout to use to plot the graph as in \code{\link[sna]{gplot.layout}}.
 #' @param active_only TRUE to filter the dissolved nodes (default to FALSE).
 #' @param node_sizes The size of the nodes, either a single value or a range c(min,max).
 #' @param label_sizes The size of the nodes, either a single value or a range c(min,max).
@@ -426,7 +434,7 @@ wdesr_ggplot_graph <- function( df.g,
   geom_node_fun <- wdesr_node_geom(node_type)
 
   net <- network::network(df.g$edges,
-                           vertex.attr=df.g$vertices,
+                           vertices=df.g$vertices,
                            matrix.type="edgelist", ignore.eval=FALSE,
                            directed = TRUE)
 
@@ -523,7 +531,7 @@ wdesr_load_and_plot <- function( wdid,
                                  plot_type      = 'ggplot',
                                  ...) {
 
-  df.g <- wdesr_get_graph(wdid,props,depth,active_only)
+  df.g <<- wdesr_get_graph(wdid,props,depth,active_only)
 
   if(plot_type == 'plotly') {
     wdesr_ggplotly_graph(df.g)

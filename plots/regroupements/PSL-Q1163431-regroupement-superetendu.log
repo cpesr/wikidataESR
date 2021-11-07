@@ -1,0 +1,18 @@
+Warnings pour : PSL
+Edition wikidata : https://www.wikidata.org/wiki/Q1163431 
+
+The instance of wikidata item Q2946095 is not set.
+  Default level (size of the node) is set to 7.
+  Please check the property P31 at https://www.wikidata.org/wiki/Q2946095
+  using the guideline at https://github.com/cpesr 
+
+The instance of wikidata item Q2946095 is not recommended: statut manquant.
+  Reason is: Absence de propriété P31 (instance_of/nature de l'élément).
+  Please check https://www.wikidata.org/wiki/Q2946095
+  using the guideline at https://github.com/cpesr 
+
+The instance of wikidata item Q20774688 is not recommended: école.
+  Reason is: Statut pas assez précis.
+  Please check https://www.wikidata.org/wiki/Q20774688
+  using the guideline at https://github.com/cpesr 
+

@@ -1,0 +1,13 @@
+Warnings pour : Université_de_Bretagne_Occidentale_@UBO_UnivBrest
+Edition wikidata : https://www.wikidata.org/wiki/Q1857334 
+
+The instance of wikidata item Q3152003 is unknown by wikidataESR: école d'urbanisme.
+  Default level (size of the node) is set to 4.
+  Please check the property P31 at https://www.wikidata.org/wiki/Q3152003
+  using the guideline at https://github.com/cpesr 
+
+The instance of wikidata item Q3151888 is not recommended: institut universitaire.
+  Reason is: Statut pas assez précis.
+  Please check https://www.wikidata.org/wiki/Q3151888
+  using the guideline at https://github.com/cpesr 
+

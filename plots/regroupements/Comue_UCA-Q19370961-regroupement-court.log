@@ -1,0 +1,37 @@
+Warnings pour : Comue_UCA
+Edition wikidata : https://www.wikidata.org/wiki/Q19370961 
+
+The instance of wikidata item Q2945768 is unknown by wikidataESR: CHR.
+  Default level (size of the node) is set to 4.
+  Please check the property P31 at https://www.wikidata.org/wiki/Q2945768
+  using the guideline at https://github.com/cpesr 
+
+The instance of wikidata item Q54862344 is unknown by wikidataESR: Centre national de création musicale.
+  Default level (size of the node) is set to 4.
+  Please check the property P31 at https://www.wikidata.org/wiki/Q54862344
+  using the guideline at https://github.com/cpesr 
+
+The instance of wikidata item Q3578444 is unknown by wikidataESR: école de danse.
+  Default level (size of the node) is set to 4.
+  Please check the property P31 at https://www.wikidata.org/wiki/Q3578444
+  using the guideline at https://github.com/cpesr 
+
+The instance of wikidata item Q3578463 is not recommended: école.
+  Reason is: Statut pas assez précis.
+  Please check https://www.wikidata.org/wiki/Q3578463
+  using the guideline at https://github.com/cpesr 
+
+The instance of wikidata item Q59576162 is not recommended: institut d'enseignement supérieur.
+  Reason is: Statut pas assez précis.
+  Please check https://www.wikidata.org/wiki/Q59576162
+  using the guideline at https://github.com/cpesr 
+
+Duplicated relations detected:
+       from        to dupe_count       type date depth
+1 Q19370961  Q1107189          2 composante   NA     1
+2 Q19370961  Q1107189          2 composante   NA     1
+3 Q19370961  Q2991466          2 composante   NA     1
+4 Q19370961  Q2991466          2 composante   NA     1
+5 Q19370961 Q54862344          2 composante   NA     1
+6 Q19370961 Q54862344          2 composante   NA     1 
+

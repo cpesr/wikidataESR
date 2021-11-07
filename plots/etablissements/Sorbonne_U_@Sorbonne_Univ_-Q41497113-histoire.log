@@ -1,0 +1,23 @@
+Warnings pour : Sorbonne_U_@Sorbonne_Univ_
+Edition wikidata : https://www.wikidata.org/wiki/Q41497113 
+
+The instance of wikidata item Q3064277 is unknown by wikidataESR: école de médecine.
+  Default level (size of the node) is set to 4.
+  Please check the property P31 at https://www.wikidata.org/wiki/Q3064277
+  using the guideline at https://github.com/cpesr 
+
+The instance of wikidata item Q104777601 is not set.
+  Default level (size of the node) is set to 7.
+  Please check the property P31 at https://www.wikidata.org/wiki/Q104777601
+  using the guideline at https://github.com/cpesr 
+
+The instance of wikidata item Q104777601 is not recommended: statut manquant.
+  Reason is: Absence de propriété P31 (instance_of/nature de l'élément).
+  Please check https://www.wikidata.org/wiki/Q104777601
+  using the guideline at https://github.com/cpesr 
+
+The instance of wikidata item Q104777594 is unknown by wikidataESR: système universitaire.
+  Default level (size of the node) is set to 4.
+  Please check the property P31 at https://www.wikidata.org/wiki/Q104777594
+  using the guideline at https://github.com/cpesr 
+
