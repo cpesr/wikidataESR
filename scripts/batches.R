@@ -48,19 +48,21 @@ plot_batch <- function(racine, alias, suffix,
                        node_size = c(10,30), label_sizes = c(3,5), arrow_gap = 0.0,
                        node_label = "alias", node_type = "text",
                        edge_label = FALSE,
+                       active_only = FALSE,
                        ggs.width = 10.66, ggs.heigth = 6, ggs.dpi = 200,
                        double_thres = 50
                        ) {
 
   print(paste("Racine :",racine,alias,"(",suffix,")"))
-  print_to_md(paste0("### ", stringr::str_to_title(suffix)," ",alias," https://www.wikidata.org/wiki/",racine))
-  alias <- stringr::str_replace_all(alias," ","_")
-  basefile = paste0(ggs.path,"/",alias,'-',racine,"-",suffix)
+  basefile = paste0(ggs.path,"/",stringr::str_replace_all(alias," ","_"),'-',racine,"-",suffix)
+  
+  print_to_md(paste0("### ", stringr::str_to_title(suffix)," : ",alias,
+                     " https://github.com/cpesr/wikidataESR/blob/master/plots/",basefile,".md"))
   
   try( {
     save_all_warnings(
       df <- wdesr_get_graph(racine, relations, depth=depth), 
-      paste0("../plots/",basefile,".log"),
+      paste0("../plots/",basefile,".md"),
       paste0("Warnings pour : ",alias,"\nEdition wikidata : https://www.wikidata.org/wiki/",racine ))
     
     mult <- ifelse(nrow(df$vertices)<double_thres, 1, 2)
@@ -68,7 +70,8 @@ plot_batch <- function(racine, alias, suffix,
     wdesr_ggplot_graph(df,
                        node_size = node_size/mult, label_sizes = label_sizes/mult, arrow_gap = arrow_gap/mult,
                        node_label = node_label, node_type = node_type,
-                       edge_label = edge_label)
+                       edge_label = edge_label,
+                       active_only = active_only)
     
     ggsave(paste0("../plots/",basefile,".png"), 
            width = ggs.width, height = ggs.heigth, dpi = ggs.dpi)  
@@ -76,7 +79,7 @@ plot_batch <- function(racine, alias, suffix,
     print_to_md(paste0("![](plots/",basefile,".png)"))
   } )
   
-  print_to_md(paste0("[Avertissements et édition](plots/",basefile,".log)"))
+  print_to_md(paste0("[Avertissements et édition](plots/",basefile,".md"))
   
 }
 
@@ -119,15 +122,19 @@ for(i in 1:nrow(etab)) {
     
     plot_batch(wdid,alias, "histoire",
                "etablissements",
-               c('séparé_de', 'prédécesseur'), depth=10)
+               c('séparé_de', 'prédécesseur'), depth=10,
+               node_label = "alias_date",
+               edge_label = TRUE)
     
     plot_batch(wdid,alias, "composition",
                "etablissements",
-               c('composante'), depth=10)
+               c('composante'), depth=10,
+               active_only = TRUE)
   
     plot_batch(wdid,alias, "associations",
                "etablissements",
-               c('composante_de','associé','associé_de'), depth=5)
+               c('composante_de','associé','associé_de'), depth=5,
+               active_only = TRUE)
     
   }
 }
@@ -160,7 +167,9 @@ for(i in 1:nrow(anciennes_univ))
   plot_batch(anciennes_univ[i,1],anciennes_univ[i,2], "histoire",
              "histoire",
              c('successeur', 'séparé_de', 'composante_de', 'associé_de'), depth=10,
-             double_thres = 20)
+             double_thres = 20,
+             node_label = "alias_date",
+             edge_label = TRUE)
 
 
 

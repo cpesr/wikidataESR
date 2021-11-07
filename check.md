@@ -10,2223 +10,2033 @@ https://github.com/cpesr/WikidataESR
 
 ## Histoire, composition et association des Université actuels 
 
-### Histoire Paris 1 @SorbonneParis1 https://www.wikidata.org/wiki/Q999763 
+### Histoire : Paris 1 @SorbonneParis1 https://github.com/cpesr/wikidataESR/blob/master/plots/etablissements/Paris_1_@SorbonneParis1-Q999763-histoire.md 
 
 ![](plots/etablissements/Paris_1_@SorbonneParis1-Q999763-histoire.png) 
 
-[Avertissements et édition](plots/etablissements/Paris_1_@SorbonneParis1-Q999763-histoire.log) 
+[Avertissements et édition](plots/etablissements/Paris_1_@SorbonneParis1-Q999763-histoire.md 
 
-### Composition Paris 1 @SorbonneParis1 https://www.wikidata.org/wiki/Q999763 
+### Composition : Paris 1 @SorbonneParis1 https://github.com/cpesr/wikidataESR/blob/master/plots/etablissements/Paris_1_@SorbonneParis1-Q999763-composition.md 
 
 ![](plots/etablissements/Paris_1_@SorbonneParis1-Q999763-composition.png) 
 
-[Avertissements et édition](plots/etablissements/Paris_1_@SorbonneParis1-Q999763-composition.log) 
+[Avertissements et édition](plots/etablissements/Paris_1_@SorbonneParis1-Q999763-composition.md 
 
-### Associations Paris 1 @SorbonneParis1 https://www.wikidata.org/wiki/Q999763 
+### Associations : Paris 1 @SorbonneParis1 https://github.com/cpesr/wikidataESR/blob/master/plots/etablissements/Paris_1_@SorbonneParis1-Q999763-associations.md 
 
 ![](plots/etablissements/Paris_1_@SorbonneParis1-Q999763-associations.png) 
 
-[Avertissements et édition](plots/etablissements/Paris_1_@SorbonneParis1-Q999763-associations.log) 
+[Avertissements et édition](plots/etablissements/Paris_1_@SorbonneParis1-Q999763-associations.md 
 
-### Histoire Sorbonne U @Sorbonne_Univ_ https://www.wikidata.org/wiki/Q41497113 
+### Histoire : Sorbonne U @Sorbonne_Univ_ https://github.com/cpesr/wikidataESR/blob/master/plots/etablissements/Sorbonne_U_@Sorbonne_Univ_-Q41497113-histoire.md 
 
 ![](plots/etablissements/Sorbonne_U_@Sorbonne_Univ_-Q41497113-histoire.png) 
 
-[Avertissements et édition](plots/etablissements/Sorbonne_U_@Sorbonne_Univ_-Q41497113-histoire.log) 
+[Avertissements et édition](plots/etablissements/Sorbonne_U_@Sorbonne_Univ_-Q41497113-histoire.md 
 
-### Composition Sorbonne U @Sorbonne_Univ_ https://www.wikidata.org/wiki/Q41497113 
+### Composition : Sorbonne U @Sorbonne_Univ_ https://github.com/cpesr/wikidataESR/blob/master/plots/etablissements/Sorbonne_U_@Sorbonne_Univ_-Q41497113-composition.md 
 
 ![](plots/etablissements/Sorbonne_U_@Sorbonne_Univ_-Q41497113-composition.png) 
 
-[Avertissements et édition](plots/etablissements/Sorbonne_U_@Sorbonne_Univ_-Q41497113-composition.log) 
+[Avertissements et édition](plots/etablissements/Sorbonne_U_@Sorbonne_Univ_-Q41497113-composition.md 
 
-### Associations Sorbonne U @Sorbonne_Univ_ https://www.wikidata.org/wiki/Q41497113 
+### Associations : Sorbonne U @Sorbonne_Univ_ https://github.com/cpesr/wikidataESR/blob/master/plots/etablissements/Sorbonne_U_@Sorbonne_Univ_-Q41497113-associations.md 
 
 ![](plots/etablissements/Sorbonne_U_@Sorbonne_Univ_-Q41497113-associations.png) 
 
-[Avertissements et édition](plots/etablissements/Sorbonne_U_@Sorbonne_Univ_-Q41497113-associations.log) 
+[Avertissements et édition](plots/etablissements/Sorbonne_U_@Sorbonne_Univ_-Q41497113-associations.md 
 
-### Histoire UBx @univbordeaux https://www.wikidata.org/wiki/Q13344 
+### Histoire : UBx @univbordeaux https://github.com/cpesr/wikidataESR/blob/master/plots/etablissements/UBx_@univbordeaux-Q13344-histoire.md 
 
 ![](plots/etablissements/UBx_@univbordeaux-Q13344-histoire.png) 
 
-[Avertissements et édition](plots/etablissements/UBx_@univbordeaux-Q13344-histoire.log) 
+[Avertissements et édition](plots/etablissements/UBx_@univbordeaux-Q13344-histoire.md 
 
-### Composition UBx @univbordeaux https://www.wikidata.org/wiki/Q13344 
+### Composition : UBx @univbordeaux https://github.com/cpesr/wikidataESR/blob/master/plots/etablissements/UBx_@univbordeaux-Q13344-composition.md 
 
 ![](plots/etablissements/UBx_@univbordeaux-Q13344-composition.png) 
 
-[Avertissements et édition](plots/etablissements/UBx_@univbordeaux-Q13344-composition.log) 
+[Avertissements et édition](plots/etablissements/UBx_@univbordeaux-Q13344-composition.md 
 
-### Associations UBx @univbordeaux https://www.wikidata.org/wiki/Q13344 
+### Associations : UBx @univbordeaux https://github.com/cpesr/wikidataESR/blob/master/plots/etablissements/UBx_@univbordeaux-Q13344-associations.md 
 
-![](plots/etablissements/UBx_@univbordeaux-Q13344-associations.png) 
+[Avertissements et édition](plots/etablissements/UBx_@univbordeaux-Q13344-associations.md 
 
-[Avertissements et édition](plots/etablissements/UBx_@univbordeaux-Q13344-associations.log) 
-
-### Histoire Université Gustave Eiffel @UGustaveEiffel https://www.wikidata.org/wiki/Q65153823 
+### Histoire : Université Gustave Eiffel @UGustaveEiffel https://github.com/cpesr/wikidataESR/blob/master/plots/etablissements/Université_Gustave_Eiffel_@UGustaveEiffel-Q65153823-histoire.md 
 
 ![](plots/etablissements/Université_Gustave_Eiffel_@UGustaveEiffel-Q65153823-histoire.png) 
 
-[Avertissements et édition](plots/etablissements/Université_Gustave_Eiffel_@UGustaveEiffel-Q65153823-histoire.log) 
+[Avertissements et édition](plots/etablissements/Université_Gustave_Eiffel_@UGustaveEiffel-Q65153823-histoire.md 
 
-### Composition Université Gustave Eiffel @UGustaveEiffel https://www.wikidata.org/wiki/Q65153823 
+### Composition : Université Gustave Eiffel @UGustaveEiffel https://github.com/cpesr/wikidataESR/blob/master/plots/etablissements/Université_Gustave_Eiffel_@UGustaveEiffel-Q65153823-composition.md 
 
-![](plots/etablissements/Université_Gustave_Eiffel_@UGustaveEiffel-Q65153823-composition.png) 
+[Avertissements et édition](plots/etablissements/Université_Gustave_Eiffel_@UGustaveEiffel-Q65153823-composition.md 
 
-[Avertissements et édition](plots/etablissements/Université_Gustave_Eiffel_@UGustaveEiffel-Q65153823-composition.log) 
+### Associations : Université Gustave Eiffel @UGustaveEiffel https://github.com/cpesr/wikidataESR/blob/master/plots/etablissements/Université_Gustave_Eiffel_@UGustaveEiffel-Q65153823-associations.md 
 
-### Associations Université Gustave Eiffel @UGustaveEiffel https://www.wikidata.org/wiki/Q65153823 
+[Avertissements et édition](plots/etablissements/Université_Gustave_Eiffel_@UGustaveEiffel-Q65153823-associations.md 
 
-![](plots/etablissements/Université_Gustave_Eiffel_@UGustaveEiffel-Q65153823-associations.png) 
+### Histoire : Université de Poitiers @UnivPoitiers https://github.com/cpesr/wikidataESR/blob/master/plots/etablissements/Université_de_Poitiers_@UnivPoitiers-Q661056-histoire.md 
 
-[Avertissements et édition](plots/etablissements/Université_Gustave_Eiffel_@UGustaveEiffel-Q65153823-associations.log) 
+[Avertissements et édition](plots/etablissements/Université_de_Poitiers_@UnivPoitiers-Q661056-histoire.md 
 
-### Histoire Université de Poitiers @UnivPoitiers https://www.wikidata.org/wiki/Q661056 
-
-![](plots/etablissements/Université_de_Poitiers_@UnivPoitiers-Q661056-histoire.png) 
-
-[Avertissements et édition](plots/etablissements/Université_de_Poitiers_@UnivPoitiers-Q661056-histoire.log) 
-
-### Composition Université de Poitiers @UnivPoitiers https://www.wikidata.org/wiki/Q661056 
+### Composition : Université de Poitiers @UnivPoitiers https://github.com/cpesr/wikidataESR/blob/master/plots/etablissements/Université_de_Poitiers_@UnivPoitiers-Q661056-composition.md 
 
 ![](plots/etablissements/Université_de_Poitiers_@UnivPoitiers-Q661056-composition.png) 
 
-[Avertissements et édition](plots/etablissements/Université_de_Poitiers_@UnivPoitiers-Q661056-composition.log) 
+[Avertissements et édition](plots/etablissements/Université_de_Poitiers_@UnivPoitiers-Q661056-composition.md 
 
-### Associations Université de Poitiers @UnivPoitiers https://www.wikidata.org/wiki/Q661056 
+### Associations : Université de Poitiers @UnivPoitiers https://github.com/cpesr/wikidataESR/blob/master/plots/etablissements/Université_de_Poitiers_@UnivPoitiers-Q661056-associations.md 
 
 ![](plots/etablissements/Université_de_Poitiers_@UnivPoitiers-Q661056-associations.png) 
 
-[Avertissements et édition](plots/etablissements/Université_de_Poitiers_@UnivPoitiers-Q661056-associations.log) 
+[Avertissements et édition](plots/etablissements/Université_de_Poitiers_@UnivPoitiers-Q661056-associations.md 
 
-### Histoire Université d'Artois @Univ_Artois https://www.wikidata.org/wiki/Q475504 
+### Histoire : Université d'Artois @Univ_Artois https://github.com/cpesr/wikidataESR/blob/master/plots/etablissements/Université_d'Artois_@Univ_Artois-Q475504-histoire.md 
 
-![](plots/etablissements/Université_d'Artois_@Univ_Artois-Q475504-histoire.png) 
+[Avertissements et édition](plots/etablissements/Université_d'Artois_@Univ_Artois-Q475504-histoire.md 
 
-[Avertissements et édition](plots/etablissements/Université_d'Artois_@Univ_Artois-Q475504-histoire.log) 
-
-### Composition Université d'Artois @Univ_Artois https://www.wikidata.org/wiki/Q475504 
+### Composition : Université d'Artois @Univ_Artois https://github.com/cpesr/wikidataESR/blob/master/plots/etablissements/Université_d'Artois_@Univ_Artois-Q475504-composition.md 
 
 ![](plots/etablissements/Université_d'Artois_@Univ_Artois-Q475504-composition.png) 
 
-[Avertissements et édition](plots/etablissements/Université_d'Artois_@Univ_Artois-Q475504-composition.log) 
+[Avertissements et édition](plots/etablissements/Université_d'Artois_@Univ_Artois-Q475504-composition.md 
 
-### Associations Université d'Artois @Univ_Artois https://www.wikidata.org/wiki/Q475504 
+### Associations : Université d'Artois @Univ_Artois https://github.com/cpesr/wikidataESR/blob/master/plots/etablissements/Université_d'Artois_@Univ_Artois-Q475504-associations.md 
 
 ![](plots/etablissements/Université_d'Artois_@Univ_Artois-Q475504-associations.png) 
 
-[Avertissements et édition](plots/etablissements/Université_d'Artois_@Univ_Artois-Q475504-associations.log) 
+[Avertissements et édition](plots/etablissements/Université_d'Artois_@Univ_Artois-Q475504-associations.md 
 
-### Histoire Université Paris 8 - Vincennes - Saint-Denis @UnivParis8 https://www.wikidata.org/wiki/Q1194988 
+### Histoire : Université Paris 8 - Vincennes - Saint-Denis @UnivParis8 https://github.com/cpesr/wikidataESR/blob/master/plots/etablissements/Université_Paris_8_-_Vincennes_-_Saint-Denis_@UnivParis8-Q1194988-histoire.md 
 
 ![](plots/etablissements/Université_Paris_8_-_Vincennes_-_Saint-Denis_@UnivParis8-Q1194988-histoire.png) 
 
-[Avertissements et édition](plots/etablissements/Université_Paris_8_-_Vincennes_-_Saint-Denis_@UnivParis8-Q1194988-histoire.log) 
+[Avertissements et édition](plots/etablissements/Université_Paris_8_-_Vincennes_-_Saint-Denis_@UnivParis8-Q1194988-histoire.md 
 
-### Composition Université Paris 8 - Vincennes - Saint-Denis @UnivParis8 https://www.wikidata.org/wiki/Q1194988 
+### Composition : Université Paris 8 - Vincennes - Saint-Denis @UnivParis8 https://github.com/cpesr/wikidataESR/blob/master/plots/etablissements/Université_Paris_8_-_Vincennes_-_Saint-Denis_@UnivParis8-Q1194988-composition.md 
 
 ![](plots/etablissements/Université_Paris_8_-_Vincennes_-_Saint-Denis_@UnivParis8-Q1194988-composition.png) 
 
-[Avertissements et édition](plots/etablissements/Université_Paris_8_-_Vincennes_-_Saint-Denis_@UnivParis8-Q1194988-composition.log) 
+[Avertissements et édition](plots/etablissements/Université_Paris_8_-_Vincennes_-_Saint-Denis_@UnivParis8-Q1194988-composition.md 
 
-### Associations Université Paris 8 - Vincennes - Saint-Denis @UnivParis8 https://www.wikidata.org/wiki/Q1194988 
+### Associations : Université Paris 8 - Vincennes - Saint-Denis @UnivParis8 https://github.com/cpesr/wikidataESR/blob/master/plots/etablissements/Université_Paris_8_-_Vincennes_-_Saint-Denis_@UnivParis8-Q1194988-associations.md 
 
 ![](plots/etablissements/Université_Paris_8_-_Vincennes_-_Saint-Denis_@UnivParis8-Q1194988-associations.png) 
 
-[Avertissements et édition](plots/etablissements/Université_Paris_8_-_Vincennes_-_Saint-Denis_@UnivParis8-Q1194988-associations.log) 
+[Avertissements et édition](plots/etablissements/Université_Paris_8_-_Vincennes_-_Saint-Denis_@UnivParis8-Q1194988-associations.md 
 
-### Histoire La Rochelle Université @UnivLaRochelle https://www.wikidata.org/wiki/Q1500822 
+### Histoire : La Rochelle Université @UnivLaRochelle https://github.com/cpesr/wikidataESR/blob/master/plots/etablissements/La_Rochelle_Université_@UnivLaRochelle-Q1500822-histoire.md 
 
 ![](plots/etablissements/La_Rochelle_Université_@UnivLaRochelle-Q1500822-histoire.png) 
 
-[Avertissements et édition](plots/etablissements/La_Rochelle_Université_@UnivLaRochelle-Q1500822-histoire.log) 
+[Avertissements et édition](plots/etablissements/La_Rochelle_Université_@UnivLaRochelle-Q1500822-histoire.md 
 
-### Composition La Rochelle Université @UnivLaRochelle https://www.wikidata.org/wiki/Q1500822 
+### Composition : La Rochelle Université @UnivLaRochelle https://github.com/cpesr/wikidataESR/blob/master/plots/etablissements/La_Rochelle_Université_@UnivLaRochelle-Q1500822-composition.md 
 
 ![](plots/etablissements/La_Rochelle_Université_@UnivLaRochelle-Q1500822-composition.png) 
 
-[Avertissements et édition](plots/etablissements/La_Rochelle_Université_@UnivLaRochelle-Q1500822-composition.log) 
+[Avertissements et édition](plots/etablissements/La_Rochelle_Université_@UnivLaRochelle-Q1500822-composition.md 
 
-### Associations La Rochelle Université @UnivLaRochelle https://www.wikidata.org/wiki/Q1500822 
+### Associations : La Rochelle Université @UnivLaRochelle https://github.com/cpesr/wikidataESR/blob/master/plots/etablissements/La_Rochelle_Université_@UnivLaRochelle-Q1500822-associations.md 
 
 ![](plots/etablissements/La_Rochelle_Université_@UnivLaRochelle-Q1500822-associations.png) 
 
-[Avertissements et édition](plots/etablissements/La_Rochelle_Université_@UnivLaRochelle-Q1500822-associations.log) 
+[Avertissements et édition](plots/etablissements/La_Rochelle_Université_@UnivLaRochelle-Q1500822-associations.md 
 
-### Histoire Université Côte d'Azur @Univ_CotedAzur https://www.wikidata.org/wiki/Q80186910 
+### Histoire : Université Côte d'Azur @Univ_CotedAzur https://github.com/cpesr/wikidataESR/blob/master/plots/etablissements/Université_Côte_d'Azur_@Univ_CotedAzur-Q80186910-histoire.md 
 
-![](plots/etablissements/Université_Côte_d'Azur_@Univ_CotedAzur-Q80186910-histoire.png) 
+[Avertissements et édition](plots/etablissements/Université_Côte_d'Azur_@Univ_CotedAzur-Q80186910-histoire.md 
 
-[Avertissements et édition](plots/etablissements/Université_Côte_d'Azur_@Univ_CotedAzur-Q80186910-histoire.log) 
+### Composition : Université Côte d'Azur @Univ_CotedAzur https://github.com/cpesr/wikidataESR/blob/master/plots/etablissements/Université_Côte_d'Azur_@Univ_CotedAzur-Q80186910-composition.md 
 
-### Composition Université Côte d'Azur @Univ_CotedAzur https://www.wikidata.org/wiki/Q80186910 
+[Avertissements et édition](plots/etablissements/Université_Côte_d'Azur_@Univ_CotedAzur-Q80186910-composition.md 
 
-![](plots/etablissements/Université_Côte_d'Azur_@Univ_CotedAzur-Q80186910-composition.png) 
+### Associations : Université Côte d'Azur @Univ_CotedAzur https://github.com/cpesr/wikidataESR/blob/master/plots/etablissements/Université_Côte_d'Azur_@Univ_CotedAzur-Q80186910-associations.md 
 
-[Avertissements et édition](plots/etablissements/Université_Côte_d'Azur_@Univ_CotedAzur-Q80186910-composition.log) 
+[Avertissements et édition](plots/etablissements/Université_Côte_d'Azur_@Univ_CotedAzur-Q80186910-associations.md 
 
-### Associations Université Côte d'Azur @Univ_CotedAzur https://www.wikidata.org/wiki/Q80186910 
+### Histoire : Université Le Havre Normandie  https://github.com/cpesr/wikidataESR/blob/master/plots/etablissements/Université_Le_Havre_Normandie_-Q1784954-histoire.md 
 
-![](plots/etablissements/Université_Côte_d'Azur_@Univ_CotedAzur-Q80186910-associations.png) 
+[Avertissements et édition](plots/etablissements/Université_Le_Havre_Normandie_-Q1784954-histoire.md 
 
-[Avertissements et édition](plots/etablissements/Université_Côte_d'Azur_@Univ_CotedAzur-Q80186910-associations.log) 
-
-### Histoire Université Le Havre Normandie  https://www.wikidata.org/wiki/Q1784954 
-
-![](plots/etablissements/Université_Le_Havre_Normandie_-Q1784954-histoire.png) 
-
-[Avertissements et édition](plots/etablissements/Université_Le_Havre_Normandie_-Q1784954-histoire.log) 
-
-### Composition Université Le Havre Normandie  https://www.wikidata.org/wiki/Q1784954 
+### Composition : Université Le Havre Normandie  https://github.com/cpesr/wikidataESR/blob/master/plots/etablissements/Université_Le_Havre_Normandie_-Q1784954-composition.md 
 
 ![](plots/etablissements/Université_Le_Havre_Normandie_-Q1784954-composition.png) 
 
-[Avertissements et édition](plots/etablissements/Université_Le_Havre_Normandie_-Q1784954-composition.log) 
+[Avertissements et édition](plots/etablissements/Université_Le_Havre_Normandie_-Q1784954-composition.md 
 
-### Associations Université Le Havre Normandie  https://www.wikidata.org/wiki/Q1784954 
+### Associations : Université Le Havre Normandie  https://github.com/cpesr/wikidataESR/blob/master/plots/etablissements/Université_Le_Havre_Normandie_-Q1784954-associations.md 
 
 ![](plots/etablissements/Université_Le_Havre_Normandie_-Q1784954-associations.png) 
 
-[Avertissements et édition](plots/etablissements/Université_Le_Havre_Normandie_-Q1784954-associations.log) 
+[Avertissements et édition](plots/etablissements/Université_Le_Havre_Normandie_-Q1784954-associations.md 
 
-### Histoire Université Jean Monnet @Univ_St_Etienne https://www.wikidata.org/wiki/Q623154 
+### Histoire : Université Jean Monnet @Univ_St_Etienne https://github.com/cpesr/wikidataESR/blob/master/plots/etablissements/Université_Jean_Monnet_@Univ_St_Etienne-Q623154-histoire.md 
 
-![](plots/etablissements/Université_Jean_Monnet_@Univ_St_Etienne-Q623154-histoire.png) 
+[Avertissements et édition](plots/etablissements/Université_Jean_Monnet_@Univ_St_Etienne-Q623154-histoire.md 
 
-[Avertissements et édition](plots/etablissements/Université_Jean_Monnet_@Univ_St_Etienne-Q623154-histoire.log) 
-
-### Composition Université Jean Monnet @Univ_St_Etienne https://www.wikidata.org/wiki/Q623154 
+### Composition : Université Jean Monnet @Univ_St_Etienne https://github.com/cpesr/wikidataESR/blob/master/plots/etablissements/Université_Jean_Monnet_@Univ_St_Etienne-Q623154-composition.md 
 
 ![](plots/etablissements/Université_Jean_Monnet_@Univ_St_Etienne-Q623154-composition.png) 
 
-[Avertissements et édition](plots/etablissements/Université_Jean_Monnet_@Univ_St_Etienne-Q623154-composition.log) 
+[Avertissements et édition](plots/etablissements/Université_Jean_Monnet_@Univ_St_Etienne-Q623154-composition.md 
 
-### Associations Université Jean Monnet @Univ_St_Etienne https://www.wikidata.org/wiki/Q623154 
+### Associations : Université Jean Monnet @Univ_St_Etienne https://github.com/cpesr/wikidataESR/blob/master/plots/etablissements/Université_Jean_Monnet_@Univ_St_Etienne-Q623154-associations.md 
 
 ![](plots/etablissements/Université_Jean_Monnet_@Univ_St_Etienne-Q623154-associations.png) 
 
-[Avertissements et édition](plots/etablissements/Université_Jean_Monnet_@Univ_St_Etienne-Q623154-associations.log) 
+[Avertissements et édition](plots/etablissements/Université_Jean_Monnet_@Univ_St_Etienne-Q623154-associations.md 
 
-### Histoire Université Rennes 2 @Univ_Rennes2 https://www.wikidata.org/wiki/Q459026 
+### Histoire : Université Rennes 2 @Univ_Rennes2 https://github.com/cpesr/wikidataESR/blob/master/plots/etablissements/Université_Rennes_2_@Univ_Rennes2-Q459026-histoire.md 
 
 ![](plots/etablissements/Université_Rennes_2_@Univ_Rennes2-Q459026-histoire.png) 
 
-[Avertissements et édition](plots/etablissements/Université_Rennes_2_@Univ_Rennes2-Q459026-histoire.log) 
+[Avertissements et édition](plots/etablissements/Université_Rennes_2_@Univ_Rennes2-Q459026-histoire.md 
 
-### Composition Université Rennes 2 @Univ_Rennes2 https://www.wikidata.org/wiki/Q459026 
+### Composition : Université Rennes 2 @Univ_Rennes2 https://github.com/cpesr/wikidataESR/blob/master/plots/etablissements/Université_Rennes_2_@Univ_Rennes2-Q459026-composition.md 
 
 ![](plots/etablissements/Université_Rennes_2_@Univ_Rennes2-Q459026-composition.png) 
 
-[Avertissements et édition](plots/etablissements/Université_Rennes_2_@Univ_Rennes2-Q459026-composition.log) 
+[Avertissements et édition](plots/etablissements/Université_Rennes_2_@Univ_Rennes2-Q459026-composition.md 
 
-### Associations Université Rennes 2 @Univ_Rennes2 https://www.wikidata.org/wiki/Q459026 
+### Associations : Université Rennes 2 @Univ_Rennes2 https://github.com/cpesr/wikidataESR/blob/master/plots/etablissements/Université_Rennes_2_@Univ_Rennes2-Q459026-associations.md 
 
 ![](plots/etablissements/Université_Rennes_2_@Univ_Rennes2-Q459026-associations.png) 
 
-[Avertissements et édition](plots/etablissements/Université_Rennes_2_@Univ_Rennes2-Q459026-associations.log) 
+[Avertissements et édition](plots/etablissements/Université_Rennes_2_@Univ_Rennes2-Q459026-associations.md 
 
-### Histoire Université de Rennes 1 @UnivRennes1 https://www.wikidata.org/wiki/Q726595 
+### Histoire : Université de Rennes 1 @UnivRennes1 https://github.com/cpesr/wikidataESR/blob/master/plots/etablissements/Université_de_Rennes_1_@UnivRennes1-Q726595-histoire.md 
 
 ![](plots/etablissements/Université_de_Rennes_1_@UnivRennes1-Q726595-histoire.png) 
 
-[Avertissements et édition](plots/etablissements/Université_de_Rennes_1_@UnivRennes1-Q726595-histoire.log) 
+[Avertissements et édition](plots/etablissements/Université_de_Rennes_1_@UnivRennes1-Q726595-histoire.md 
 
-### Composition Université de Rennes 1 @UnivRennes1 https://www.wikidata.org/wiki/Q726595 
+### Composition : Université de Rennes 1 @UnivRennes1 https://github.com/cpesr/wikidataESR/blob/master/plots/etablissements/Université_de_Rennes_1_@UnivRennes1-Q726595-composition.md 
 
 ![](plots/etablissements/Université_de_Rennes_1_@UnivRennes1-Q726595-composition.png) 
 
-[Avertissements et édition](plots/etablissements/Université_de_Rennes_1_@UnivRennes1-Q726595-composition.log) 
+[Avertissements et édition](plots/etablissements/Université_de_Rennes_1_@UnivRennes1-Q726595-composition.md 
 
-### Associations Université de Rennes 1 @UnivRennes1 https://www.wikidata.org/wiki/Q726595 
+### Associations : Université de Rennes 1 @UnivRennes1 https://github.com/cpesr/wikidataESR/blob/master/plots/etablissements/Université_de_Rennes_1_@UnivRennes1-Q726595-associations.md 
 
 ![](plots/etablissements/Université_de_Rennes_1_@UnivRennes1-Q726595-associations.png) 
 
-[Avertissements et édition](plots/etablissements/Université_de_Rennes_1_@UnivRennes1-Q726595-associations.log) 
+[Avertissements et édition](plots/etablissements/Université_de_Rennes_1_@UnivRennes1-Q726595-associations.md 
 
-### Histoire UBM @UBMontaigne https://www.wikidata.org/wiki/Q13342 
+### Histoire : UBM @UBMontaigne https://github.com/cpesr/wikidataESR/blob/master/plots/etablissements/UBM_@UBMontaigne-Q13342-histoire.md 
 
 ![](plots/etablissements/UBM_@UBMontaigne-Q13342-histoire.png) 
 
-[Avertissements et édition](plots/etablissements/UBM_@UBMontaigne-Q13342-histoire.log) 
+[Avertissements et édition](plots/etablissements/UBM_@UBMontaigne-Q13342-histoire.md 
 
-### Composition UBM @UBMontaigne https://www.wikidata.org/wiki/Q13342 
+### Composition : UBM @UBMontaigne https://github.com/cpesr/wikidataESR/blob/master/plots/etablissements/UBM_@UBMontaigne-Q13342-composition.md 
 
 ![](plots/etablissements/UBM_@UBMontaigne-Q13342-composition.png) 
 
-[Avertissements et édition](plots/etablissements/UBM_@UBMontaigne-Q13342-composition.log) 
+[Avertissements et édition](plots/etablissements/UBM_@UBMontaigne-Q13342-composition.md 
 
-### Associations UBM @UBMontaigne https://www.wikidata.org/wiki/Q13342 
+### Associations : UBM @UBMontaigne https://github.com/cpesr/wikidataESR/blob/master/plots/etablissements/UBM_@UBMontaigne-Q13342-associations.md 
 
 ![](plots/etablissements/UBM_@UBMontaigne-Q13342-associations.png) 
 
-[Avertissements et édition](plots/etablissements/UBM_@UBMontaigne-Q13342-associations.log) 
+[Avertissements et édition](plots/etablissements/UBM_@UBMontaigne-Q13342-associations.md 
 
-### Histoire Université Paul-Valéry - Montpellier 3 @univpaulvalery https://www.wikidata.org/wiki/Q2912244 
+### Histoire : Université Paul-Valéry - Montpellier 3 @univpaulvalery https://github.com/cpesr/wikidataESR/blob/master/plots/etablissements/Université_Paul-Valéry_-_Montpellier_3_@univpaulvalery-Q2912244-histoire.md 
 
 ![](plots/etablissements/Université_Paul-Valéry_-_Montpellier_3_@univpaulvalery-Q2912244-histoire.png) 
 
-[Avertissements et édition](plots/etablissements/Université_Paul-Valéry_-_Montpellier_3_@univpaulvalery-Q2912244-histoire.log) 
+[Avertissements et édition](plots/etablissements/Université_Paul-Valéry_-_Montpellier_3_@univpaulvalery-Q2912244-histoire.md 
 
-### Composition Université Paul-Valéry - Montpellier 3 @univpaulvalery https://www.wikidata.org/wiki/Q2912244 
+### Composition : Université Paul-Valéry - Montpellier 3 @univpaulvalery https://github.com/cpesr/wikidataESR/blob/master/plots/etablissements/Université_Paul-Valéry_-_Montpellier_3_@univpaulvalery-Q2912244-composition.md 
 
 ![](plots/etablissements/Université_Paul-Valéry_-_Montpellier_3_@univpaulvalery-Q2912244-composition.png) 
 
-[Avertissements et édition](plots/etablissements/Université_Paul-Valéry_-_Montpellier_3_@univpaulvalery-Q2912244-composition.log) 
+[Avertissements et édition](plots/etablissements/Université_Paul-Valéry_-_Montpellier_3_@univpaulvalery-Q2912244-composition.md 
 
-### Associations Université Paul-Valéry - Montpellier 3 @univpaulvalery https://www.wikidata.org/wiki/Q2912244 
+### Associations : Université Paul-Valéry - Montpellier 3 @univpaulvalery https://github.com/cpesr/wikidataESR/blob/master/plots/etablissements/Université_Paul-Valéry_-_Montpellier_3_@univpaulvalery-Q2912244-associations.md 
 
 ![](plots/etablissements/Université_Paul-Valéry_-_Montpellier_3_@univpaulvalery-Q2912244-associations.png) 
 
-[Avertissements et édition](plots/etablissements/Université_Paul-Valéry_-_Montpellier_3_@univpaulvalery-Q2912244-associations.log) 
+[Avertissements et édition](plots/etablissements/Université_Paul-Valéry_-_Montpellier_3_@univpaulvalery-Q2912244-associations.md 
 
-### Histoire Université de Paris @Univ_Paris https://www.wikidata.org/wiki/Q55849612 
+### Histoire : Université de Paris @Univ_Paris https://github.com/cpesr/wikidataESR/blob/master/plots/etablissements/Université_de_Paris_@Univ_Paris-Q55849612-histoire.md 
 
 ![](plots/etablissements/Université_de_Paris_@Univ_Paris-Q55849612-histoire.png) 
 
-[Avertissements et édition](plots/etablissements/Université_de_Paris_@Univ_Paris-Q55849612-histoire.log) 
+[Avertissements et édition](plots/etablissements/Université_de_Paris_@Univ_Paris-Q55849612-histoire.md 
 
-### Composition Université de Paris @Univ_Paris https://www.wikidata.org/wiki/Q55849612 
+### Composition : Université de Paris @Univ_Paris https://github.com/cpesr/wikidataESR/blob/master/plots/etablissements/Université_de_Paris_@Univ_Paris-Q55849612-composition.md 
 
 ![](plots/etablissements/Université_de_Paris_@Univ_Paris-Q55849612-composition.png) 
 
-[Avertissements et édition](plots/etablissements/Université_de_Paris_@Univ_Paris-Q55849612-composition.log) 
+[Avertissements et édition](plots/etablissements/Université_de_Paris_@Univ_Paris-Q55849612-composition.md 
 
-### Associations Université de Paris @Univ_Paris https://www.wikidata.org/wiki/Q55849612 
+### Associations : Université de Paris @Univ_Paris https://github.com/cpesr/wikidataESR/blob/master/plots/etablissements/Université_de_Paris_@Univ_Paris-Q55849612-associations.md 
 
-![](plots/etablissements/Université_de_Paris_@Univ_Paris-Q55849612-associations.png) 
+[Avertissements et édition](plots/etablissements/Université_de_Paris_@Univ_Paris-Q55849612-associations.md 
 
-[Avertissements et édition](plots/etablissements/Université_de_Paris_@Univ_Paris-Q55849612-associations.log) 
+### Histoire : Université de Pau et des Pays de l'Adour @universite_uppa https://github.com/cpesr/wikidataESR/blob/master/plots/etablissements/Université_de_Pau_et_des_Pays_de_l'Adour_@universite_uppa-Q572968-histoire.md 
 
-### Histoire Université de Pau et des Pays de l'Adour @universite_uppa https://www.wikidata.org/wiki/Q572968 
+[Avertissements et édition](plots/etablissements/Université_de_Pau_et_des_Pays_de_l'Adour_@universite_uppa-Q572968-histoire.md 
 
-![](plots/etablissements/Université_de_Pau_et_des_Pays_de_l'Adour_@universite_uppa-Q572968-histoire.png) 
-
-[Avertissements et édition](plots/etablissements/Université_de_Pau_et_des_Pays_de_l'Adour_@universite_uppa-Q572968-histoire.log) 
-
-### Composition Université de Pau et des Pays de l'Adour @universite_uppa https://www.wikidata.org/wiki/Q572968 
+### Composition : Université de Pau et des Pays de l'Adour @universite_uppa https://github.com/cpesr/wikidataESR/blob/master/plots/etablissements/Université_de_Pau_et_des_Pays_de_l'Adour_@universite_uppa-Q572968-composition.md 
 
 ![](plots/etablissements/Université_de_Pau_et_des_Pays_de_l'Adour_@universite_uppa-Q572968-composition.png) 
 
-[Avertissements et édition](plots/etablissements/Université_de_Pau_et_des_Pays_de_l'Adour_@universite_uppa-Q572968-composition.log) 
+[Avertissements et édition](plots/etablissements/Université_de_Pau_et_des_Pays_de_l'Adour_@universite_uppa-Q572968-composition.md 
 
-### Associations Université de Pau et des Pays de l'Adour @universite_uppa https://www.wikidata.org/wiki/Q572968 
+### Associations : Université de Pau et des Pays de l'Adour @universite_uppa https://github.com/cpesr/wikidataESR/blob/master/plots/etablissements/Université_de_Pau_et_des_Pays_de_l'Adour_@universite_uppa-Q572968-associations.md 
 
 ![](plots/etablissements/Université_de_Pau_et_des_Pays_de_l'Adour_@universite_uppa-Q572968-associations.png) 
 
-[Avertissements et édition](plots/etablissements/Université_de_Pau_et_des_Pays_de_l'Adour_@universite_uppa-Q572968-associations.log) 
+[Avertissements et édition](plots/etablissements/Université_de_Pau_et_des_Pays_de_l'Adour_@universite_uppa-Q572968-associations.md 
 
-### Histoire AMU @univamu https://www.wikidata.org/wiki/Q2302586 
+### Histoire : AMU @univamu https://github.com/cpesr/wikidataESR/blob/master/plots/etablissements/AMU_@univamu-Q2302586-histoire.md 
 
 ![](plots/etablissements/AMU_@univamu-Q2302586-histoire.png) 
 
-[Avertissements et édition](plots/etablissements/AMU_@univamu-Q2302586-histoire.log) 
+[Avertissements et édition](plots/etablissements/AMU_@univamu-Q2302586-histoire.md 
 
-### Composition AMU @univamu https://www.wikidata.org/wiki/Q2302586 
+### Composition : AMU @univamu https://github.com/cpesr/wikidataESR/blob/master/plots/etablissements/AMU_@univamu-Q2302586-composition.md 
 
 ![](plots/etablissements/AMU_@univamu-Q2302586-composition.png) 
 
-[Avertissements et édition](plots/etablissements/AMU_@univamu-Q2302586-composition.log) 
+[Avertissements et édition](plots/etablissements/AMU_@univamu-Q2302586-composition.md 
 
-### Associations AMU @univamu https://www.wikidata.org/wiki/Q2302586 
+### Associations : AMU @univamu https://github.com/cpesr/wikidataESR/blob/master/plots/etablissements/AMU_@univamu-Q2302586-associations.md 
 
 ![](plots/etablissements/AMU_@univamu-Q2302586-associations.png) 
 
-[Avertissements et édition](plots/etablissements/AMU_@univamu-Q2302586-associations.log) 
+[Avertissements et édition](plots/etablissements/AMU_@univamu-Q2302586-associations.md 
 
-### Histoire Université de Haute-Alsace @UHA68 https://www.wikidata.org/wiki/Q280183 
+### Histoire : Université de Haute-Alsace @UHA68 https://github.com/cpesr/wikidataESR/blob/master/plots/etablissements/Université_de_Haute-Alsace_@UHA68-Q280183-histoire.md 
 
-![](plots/etablissements/Université_de_Haute-Alsace_@UHA68-Q280183-histoire.png) 
+[Avertissements et édition](plots/etablissements/Université_de_Haute-Alsace_@UHA68-Q280183-histoire.md 
 
-[Avertissements et édition](plots/etablissements/Université_de_Haute-Alsace_@UHA68-Q280183-histoire.log) 
-
-### Composition Université de Haute-Alsace @UHA68 https://www.wikidata.org/wiki/Q280183 
+### Composition : Université de Haute-Alsace @UHA68 https://github.com/cpesr/wikidataESR/blob/master/plots/etablissements/Université_de_Haute-Alsace_@UHA68-Q280183-composition.md 
 
 ![](plots/etablissements/Université_de_Haute-Alsace_@UHA68-Q280183-composition.png) 
 
-[Avertissements et édition](plots/etablissements/Université_de_Haute-Alsace_@UHA68-Q280183-composition.log) 
+[Avertissements et édition](plots/etablissements/Université_de_Haute-Alsace_@UHA68-Q280183-composition.md 
 
-### Associations Université de Haute-Alsace @UHA68 https://www.wikidata.org/wiki/Q280183 
+### Associations : Université de Haute-Alsace @UHA68 https://github.com/cpesr/wikidataESR/blob/master/plots/etablissements/Université_de_Haute-Alsace_@UHA68-Q280183-associations.md 
 
 ![](plots/etablissements/Université_de_Haute-Alsace_@UHA68-Q280183-associations.png) 
 
-[Avertissements et édition](plots/etablissements/Université_de_Haute-Alsace_@UHA68-Q280183-associations.log) 
+[Avertissements et édition](plots/etablissements/Université_de_Haute-Alsace_@UHA68-Q280183-associations.md 
 
-### Histoire Université de La Réunion @univ_reunion https://www.wikidata.org/wiki/Q834819 
+### Histoire : Université de La Réunion @univ_reunion https://github.com/cpesr/wikidataESR/blob/master/plots/etablissements/Université_de_La_Réunion_@univ_reunion-Q834819-histoire.md 
 
-![](plots/etablissements/Université_de_La_Réunion_@univ_reunion-Q834819-histoire.png) 
+[Avertissements et édition](plots/etablissements/Université_de_La_Réunion_@univ_reunion-Q834819-histoire.md 
 
-[Avertissements et édition](plots/etablissements/Université_de_La_Réunion_@univ_reunion-Q834819-histoire.log) 
-
-### Composition Université de La Réunion @univ_reunion https://www.wikidata.org/wiki/Q834819 
+### Composition : Université de La Réunion @univ_reunion https://github.com/cpesr/wikidataESR/blob/master/plots/etablissements/Université_de_La_Réunion_@univ_reunion-Q834819-composition.md 
 
 ![](plots/etablissements/Université_de_La_Réunion_@univ_reunion-Q834819-composition.png) 
 
-[Avertissements et édition](plots/etablissements/Université_de_La_Réunion_@univ_reunion-Q834819-composition.log) 
+[Avertissements et édition](plots/etablissements/Université_de_La_Réunion_@univ_reunion-Q834819-composition.md 
 
-### Associations Université de La Réunion @univ_reunion https://www.wikidata.org/wiki/Q834819 
+### Associations : Université de La Réunion @univ_reunion https://github.com/cpesr/wikidataESR/blob/master/plots/etablissements/Université_de_La_Réunion_@univ_reunion-Q834819-associations.md 
 
-![](plots/etablissements/Université_de_La_Réunion_@univ_reunion-Q834819-associations.png) 
+[Avertissements et édition](plots/etablissements/Université_de_La_Réunion_@univ_reunion-Q834819-associations.md 
 
-[Avertissements et édition](plots/etablissements/Université_de_La_Réunion_@univ_reunion-Q834819-associations.log) 
-
-### Histoire Université Toulouse III - Paul Sabatier @UT3PaulSabatier https://www.wikidata.org/wiki/Q1273188 
+### Histoire : Université Toulouse III - Paul Sabatier @UT3PaulSabatier https://github.com/cpesr/wikidataESR/blob/master/plots/etablissements/Université_Toulouse_III_-_Paul_Sabatier_@UT3PaulSabatier-Q1273188-histoire.md 
 
 ![](plots/etablissements/Université_Toulouse_III_-_Paul_Sabatier_@UT3PaulSabatier-Q1273188-histoire.png) 
 
-[Avertissements et édition](plots/etablissements/Université_Toulouse_III_-_Paul_Sabatier_@UT3PaulSabatier-Q1273188-histoire.log) 
+[Avertissements et édition](plots/etablissements/Université_Toulouse_III_-_Paul_Sabatier_@UT3PaulSabatier-Q1273188-histoire.md 
 
-### Composition Université Toulouse III - Paul Sabatier @UT3PaulSabatier https://www.wikidata.org/wiki/Q1273188 
+### Composition : Université Toulouse III - Paul Sabatier @UT3PaulSabatier https://github.com/cpesr/wikidataESR/blob/master/plots/etablissements/Université_Toulouse_III_-_Paul_Sabatier_@UT3PaulSabatier-Q1273188-composition.md 
 
 ![](plots/etablissements/Université_Toulouse_III_-_Paul_Sabatier_@UT3PaulSabatier-Q1273188-composition.png) 
 
-[Avertissements et édition](plots/etablissements/Université_Toulouse_III_-_Paul_Sabatier_@UT3PaulSabatier-Q1273188-composition.log) 
+[Avertissements et édition](plots/etablissements/Université_Toulouse_III_-_Paul_Sabatier_@UT3PaulSabatier-Q1273188-composition.md 
 
-### Associations Université Toulouse III - Paul Sabatier @UT3PaulSabatier https://www.wikidata.org/wiki/Q1273188 
+### Associations : Université Toulouse III - Paul Sabatier @UT3PaulSabatier https://github.com/cpesr/wikidataESR/blob/master/plots/etablissements/Université_Toulouse_III_-_Paul_Sabatier_@UT3PaulSabatier-Q1273188-associations.md 
 
 ![](plots/etablissements/Université_Toulouse_III_-_Paul_Sabatier_@UT3PaulSabatier-Q1273188-associations.png) 
 
-[Avertissements et édition](plots/etablissements/Université_Toulouse_III_-_Paul_Sabatier_@UT3PaulSabatier-Q1273188-associations.log) 
+[Avertissements et édition](plots/etablissements/Université_Toulouse_III_-_Paul_Sabatier_@UT3PaulSabatier-Q1273188-associations.md 
 
-### Histoire Université d'Orléans @Univ_Orleans https://www.wikidata.org/wiki/Q13334 
+### Histoire : Université d'Orléans @Univ_Orleans https://github.com/cpesr/wikidataESR/blob/master/plots/etablissements/Université_d'Orléans_@Univ_Orleans-Q13334-histoire.md 
 
 ![](plots/etablissements/Université_d'Orléans_@Univ_Orleans-Q13334-histoire.png) 
 
-[Avertissements et édition](plots/etablissements/Université_d'Orléans_@Univ_Orleans-Q13334-histoire.log) 
+[Avertissements et édition](plots/etablissements/Université_d'Orléans_@Univ_Orleans-Q13334-histoire.md 
 
-### Composition Université d'Orléans @Univ_Orleans https://www.wikidata.org/wiki/Q13334 
+### Composition : Université d'Orléans @Univ_Orleans https://github.com/cpesr/wikidataESR/blob/master/plots/etablissements/Université_d'Orléans_@Univ_Orleans-Q13334-composition.md 
 
 ![](plots/etablissements/Université_d'Orléans_@Univ_Orleans-Q13334-composition.png) 
 
-[Avertissements et édition](plots/etablissements/Université_d'Orléans_@Univ_Orleans-Q13334-composition.log) 
+[Avertissements et édition](plots/etablissements/Université_d'Orléans_@Univ_Orleans-Q13334-composition.md 
 
-### Associations Université d'Orléans @Univ_Orleans https://www.wikidata.org/wiki/Q13334 
+### Associations : Université d'Orléans @Univ_Orleans https://github.com/cpesr/wikidataESR/blob/master/plots/etablissements/Université_d'Orléans_@Univ_Orleans-Q13334-associations.md 
 
 ![](plots/etablissements/Université_d'Orléans_@Univ_Orleans-Q13334-associations.png) 
 
-[Avertissements et édition](plots/etablissements/Université_d'Orléans_@Univ_Orleans-Q13334-associations.log) 
+[Avertissements et édition](plots/etablissements/Université_d'Orléans_@Univ_Orleans-Q13334-associations.md 
 
-### Histoire CY Cergy Paris Université @UniversiteCergy https://www.wikidata.org/wiki/Q74452784 
+### Histoire : CY Cergy Paris Université @UniversiteCergy https://github.com/cpesr/wikidataESR/blob/master/plots/etablissements/CY_Cergy_Paris_Université_@UniversiteCergy-Q74452784-histoire.md 
 
-![](plots/etablissements/CY_Cergy_Paris_Université_@UniversiteCergy-Q74452784-histoire.png) 
+[Avertissements et édition](plots/etablissements/CY_Cergy_Paris_Université_@UniversiteCergy-Q74452784-histoire.md 
 
-[Avertissements et édition](plots/etablissements/CY_Cergy_Paris_Université_@UniversiteCergy-Q74452784-histoire.log) 
-
-### Composition CY Cergy Paris Université @UniversiteCergy https://www.wikidata.org/wiki/Q74452784 
+### Composition : CY Cergy Paris Université @UniversiteCergy https://github.com/cpesr/wikidataESR/blob/master/plots/etablissements/CY_Cergy_Paris_Université_@UniversiteCergy-Q74452784-composition.md 
 
 ![](plots/etablissements/CY_Cergy_Paris_Université_@UniversiteCergy-Q74452784-composition.png) 
 
-[Avertissements et édition](plots/etablissements/CY_Cergy_Paris_Université_@UniversiteCergy-Q74452784-composition.log) 
+[Avertissements et édition](plots/etablissements/CY_Cergy_Paris_Université_@UniversiteCergy-Q74452784-composition.md 
 
-### Associations CY Cergy Paris Université @UniversiteCergy https://www.wikidata.org/wiki/Q74452784 
+### Associations : CY Cergy Paris Université @UniversiteCergy https://github.com/cpesr/wikidataESR/blob/master/plots/etablissements/CY_Cergy_Paris_Université_@UniversiteCergy-Q74452784-associations.md 
 
 ![](plots/etablissements/CY_Cergy_Paris_Université_@UniversiteCergy-Q74452784-associations.png) 
 
-[Avertissements et édition](plots/etablissements/CY_Cergy_Paris_Université_@UniversiteCergy-Q74452784-associations.log) 
+[Avertissements et édition](plots/etablissements/CY_Cergy_Paris_Université_@UniversiteCergy-Q74452784-associations.md 
 
-### Histoire Université de la Polynésie Française @univpf https://www.wikidata.org/wiki/Q1695245 
+### Histoire : Université de la Polynésie Française @univpf https://github.com/cpesr/wikidataESR/blob/master/plots/etablissements/Université_de_la_Polynésie_Française_@univpf-Q1695245-histoire.md 
 
-![](plots/etablissements/Université_de_la_Polynésie_Française_@univpf-Q1695245-histoire.png) 
+[Avertissements et édition](plots/etablissements/Université_de_la_Polynésie_Française_@univpf-Q1695245-histoire.md 
 
-[Avertissements et édition](plots/etablissements/Université_de_la_Polynésie_Française_@univpf-Q1695245-histoire.log) 
+### Composition : Université de la Polynésie Française @univpf https://github.com/cpesr/wikidataESR/blob/master/plots/etablissements/Université_de_la_Polynésie_Française_@univpf-Q1695245-composition.md 
 
-### Composition Université de la Polynésie Française @univpf https://www.wikidata.org/wiki/Q1695245 
+[Avertissements et édition](plots/etablissements/Université_de_la_Polynésie_Française_@univpf-Q1695245-composition.md 
 
-![](plots/etablissements/Université_de_la_Polynésie_Française_@univpf-Q1695245-composition.png) 
+### Associations : Université de la Polynésie Française @univpf https://github.com/cpesr/wikidataESR/blob/master/plots/etablissements/Université_de_la_Polynésie_Française_@univpf-Q1695245-associations.md 
 
-[Avertissements et édition](plots/etablissements/Université_de_la_Polynésie_Française_@univpf-Q1695245-composition.log) 
+[Avertissements et édition](plots/etablissements/Université_de_la_Polynésie_Française_@univpf-Q1695245-associations.md 
 
-### Associations Université de la Polynésie Française @univpf https://www.wikidata.org/wiki/Q1695245 
-
-![](plots/etablissements/Université_de_la_Polynésie_Française_@univpf-Q1695245-associations.png) 
-
-[Avertissements et édition](plots/etablissements/Université_de_la_Polynésie_Française_@univpf-Q1695245-associations.log) 
-
-### Histoire Université Panthéon-Assas @AssasParis2 https://www.wikidata.org/wiki/Q662976 
+### Histoire : Université Panthéon-Assas @AssasParis2 https://github.com/cpesr/wikidataESR/blob/master/plots/etablissements/Université_Panthéon-Assas_@AssasParis2-Q662976-histoire.md 
 
 ![](plots/etablissements/Université_Panthéon-Assas_@AssasParis2-Q662976-histoire.png) 
 
-[Avertissements et édition](plots/etablissements/Université_Panthéon-Assas_@AssasParis2-Q662976-histoire.log) 
+[Avertissements et édition](plots/etablissements/Université_Panthéon-Assas_@AssasParis2-Q662976-histoire.md 
 
-### Composition Université Panthéon-Assas @AssasParis2 https://www.wikidata.org/wiki/Q662976 
+### Composition : Université Panthéon-Assas @AssasParis2 https://github.com/cpesr/wikidataESR/blob/master/plots/etablissements/Université_Panthéon-Assas_@AssasParis2-Q662976-composition.md 
 
 ![](plots/etablissements/Université_Panthéon-Assas_@AssasParis2-Q662976-composition.png) 
 
-[Avertissements et édition](plots/etablissements/Université_Panthéon-Assas_@AssasParis2-Q662976-composition.log) 
+[Avertissements et édition](plots/etablissements/Université_Panthéon-Assas_@AssasParis2-Q662976-composition.md 
 
-### Associations Université Panthéon-Assas @AssasParis2 https://www.wikidata.org/wiki/Q662976 
+### Associations : Université Panthéon-Assas @AssasParis2 https://github.com/cpesr/wikidataESR/blob/master/plots/etablissements/Université_Panthéon-Assas_@AssasParis2-Q662976-associations.md 
 
 ![](plots/etablissements/Université_Panthéon-Assas_@AssasParis2-Q662976-associations.png) 
 
-[Avertissements et édition](plots/etablissements/Université_Panthéon-Assas_@AssasParis2-Q662976-associations.log) 
+[Avertissements et édition](plots/etablissements/Université_Panthéon-Assas_@AssasParis2-Q662976-associations.md 
 
-### Histoire Université Paris Nanterre @uparisnanterre https://www.wikidata.org/wiki/Q1394262 
+### Histoire : Université Paris Nanterre @uparisnanterre https://github.com/cpesr/wikidataESR/blob/master/plots/etablissements/Université_Paris_Nanterre_@uparisnanterre-Q1394262-histoire.md 
 
 ![](plots/etablissements/Université_Paris_Nanterre_@uparisnanterre-Q1394262-histoire.png) 
 
-[Avertissements et édition](plots/etablissements/Université_Paris_Nanterre_@uparisnanterre-Q1394262-histoire.log) 
+[Avertissements et édition](plots/etablissements/Université_Paris_Nanterre_@uparisnanterre-Q1394262-histoire.md 
 
-### Composition Université Paris Nanterre @uparisnanterre https://www.wikidata.org/wiki/Q1394262 
+### Composition : Université Paris Nanterre @uparisnanterre https://github.com/cpesr/wikidataESR/blob/master/plots/etablissements/Université_Paris_Nanterre_@uparisnanterre-Q1394262-composition.md 
 
 ![](plots/etablissements/Université_Paris_Nanterre_@uparisnanterre-Q1394262-composition.png) 
 
-[Avertissements et édition](plots/etablissements/Université_Paris_Nanterre_@uparisnanterre-Q1394262-composition.log) 
+[Avertissements et édition](plots/etablissements/Université_Paris_Nanterre_@uparisnanterre-Q1394262-composition.md 
 
-### Associations Université Paris Nanterre @uparisnanterre https://www.wikidata.org/wiki/Q1394262 
+### Associations : Université Paris Nanterre @uparisnanterre https://github.com/cpesr/wikidataESR/blob/master/plots/etablissements/Université_Paris_Nanterre_@uparisnanterre-Q1394262-associations.md 
 
 ![](plots/etablissements/Université_Paris_Nanterre_@uparisnanterre-Q1394262-associations.png) 
 
-[Avertissements et édition](plots/etablissements/Université_Paris_Nanterre_@uparisnanterre-Q1394262-associations.log) 
+[Avertissements et édition](plots/etablissements/Université_Paris_Nanterre_@uparisnanterre-Q1394262-associations.md 
 
-### Histoire Université Savoie Mont Blanc @Univ_Savoie https://www.wikidata.org/wiki/Q2496158 
+### Histoire : Université Savoie Mont Blanc @Univ_Savoie https://github.com/cpesr/wikidataESR/blob/master/plots/etablissements/Université_Savoie_Mont_Blanc_@Univ_Savoie-Q2496158-histoire.md 
 
-![](plots/etablissements/Université_Savoie_Mont_Blanc_@Univ_Savoie-Q2496158-histoire.png) 
+[Avertissements et édition](plots/etablissements/Université_Savoie_Mont_Blanc_@Univ_Savoie-Q2496158-histoire.md 
 
-[Avertissements et édition](plots/etablissements/Université_Savoie_Mont_Blanc_@Univ_Savoie-Q2496158-histoire.log) 
-
-### Composition Université Savoie Mont Blanc @Univ_Savoie https://www.wikidata.org/wiki/Q2496158 
+### Composition : Université Savoie Mont Blanc @Univ_Savoie https://github.com/cpesr/wikidataESR/blob/master/plots/etablissements/Université_Savoie_Mont_Blanc_@Univ_Savoie-Q2496158-composition.md 
 
 ![](plots/etablissements/Université_Savoie_Mont_Blanc_@Univ_Savoie-Q2496158-composition.png) 
 
-[Avertissements et édition](plots/etablissements/Université_Savoie_Mont_Blanc_@Univ_Savoie-Q2496158-composition.log) 
+[Avertissements et édition](plots/etablissements/Université_Savoie_Mont_Blanc_@Univ_Savoie-Q2496158-composition.md 
 
-### Associations Université Savoie Mont Blanc @Univ_Savoie https://www.wikidata.org/wiki/Q2496158 
+### Associations : Université Savoie Mont Blanc @Univ_Savoie https://github.com/cpesr/wikidataESR/blob/master/plots/etablissements/Université_Savoie_Mont_Blanc_@Univ_Savoie-Q2496158-associations.md 
 
-![](plots/etablissements/Université_Savoie_Mont_Blanc_@Univ_Savoie-Q2496158-associations.png) 
+[Avertissements et édition](plots/etablissements/Université_Savoie_Mont_Blanc_@Univ_Savoie-Q2496158-associations.md 
 
-[Avertissements et édition](plots/etablissements/Université_Savoie_Mont_Blanc_@Univ_Savoie-Q2496158-associations.log) 
+### Histoire : Le Mans Université @LeMansUniv https://github.com/cpesr/wikidataESR/blob/master/plots/etablissements/Le_Mans_Université_@LeMansUniv-Q834825-histoire.md 
 
-### Histoire Le Mans Université @LeMansUniv https://www.wikidata.org/wiki/Q834825 
+[Avertissements et édition](plots/etablissements/Le_Mans_Université_@LeMansUniv-Q834825-histoire.md 
 
-![](plots/etablissements/Le_Mans_Université_@LeMansUniv-Q834825-histoire.png) 
-
-[Avertissements et édition](plots/etablissements/Le_Mans_Université_@LeMansUniv-Q834825-histoire.log) 
-
-### Composition Le Mans Université @LeMansUniv https://www.wikidata.org/wiki/Q834825 
+### Composition : Le Mans Université @LeMansUniv https://github.com/cpesr/wikidataESR/blob/master/plots/etablissements/Le_Mans_Université_@LeMansUniv-Q834825-composition.md 
 
 ![](plots/etablissements/Le_Mans_Université_@LeMansUniv-Q834825-composition.png) 
 
-[Avertissements et édition](plots/etablissements/Le_Mans_Université_@LeMansUniv-Q834825-composition.log) 
+[Avertissements et édition](plots/etablissements/Le_Mans_Université_@LeMansUniv-Q834825-composition.md 
 
-### Associations Le Mans Université @LeMansUniv https://www.wikidata.org/wiki/Q834825 
+### Associations : Le Mans Université @LeMansUniv https://github.com/cpesr/wikidataESR/blob/master/plots/etablissements/Le_Mans_Université_@LeMansUniv-Q834825-associations.md 
 
 ![](plots/etablissements/Le_Mans_Université_@LeMansUniv-Q834825-associations.png) 
 
-[Avertissements et édition](plots/etablissements/Le_Mans_Université_@LeMansUniv-Q834825-associations.log) 
+[Avertissements et édition](plots/etablissements/Le_Mans_Université_@LeMansUniv-Q834825-associations.md 
 
-### Histoire UNICAEN @universite_caen https://www.wikidata.org/wiki/Q568554 
+### Histoire : UNICAEN @universite_caen https://github.com/cpesr/wikidataESR/blob/master/plots/etablissements/UNICAEN_@universite_caen-Q568554-histoire.md 
 
-![](plots/etablissements/UNICAEN_@universite_caen-Q568554-histoire.png) 
+[Avertissements et édition](plots/etablissements/UNICAEN_@universite_caen-Q568554-histoire.md 
 
-[Avertissements et édition](plots/etablissements/UNICAEN_@universite_caen-Q568554-histoire.log) 
-
-### Composition UNICAEN @universite_caen https://www.wikidata.org/wiki/Q568554 
+### Composition : UNICAEN @universite_caen https://github.com/cpesr/wikidataESR/blob/master/plots/etablissements/UNICAEN_@universite_caen-Q568554-composition.md 
 
 ![](plots/etablissements/UNICAEN_@universite_caen-Q568554-composition.png) 
 
-[Avertissements et édition](plots/etablissements/UNICAEN_@universite_caen-Q568554-composition.log) 
+[Avertissements et édition](plots/etablissements/UNICAEN_@universite_caen-Q568554-composition.md 
 
-### Associations UNICAEN @universite_caen https://www.wikidata.org/wiki/Q568554 
+### Associations : UNICAEN @universite_caen https://github.com/cpesr/wikidataESR/blob/master/plots/etablissements/UNICAEN_@universite_caen-Q568554-associations.md 
 
 ![](plots/etablissements/UNICAEN_@universite_caen-Q568554-associations.png) 
 
-[Avertissements et édition](plots/etablissements/UNICAEN_@universite_caen-Q568554-associations.log) 
+[Avertissements et édition](plots/etablissements/UNICAEN_@universite_caen-Q568554-associations.md 
 
-### Histoire Université de Strasbourg @unistra https://www.wikidata.org/wiki/Q157575 
+### Histoire : Université de Strasbourg @unistra https://github.com/cpesr/wikidataESR/blob/master/plots/etablissements/Université_de_Strasbourg_@unistra-Q157575-histoire.md 
 
 ![](plots/etablissements/Université_de_Strasbourg_@unistra-Q157575-histoire.png) 
 
-[Avertissements et édition](plots/etablissements/Université_de_Strasbourg_@unistra-Q157575-histoire.log) 
+[Avertissements et édition](plots/etablissements/Université_de_Strasbourg_@unistra-Q157575-histoire.md 
 
-### Composition Université de Strasbourg @unistra https://www.wikidata.org/wiki/Q157575 
+### Composition : Université de Strasbourg @unistra https://github.com/cpesr/wikidataESR/blob/master/plots/etablissements/Université_de_Strasbourg_@unistra-Q157575-composition.md 
 
 ![](plots/etablissements/Université_de_Strasbourg_@unistra-Q157575-composition.png) 
 
-[Avertissements et édition](plots/etablissements/Université_de_Strasbourg_@unistra-Q157575-composition.log) 
+[Avertissements et édition](plots/etablissements/Université_de_Strasbourg_@unistra-Q157575-composition.md 
 
-### Associations Université de Strasbourg @unistra https://www.wikidata.org/wiki/Q157575 
+### Associations : Université de Strasbourg @unistra https://github.com/cpesr/wikidataESR/blob/master/plots/etablissements/Université_de_Strasbourg_@unistra-Q157575-associations.md 
 
 ![](plots/etablissements/Université_de_Strasbourg_@unistra-Q157575-associations.png) 
 
-[Avertissements et édition](plots/etablissements/Université_de_Strasbourg_@unistra-Q157575-associations.log) 
+[Avertissements et édition](plots/etablissements/Université_de_Strasbourg_@unistra-Q157575-associations.md 
 
-### Histoire Université d'Évry-Val-d'Essonne @UnivEvry https://www.wikidata.org/wiki/Q1531014 
+### Histoire : Université d'Évry-Val-d'Essonne @UnivEvry https://github.com/cpesr/wikidataESR/blob/master/plots/etablissements/Université_d'Évry-Val-d'Essonne_@UnivEvry-Q1531014-histoire.md 
 
-![](plots/etablissements/Université_d'Évry-Val-d'Essonne_@UnivEvry-Q1531014-histoire.png) 
+[Avertissements et édition](plots/etablissements/Université_d'Évry-Val-d'Essonne_@UnivEvry-Q1531014-histoire.md 
 
-[Avertissements et édition](plots/etablissements/Université_d'Évry-Val-d'Essonne_@UnivEvry-Q1531014-histoire.log) 
-
-### Composition Université d'Évry-Val-d'Essonne @UnivEvry https://www.wikidata.org/wiki/Q1531014 
+### Composition : Université d'Évry-Val-d'Essonne @UnivEvry https://github.com/cpesr/wikidataESR/blob/master/plots/etablissements/Université_d'Évry-Val-d'Essonne_@UnivEvry-Q1531014-composition.md 
 
 ![](plots/etablissements/Université_d'Évry-Val-d'Essonne_@UnivEvry-Q1531014-composition.png) 
 
-[Avertissements et édition](plots/etablissements/Université_d'Évry-Val-d'Essonne_@UnivEvry-Q1531014-composition.log) 
+[Avertissements et édition](plots/etablissements/Université_d'Évry-Val-d'Essonne_@UnivEvry-Q1531014-composition.md 
 
-### Associations Université d'Évry-Val-d'Essonne @UnivEvry https://www.wikidata.org/wiki/Q1531014 
+### Associations : Université d'Évry-Val-d'Essonne @UnivEvry https://github.com/cpesr/wikidataESR/blob/master/plots/etablissements/Université_d'Évry-Val-d'Essonne_@UnivEvry-Q1531014-associations.md 
 
 ![](plots/etablissements/Université_d'Évry-Val-d'Essonne_@UnivEvry-Q1531014-associations.png) 
 
-[Avertissements et édition](plots/etablissements/Université_d'Évry-Val-d'Essonne_@UnivEvry-Q1531014-associations.log) 
+[Avertissements et édition](plots/etablissements/Université_d'Évry-Val-d'Essonne_@UnivEvry-Q1531014-associations.md 
 
-### Histoire Université Grenoble Alpes @UGrenobleAlpes https://www.wikidata.org/wiki/Q945876 
+### Histoire : Université Grenoble Alpes @UGrenobleAlpes https://github.com/cpesr/wikidataESR/blob/master/plots/etablissements/Université_Grenoble_Alpes_@UGrenobleAlpes-Q945876-histoire.md 
 
 ![](plots/etablissements/Université_Grenoble_Alpes_@UGrenobleAlpes-Q945876-histoire.png) 
 
-[Avertissements et édition](plots/etablissements/Université_Grenoble_Alpes_@UGrenobleAlpes-Q945876-histoire.log) 
+[Avertissements et édition](plots/etablissements/Université_Grenoble_Alpes_@UGrenobleAlpes-Q945876-histoire.md 
 
-### Composition Université Grenoble Alpes @UGrenobleAlpes https://www.wikidata.org/wiki/Q945876 
+### Composition : Université Grenoble Alpes @UGrenobleAlpes https://github.com/cpesr/wikidataESR/blob/master/plots/etablissements/Université_Grenoble_Alpes_@UGrenobleAlpes-Q945876-composition.md 
 
 ![](plots/etablissements/Université_Grenoble_Alpes_@UGrenobleAlpes-Q945876-composition.png) 
 
-[Avertissements et édition](plots/etablissements/Université_Grenoble_Alpes_@UGrenobleAlpes-Q945876-composition.log) 
+[Avertissements et édition](plots/etablissements/Université_Grenoble_Alpes_@UGrenobleAlpes-Q945876-composition.md 
 
-### Associations Université Grenoble Alpes @UGrenobleAlpes https://www.wikidata.org/wiki/Q945876 
+### Associations : Université Grenoble Alpes @UGrenobleAlpes https://github.com/cpesr/wikidataESR/blob/master/plots/etablissements/Université_Grenoble_Alpes_@UGrenobleAlpes-Q945876-associations.md 
 
-![](plots/etablissements/Université_Grenoble_Alpes_@UGrenobleAlpes-Q945876-associations.png) 
+[Avertissements et édition](plots/etablissements/Université_Grenoble_Alpes_@UGrenobleAlpes-Q945876-associations.md 
 
-[Avertissements et édition](plots/etablissements/Université_Grenoble_Alpes_@UGrenobleAlpes-Q945876-associations.log) 
+### Histoire : URCA @universitereims https://github.com/cpesr/wikidataESR/blob/master/plots/etablissements/URCA_@universitereims-Q2496149-histoire.md 
 
-### Histoire URCA @universitereims https://www.wikidata.org/wiki/Q2496149 
+[Avertissements et édition](plots/etablissements/URCA_@universitereims-Q2496149-histoire.md 
 
-![](plots/etablissements/URCA_@universitereims-Q2496149-histoire.png) 
-
-[Avertissements et édition](plots/etablissements/URCA_@universitereims-Q2496149-histoire.log) 
-
-### Composition URCA @universitereims https://www.wikidata.org/wiki/Q2496149 
+### Composition : URCA @universitereims https://github.com/cpesr/wikidataESR/blob/master/plots/etablissements/URCA_@universitereims-Q2496149-composition.md 
 
 ![](plots/etablissements/URCA_@universitereims-Q2496149-composition.png) 
 
-[Avertissements et édition](plots/etablissements/URCA_@universitereims-Q2496149-composition.log) 
+[Avertissements et édition](plots/etablissements/URCA_@universitereims-Q2496149-composition.md 
 
-### Associations URCA @universitereims https://www.wikidata.org/wiki/Q2496149 
+### Associations : URCA @universitereims https://github.com/cpesr/wikidataESR/blob/master/plots/etablissements/URCA_@universitereims-Q2496149-associations.md 
 
 ![](plots/etablissements/URCA_@universitereims-Q2496149-associations.png) 
 
-[Avertissements et édition](plots/etablissements/URCA_@universitereims-Q2496149-associations.log) 
+[Avertissements et édition](plots/etablissements/URCA_@universitereims-Q2496149-associations.md 
 
-### Histoire Université de Toulon @univtoulon https://www.wikidata.org/wiki/Q1816857 
+### Histoire : Université de Toulon @univtoulon https://github.com/cpesr/wikidataESR/blob/master/plots/etablissements/Université_de_Toulon_@univtoulon-Q1816857-histoire.md 
 
-![](plots/etablissements/Université_de_Toulon_@univtoulon-Q1816857-histoire.png) 
+[Avertissements et édition](plots/etablissements/Université_de_Toulon_@univtoulon-Q1816857-histoire.md 
 
-[Avertissements et édition](plots/etablissements/Université_de_Toulon_@univtoulon-Q1816857-histoire.log) 
-
-### Composition Université de Toulon @univtoulon https://www.wikidata.org/wiki/Q1816857 
+### Composition : Université de Toulon @univtoulon https://github.com/cpesr/wikidataESR/blob/master/plots/etablissements/Université_de_Toulon_@univtoulon-Q1816857-composition.md 
 
 ![](plots/etablissements/Université_de_Toulon_@univtoulon-Q1816857-composition.png) 
 
-[Avertissements et édition](plots/etablissements/Université_de_Toulon_@univtoulon-Q1816857-composition.log) 
+[Avertissements et édition](plots/etablissements/Université_de_Toulon_@univtoulon-Q1816857-composition.md 
 
-### Associations Université de Toulon @univtoulon https://www.wikidata.org/wiki/Q1816857 
+### Associations : Université de Toulon @univtoulon https://github.com/cpesr/wikidataESR/blob/master/plots/etablissements/Université_de_Toulon_@univtoulon-Q1816857-associations.md 
 
 ![](plots/etablissements/Université_de_Toulon_@univtoulon-Q1816857-associations.png) 
 
-[Avertissements et édition](plots/etablissements/Université_de_Toulon_@univtoulon-Q1816857-associations.log) 
+[Avertissements et édition](plots/etablissements/Université_de_Toulon_@univtoulon-Q1816857-associations.md 
 
-### Histoire Université de Guyane @univguyane https://www.wikidata.org/wiki/Q16682067 
+### Histoire : Université de Guyane @univguyane https://github.com/cpesr/wikidataESR/blob/master/plots/etablissements/Université_de_Guyane_@univguyane-Q16682067-histoire.md 
 
-![](plots/etablissements/Université_de_Guyane_@univguyane-Q16682067-histoire.png) 
+[Avertissements et édition](plots/etablissements/Université_de_Guyane_@univguyane-Q16682067-histoire.md 
 
-[Avertissements et édition](plots/etablissements/Université_de_Guyane_@univguyane-Q16682067-histoire.log) 
-
-### Composition Université de Guyane @univguyane https://www.wikidata.org/wiki/Q16682067 
+### Composition : Université de Guyane @univguyane https://github.com/cpesr/wikidataESR/blob/master/plots/etablissements/Université_de_Guyane_@univguyane-Q16682067-composition.md 
 
 ![](plots/etablissements/Université_de_Guyane_@univguyane-Q16682067-composition.png) 
 
-[Avertissements et édition](plots/etablissements/Université_de_Guyane_@univguyane-Q16682067-composition.log) 
+[Avertissements et édition](plots/etablissements/Université_de_Guyane_@univguyane-Q16682067-composition.md 
 
-### Associations Université de Guyane @univguyane https://www.wikidata.org/wiki/Q16682067 
+### Associations : Université de Guyane @univguyane https://github.com/cpesr/wikidataESR/blob/master/plots/etablissements/Université_de_Guyane_@univguyane-Q16682067-associations.md 
 
-![](plots/etablissements/Université_de_Guyane_@univguyane-Q16682067-associations.png) 
+[Avertissements et édition](plots/etablissements/Université_de_Guyane_@univguyane-Q16682067-associations.md 
 
-[Avertissements et édition](plots/etablissements/Université_de_Guyane_@univguyane-Q16682067-associations.log) 
+### Histoire : UVSQ @uvsq https://github.com/cpesr/wikidataESR/blob/master/plots/etablissements/UVSQ_@uvsq-Q186638-histoire.md 
 
-### Histoire UVSQ @uvsq https://www.wikidata.org/wiki/Q186638 
+[Avertissements et édition](plots/etablissements/UVSQ_@uvsq-Q186638-histoire.md 
 
-![](plots/etablissements/UVSQ_@uvsq-Q186638-histoire.png) 
-
-[Avertissements et édition](plots/etablissements/UVSQ_@uvsq-Q186638-histoire.log) 
-
-### Composition UVSQ @uvsq https://www.wikidata.org/wiki/Q186638 
+### Composition : UVSQ @uvsq https://github.com/cpesr/wikidataESR/blob/master/plots/etablissements/UVSQ_@uvsq-Q186638-composition.md 
 
 ![](plots/etablissements/UVSQ_@uvsq-Q186638-composition.png) 
 
-[Avertissements et édition](plots/etablissements/UVSQ_@uvsq-Q186638-composition.log) 
+[Avertissements et édition](plots/etablissements/UVSQ_@uvsq-Q186638-composition.md 
 
-### Associations UVSQ @uvsq https://www.wikidata.org/wiki/Q186638 
+### Associations : UVSQ @uvsq https://github.com/cpesr/wikidataESR/blob/master/plots/etablissements/UVSQ_@uvsq-Q186638-associations.md 
 
 ![](plots/etablissements/UVSQ_@uvsq-Q186638-associations.png) 
 
-[Avertissements et édition](plots/etablissements/UVSQ_@uvsq-Q186638-associations.log) 
+[Avertissements et édition](plots/etablissements/UVSQ_@uvsq-Q186638-associations.md 
 
-### Histoire ULCO @ULCO_Univ https://www.wikidata.org/wiki/Q3551755 
+### Histoire : ULCO @ULCO_Univ https://github.com/cpesr/wikidataESR/blob/master/plots/etablissements/ULCO_@ULCO_Univ-Q3551755-histoire.md 
 
-![](plots/etablissements/ULCO_@ULCO_Univ-Q3551755-histoire.png) 
+[Avertissements et édition](plots/etablissements/ULCO_@ULCO_Univ-Q3551755-histoire.md 
 
-[Avertissements et édition](plots/etablissements/ULCO_@ULCO_Univ-Q3551755-histoire.log) 
-
-### Composition ULCO @ULCO_Univ https://www.wikidata.org/wiki/Q3551755 
+### Composition : ULCO @ULCO_Univ https://github.com/cpesr/wikidataESR/blob/master/plots/etablissements/ULCO_@ULCO_Univ-Q3551755-composition.md 
 
 ![](plots/etablissements/ULCO_@ULCO_Univ-Q3551755-composition.png) 
 
-[Avertissements et édition](plots/etablissements/ULCO_@ULCO_Univ-Q3551755-composition.log) 
+[Avertissements et édition](plots/etablissements/ULCO_@ULCO_Univ-Q3551755-composition.md 
 
-### Associations ULCO @ULCO_Univ https://www.wikidata.org/wiki/Q3551755 
+### Associations : ULCO @ULCO_Univ https://github.com/cpesr/wikidataESR/blob/master/plots/etablissements/ULCO_@ULCO_Univ-Q3551755-associations.md 
 
 ![](plots/etablissements/ULCO_@ULCO_Univ-Q3551755-associations.png) 
 
-[Avertissements et édition](plots/etablissements/ULCO_@ULCO_Univ-Q3551755-associations.log) 
+[Avertissements et édition](plots/etablissements/ULCO_@ULCO_Univ-Q3551755-associations.md 
 
-### Histoire UFC @fc_univ https://www.wikidata.org/wiki/Q829449 
+### Histoire : UFC @fc_univ https://github.com/cpesr/wikidataESR/blob/master/plots/etablissements/UFC_@fc_univ-Q829449-histoire.md 
 
-![](plots/etablissements/UFC_@fc_univ-Q829449-histoire.png) 
+[Avertissements et édition](plots/etablissements/UFC_@fc_univ-Q829449-histoire.md 
 
-[Avertissements et édition](plots/etablissements/UFC_@fc_univ-Q829449-histoire.log) 
-
-### Composition UFC @fc_univ https://www.wikidata.org/wiki/Q829449 
+### Composition : UFC @fc_univ https://github.com/cpesr/wikidataESR/blob/master/plots/etablissements/UFC_@fc_univ-Q829449-composition.md 
 
 ![](plots/etablissements/UFC_@fc_univ-Q829449-composition.png) 
 
-[Avertissements et édition](plots/etablissements/UFC_@fc_univ-Q829449-composition.log) 
+[Avertissements et édition](plots/etablissements/UFC_@fc_univ-Q829449-composition.md 
 
-### Associations UFC @fc_univ https://www.wikidata.org/wiki/Q829449 
+### Associations : UFC @fc_univ https://github.com/cpesr/wikidataESR/blob/master/plots/etablissements/UFC_@fc_univ-Q829449-associations.md 
 
 ![](plots/etablissements/UFC_@fc_univ-Q829449-associations.png) 
 
-[Avertissements et édition](plots/etablissements/UFC_@fc_univ-Q829449-associations.log) 
+[Avertissements et édition](plots/etablissements/UFC_@fc_univ-Q829449-associations.md 
 
-### Histoire Université Sorbonne Nouvelle - Paris 3 @SorbonneParis3 https://www.wikidata.org/wiki/Q571293 
+### Histoire : Université Sorbonne Nouvelle - Paris 3 @SorbonneParis3 https://github.com/cpesr/wikidataESR/blob/master/plots/etablissements/Université_Sorbonne_Nouvelle_-_Paris_3_@SorbonneParis3-Q571293-histoire.md 
 
 ![](plots/etablissements/Université_Sorbonne_Nouvelle_-_Paris_3_@SorbonneParis3-Q571293-histoire.png) 
 
-[Avertissements et édition](plots/etablissements/Université_Sorbonne_Nouvelle_-_Paris_3_@SorbonneParis3-Q571293-histoire.log) 
+[Avertissements et édition](plots/etablissements/Université_Sorbonne_Nouvelle_-_Paris_3_@SorbonneParis3-Q571293-histoire.md 
 
-### Composition Université Sorbonne Nouvelle - Paris 3 @SorbonneParis3 https://www.wikidata.org/wiki/Q571293 
+### Composition : Université Sorbonne Nouvelle - Paris 3 @SorbonneParis3 https://github.com/cpesr/wikidataESR/blob/master/plots/etablissements/Université_Sorbonne_Nouvelle_-_Paris_3_@SorbonneParis3-Q571293-composition.md 
 
 ![](plots/etablissements/Université_Sorbonne_Nouvelle_-_Paris_3_@SorbonneParis3-Q571293-composition.png) 
 
-[Avertissements et édition](plots/etablissements/Université_Sorbonne_Nouvelle_-_Paris_3_@SorbonneParis3-Q571293-composition.log) 
+[Avertissements et édition](plots/etablissements/Université_Sorbonne_Nouvelle_-_Paris_3_@SorbonneParis3-Q571293-composition.md 
 
-### Associations Université Sorbonne Nouvelle - Paris 3 @SorbonneParis3 https://www.wikidata.org/wiki/Q571293 
+### Associations : Université Sorbonne Nouvelle - Paris 3 @SorbonneParis3 https://github.com/cpesr/wikidataESR/blob/master/plots/etablissements/Université_Sorbonne_Nouvelle_-_Paris_3_@SorbonneParis3-Q571293-associations.md 
 
 ![](plots/etablissements/Université_Sorbonne_Nouvelle_-_Paris_3_@SorbonneParis3-Q571293-associations.png) 
 
-[Avertissements et édition](plots/etablissements/Université_Sorbonne_Nouvelle_-_Paris_3_@SorbonneParis3-Q571293-associations.log) 
+[Avertissements et édition](plots/etablissements/Université_Sorbonne_Nouvelle_-_Paris_3_@SorbonneParis3-Q571293-associations.md 
 
-### Histoire UT1 @UT1Capitole https://www.wikidata.org/wiki/Q590201 
+### Histoire : UT1 @UT1Capitole https://github.com/cpesr/wikidataESR/blob/master/plots/etablissements/UT1_@UT1Capitole-Q590201-histoire.md 
 
 ![](plots/etablissements/UT1_@UT1Capitole-Q590201-histoire.png) 
 
-[Avertissements et édition](plots/etablissements/UT1_@UT1Capitole-Q590201-histoire.log) 
+[Avertissements et édition](plots/etablissements/UT1_@UT1Capitole-Q590201-histoire.md 
 
-### Composition UT1 @UT1Capitole https://www.wikidata.org/wiki/Q590201 
+### Composition : UT1 @UT1Capitole https://github.com/cpesr/wikidataESR/blob/master/plots/etablissements/UT1_@UT1Capitole-Q590201-composition.md 
 
 ![](plots/etablissements/UT1_@UT1Capitole-Q590201-composition.png) 
 
-[Avertissements et édition](plots/etablissements/UT1_@UT1Capitole-Q590201-composition.log) 
+[Avertissements et édition](plots/etablissements/UT1_@UT1Capitole-Q590201-composition.md 
 
-### Associations UT1 @UT1Capitole https://www.wikidata.org/wiki/Q590201 
+### Associations : UT1 @UT1Capitole https://github.com/cpesr/wikidataESR/blob/master/plots/etablissements/UT1_@UT1Capitole-Q590201-associations.md 
 
 ![](plots/etablissements/UT1_@UT1Capitole-Q590201-associations.png) 
 
-[Avertissements et édition](plots/etablissements/UT1_@UT1Capitole-Q590201-associations.log) 
+[Avertissements et édition](plots/etablissements/UT1_@UT1Capitole-Q590201-associations.md 
 
-### Histoire Université de Picardie Jules-Verne @UPJV_Univ https://www.wikidata.org/wiki/Q947747 
+### Histoire : Université de Picardie Jules-Verne @UPJV_Univ https://github.com/cpesr/wikidataESR/blob/master/plots/etablissements/Université_de_Picardie_Jules-Verne_@UPJV_Univ-Q947747-histoire.md 
 
-![](plots/etablissements/Université_de_Picardie_Jules-Verne_@UPJV_Univ-Q947747-histoire.png) 
+[Avertissements et édition](plots/etablissements/Université_de_Picardie_Jules-Verne_@UPJV_Univ-Q947747-histoire.md 
 
-[Avertissements et édition](plots/etablissements/Université_de_Picardie_Jules-Verne_@UPJV_Univ-Q947747-histoire.log) 
+### Composition : Université de Picardie Jules-Verne @UPJV_Univ https://github.com/cpesr/wikidataESR/blob/master/plots/etablissements/Université_de_Picardie_Jules-Verne_@UPJV_Univ-Q947747-composition.md 
 
-### Composition Université de Picardie Jules-Verne @UPJV_Univ https://www.wikidata.org/wiki/Q947747 
+[Avertissements et édition](plots/etablissements/Université_de_Picardie_Jules-Verne_@UPJV_Univ-Q947747-composition.md 
 
-![](plots/etablissements/Université_de_Picardie_Jules-Verne_@UPJV_Univ-Q947747-composition.png) 
+### Associations : Université de Picardie Jules-Verne @UPJV_Univ https://github.com/cpesr/wikidataESR/blob/master/plots/etablissements/Université_de_Picardie_Jules-Verne_@UPJV_Univ-Q947747-associations.md 
 
-[Avertissements et édition](plots/etablissements/Université_de_Picardie_Jules-Verne_@UPJV_Univ-Q947747-composition.log) 
+[Avertissements et édition](plots/etablissements/Université_de_Picardie_Jules-Verne_@UPJV_Univ-Q947747-associations.md 
 
-### Associations Université de Picardie Jules-Verne @UPJV_Univ https://www.wikidata.org/wiki/Q947747 
-
-![](plots/etablissements/Université_de_Picardie_Jules-Verne_@UPJV_Univ-Q947747-associations.png) 
-
-[Avertissements et édition](plots/etablissements/Université_de_Picardie_Jules-Verne_@UPJV_Univ-Q947747-associations.log) 
-
-### Histoire Université PSL @psl_univ https://www.wikidata.org/wiki/Q1163431 
+### Histoire : Université PSL @psl_univ https://github.com/cpesr/wikidataESR/blob/master/plots/etablissements/Université_PSL_@psl_univ-Q1163431-histoire.md 
 
 ![](plots/etablissements/Université_PSL_@psl_univ-Q1163431-histoire.png) 
 
-[Avertissements et édition](plots/etablissements/Université_PSL_@psl_univ-Q1163431-histoire.log) 
+[Avertissements et édition](plots/etablissements/Université_PSL_@psl_univ-Q1163431-histoire.md 
 
-### Composition Université PSL @psl_univ https://www.wikidata.org/wiki/Q1163431 
+### Composition : Université PSL @psl_univ https://github.com/cpesr/wikidataESR/blob/master/plots/etablissements/Université_PSL_@psl_univ-Q1163431-composition.md 
 
 ![](plots/etablissements/Université_PSL_@psl_univ-Q1163431-composition.png) 
 
-[Avertissements et édition](plots/etablissements/Université_PSL_@psl_univ-Q1163431-composition.log) 
+[Avertissements et édition](plots/etablissements/Université_PSL_@psl_univ-Q1163431-composition.md 
 
-### Associations Université PSL @psl_univ https://www.wikidata.org/wiki/Q1163431 
+### Associations : Université PSL @psl_univ https://github.com/cpesr/wikidataESR/blob/master/plots/etablissements/Université_PSL_@psl_univ-Q1163431-associations.md 
 
-![](plots/etablissements/Université_PSL_@psl_univ-Q1163431-associations.png) 
+[Avertissements et édition](plots/etablissements/Université_PSL_@psl_univ-Q1163431-associations.md 
 
-[Avertissements et édition](plots/etablissements/Université_PSL_@psl_univ-Q1163431-associations.log) 
-
-### Histoire Université Paris-Est Créteil @UPECactus https://www.wikidata.org/wiki/Q980688 
+### Histoire : Université Paris-Est Créteil @UPECactus https://github.com/cpesr/wikidataESR/blob/master/plots/etablissements/Université_Paris-Est_Créteil_@UPECactus-Q980688-histoire.md 
 
 ![](plots/etablissements/Université_Paris-Est_Créteil_@UPECactus-Q980688-histoire.png) 
 
-[Avertissements et édition](plots/etablissements/Université_Paris-Est_Créteil_@UPECactus-Q980688-histoire.log) 
+[Avertissements et édition](plots/etablissements/Université_Paris-Est_Créteil_@UPECactus-Q980688-histoire.md 
 
-### Composition Université Paris-Est Créteil @UPECactus https://www.wikidata.org/wiki/Q980688 
+### Composition : Université Paris-Est Créteil @UPECactus https://github.com/cpesr/wikidataESR/blob/master/plots/etablissements/Université_Paris-Est_Créteil_@UPECactus-Q980688-composition.md 
 
 ![](plots/etablissements/Université_Paris-Est_Créteil_@UPECactus-Q980688-composition.png) 
 
-[Avertissements et édition](plots/etablissements/Université_Paris-Est_Créteil_@UPECactus-Q980688-composition.log) 
+[Avertissements et édition](plots/etablissements/Université_Paris-Est_Créteil_@UPECactus-Q980688-composition.md 
 
-### Associations Université Paris-Est Créteil @UPECactus https://www.wikidata.org/wiki/Q980688 
+### Associations : Université Paris-Est Créteil @UPECactus https://github.com/cpesr/wikidataESR/blob/master/plots/etablissements/Université_Paris-Est_Créteil_@UPECactus-Q980688-associations.md 
 
 ![](plots/etablissements/Université_Paris-Est_Créteil_@UPECactus-Q980688-associations.png) 
 
-[Avertissements et édition](plots/etablissements/Université_Paris-Est_Créteil_@UPECactus-Q980688-associations.log) 
+[Avertissements et édition](plots/etablissements/Université_Paris-Est_Créteil_@UPECactus-Q980688-associations.md 
 
-### Histoire UNÎMES @unimesfr https://www.wikidata.org/wiki/Q2496121 
+### Histoire : UNÎMES @unimesfr https://github.com/cpesr/wikidataESR/blob/master/plots/etablissements/UNÎMES_@unimesfr-Q2496121-histoire.md 
 
-![](plots/etablissements/UNÎMES_@unimesfr-Q2496121-histoire.png) 
+[Avertissements et édition](plots/etablissements/UNÎMES_@unimesfr-Q2496121-histoire.md 
 
-[Avertissements et édition](plots/etablissements/UNÎMES_@unimesfr-Q2496121-histoire.log) 
-
-### Composition UNÎMES @unimesfr https://www.wikidata.org/wiki/Q2496121 
+### Composition : UNÎMES @unimesfr https://github.com/cpesr/wikidataESR/blob/master/plots/etablissements/UNÎMES_@unimesfr-Q2496121-composition.md 
 
 ![](plots/etablissements/UNÎMES_@unimesfr-Q2496121-composition.png) 
 
-[Avertissements et édition](plots/etablissements/UNÎMES_@unimesfr-Q2496121-composition.log) 
+[Avertissements et édition](plots/etablissements/UNÎMES_@unimesfr-Q2496121-composition.md 
 
-### Associations UNÎMES @unimesfr https://www.wikidata.org/wiki/Q2496121 
+### Associations : UNÎMES @unimesfr https://github.com/cpesr/wikidataESR/blob/master/plots/etablissements/UNÎMES_@unimesfr-Q2496121-associations.md 
 
 ![](plots/etablissements/UNÎMES_@unimesfr-Q2496121-associations.png) 
 
-[Avertissements et édition](plots/etablissements/UNÎMES_@unimesfr-Q2496121-associations.log) 
+[Avertissements et édition](plots/etablissements/UNÎMES_@unimesfr-Q2496121-associations.md 
 
-### Histoire Université Sorbonne Paris Nord @univ_spn https://www.wikidata.org/wiki/Q1780212 
+### Histoire : Université Sorbonne Paris Nord @univ_spn https://github.com/cpesr/wikidataESR/blob/master/plots/etablissements/Université_Sorbonne_Paris_Nord_@univ_spn-Q1780212-histoire.md 
 
 ![](plots/etablissements/Université_Sorbonne_Paris_Nord_@univ_spn-Q1780212-histoire.png) 
 
-[Avertissements et édition](plots/etablissements/Université_Sorbonne_Paris_Nord_@univ_spn-Q1780212-histoire.log) 
+[Avertissements et édition](plots/etablissements/Université_Sorbonne_Paris_Nord_@univ_spn-Q1780212-histoire.md 
 
-### Composition Université Sorbonne Paris Nord @univ_spn https://www.wikidata.org/wiki/Q1780212 
+### Composition : Université Sorbonne Paris Nord @univ_spn https://github.com/cpesr/wikidataESR/blob/master/plots/etablissements/Université_Sorbonne_Paris_Nord_@univ_spn-Q1780212-composition.md 
 
 ![](plots/etablissements/Université_Sorbonne_Paris_Nord_@univ_spn-Q1780212-composition.png) 
 
-[Avertissements et édition](plots/etablissements/Université_Sorbonne_Paris_Nord_@univ_spn-Q1780212-composition.log) 
+[Avertissements et édition](plots/etablissements/Université_Sorbonne_Paris_Nord_@univ_spn-Q1780212-composition.md 
 
-### Associations Université Sorbonne Paris Nord @univ_spn https://www.wikidata.org/wiki/Q1780212 
+### Associations : Université Sorbonne Paris Nord @univ_spn https://github.com/cpesr/wikidataESR/blob/master/plots/etablissements/Université_Sorbonne_Paris_Nord_@univ_spn-Q1780212-associations.md 
 
 ![](plots/etablissements/Université_Sorbonne_Paris_Nord_@univ_spn-Q1780212-associations.png) 
 
-[Avertissements et édition](plots/etablissements/Université_Sorbonne_Paris_Nord_@univ_spn-Q1780212-associations.log) 
+[Avertissements et édition](plots/etablissements/Université_Sorbonne_Paris_Nord_@univ_spn-Q1780212-associations.md 
 
-### Histoire Université Claude Bernard - Lyon 1 @UnivLyon1 https://www.wikidata.org/wiki/Q4032 
+### Histoire : Université Claude Bernard - Lyon 1 @UnivLyon1 https://github.com/cpesr/wikidataESR/blob/master/plots/etablissements/Université_Claude_Bernard_-_Lyon_1_@UnivLyon1-Q4032-histoire.md 
 
 ![](plots/etablissements/Université_Claude_Bernard_-_Lyon_1_@UnivLyon1-Q4032-histoire.png) 
 
-[Avertissements et édition](plots/etablissements/Université_Claude_Bernard_-_Lyon_1_@UnivLyon1-Q4032-histoire.log) 
+[Avertissements et édition](plots/etablissements/Université_Claude_Bernard_-_Lyon_1_@UnivLyon1-Q4032-histoire.md 
 
-### Composition Université Claude Bernard - Lyon 1 @UnivLyon1 https://www.wikidata.org/wiki/Q4032 
+### Composition : Université Claude Bernard - Lyon 1 @UnivLyon1 https://github.com/cpesr/wikidataESR/blob/master/plots/etablissements/Université_Claude_Bernard_-_Lyon_1_@UnivLyon1-Q4032-composition.md 
 
 ![](plots/etablissements/Université_Claude_Bernard_-_Lyon_1_@UnivLyon1-Q4032-composition.png) 
 
-[Avertissements et édition](plots/etablissements/Université_Claude_Bernard_-_Lyon_1_@UnivLyon1-Q4032-composition.log) 
+[Avertissements et édition](plots/etablissements/Université_Claude_Bernard_-_Lyon_1_@UnivLyon1-Q4032-composition.md 
 
-### Associations Université Claude Bernard - Lyon 1 @UnivLyon1 https://www.wikidata.org/wiki/Q4032 
+### Associations : Université Claude Bernard - Lyon 1 @UnivLyon1 https://github.com/cpesr/wikidataESR/blob/master/plots/etablissements/Université_Claude_Bernard_-_Lyon_1_@UnivLyon1-Q4032-associations.md 
 
 ![](plots/etablissements/Université_Claude_Bernard_-_Lyon_1_@UnivLyon1-Q4032-associations.png) 
 
-[Avertissements et édition](plots/etablissements/Université_Claude_Bernard_-_Lyon_1_@UnivLyon1-Q4032-associations.log) 
+[Avertissements et édition](plots/etablissements/Université_Claude_Bernard_-_Lyon_1_@UnivLyon1-Q4032-associations.md 
 
-### Histoire Université de Corse Pasquale Paoli @univcorse https://www.wikidata.org/wiki/Q335841 
+### Histoire : Université de Corse Pasquale Paoli @univcorse https://github.com/cpesr/wikidataESR/blob/master/plots/etablissements/Université_de_Corse_Pasquale_Paoli_@univcorse-Q335841-histoire.md 
 
-![](plots/etablissements/Université_de_Corse_Pasquale_Paoli_@univcorse-Q335841-histoire.png) 
+[Avertissements et édition](plots/etablissements/Université_de_Corse_Pasquale_Paoli_@univcorse-Q335841-histoire.md 
 
-[Avertissements et édition](plots/etablissements/Université_de_Corse_Pasquale_Paoli_@univcorse-Q335841-histoire.log) 
+### Composition : Université de Corse Pasquale Paoli @univcorse https://github.com/cpesr/wikidataESR/blob/master/plots/etablissements/Université_de_Corse_Pasquale_Paoli_@univcorse-Q335841-composition.md 
 
-### Composition Université de Corse Pasquale Paoli @univcorse https://www.wikidata.org/wiki/Q335841 
+[Avertissements et édition](plots/etablissements/Université_de_Corse_Pasquale_Paoli_@univcorse-Q335841-composition.md 
 
-![](plots/etablissements/Université_de_Corse_Pasquale_Paoli_@univcorse-Q335841-composition.png) 
+### Associations : Université de Corse Pasquale Paoli @univcorse https://github.com/cpesr/wikidataESR/blob/master/plots/etablissements/Université_de_Corse_Pasquale_Paoli_@univcorse-Q335841-associations.md 
 
-[Avertissements et édition](plots/etablissements/Université_de_Corse_Pasquale_Paoli_@univcorse-Q335841-composition.log) 
+[Avertissements et édition](plots/etablissements/Université_de_Corse_Pasquale_Paoli_@univcorse-Q335841-associations.md 
 
-### Associations Université de Corse Pasquale Paoli @univcorse https://www.wikidata.org/wiki/Q335841 
-
-![](plots/etablissements/Université_de_Corse_Pasquale_Paoli_@univcorse-Q335841-associations.png) 
-
-[Avertissements et édition](plots/etablissements/Université_de_Corse_Pasquale_Paoli_@univcorse-Q335841-associations.log) 
-
-### Histoire Université de Perpignan Via Domitia @upvd1 https://www.wikidata.org/wiki/Q304872 
+### Histoire : Université de Perpignan Via Domitia @upvd1 https://github.com/cpesr/wikidataESR/blob/master/plots/etablissements/Université_de_Perpignan_Via_Domitia_@upvd1-Q304872-histoire.md 
 
 ![](plots/etablissements/Université_de_Perpignan_Via_Domitia_@upvd1-Q304872-histoire.png) 
 
-[Avertissements et édition](plots/etablissements/Université_de_Perpignan_Via_Domitia_@upvd1-Q304872-histoire.log) 
+[Avertissements et édition](plots/etablissements/Université_de_Perpignan_Via_Domitia_@upvd1-Q304872-histoire.md 
 
-### Composition Université de Perpignan Via Domitia @upvd1 https://www.wikidata.org/wiki/Q304872 
+### Composition : Université de Perpignan Via Domitia @upvd1 https://github.com/cpesr/wikidataESR/blob/master/plots/etablissements/Université_de_Perpignan_Via_Domitia_@upvd1-Q304872-composition.md 
 
 ![](plots/etablissements/Université_de_Perpignan_Via_Domitia_@upvd1-Q304872-composition.png) 
 
-[Avertissements et édition](plots/etablissements/Université_de_Perpignan_Via_Domitia_@upvd1-Q304872-composition.log) 
+[Avertissements et édition](plots/etablissements/Université_de_Perpignan_Via_Domitia_@upvd1-Q304872-composition.md 
 
-### Associations Université de Perpignan Via Domitia @upvd1 https://www.wikidata.org/wiki/Q304872 
+### Associations : Université de Perpignan Via Domitia @upvd1 https://github.com/cpesr/wikidataESR/blob/master/plots/etablissements/Université_de_Perpignan_Via_Domitia_@upvd1-Q304872-associations.md 
 
 ![](plots/etablissements/Université_de_Perpignan_Via_Domitia_@upvd1-Q304872-associations.png) 
 
-[Avertissements et édition](plots/etablissements/Université_de_Perpignan_Via_Domitia_@upvd1-Q304872-associations.log) 
+[Avertissements et édition](plots/etablissements/Université_de_Perpignan_Via_Domitia_@upvd1-Q304872-associations.md 
 
-### Histoire Université Paris-Saclay @UnivParisSaclay https://www.wikidata.org/wiki/Q13531686 
+### Histoire : Université Paris-Saclay @UnivParisSaclay https://github.com/cpesr/wikidataESR/blob/master/plots/etablissements/Université_Paris-Saclay_@UnivParisSaclay-Q13531686-histoire.md 
 
 ![](plots/etablissements/Université_Paris-Saclay_@UnivParisSaclay-Q13531686-histoire.png) 
 
-[Avertissements et édition](plots/etablissements/Université_Paris-Saclay_@UnivParisSaclay-Q13531686-histoire.log) 
+[Avertissements et édition](plots/etablissements/Université_Paris-Saclay_@UnivParisSaclay-Q13531686-histoire.md 
 
-### Composition Université Paris-Saclay @UnivParisSaclay https://www.wikidata.org/wiki/Q13531686 
+### Composition : Université Paris-Saclay @UnivParisSaclay https://github.com/cpesr/wikidataESR/blob/master/plots/etablissements/Université_Paris-Saclay_@UnivParisSaclay-Q13531686-composition.md 
 
 ![](plots/etablissements/Université_Paris-Saclay_@UnivParisSaclay-Q13531686-composition.png) 
 
-[Avertissements et édition](plots/etablissements/Université_Paris-Saclay_@UnivParisSaclay-Q13531686-composition.log) 
+[Avertissements et édition](plots/etablissements/Université_Paris-Saclay_@UnivParisSaclay-Q13531686-composition.md 
 
-### Associations Université Paris-Saclay @UnivParisSaclay https://www.wikidata.org/wiki/Q13531686 
+### Associations : Université Paris-Saclay @UnivParisSaclay https://github.com/cpesr/wikidataESR/blob/master/plots/etablissements/Université_Paris-Saclay_@UnivParisSaclay-Q13531686-associations.md 
 
-![](plots/etablissements/Université_Paris-Saclay_@UnivParisSaclay-Q13531686-associations.png) 
+[Avertissements et édition](plots/etablissements/Université_Paris-Saclay_@UnivParisSaclay-Q13531686-associations.md 
 
-[Avertissements et édition](plots/etablissements/Université_Paris-Saclay_@UnivParisSaclay-Q13531686-associations.log) 
+### Histoire : Université de la Nouvelle-Calédonie @unc_nc https://github.com/cpesr/wikidataESR/blob/master/plots/etablissements/Université_de_la_Nouvelle-Calédonie_@unc_nc-Q734332-histoire.md 
 
-### Histoire Université de la Nouvelle-Calédonie @unc_nc https://www.wikidata.org/wiki/Q734332 
+[Avertissements et édition](plots/etablissements/Université_de_la_Nouvelle-Calédonie_@unc_nc-Q734332-histoire.md 
 
-![](plots/etablissements/Université_de_la_Nouvelle-Calédonie_@unc_nc-Q734332-histoire.png) 
-
-[Avertissements et édition](plots/etablissements/Université_de_la_Nouvelle-Calédonie_@unc_nc-Q734332-histoire.log) 
-
-### Composition Université de la Nouvelle-Calédonie @unc_nc https://www.wikidata.org/wiki/Q734332 
+### Composition : Université de la Nouvelle-Calédonie @unc_nc https://github.com/cpesr/wikidataESR/blob/master/plots/etablissements/Université_de_la_Nouvelle-Calédonie_@unc_nc-Q734332-composition.md 
 
 ![](plots/etablissements/Université_de_la_Nouvelle-Calédonie_@unc_nc-Q734332-composition.png) 
 
-[Avertissements et édition](plots/etablissements/Université_de_la_Nouvelle-Calédonie_@unc_nc-Q734332-composition.log) 
+[Avertissements et édition](plots/etablissements/Université_de_la_Nouvelle-Calédonie_@unc_nc-Q734332-composition.md 
 
-### Associations Université de la Nouvelle-Calédonie @unc_nc https://www.wikidata.org/wiki/Q734332 
+### Associations : Université de la Nouvelle-Calédonie @unc_nc https://github.com/cpesr/wikidataESR/blob/master/plots/etablissements/Université_de_la_Nouvelle-Calédonie_@unc_nc-Q734332-associations.md 
 
-![](plots/etablissements/Université_de_la_Nouvelle-Calédonie_@unc_nc-Q734332-associations.png) 
+[Avertissements et édition](plots/etablissements/Université_de_la_Nouvelle-Calédonie_@unc_nc-Q734332-associations.md 
 
-[Avertissements et édition](plots/etablissements/Université_de_la_Nouvelle-Calédonie_@unc_nc-Q734332-associations.log) 
+### Histoire : Université de Limoges @unilim https://github.com/cpesr/wikidataESR/blob/master/plots/etablissements/Université_de_Limoges_@unilim-Q2661290-histoire.md 
 
-### Histoire Université de Limoges @unilim https://www.wikidata.org/wiki/Q2661290 
+[Avertissements et édition](plots/etablissements/Université_de_Limoges_@unilim-Q2661290-histoire.md 
 
-![](plots/etablissements/Université_de_Limoges_@unilim-Q2661290-histoire.png) 
-
-[Avertissements et édition](plots/etablissements/Université_de_Limoges_@unilim-Q2661290-histoire.log) 
-
-### Composition Université de Limoges @unilim https://www.wikidata.org/wiki/Q2661290 
+### Composition : Université de Limoges @unilim https://github.com/cpesr/wikidataESR/blob/master/plots/etablissements/Université_de_Limoges_@unilim-Q2661290-composition.md 
 
 ![](plots/etablissements/Université_de_Limoges_@unilim-Q2661290-composition.png) 
 
-[Avertissements et édition](plots/etablissements/Université_de_Limoges_@unilim-Q2661290-composition.log) 
+[Avertissements et édition](plots/etablissements/Université_de_Limoges_@unilim-Q2661290-composition.md 
 
-### Associations Université de Limoges @unilim https://www.wikidata.org/wiki/Q2661290 
+### Associations : Université de Limoges @unilim https://github.com/cpesr/wikidataESR/blob/master/plots/etablissements/Université_de_Limoges_@unilim-Q2661290-associations.md 
 
 ![](plots/etablissements/Université_de_Limoges_@unilim-Q2661290-associations.png) 
 
-[Avertissements et édition](plots/etablissements/Université_de_Limoges_@unilim-Q2661290-associations.log) 
+[Avertissements et édition](plots/etablissements/Université_de_Limoges_@unilim-Q2661290-associations.md 
 
-### Histoire Université de Tours @UnivTours https://www.wikidata.org/wiki/Q494335 
+### Histoire : Université de Tours @UnivTours https://github.com/cpesr/wikidataESR/blob/master/plots/etablissements/Université_de_Tours_@UnivTours-Q494335-histoire.md 
 
 ![](plots/etablissements/Université_de_Tours_@UnivTours-Q494335-histoire.png) 
 
-[Avertissements et édition](plots/etablissements/Université_de_Tours_@UnivTours-Q494335-histoire.log) 
+[Avertissements et édition](plots/etablissements/Université_de_Tours_@UnivTours-Q494335-histoire.md 
 
-### Composition Université de Tours @UnivTours https://www.wikidata.org/wiki/Q494335 
+### Composition : Université de Tours @UnivTours https://github.com/cpesr/wikidataESR/blob/master/plots/etablissements/Université_de_Tours_@UnivTours-Q494335-composition.md 
 
 ![](plots/etablissements/Université_de_Tours_@UnivTours-Q494335-composition.png) 
 
-[Avertissements et édition](plots/etablissements/Université_de_Tours_@UnivTours-Q494335-composition.log) 
+[Avertissements et édition](plots/etablissements/Université_de_Tours_@UnivTours-Q494335-composition.md 
 
-### Associations Université de Tours @UnivTours https://www.wikidata.org/wiki/Q494335 
+### Associations : Université de Tours @UnivTours https://github.com/cpesr/wikidataESR/blob/master/plots/etablissements/Université_de_Tours_@UnivTours-Q494335-associations.md 
 
 ![](plots/etablissements/Université_de_Tours_@UnivTours-Q494335-associations.png) 
 
-[Avertissements et édition](plots/etablissements/Université_de_Tours_@UnivTours-Q494335-associations.log) 
+[Avertissements et édition](plots/etablissements/Université_de_Tours_@UnivTours-Q494335-associations.md 
 
-### Histoire Université des Antilles @UnivAntilles https://www.wikidata.org/wiki/Q16682075 
+### Histoire : Université des Antilles @UnivAntilles https://github.com/cpesr/wikidataESR/blob/master/plots/etablissements/Université_des_Antilles_@UnivAntilles-Q16682075-histoire.md 
 
-![](plots/etablissements/Université_des_Antilles_@UnivAntilles-Q16682075-histoire.png) 
+[Avertissements et édition](plots/etablissements/Université_des_Antilles_@UnivAntilles-Q16682075-histoire.md 
 
-[Avertissements et édition](plots/etablissements/Université_des_Antilles_@UnivAntilles-Q16682075-histoire.log) 
+### Composition : Université des Antilles @UnivAntilles https://github.com/cpesr/wikidataESR/blob/master/plots/etablissements/Université_des_Antilles_@UnivAntilles-Q16682075-composition.md 
 
-### Composition Université des Antilles @UnivAntilles https://www.wikidata.org/wiki/Q16682075 
+[Avertissements et édition](plots/etablissements/Université_des_Antilles_@UnivAntilles-Q16682075-composition.md 
 
-![](plots/etablissements/Université_des_Antilles_@UnivAntilles-Q16682075-composition.png) 
+### Associations : Université des Antilles @UnivAntilles https://github.com/cpesr/wikidataESR/blob/master/plots/etablissements/Université_des_Antilles_@UnivAntilles-Q16682075-associations.md 
 
-[Avertissements et édition](plots/etablissements/Université_des_Antilles_@UnivAntilles-Q16682075-composition.log) 
+[Avertissements et édition](plots/etablissements/Université_des_Antilles_@UnivAntilles-Q16682075-associations.md 
 
-### Associations Université des Antilles @UnivAntilles https://www.wikidata.org/wiki/Q16682075 
-
-![](plots/etablissements/Université_des_Antilles_@UnivAntilles-Q16682075-associations.png) 
-
-[Avertissements et édition](plots/etablissements/Université_des_Antilles_@UnivAntilles-Q16682075-associations.log) 
-
-### Histoire Université Lumière - Lyon 2 @univ_lyon2 https://www.wikidata.org/wiki/Q4041 
+### Histoire : Université Lumière - Lyon 2 @univ_lyon2 https://github.com/cpesr/wikidataESR/blob/master/plots/etablissements/Université_Lumière_-_Lyon_2_@univ_lyon2-Q4041-histoire.md 
 
 ![](plots/etablissements/Université_Lumière_-_Lyon_2_@univ_lyon2-Q4041-histoire.png) 
 
-[Avertissements et édition](plots/etablissements/Université_Lumière_-_Lyon_2_@univ_lyon2-Q4041-histoire.log) 
+[Avertissements et édition](plots/etablissements/Université_Lumière_-_Lyon_2_@univ_lyon2-Q4041-histoire.md 
 
-### Composition Université Lumière - Lyon 2 @univ_lyon2 https://www.wikidata.org/wiki/Q4041 
+### Composition : Université Lumière - Lyon 2 @univ_lyon2 https://github.com/cpesr/wikidataESR/blob/master/plots/etablissements/Université_Lumière_-_Lyon_2_@univ_lyon2-Q4041-composition.md 
 
 ![](plots/etablissements/Université_Lumière_-_Lyon_2_@univ_lyon2-Q4041-composition.png) 
 
-[Avertissements et édition](plots/etablissements/Université_Lumière_-_Lyon_2_@univ_lyon2-Q4041-composition.log) 
+[Avertissements et édition](plots/etablissements/Université_Lumière_-_Lyon_2_@univ_lyon2-Q4041-composition.md 
 
-### Associations Université Lumière - Lyon 2 @univ_lyon2 https://www.wikidata.org/wiki/Q4041 
+### Associations : Université Lumière - Lyon 2 @univ_lyon2 https://github.com/cpesr/wikidataESR/blob/master/plots/etablissements/Université_Lumière_-_Lyon_2_@univ_lyon2-Q4041-associations.md 
 
 ![](plots/etablissements/Université_Lumière_-_Lyon_2_@univ_lyon2-Q4041-associations.png) 
 
-[Avertissements et édition](plots/etablissements/Université_Lumière_-_Lyon_2_@univ_lyon2-Q4041-associations.log) 
+[Avertissements et édition](plots/etablissements/Université_Lumière_-_Lyon_2_@univ_lyon2-Q4041-associations.md 
 
-### Histoire Université Jean Moulin - Lyon 3 @UJML https://www.wikidata.org/wiki/Q4027 
+### Histoire : Université Jean Moulin - Lyon 3 @UJML https://github.com/cpesr/wikidataESR/blob/master/plots/etablissements/Université_Jean_Moulin_-_Lyon_3_@UJML-Q4027-histoire.md 
 
 ![](plots/etablissements/Université_Jean_Moulin_-_Lyon_3_@UJML-Q4027-histoire.png) 
 
-[Avertissements et édition](plots/etablissements/Université_Jean_Moulin_-_Lyon_3_@UJML-Q4027-histoire.log) 
+[Avertissements et édition](plots/etablissements/Université_Jean_Moulin_-_Lyon_3_@UJML-Q4027-histoire.md 
 
-### Composition Université Jean Moulin - Lyon 3 @UJML https://www.wikidata.org/wiki/Q4027 
+### Composition : Université Jean Moulin - Lyon 3 @UJML https://github.com/cpesr/wikidataESR/blob/master/plots/etablissements/Université_Jean_Moulin_-_Lyon_3_@UJML-Q4027-composition.md 
 
 ![](plots/etablissements/Université_Jean_Moulin_-_Lyon_3_@UJML-Q4027-composition.png) 
 
-[Avertissements et édition](plots/etablissements/Université_Jean_Moulin_-_Lyon_3_@UJML-Q4027-composition.log) 
+[Avertissements et édition](plots/etablissements/Université_Jean_Moulin_-_Lyon_3_@UJML-Q4027-composition.md 
 
-### Associations Université Jean Moulin - Lyon 3 @UJML https://www.wikidata.org/wiki/Q4027 
+### Associations : Université Jean Moulin - Lyon 3 @UJML https://github.com/cpesr/wikidataESR/blob/master/plots/etablissements/Université_Jean_Moulin_-_Lyon_3_@UJML-Q4027-associations.md 
 
 ![](plots/etablissements/Université_Jean_Moulin_-_Lyon_3_@UJML-Q4027-associations.png) 
 
-[Avertissements et édition](plots/etablissements/Université_Jean_Moulin_-_Lyon_3_@UJML-Q4027-associations.log) 
+[Avertissements et édition](plots/etablissements/Université_Jean_Moulin_-_Lyon_3_@UJML-Q4027-associations.md 
 
-### Histoire AU @univavignon https://www.wikidata.org/wiki/Q2033119 
+### Histoire : AU @univavignon https://github.com/cpesr/wikidataESR/blob/master/plots/etablissements/AU_@univavignon-Q2033119-histoire.md 
 
-![](plots/etablissements/AU_@univavignon-Q2033119-histoire.png) 
+[Avertissements et édition](plots/etablissements/AU_@univavignon-Q2033119-histoire.md 
 
-[Avertissements et édition](plots/etablissements/AU_@univavignon-Q2033119-histoire.log) 
-
-### Composition AU @univavignon https://www.wikidata.org/wiki/Q2033119 
+### Composition : AU @univavignon https://github.com/cpesr/wikidataESR/blob/master/plots/etablissements/AU_@univavignon-Q2033119-composition.md 
 
 ![](plots/etablissements/AU_@univavignon-Q2033119-composition.png) 
 
-[Avertissements et édition](plots/etablissements/AU_@univavignon-Q2033119-composition.log) 
+[Avertissements et édition](plots/etablissements/AU_@univavignon-Q2033119-composition.md 
 
-### Associations AU @univavignon https://www.wikidata.org/wiki/Q2033119 
+### Associations : AU @univavignon https://github.com/cpesr/wikidataESR/blob/master/plots/etablissements/AU_@univavignon-Q2033119-associations.md 
 
 ![](plots/etablissements/AU_@univavignon-Q2033119-associations.png) 
 
-[Avertissements et édition](plots/etablissements/AU_@univavignon-Q2033119-associations.log) 
+[Avertissements et édition](plots/etablissements/AU_@univavignon-Q2033119-associations.md 
 
-### Histoire Université d'Angers @UnivAngers https://www.wikidata.org/wiki/Q1538727 
+### Histoire : Université d'Angers @UnivAngers https://github.com/cpesr/wikidataESR/blob/master/plots/etablissements/Université_d'Angers_@UnivAngers-Q1538727-histoire.md 
 
-![](plots/etablissements/Université_d'Angers_@UnivAngers-Q1538727-histoire.png) 
+[Avertissements et édition](plots/etablissements/Université_d'Angers_@UnivAngers-Q1538727-histoire.md 
 
-[Avertissements et édition](plots/etablissements/Université_d'Angers_@UnivAngers-Q1538727-histoire.log) 
-
-### Composition Université d'Angers @UnivAngers https://www.wikidata.org/wiki/Q1538727 
+### Composition : Université d'Angers @UnivAngers https://github.com/cpesr/wikidataESR/blob/master/plots/etablissements/Université_d'Angers_@UnivAngers-Q1538727-composition.md 
 
 ![](plots/etablissements/Université_d'Angers_@UnivAngers-Q1538727-composition.png) 
 
-[Avertissements et édition](plots/etablissements/Université_d'Angers_@UnivAngers-Q1538727-composition.log) 
+[Avertissements et édition](plots/etablissements/Université_d'Angers_@UnivAngers-Q1538727-composition.md 
 
-### Associations Université d'Angers @UnivAngers https://www.wikidata.org/wiki/Q1538727 
+### Associations : Université d'Angers @UnivAngers https://github.com/cpesr/wikidataESR/blob/master/plots/etablissements/Université_d'Angers_@UnivAngers-Q1538727-associations.md 
 
 ![](plots/etablissements/Université_d'Angers_@UnivAngers-Q1538727-associations.png) 
 
-[Avertissements et édition](plots/etablissements/Université_d'Angers_@UnivAngers-Q1538727-associations.log) 
+[Avertissements et édition](plots/etablissements/Université_d'Angers_@UnivAngers-Q1538727-associations.md 
 
-### Histoire Université de Bourgogne @univbourgogne https://www.wikidata.org/wiki/Q287072 
+### Histoire : Université de Bourgogne @univbourgogne https://github.com/cpesr/wikidataESR/blob/master/plots/etablissements/Université_de_Bourgogne_@univbourgogne-Q287072-histoire.md 
 
-![](plots/etablissements/Université_de_Bourgogne_@univbourgogne-Q287072-histoire.png) 
+[Avertissements et édition](plots/etablissements/Université_de_Bourgogne_@univbourgogne-Q287072-histoire.md 
 
-[Avertissements et édition](plots/etablissements/Université_de_Bourgogne_@univbourgogne-Q287072-histoire.log) 
-
-### Composition Université de Bourgogne @univbourgogne https://www.wikidata.org/wiki/Q287072 
+### Composition : Université de Bourgogne @univbourgogne https://github.com/cpesr/wikidataESR/blob/master/plots/etablissements/Université_de_Bourgogne_@univbourgogne-Q287072-composition.md 
 
 ![](plots/etablissements/Université_de_Bourgogne_@univbourgogne-Q287072-composition.png) 
 
-[Avertissements et édition](plots/etablissements/Université_de_Bourgogne_@univbourgogne-Q287072-composition.log) 
+[Avertissements et édition](plots/etablissements/Université_de_Bourgogne_@univbourgogne-Q287072-composition.md 
 
-### Associations Université de Bourgogne @univbourgogne https://www.wikidata.org/wiki/Q287072 
+### Associations : Université de Bourgogne @univbourgogne https://github.com/cpesr/wikidataESR/blob/master/plots/etablissements/Université_de_Bourgogne_@univbourgogne-Q287072-associations.md 
 
 ![](plots/etablissements/Université_de_Bourgogne_@univbourgogne-Q287072-associations.png) 
 
-[Avertissements et édition](plots/etablissements/Université_de_Bourgogne_@univbourgogne-Q287072-associations.log) 
+[Avertissements et édition](plots/etablissements/Université_de_Bourgogne_@univbourgogne-Q287072-associations.md 
 
-### Histoire UBS @ubs_universite https://www.wikidata.org/wiki/Q1125958 
+### Histoire : UBS @ubs_universite https://github.com/cpesr/wikidataESR/blob/master/plots/etablissements/UBS_@ubs_universite-Q1125958-histoire.md 
 
-![](plots/etablissements/UBS_@ubs_universite-Q1125958-histoire.png) 
+[Avertissements et édition](plots/etablissements/UBS_@ubs_universite-Q1125958-histoire.md 
 
-[Avertissements et édition](plots/etablissements/UBS_@ubs_universite-Q1125958-histoire.log) 
-
-### Composition UBS @ubs_universite https://www.wikidata.org/wiki/Q1125958 
+### Composition : UBS @ubs_universite https://github.com/cpesr/wikidataESR/blob/master/plots/etablissements/UBS_@ubs_universite-Q1125958-composition.md 
 
 ![](plots/etablissements/UBS_@ubs_universite-Q1125958-composition.png) 
 
-[Avertissements et édition](plots/etablissements/UBS_@ubs_universite-Q1125958-composition.log) 
+[Avertissements et édition](plots/etablissements/UBS_@ubs_universite-Q1125958-composition.md 
 
-### Associations UBS @ubs_universite https://www.wikidata.org/wiki/Q1125958 
+### Associations : UBS @ubs_universite https://github.com/cpesr/wikidataESR/blob/master/plots/etablissements/UBS_@ubs_universite-Q1125958-associations.md 
 
-![](plots/etablissements/UBS_@ubs_universite-Q1125958-associations.png) 
+[Avertissements et édition](plots/etablissements/UBS_@ubs_universite-Q1125958-associations.md 
 
-[Avertissements et édition](plots/etablissements/UBS_@ubs_universite-Q1125958-associations.log) 
+### Histoire : Université de Rouen Normandie  https://github.com/cpesr/wikidataESR/blob/master/plots/etablissements/Université_de_Rouen_Normandie_-Q494247-histoire.md 
 
-### Histoire Université de Rouen Normandie  https://www.wikidata.org/wiki/Q494247 
+[Avertissements et édition](plots/etablissements/Université_de_Rouen_Normandie_-Q494247-histoire.md 
 
-![](plots/etablissements/Université_de_Rouen_Normandie_-Q494247-histoire.png) 
-
-[Avertissements et édition](plots/etablissements/Université_de_Rouen_Normandie_-Q494247-histoire.log) 
-
-### Composition Université de Rouen Normandie  https://www.wikidata.org/wiki/Q494247 
+### Composition : Université de Rouen Normandie  https://github.com/cpesr/wikidataESR/blob/master/plots/etablissements/Université_de_Rouen_Normandie_-Q494247-composition.md 
 
 ![](plots/etablissements/Université_de_Rouen_Normandie_-Q494247-composition.png) 
 
-[Avertissements et édition](plots/etablissements/Université_de_Rouen_Normandie_-Q494247-composition.log) 
+[Avertissements et édition](plots/etablissements/Université_de_Rouen_Normandie_-Q494247-composition.md 
 
-### Associations Université de Rouen Normandie  https://www.wikidata.org/wiki/Q494247 
+### Associations : Université de Rouen Normandie  https://github.com/cpesr/wikidataESR/blob/master/plots/etablissements/Université_de_Rouen_Normandie_-Q494247-associations.md 
 
 ![](plots/etablissements/Université_de_Rouen_Normandie_-Q494247-associations.png) 
 
-[Avertissements et édition](plots/etablissements/Université_de_Rouen_Normandie_-Q494247-associations.log) 
+[Avertissements et édition](plots/etablissements/Université_de_Rouen_Normandie_-Q494247-associations.md 
 
-### Histoire Université de Bretagne Occidentale @UBO_UnivBrest https://www.wikidata.org/wiki/Q1857334 
+### Histoire : Université de Bretagne Occidentale @UBO_UnivBrest https://github.com/cpesr/wikidataESR/blob/master/plots/etablissements/Université_de_Bretagne_Occidentale_@UBO_UnivBrest-Q1857334-histoire.md 
 
-![](plots/etablissements/Université_de_Bretagne_Occidentale_@UBO_UnivBrest-Q1857334-histoire.png) 
+[Avertissements et édition](plots/etablissements/Université_de_Bretagne_Occidentale_@UBO_UnivBrest-Q1857334-histoire.md 
 
-[Avertissements et édition](plots/etablissements/Université_de_Bretagne_Occidentale_@UBO_UnivBrest-Q1857334-histoire.log) 
-
-### Composition Université de Bretagne Occidentale @UBO_UnivBrest https://www.wikidata.org/wiki/Q1857334 
+### Composition : Université de Bretagne Occidentale @UBO_UnivBrest https://github.com/cpesr/wikidataESR/blob/master/plots/etablissements/Université_de_Bretagne_Occidentale_@UBO_UnivBrest-Q1857334-composition.md 
 
 ![](plots/etablissements/Université_de_Bretagne_Occidentale_@UBO_UnivBrest-Q1857334-composition.png) 
 
-[Avertissements et édition](plots/etablissements/Université_de_Bretagne_Occidentale_@UBO_UnivBrest-Q1857334-composition.log) 
+[Avertissements et édition](plots/etablissements/Université_de_Bretagne_Occidentale_@UBO_UnivBrest-Q1857334-composition.md 
 
-### Associations Université de Bretagne Occidentale @UBO_UnivBrest https://www.wikidata.org/wiki/Q1857334 
+### Associations : Université de Bretagne Occidentale @UBO_UnivBrest https://github.com/cpesr/wikidataESR/blob/master/plots/etablissements/Université_de_Bretagne_Occidentale_@UBO_UnivBrest-Q1857334-associations.md 
 
-![](plots/etablissements/Université_de_Bretagne_Occidentale_@UBO_UnivBrest-Q1857334-associations.png) 
+[Avertissements et édition](plots/etablissements/Université_de_Bretagne_Occidentale_@UBO_UnivBrest-Q1857334-associations.md 
 
-[Avertissements et édition](plots/etablissements/Université_de_Bretagne_Occidentale_@UBO_UnivBrest-Q1857334-associations.log) 
-
-### Histoire Université Toulouse - Jean Jaurès @UTJeanJaures https://www.wikidata.org/wiki/Q1933558 
+### Histoire : Université Toulouse - Jean Jaurès @UTJeanJaures https://github.com/cpesr/wikidataESR/blob/master/plots/etablissements/Université_Toulouse_-_Jean_Jaurès_@UTJeanJaures-Q1933558-histoire.md 
 
 ![](plots/etablissements/Université_Toulouse_-_Jean_Jaurès_@UTJeanJaures-Q1933558-histoire.png) 
 
-[Avertissements et édition](plots/etablissements/Université_Toulouse_-_Jean_Jaurès_@UTJeanJaures-Q1933558-histoire.log) 
+[Avertissements et édition](plots/etablissements/Université_Toulouse_-_Jean_Jaurès_@UTJeanJaures-Q1933558-histoire.md 
 
-### Composition Université Toulouse - Jean Jaurès @UTJeanJaures https://www.wikidata.org/wiki/Q1933558 
+### Composition : Université Toulouse - Jean Jaurès @UTJeanJaures https://github.com/cpesr/wikidataESR/blob/master/plots/etablissements/Université_Toulouse_-_Jean_Jaurès_@UTJeanJaures-Q1933558-composition.md 
 
 ![](plots/etablissements/Université_Toulouse_-_Jean_Jaurès_@UTJeanJaures-Q1933558-composition.png) 
 
-[Avertissements et édition](plots/etablissements/Université_Toulouse_-_Jean_Jaurès_@UTJeanJaures-Q1933558-composition.log) 
+[Avertissements et édition](plots/etablissements/Université_Toulouse_-_Jean_Jaurès_@UTJeanJaures-Q1933558-composition.md 
 
-### Associations Université Toulouse - Jean Jaurès @UTJeanJaures https://www.wikidata.org/wiki/Q1933558 
+### Associations : Université Toulouse - Jean Jaurès @UTJeanJaures https://github.com/cpesr/wikidataESR/blob/master/plots/etablissements/Université_Toulouse_-_Jean_Jaurès_@UTJeanJaures-Q1933558-associations.md 
 
 ![](plots/etablissements/Université_Toulouse_-_Jean_Jaurès_@UTJeanJaures-Q1933558-associations.png) 
 
-[Avertissements et édition](plots/etablissements/Université_Toulouse_-_Jean_Jaurès_@UTJeanJaures-Q1933558-associations.log) 
+[Avertissements et édition](plots/etablissements/Université_Toulouse_-_Jean_Jaurès_@UTJeanJaures-Q1933558-associations.md 
 
 ## Histoire, composition et association des Grand établissement actuels 
 
-### Histoire CNAM @LeCnam https://www.wikidata.org/wiki/Q524289 
+### Histoire : CNAM @LeCnam https://github.com/cpesr/wikidataESR/blob/master/plots/etablissements/CNAM_@LeCnam-Q524289-histoire.md 
 
-![](plots/etablissements/CNAM_@LeCnam-Q524289-histoire.png) 
+[Avertissements et édition](plots/etablissements/CNAM_@LeCnam-Q524289-histoire.md 
 
-[Avertissements et édition](plots/etablissements/CNAM_@LeCnam-Q524289-histoire.log) 
-
-### Composition CNAM @LeCnam https://www.wikidata.org/wiki/Q524289 
+### Composition : CNAM @LeCnam https://github.com/cpesr/wikidataESR/blob/master/plots/etablissements/CNAM_@LeCnam-Q524289-composition.md 
 
 ![](plots/etablissements/CNAM_@LeCnam-Q524289-composition.png) 
 
-[Avertissements et édition](plots/etablissements/CNAM_@LeCnam-Q524289-composition.log) 
+[Avertissements et édition](plots/etablissements/CNAM_@LeCnam-Q524289-composition.md 
 
-### Associations CNAM @LeCnam https://www.wikidata.org/wiki/Q524289 
+### Associations : CNAM @LeCnam https://github.com/cpesr/wikidataESR/blob/master/plots/etablissements/CNAM_@LeCnam-Q524289-associations.md 
 
 ![](plots/etablissements/CNAM_@LeCnam-Q524289-associations.png) 
 
-[Avertissements et édition](plots/etablissements/CNAM_@LeCnam-Q524289-associations.log) 
+[Avertissements et édition](plots/etablissements/CNAM_@LeCnam-Q524289-associations.md 
 
-### Histoire IEP de Paris @sciencespo https://www.wikidata.org/wiki/Q859363 
+### Histoire : IEP de Paris @sciencespo https://github.com/cpesr/wikidataESR/blob/master/plots/etablissements/IEP_de_Paris_@sciencespo-Q859363-histoire.md 
 
 ![](plots/etablissements/IEP_de_Paris_@sciencespo-Q859363-histoire.png) 
 
-[Avertissements et édition](plots/etablissements/IEP_de_Paris_@sciencespo-Q859363-histoire.log) 
+[Avertissements et édition](plots/etablissements/IEP_de_Paris_@sciencespo-Q859363-histoire.md 
 
-### Composition IEP de Paris @sciencespo https://www.wikidata.org/wiki/Q859363 
+### Composition : IEP de Paris @sciencespo https://github.com/cpesr/wikidataESR/blob/master/plots/etablissements/IEP_de_Paris_@sciencespo-Q859363-composition.md 
 
 ![](plots/etablissements/IEP_de_Paris_@sciencespo-Q859363-composition.png) 
 
-[Avertissements et édition](plots/etablissements/IEP_de_Paris_@sciencespo-Q859363-composition.log) 
+[Avertissements et édition](plots/etablissements/IEP_de_Paris_@sciencespo-Q859363-composition.md 
 
-### Associations IEP de Paris @sciencespo https://www.wikidata.org/wiki/Q859363 
+### Associations : IEP de Paris @sciencespo https://github.com/cpesr/wikidataESR/blob/master/plots/etablissements/IEP_de_Paris_@sciencespo-Q859363-associations.md 
 
 ![](plots/etablissements/IEP_de_Paris_@sciencespo-Q859363-associations.png) 
 
-[Avertissements et édition](plots/etablissements/IEP_de_Paris_@sciencespo-Q859363-associations.log) 
+[Avertissements et édition](plots/etablissements/IEP_de_Paris_@sciencespo-Q859363-associations.md 
 
-### Histoire Agrosup Dijon @AgroSupDijon https://www.wikidata.org/wiki/Q8077943 
+### Histoire : Agrosup Dijon @AgroSupDijon https://github.com/cpesr/wikidataESR/blob/master/plots/etablissements/Agrosup_Dijon_@AgroSupDijon-Q8077943-histoire.md 
 
-![](plots/etablissements/Agrosup_Dijon_@AgroSupDijon-Q8077943-histoire.png) 
+[Avertissements et édition](plots/etablissements/Agrosup_Dijon_@AgroSupDijon-Q8077943-histoire.md 
 
-[Avertissements et édition](plots/etablissements/Agrosup_Dijon_@AgroSupDijon-Q8077943-histoire.log) 
-
-### Composition Agrosup Dijon @AgroSupDijon https://www.wikidata.org/wiki/Q8077943 
+### Composition : Agrosup Dijon @AgroSupDijon https://github.com/cpesr/wikidataESR/blob/master/plots/etablissements/Agrosup_Dijon_@AgroSupDijon-Q8077943-composition.md 
 
 ![](plots/etablissements/Agrosup_Dijon_@AgroSupDijon-Q8077943-composition.png) 
 
-[Avertissements et édition](plots/etablissements/Agrosup_Dijon_@AgroSupDijon-Q8077943-composition.log) 
+[Avertissements et édition](plots/etablissements/Agrosup_Dijon_@AgroSupDijon-Q8077943-composition.md 
 
-### Associations Agrosup Dijon @AgroSupDijon https://www.wikidata.org/wiki/Q8077943 
+### Associations : Agrosup Dijon @AgroSupDijon https://github.com/cpesr/wikidataESR/blob/master/plots/etablissements/Agrosup_Dijon_@AgroSupDijon-Q8077943-associations.md 
 
-![](plots/etablissements/Agrosup_Dijon_@AgroSupDijon-Q8077943-associations.png) 
+[Avertissements et édition](plots/etablissements/Agrosup_Dijon_@AgroSupDijon-Q8077943-associations.md 
 
-[Avertissements et édition](plots/etablissements/Agrosup_Dijon_@AgroSupDijon-Q8077943-associations.log) 
+### Histoire : Ecole de l'air et de l'espace  https://github.com/cpesr/wikidataESR/blob/master/plots/etablissements/Ecole_de_l'air_et_de_l'espace_-Q3577870-histoire.md 
 
-### Histoire Ecole de l'air et de l'espace  https://www.wikidata.org/wiki/Q3577870 
+[Avertissements et édition](plots/etablissements/Ecole_de_l'air_et_de_l'espace_-Q3577870-histoire.md 
 
-![](plots/etablissements/Ecole_de_l'air_et_de_l'espace_-Q3577870-histoire.png) 
+### Composition : Ecole de l'air et de l'espace  https://github.com/cpesr/wikidataESR/blob/master/plots/etablissements/Ecole_de_l'air_et_de_l'espace_-Q3577870-composition.md 
 
-[Avertissements et édition](plots/etablissements/Ecole_de_l'air_et_de_l'espace_-Q3577870-histoire.log) 
+[Avertissements et édition](plots/etablissements/Ecole_de_l'air_et_de_l'espace_-Q3577870-composition.md 
 
-### Composition Ecole de l'air et de l'espace  https://www.wikidata.org/wiki/Q3577870 
-
-![](plots/etablissements/Ecole_de_l'air_et_de_l'espace_-Q3577870-composition.png) 
-
-[Avertissements et édition](plots/etablissements/Ecole_de_l'air_et_de_l'espace_-Q3577870-composition.log) 
-
-### Associations Ecole de l'air et de l'espace  https://www.wikidata.org/wiki/Q3577870 
+### Associations : Ecole de l'air et de l'espace  https://github.com/cpesr/wikidataESR/blob/master/plots/etablissements/Ecole_de_l'air_et_de_l'espace_-Q3577870-associations.md 
 
 ![](plots/etablissements/Ecole_de_l'air_et_de_l'espace_-Q3577870-associations.png) 
 
-[Avertissements et édition](plots/etablissements/Ecole_de_l'air_et_de_l'espace_-Q3577870-associations.log) 
+[Avertissements et édition](plots/etablissements/Ecole_de_l'air_et_de_l'espace_-Q3577870-associations.md 
 
-### Histoire ENAC @enacfrance https://www.wikidata.org/wiki/Q174335 
+### Histoire : ENAC @enacfrance https://github.com/cpesr/wikidataESR/blob/master/plots/etablissements/ENAC_@enacfrance-Q174335-histoire.md 
 
-![](plots/etablissements/ENAC_@enacfrance-Q174335-histoire.png) 
+[Avertissements et édition](plots/etablissements/ENAC_@enacfrance-Q174335-histoire.md 
 
-[Avertissements et édition](plots/etablissements/ENAC_@enacfrance-Q174335-histoire.log) 
+### Composition : ENAC @enacfrance https://github.com/cpesr/wikidataESR/blob/master/plots/etablissements/ENAC_@enacfrance-Q174335-composition.md 
 
-### Composition ENAC @enacfrance https://www.wikidata.org/wiki/Q174335 
+[Avertissements et édition](plots/etablissements/ENAC_@enacfrance-Q174335-composition.md 
 
-![](plots/etablissements/ENAC_@enacfrance-Q174335-composition.png) 
+### Associations : ENAC @enacfrance https://github.com/cpesr/wikidataESR/blob/master/plots/etablissements/ENAC_@enacfrance-Q174335-associations.md 
 
-[Avertissements et édition](plots/etablissements/ENAC_@enacfrance-Q174335-composition.log) 
+[Avertissements et édition](plots/etablissements/ENAC_@enacfrance-Q174335-associations.md 
 
-### Associations ENAC @enacfrance https://www.wikidata.org/wiki/Q174335 
+### Histoire : École nationale des ponts et chaussées @EcoledesPonts https://github.com/cpesr/wikidataESR/blob/master/plots/etablissements/École_nationale_des_ponts_et_chaussées_@EcoledesPonts-Q273523-histoire.md 
 
-![](plots/etablissements/ENAC_@enacfrance-Q174335-associations.png) 
+[Avertissements et édition](plots/etablissements/École_nationale_des_ponts_et_chaussées_@EcoledesPonts-Q273523-histoire.md 
 
-[Avertissements et édition](plots/etablissements/ENAC_@enacfrance-Q174335-associations.log) 
-
-### Histoire École nationale des ponts et chaussées @EcoledesPonts https://www.wikidata.org/wiki/Q273523 
-
-![](plots/etablissements/École_nationale_des_ponts_et_chaussées_@EcoledesPonts-Q273523-histoire.png) 
-
-[Avertissements et édition](plots/etablissements/École_nationale_des_ponts_et_chaussées_@EcoledesPonts-Q273523-histoire.log) 
-
-### Composition École nationale des ponts et chaussées @EcoledesPonts https://www.wikidata.org/wiki/Q273523 
+### Composition : École nationale des ponts et chaussées @EcoledesPonts https://github.com/cpesr/wikidataESR/blob/master/plots/etablissements/École_nationale_des_ponts_et_chaussées_@EcoledesPonts-Q273523-composition.md 
 
 ![](plots/etablissements/École_nationale_des_ponts_et_chaussées_@EcoledesPonts-Q273523-composition.png) 
 
-[Avertissements et édition](plots/etablissements/École_nationale_des_ponts_et_chaussées_@EcoledesPonts-Q273523-composition.log) 
+[Avertissements et édition](plots/etablissements/École_nationale_des_ponts_et_chaussées_@EcoledesPonts-Q273523-composition.md 
 
-### Associations École nationale des ponts et chaussées @EcoledesPonts https://www.wikidata.org/wiki/Q273523 
+### Associations : École nationale des ponts et chaussées @EcoledesPonts https://github.com/cpesr/wikidataESR/blob/master/plots/etablissements/École_nationale_des_ponts_et_chaussées_@EcoledesPonts-Q273523-associations.md 
 
 ![](plots/etablissements/École_nationale_des_ponts_et_chaussées_@EcoledesPonts-Q273523-associations.png) 
 
-[Avertissements et édition](plots/etablissements/École_nationale_des_ponts_et_chaussées_@EcoledesPonts-Q273523-associations.log) 
+[Avertissements et édition](plots/etablissements/École_nationale_des_ponts_et_chaussées_@EcoledesPonts-Q273523-associations.md 
 
-### Histoire EHESP @EHESP https://www.wikidata.org/wiki/Q1587855 
+### Histoire : EHESP @EHESP https://github.com/cpesr/wikidataESR/blob/master/plots/etablissements/EHESP_@EHESP-Q1587855-histoire.md 
 
-![](plots/etablissements/EHESP_@EHESP-Q1587855-histoire.png) 
+[Avertissements et édition](plots/etablissements/EHESP_@EHESP-Q1587855-histoire.md 
 
-[Avertissements et édition](plots/etablissements/EHESP_@EHESP-Q1587855-histoire.log) 
+### Composition : EHESP @EHESP https://github.com/cpesr/wikidataESR/blob/master/plots/etablissements/EHESP_@EHESP-Q1587855-composition.md 
 
-### Composition EHESP @EHESP https://www.wikidata.org/wiki/Q1587855 
+[Avertissements et édition](plots/etablissements/EHESP_@EHESP-Q1587855-composition.md 
 
-![](plots/etablissements/EHESP_@EHESP-Q1587855-composition.png) 
-
-[Avertissements et édition](plots/etablissements/EHESP_@EHESP-Q1587855-composition.log) 
-
-### Associations EHESP @EHESP https://www.wikidata.org/wiki/Q1587855 
+### Associations : EHESP @EHESP https://github.com/cpesr/wikidataESR/blob/master/plots/etablissements/EHESP_@EHESP-Q1587855-associations.md 
 
 ![](plots/etablissements/EHESP_@EHESP-Q1587855-associations.png) 
 
-[Avertissements et édition](plots/etablissements/EHESP_@EHESP-Q1587855-associations.log) 
+[Avertissements et édition](plots/etablissements/EHESP_@EHESP-Q1587855-associations.md 
 
-### Histoire Collège de France @cdf1530 https://www.wikidata.org/wiki/Q202660 
+### Histoire : Collège de France @cdf1530 https://github.com/cpesr/wikidataESR/blob/master/plots/etablissements/Collège_de_France_@cdf1530-Q202660-histoire.md 
 
 ![](plots/etablissements/Collège_de_France_@cdf1530-Q202660-histoire.png) 
 
-[Avertissements et édition](plots/etablissements/Collège_de_France_@cdf1530-Q202660-histoire.log) 
+[Avertissements et édition](plots/etablissements/Collège_de_France_@cdf1530-Q202660-histoire.md 
 
-### Composition Collège de France @cdf1530 https://www.wikidata.org/wiki/Q202660 
+### Composition : Collège de France @cdf1530 https://github.com/cpesr/wikidataESR/blob/master/plots/etablissements/Collège_de_France_@cdf1530-Q202660-composition.md 
 
 ![](plots/etablissements/Collège_de_France_@cdf1530-Q202660-composition.png) 
 
-[Avertissements et édition](plots/etablissements/Collège_de_France_@cdf1530-Q202660-composition.log) 
+[Avertissements et édition](plots/etablissements/Collège_de_France_@cdf1530-Q202660-composition.md 
 
-### Associations Collège de France @cdf1530 https://www.wikidata.org/wiki/Q202660 
+### Associations : Collège de France @cdf1530 https://github.com/cpesr/wikidataESR/blob/master/plots/etablissements/Collège_de_France_@cdf1530-Q202660-associations.md 
 
 ![](plots/etablissements/Collège_de_France_@cdf1530-Q202660-associations.png) 
 
-[Avertissements et édition](plots/etablissements/Collège_de_France_@cdf1530-Q202660-associations.log) 
+[Avertissements et édition](plots/etablissements/Collège_de_France_@cdf1530-Q202660-associations.md 
 
-### Histoire EHESS @EHESS_fr https://www.wikidata.org/wiki/Q273518 
+### Histoire : EHESS @EHESS_fr https://github.com/cpesr/wikidataESR/blob/master/plots/etablissements/EHESS_@EHESS_fr-Q273518-histoire.md 
 
 ![](plots/etablissements/EHESS_@EHESS_fr-Q273518-histoire.png) 
 
-[Avertissements et édition](plots/etablissements/EHESS_@EHESS_fr-Q273518-histoire.log) 
+[Avertissements et édition](plots/etablissements/EHESS_@EHESS_fr-Q273518-histoire.md 
 
-### Composition EHESS @EHESS_fr https://www.wikidata.org/wiki/Q273518 
+### Composition : EHESS @EHESS_fr https://github.com/cpesr/wikidataESR/blob/master/plots/etablissements/EHESS_@EHESS_fr-Q273518-composition.md 
 
 ![](plots/etablissements/EHESS_@EHESS_fr-Q273518-composition.png) 
 
-[Avertissements et édition](plots/etablissements/EHESS_@EHESS_fr-Q273518-composition.log) 
+[Avertissements et édition](plots/etablissements/EHESS_@EHESS_fr-Q273518-composition.md 
 
-### Associations EHESS @EHESS_fr https://www.wikidata.org/wiki/Q273518 
+### Associations : EHESS @EHESS_fr https://github.com/cpesr/wikidataESR/blob/master/plots/etablissements/EHESS_@EHESS_fr-Q273518-associations.md 
 
 ![](plots/etablissements/EHESS_@EHESS_fr-Q273518-associations.png) 
 
-[Avertissements et édition](plots/etablissements/EHESS_@EHESS_fr-Q273518-associations.log) 
+[Avertissements et édition](plots/etablissements/EHESS_@EHESS_fr-Q273518-associations.md 
 
-### Histoire École nationale vétérinaire, agroalimentaire et de l'alimentation, Nantes-Atlantique  https://www.wikidata.org/wiki/Q3578268 
+### Histoire : École nationale vétérinaire, agroalimentaire et de l'alimentation, Nantes-Atlantique  https://github.com/cpesr/wikidataESR/blob/master/plots/etablissements/École_nationale_vétérinaire,_agroalimentaire_et_de_l'alimentation,_Nantes-Atlantique_-Q3578268-histoire.md 
 
-![](plots/etablissements/École_nationale_vétérinaire,_agroalimentaire_et_de_l'alimentation,_Nantes-Atlantique_-Q3578268-histoire.png) 
+[Avertissements et édition](plots/etablissements/École_nationale_vétérinaire,_agroalimentaire_et_de_l'alimentation,_Nantes-Atlantique_-Q3578268-histoire.md 
 
-[Avertissements et édition](plots/etablissements/École_nationale_vétérinaire,_agroalimentaire_et_de_l'alimentation,_Nantes-Atlantique_-Q3578268-histoire.log) 
-
-### Composition École nationale vétérinaire, agroalimentaire et de l'alimentation, Nantes-Atlantique  https://www.wikidata.org/wiki/Q3578268 
+### Composition : École nationale vétérinaire, agroalimentaire et de l'alimentation, Nantes-Atlantique  https://github.com/cpesr/wikidataESR/blob/master/plots/etablissements/École_nationale_vétérinaire,_agroalimentaire_et_de_l'alimentation,_Nantes-Atlantique_-Q3578268-composition.md 
 
 ![](plots/etablissements/École_nationale_vétérinaire,_agroalimentaire_et_de_l'alimentation,_Nantes-Atlantique_-Q3578268-composition.png) 
 
-[Avertissements et édition](plots/etablissements/École_nationale_vétérinaire,_agroalimentaire_et_de_l'alimentation,_Nantes-Atlantique_-Q3578268-composition.log) 
+[Avertissements et édition](plots/etablissements/École_nationale_vétérinaire,_agroalimentaire_et_de_l'alimentation,_Nantes-Atlantique_-Q3578268-composition.md 
 
-### Associations École nationale vétérinaire, agroalimentaire et de l'alimentation, Nantes-Atlantique  https://www.wikidata.org/wiki/Q3578268 
+### Associations : École nationale vétérinaire, agroalimentaire et de l'alimentation, Nantes-Atlantique  https://github.com/cpesr/wikidataESR/blob/master/plots/etablissements/École_nationale_vétérinaire,_agroalimentaire_et_de_l'alimentation,_Nantes-Atlantique_-Q3578268-associations.md 
 
-![](plots/etablissements/École_nationale_vétérinaire,_agroalimentaire_et_de_l'alimentation,_Nantes-Atlantique_-Q3578268-associations.png) 
+[Avertissements et édition](plots/etablissements/École_nationale_vétérinaire,_agroalimentaire_et_de_l'alimentation,_Nantes-Atlantique_-Q3578268-associations.md 
 
-[Avertissements et édition](plots/etablissements/École_nationale_vétérinaire,_agroalimentaire_et_de_l'alimentation,_Nantes-Atlantique_-Q3578268-associations.log) 
+### Histoire : Bordeaux INP @BordeauxINP https://github.com/cpesr/wikidataESR/blob/master/plots/etablissements/Bordeaux_INP_@BordeauxINP-Q3152470-histoire.md 
 
-### Histoire Bordeaux INP @BordeauxINP https://www.wikidata.org/wiki/Q3152470 
+[Avertissements et édition](plots/etablissements/Bordeaux_INP_@BordeauxINP-Q3152470-histoire.md 
 
-![](plots/etablissements/Bordeaux_INP_@BordeauxINP-Q3152470-histoire.png) 
-
-[Avertissements et édition](plots/etablissements/Bordeaux_INP_@BordeauxINP-Q3152470-histoire.log) 
-
-### Composition Bordeaux INP @BordeauxINP https://www.wikidata.org/wiki/Q3152470 
+### Composition : Bordeaux INP @BordeauxINP https://github.com/cpesr/wikidataESR/blob/master/plots/etablissements/Bordeaux_INP_@BordeauxINP-Q3152470-composition.md 
 
 ![](plots/etablissements/Bordeaux_INP_@BordeauxINP-Q3152470-composition.png) 
 
-[Avertissements et édition](plots/etablissements/Bordeaux_INP_@BordeauxINP-Q3152470-composition.log) 
+[Avertissements et édition](plots/etablissements/Bordeaux_INP_@BordeauxINP-Q3152470-composition.md 
 
-### Associations Bordeaux INP @BordeauxINP https://www.wikidata.org/wiki/Q3152470 
+### Associations : Bordeaux INP @BordeauxINP https://github.com/cpesr/wikidataESR/blob/master/plots/etablissements/Bordeaux_INP_@BordeauxINP-Q3152470-associations.md 
 
-![](plots/etablissements/Bordeaux_INP_@BordeauxINP-Q3152470-associations.png) 
+[Avertissements et édition](plots/etablissements/Bordeaux_INP_@BordeauxINP-Q3152470-associations.md 
 
-[Avertissements et édition](plots/etablissements/Bordeaux_INP_@BordeauxINP-Q3152470-associations.log) 
+### Histoire : École navale @Ecole_navale https://github.com/cpesr/wikidataESR/blob/master/plots/etablissements/École_navale_@Ecole_navale-Q974394-histoire.md 
 
-### Histoire École navale @Ecole_navale https://www.wikidata.org/wiki/Q974394 
+[Avertissements et édition](plots/etablissements/École_navale_@Ecole_navale-Q974394-histoire.md 
 
-![](plots/etablissements/École_navale_@Ecole_navale-Q974394-histoire.png) 
-
-[Avertissements et édition](plots/etablissements/École_navale_@Ecole_navale-Q974394-histoire.log) 
-
-### Composition École navale @Ecole_navale https://www.wikidata.org/wiki/Q974394 
+### Composition : École navale @Ecole_navale https://github.com/cpesr/wikidataESR/blob/master/plots/etablissements/École_navale_@Ecole_navale-Q974394-composition.md 
 
 ![](plots/etablissements/École_navale_@Ecole_navale-Q974394-composition.png) 
 
-[Avertissements et édition](plots/etablissements/École_navale_@Ecole_navale-Q974394-composition.log) 
+[Avertissements et édition](plots/etablissements/École_navale_@Ecole_navale-Q974394-composition.md 
 
-### Associations École navale @Ecole_navale https://www.wikidata.org/wiki/Q974394 
+### Associations : École navale @Ecole_navale https://github.com/cpesr/wikidataESR/blob/master/plots/etablissements/École_navale_@Ecole_navale-Q974394-associations.md 
 
-![](plots/etablissements/École_navale_@Ecole_navale-Q974394-associations.png) 
+[Avertissements et édition](plots/etablissements/École_navale_@Ecole_navale-Q974394-associations.md 
 
-[Avertissements et édition](plots/etablissements/École_navale_@Ecole_navale-Q974394-associations.log) 
-
-### Histoire INALCO @Inalco https://www.wikidata.org/wiki/Q1430113 
+### Histoire : INALCO @Inalco https://github.com/cpesr/wikidataESR/blob/master/plots/etablissements/INALCO_@Inalco-Q1430113-histoire.md 
 
 ![](plots/etablissements/INALCO_@Inalco-Q1430113-histoire.png) 
 
-[Avertissements et édition](plots/etablissements/INALCO_@Inalco-Q1430113-histoire.log) 
+[Avertissements et édition](plots/etablissements/INALCO_@Inalco-Q1430113-histoire.md 
 
-### Composition INALCO @Inalco https://www.wikidata.org/wiki/Q1430113 
+### Composition : INALCO @Inalco https://github.com/cpesr/wikidataESR/blob/master/plots/etablissements/INALCO_@Inalco-Q1430113-composition.md 
 
 ![](plots/etablissements/INALCO_@Inalco-Q1430113-composition.png) 
 
-[Avertissements et édition](plots/etablissements/INALCO_@Inalco-Q1430113-composition.log) 
+[Avertissements et édition](plots/etablissements/INALCO_@Inalco-Q1430113-composition.md 
 
-### Associations INALCO @Inalco https://www.wikidata.org/wiki/Q1430113 
+### Associations : INALCO @Inalco https://github.com/cpesr/wikidataESR/blob/master/plots/etablissements/INALCO_@Inalco-Q1430113-associations.md 
 
 ![](plots/etablissements/INALCO_@Inalco-Q1430113-associations.png) 
 
-[Avertissements et édition](plots/etablissements/INALCO_@Inalco-Q1430113-associations.log) 
+[Avertissements et édition](plots/etablissements/INALCO_@Inalco-Q1430113-associations.md 
 
-### Histoire Institut national d'histoire de l'art @INHA_Fr https://www.wikidata.org/wiki/Q3152376 
+### Histoire : Institut national d'histoire de l'art @INHA_Fr https://github.com/cpesr/wikidataESR/blob/master/plots/etablissements/Institut_national_d'histoire_de_l'art_@INHA_Fr-Q3152376-histoire.md 
 
-![](plots/etablissements/Institut_national_d'histoire_de_l'art_@INHA_Fr-Q3152376-histoire.png) 
+[Avertissements et édition](plots/etablissements/Institut_national_d'histoire_de_l'art_@INHA_Fr-Q3152376-histoire.md 
 
-[Avertissements et édition](plots/etablissements/Institut_national_d'histoire_de_l'art_@INHA_Fr-Q3152376-histoire.log) 
+### Composition : Institut national d'histoire de l'art @INHA_Fr https://github.com/cpesr/wikidataESR/blob/master/plots/etablissements/Institut_national_d'histoire_de_l'art_@INHA_Fr-Q3152376-composition.md 
 
-### Composition Institut national d'histoire de l'art @INHA_Fr https://www.wikidata.org/wiki/Q3152376 
+[Avertissements et édition](plots/etablissements/Institut_national_d'histoire_de_l'art_@INHA_Fr-Q3152376-composition.md 
 
-![](plots/etablissements/Institut_national_d'histoire_de_l'art_@INHA_Fr-Q3152376-composition.png) 
-
-[Avertissements et édition](plots/etablissements/Institut_national_d'histoire_de_l'art_@INHA_Fr-Q3152376-composition.log) 
-
-### Associations Institut national d'histoire de l'art @INHA_Fr https://www.wikidata.org/wiki/Q3152376 
+### Associations : Institut national d'histoire de l'art @INHA_Fr https://github.com/cpesr/wikidataESR/blob/master/plots/etablissements/Institut_national_d'histoire_de_l'art_@INHA_Fr-Q3152376-associations.md 
 
 ![](plots/etablissements/Institut_national_d'histoire_de_l'art_@INHA_Fr-Q3152376-associations.png) 
 
-[Avertissements et édition](plots/etablissements/Institut_national_d'histoire_de_l'art_@INHA_Fr-Q3152376-associations.log) 
+[Avertissements et édition](plots/etablissements/Institut_national_d'histoire_de_l'art_@INHA_Fr-Q3152376-associations.md 
 
-### Histoire Muséum national d'histoire naturelle @Le_Museum https://www.wikidata.org/wiki/Q838691 
+### Histoire : Muséum national d'histoire naturelle @Le_Museum https://github.com/cpesr/wikidataESR/blob/master/plots/etablissements/Muséum_national_d'histoire_naturelle_@Le_Museum-Q838691-histoire.md 
 
-![](plots/etablissements/Muséum_national_d'histoire_naturelle_@Le_Museum-Q838691-histoire.png) 
+[Avertissements et édition](plots/etablissements/Muséum_national_d'histoire_naturelle_@Le_Museum-Q838691-histoire.md 
 
-[Avertissements et édition](plots/etablissements/Muséum_national_d'histoire_naturelle_@Le_Museum-Q838691-histoire.log) 
-
-### Composition Muséum national d'histoire naturelle @Le_Museum https://www.wikidata.org/wiki/Q838691 
+### Composition : Muséum national d'histoire naturelle @Le_Museum https://github.com/cpesr/wikidataESR/blob/master/plots/etablissements/Muséum_national_d'histoire_naturelle_@Le_Museum-Q838691-composition.md 
 
 ![](plots/etablissements/Muséum_national_d'histoire_naturelle_@Le_Museum-Q838691-composition.png) 
 
-[Avertissements et édition](plots/etablissements/Muséum_national_d'histoire_naturelle_@Le_Museum-Q838691-composition.log) 
+[Avertissements et édition](plots/etablissements/Muséum_national_d'histoire_naturelle_@Le_Museum-Q838691-composition.md 
 
-### Associations Muséum national d'histoire naturelle @Le_Museum https://www.wikidata.org/wiki/Q838691 
+### Associations : Muséum national d'histoire naturelle @Le_Museum https://github.com/cpesr/wikidataESR/blob/master/plots/etablissements/Muséum_national_d'histoire_naturelle_@Le_Museum-Q838691-associations.md 
 
 ![](plots/etablissements/Muséum_national_d'histoire_naturelle_@Le_Museum-Q838691-associations.png) 
 
-[Avertissements et édition](plots/etablissements/Muséum_national_d'histoire_naturelle_@Le_Museum-Q838691-associations.log) 
+[Avertissements et édition](plots/etablissements/Muséum_national_d'histoire_naturelle_@Le_Museum-Q838691-associations.md 
 
-### Histoire Institut Agro  https://www.wikidata.org/wiki/Q81433122 
+### Histoire : Institut Agro  https://github.com/cpesr/wikidataESR/blob/master/plots/etablissements/Institut_Agro_-Q81433122-histoire.md 
 
 ![](plots/etablissements/Institut_Agro_-Q81433122-histoire.png) 
 
-[Avertissements et édition](plots/etablissements/Institut_Agro_-Q81433122-histoire.log) 
+[Avertissements et édition](plots/etablissements/Institut_Agro_-Q81433122-histoire.md 
 
-### Composition Institut Agro  https://www.wikidata.org/wiki/Q81433122 
+### Composition : Institut Agro  https://github.com/cpesr/wikidataESR/blob/master/plots/etablissements/Institut_Agro_-Q81433122-composition.md 
 
-![](plots/etablissements/Institut_Agro_-Q81433122-composition.png) 
+[Avertissements et édition](plots/etablissements/Institut_Agro_-Q81433122-composition.md 
 
-[Avertissements et édition](plots/etablissements/Institut_Agro_-Q81433122-composition.log) 
+### Associations : Institut Agro  https://github.com/cpesr/wikidataESR/blob/master/plots/etablissements/Institut_Agro_-Q81433122-associations.md 
 
-### Associations Institut Agro  https://www.wikidata.org/wiki/Q81433122 
+[Avertissements et édition](plots/etablissements/Institut_Agro_-Q81433122-associations.md 
 
-![](plots/etablissements/Institut_Agro_-Q81433122-associations.png) 
-
-[Avertissements et édition](plots/etablissements/Institut_Agro_-Q81433122-associations.log) 
-
-### Histoire Université de Lorraine @Univ_Lorraine https://www.wikidata.org/wiki/Q4173330 
+### Histoire : Université de Lorraine @Univ_Lorraine https://github.com/cpesr/wikidataESR/blob/master/plots/etablissements/Université_de_Lorraine_@Univ_Lorraine-Q4173330-histoire.md 
 
 ![](plots/etablissements/Université_de_Lorraine_@Univ_Lorraine-Q4173330-histoire.png) 
 
-[Avertissements et édition](plots/etablissements/Université_de_Lorraine_@Univ_Lorraine-Q4173330-histoire.log) 
+[Avertissements et édition](plots/etablissements/Université_de_Lorraine_@Univ_Lorraine-Q4173330-histoire.md 
 
-### Composition Université de Lorraine @Univ_Lorraine https://www.wikidata.org/wiki/Q4173330 
+### Composition : Université de Lorraine @Univ_Lorraine https://github.com/cpesr/wikidataESR/blob/master/plots/etablissements/Université_de_Lorraine_@Univ_Lorraine-Q4173330-composition.md 
 
 ![](plots/etablissements/Université_de_Lorraine_@Univ_Lorraine-Q4173330-composition.png) 
 
-[Avertissements et édition](plots/etablissements/Université_de_Lorraine_@Univ_Lorraine-Q4173330-composition.log) 
+[Avertissements et édition](plots/etablissements/Université_de_Lorraine_@Univ_Lorraine-Q4173330-composition.md 
 
-### Associations Université de Lorraine @Univ_Lorraine https://www.wikidata.org/wiki/Q4173330 
+### Associations : Université de Lorraine @Univ_Lorraine https://github.com/cpesr/wikidataESR/blob/master/plots/etablissements/Université_de_Lorraine_@Univ_Lorraine-Q4173330-associations.md 
 
 ![](plots/etablissements/Université_de_Lorraine_@Univ_Lorraine-Q4173330-associations.png) 
 
-[Avertissements et édition](plots/etablissements/Université_de_Lorraine_@Univ_Lorraine-Q4173330-associations.log) 
+[Avertissements et édition](plots/etablissements/Université_de_Lorraine_@Univ_Lorraine-Q4173330-associations.md 
 
-### Histoire Institut Mines-Télécom, au périmètre des écoles IMT Atlantique, Lille Douai, Albi, Alès, Mines Saint-Étienne et Institut Mines-Télécom Business school @IMTFrance https://www.wikidata.org/wiki/Q7885718 
+### Histoire : Institut Mines-Télécom, au périmètre des écoles IMT Atlantique, Lille Douai, Albi, Alès, Mines Saint-Étienne et Institut Mines-Télécom Business school @IMTFrance https://github.com/cpesr/wikidataESR/blob/master/plots/etablissements/Institut_Mines-Télécom,_au_périmètre_des_écoles_IMT_Atlantique,_Lille_Douai,_Albi,_Alès,_Mines_Saint-Étienne_et_Institut_Mines-Télécom_Business_school_@IMTFrance-Q7885718-histoire.md 
 
-![](plots/etablissements/Institut_Mines-Télécom,_au_périmètre_des_écoles_IMT_Atlantique,_Lille_Douai,_Albi,_Alès,_Mines_Saint-Étienne_et_Institut_Mines-Télécom_Business_school_@IMTFrance-Q7885718-histoire.png) 
+[Avertissements et édition](plots/etablissements/Institut_Mines-Télécom,_au_périmètre_des_écoles_IMT_Atlantique,_Lille_Douai,_Albi,_Alès,_Mines_Saint-Étienne_et_Institut_Mines-Télécom_Business_school_@IMTFrance-Q7885718-histoire.md 
 
-[Avertissements et édition](plots/etablissements/Institut_Mines-Télécom,_au_périmètre_des_écoles_IMT_Atlantique,_Lille_Douai,_Albi,_Alès,_Mines_Saint-Étienne_et_Institut_Mines-Télécom_Business_school_@IMTFrance-Q7885718-histoire.log) 
-
-### Composition Institut Mines-Télécom, au périmètre des écoles IMT Atlantique, Lille Douai, Albi, Alès, Mines Saint-Étienne et Institut Mines-Télécom Business school @IMTFrance https://www.wikidata.org/wiki/Q7885718 
+### Composition : Institut Mines-Télécom, au périmètre des écoles IMT Atlantique, Lille Douai, Albi, Alès, Mines Saint-Étienne et Institut Mines-Télécom Business school @IMTFrance https://github.com/cpesr/wikidataESR/blob/master/plots/etablissements/Institut_Mines-Télécom,_au_périmètre_des_écoles_IMT_Atlantique,_Lille_Douai,_Albi,_Alès,_Mines_Saint-Étienne_et_Institut_Mines-Télécom_Business_school_@IMTFrance-Q7885718-composition.md 
 
 ![](plots/etablissements/Institut_Mines-Télécom,_au_périmètre_des_écoles_IMT_Atlantique,_Lille_Douai,_Albi,_Alès,_Mines_Saint-Étienne_et_Institut_Mines-Télécom_Business_school_@IMTFrance-Q7885718-composition.png) 
 
-[Avertissements et édition](plots/etablissements/Institut_Mines-Télécom,_au_périmètre_des_écoles_IMT_Atlantique,_Lille_Douai,_Albi,_Alès,_Mines_Saint-Étienne_et_Institut_Mines-Télécom_Business_school_@IMTFrance-Q7885718-composition.log) 
+[Avertissements et édition](plots/etablissements/Institut_Mines-Télécom,_au_périmètre_des_écoles_IMT_Atlantique,_Lille_Douai,_Albi,_Alès,_Mines_Saint-Étienne_et_Institut_Mines-Télécom_Business_school_@IMTFrance-Q7885718-composition.md 
 
-### Associations Institut Mines-Télécom, au périmètre des écoles IMT Atlantique, Lille Douai, Albi, Alès, Mines Saint-Étienne et Institut Mines-Télécom Business school @IMTFrance https://www.wikidata.org/wiki/Q7885718 
+### Associations : Institut Mines-Télécom, au périmètre des écoles IMT Atlantique, Lille Douai, Albi, Alès, Mines Saint-Étienne et Institut Mines-Télécom Business school @IMTFrance https://github.com/cpesr/wikidataESR/blob/master/plots/etablissements/Institut_Mines-Télécom,_au_périmètre_des_écoles_IMT_Atlantique,_Lille_Douai,_Albi,_Alès,_Mines_Saint-Étienne_et_Institut_Mines-Télécom_Business_school_@IMTFrance-Q7885718-associations.md 
 
 ![](plots/etablissements/Institut_Mines-Télécom,_au_périmètre_des_écoles_IMT_Atlantique,_Lille_Douai,_Albi,_Alès,_Mines_Saint-Étienne_et_Institut_Mines-Télécom_Business_school_@IMTFrance-Q7885718-associations.png) 
 
-[Avertissements et édition](plots/etablissements/Institut_Mines-Télécom,_au_périmètre_des_écoles_IMT_Atlantique,_Lille_Douai,_Albi,_Alès,_Mines_Saint-Étienne_et_Institut_Mines-Télécom_Business_school_@IMTFrance-Q7885718-associations.log) 
+[Avertissements et édition](plots/etablissements/Institut_Mines-Télécom,_au_périmètre_des_écoles_IMT_Atlantique,_Lille_Douai,_Albi,_Alès,_Mines_Saint-Étienne_et_Institut_Mines-Télécom_Business_school_@IMTFrance-Q7885718-associations.md 
 
-### Histoire École nationale supérieure maritime @ENSM https://www.wikidata.org/wiki/Q3578264 
+### Histoire : École nationale supérieure maritime @ENSM https://github.com/cpesr/wikidataESR/blob/master/plots/etablissements/École_nationale_supérieure_maritime_@ENSM-Q3578264-histoire.md 
 
-![](plots/etablissements/École_nationale_supérieure_maritime_@ENSM-Q3578264-histoire.png) 
+[Avertissements et édition](plots/etablissements/École_nationale_supérieure_maritime_@ENSM-Q3578264-histoire.md 
 
-[Avertissements et édition](plots/etablissements/École_nationale_supérieure_maritime_@ENSM-Q3578264-histoire.log) 
+### Composition : École nationale supérieure maritime @ENSM https://github.com/cpesr/wikidataESR/blob/master/plots/etablissements/École_nationale_supérieure_maritime_@ENSM-Q3578264-composition.md 
 
-### Composition École nationale supérieure maritime @ENSM https://www.wikidata.org/wiki/Q3578264 
+[Avertissements et édition](plots/etablissements/École_nationale_supérieure_maritime_@ENSM-Q3578264-composition.md 
 
-![](plots/etablissements/École_nationale_supérieure_maritime_@ENSM-Q3578264-composition.png) 
-
-[Avertissements et édition](plots/etablissements/École_nationale_supérieure_maritime_@ENSM-Q3578264-composition.log) 
-
-### Associations École nationale supérieure maritime @ENSM https://www.wikidata.org/wiki/Q3578264 
+### Associations : École nationale supérieure maritime @ENSM https://github.com/cpesr/wikidataESR/blob/master/plots/etablissements/École_nationale_supérieure_maritime_@ENSM-Q3578264-associations.md 
 
 ![](plots/etablissements/École_nationale_supérieure_maritime_@ENSM-Q3578264-associations.png) 
 
-[Avertissements et édition](plots/etablissements/École_nationale_supérieure_maritime_@ENSM-Q3578264-associations.log) 
+[Avertissements et édition](plots/etablissements/École_nationale_supérieure_maritime_@ENSM-Q3578264-associations.md 
 
-### Histoire Vet Agro Sup @VetAgroSup https://www.wikidata.org/wiki/Q3151920 
+### Histoire : Vet Agro Sup @VetAgroSup https://github.com/cpesr/wikidataESR/blob/master/plots/etablissements/Vet_Agro_Sup_@VetAgroSup-Q3151920-histoire.md 
 
 ![](plots/etablissements/Vet_Agro_Sup_@VetAgroSup-Q3151920-histoire.png) 
 
-[Avertissements et édition](plots/etablissements/Vet_Agro_Sup_@VetAgroSup-Q3151920-histoire.log) 
+[Avertissements et édition](plots/etablissements/Vet_Agro_Sup_@VetAgroSup-Q3151920-histoire.md 
 
-### Composition Vet Agro Sup @VetAgroSup https://www.wikidata.org/wiki/Q3151920 
+### Composition : Vet Agro Sup @VetAgroSup https://github.com/cpesr/wikidataESR/blob/master/plots/etablissements/Vet_Agro_Sup_@VetAgroSup-Q3151920-composition.md 
 
 ![](plots/etablissements/Vet_Agro_Sup_@VetAgroSup-Q3151920-composition.png) 
 
-[Avertissements et édition](plots/etablissements/Vet_Agro_Sup_@VetAgroSup-Q3151920-composition.log) 
+[Avertissements et édition](plots/etablissements/Vet_Agro_Sup_@VetAgroSup-Q3151920-composition.md 
 
-### Associations Vet Agro Sup @VetAgroSup https://www.wikidata.org/wiki/Q3151920 
+### Associations : Vet Agro Sup @VetAgroSup https://github.com/cpesr/wikidataESR/blob/master/plots/etablissements/Vet_Agro_Sup_@VetAgroSup-Q3151920-associations.md 
 
-![](plots/etablissements/Vet_Agro_Sup_@VetAgroSup-Q3151920-associations.png) 
+[Avertissements et édition](plots/etablissements/Vet_Agro_Sup_@VetAgroSup-Q3151920-associations.md 
 
-[Avertissements et édition](plots/etablissements/Vet_Agro_Sup_@VetAgroSup-Q3151920-associations.log) 
-
-### Histoire ISAE-SUPAERO @ISAE_officiel https://www.wikidata.org/wiki/Q155446 
+### Histoire : ISAE-SUPAERO @ISAE_officiel https://github.com/cpesr/wikidataESR/blob/master/plots/etablissements/ISAE-SUPAERO_@ISAE_officiel-Q155446-histoire.md 
 
 ![](plots/etablissements/ISAE-SUPAERO_@ISAE_officiel-Q155446-histoire.png) 
 
-[Avertissements et édition](plots/etablissements/ISAE-SUPAERO_@ISAE_officiel-Q155446-histoire.log) 
+[Avertissements et édition](plots/etablissements/ISAE-SUPAERO_@ISAE_officiel-Q155446-histoire.md 
 
-### Composition ISAE-SUPAERO @ISAE_officiel https://www.wikidata.org/wiki/Q155446 
+### Composition : ISAE-SUPAERO @ISAE_officiel https://github.com/cpesr/wikidataESR/blob/master/plots/etablissements/ISAE-SUPAERO_@ISAE_officiel-Q155446-composition.md 
 
 ![](plots/etablissements/ISAE-SUPAERO_@ISAE_officiel-Q155446-composition.png) 
 
-[Avertissements et édition](plots/etablissements/ISAE-SUPAERO_@ISAE_officiel-Q155446-composition.log) 
+[Avertissements et édition](plots/etablissements/ISAE-SUPAERO_@ISAE_officiel-Q155446-composition.md 
 
-### Associations ISAE-SUPAERO @ISAE_officiel https://www.wikidata.org/wiki/Q155446 
+### Associations : ISAE-SUPAERO @ISAE_officiel https://github.com/cpesr/wikidataESR/blob/master/plots/etablissements/ISAE-SUPAERO_@ISAE_officiel-Q155446-associations.md 
 
-![](plots/etablissements/ISAE-SUPAERO_@ISAE_officiel-Q155446-associations.png) 
+[Avertissements et édition](plots/etablissements/ISAE-SUPAERO_@ISAE_officiel-Q155446-associations.md 
 
-[Avertissements et édition](plots/etablissements/ISAE-SUPAERO_@ISAE_officiel-Q155446-associations.log) 
+### Histoire : École nationale supérieure des sciences de l'information et des bibliothèques @enssib https://github.com/cpesr/wikidataESR/blob/master/plots/etablissements/École_nationale_supérieure_des_sciences_de_l'information_et_des_bibliothèques_@enssib-Q2791269-histoire.md 
 
-### Histoire École nationale supérieure des sciences de l'information et des bibliothèques @enssib https://www.wikidata.org/wiki/Q2791269 
+[Avertissements et édition](plots/etablissements/École_nationale_supérieure_des_sciences_de_l'information_et_des_bibliothèques_@enssib-Q2791269-histoire.md 
 
-![](plots/etablissements/École_nationale_supérieure_des_sciences_de_l'information_et_des_bibliothèques_@enssib-Q2791269-histoire.png) 
-
-[Avertissements et édition](plots/etablissements/École_nationale_supérieure_des_sciences_de_l'information_et_des_bibliothèques_@enssib-Q2791269-histoire.log) 
-
-### Composition École nationale supérieure des sciences de l'information et des bibliothèques @enssib https://www.wikidata.org/wiki/Q2791269 
+### Composition : École nationale supérieure des sciences de l'information et des bibliothèques @enssib https://github.com/cpesr/wikidataESR/blob/master/plots/etablissements/École_nationale_supérieure_des_sciences_de_l'information_et_des_bibliothèques_@enssib-Q2791269-composition.md 
 
 ![](plots/etablissements/École_nationale_supérieure_des_sciences_de_l'information_et_des_bibliothèques_@enssib-Q2791269-composition.png) 
 
-[Avertissements et édition](plots/etablissements/École_nationale_supérieure_des_sciences_de_l'information_et_des_bibliothèques_@enssib-Q2791269-composition.log) 
+[Avertissements et édition](plots/etablissements/École_nationale_supérieure_des_sciences_de_l'information_et_des_bibliothèques_@enssib-Q2791269-composition.md 
 
-### Associations École nationale supérieure des sciences de l'information et des bibliothèques @enssib https://www.wikidata.org/wiki/Q2791269 
+### Associations : École nationale supérieure des sciences de l'information et des bibliothèques @enssib https://github.com/cpesr/wikidataESR/blob/master/plots/etablissements/École_nationale_supérieure_des_sciences_de_l'information_et_des_bibliothèques_@enssib-Q2791269-associations.md 
 
-![](plots/etablissements/École_nationale_supérieure_des_sciences_de_l'information_et_des_bibliothèques_@enssib-Q2791269-associations.png) 
+[Avertissements et édition](plots/etablissements/École_nationale_supérieure_des_sciences_de_l'information_et_des_bibliothèques_@enssib-Q2791269-associations.md 
 
-[Avertissements et édition](plots/etablissements/École_nationale_supérieure_des_sciences_de_l'information_et_des_bibliothèques_@enssib-Q2791269-associations.log) 
-
-### Histoire Institut national du sport, de l'expertise et de la performance @INSEP_PARIS https://www.wikidata.org/wiki/Q3152447 
+### Histoire : Institut national du sport, de l'expertise et de la performance @INSEP_PARIS https://github.com/cpesr/wikidataESR/blob/master/plots/etablissements/Institut_national_du_sport,_de_l'expertise_et_de_la_performance_@INSEP_PARIS-Q3152447-histoire.md 
 
 ![](plots/etablissements/Institut_national_du_sport,_de_l'expertise_et_de_la_performance_@INSEP_PARIS-Q3152447-histoire.png) 
 
-[Avertissements et édition](plots/etablissements/Institut_national_du_sport,_de_l'expertise_et_de_la_performance_@INSEP_PARIS-Q3152447-histoire.log) 
+[Avertissements et édition](plots/etablissements/Institut_national_du_sport,_de_l'expertise_et_de_la_performance_@INSEP_PARIS-Q3152447-histoire.md 
 
-### Composition Institut national du sport, de l'expertise et de la performance @INSEP_PARIS https://www.wikidata.org/wiki/Q3152447 
+### Composition : Institut national du sport, de l'expertise et de la performance @INSEP_PARIS https://github.com/cpesr/wikidataESR/blob/master/plots/etablissements/Institut_national_du_sport,_de_l'expertise_et_de_la_performance_@INSEP_PARIS-Q3152447-composition.md 
 
-![](plots/etablissements/Institut_national_du_sport,_de_l'expertise_et_de_la_performance_@INSEP_PARIS-Q3152447-composition.png) 
+[Avertissements et édition](plots/etablissements/Institut_national_du_sport,_de_l'expertise_et_de_la_performance_@INSEP_PARIS-Q3152447-composition.md 
 
-[Avertissements et édition](plots/etablissements/Institut_national_du_sport,_de_l'expertise_et_de_la_performance_@INSEP_PARIS-Q3152447-composition.log) 
+### Associations : Institut national du sport, de l'expertise et de la performance @INSEP_PARIS https://github.com/cpesr/wikidataESR/blob/master/plots/etablissements/Institut_national_du_sport,_de_l'expertise_et_de_la_performance_@INSEP_PARIS-Q3152447-associations.md 
 
-### Associations Institut national du sport, de l'expertise et de la performance @INSEP_PARIS https://www.wikidata.org/wiki/Q3152447 
+[Avertissements et édition](plots/etablissements/Institut_national_du_sport,_de_l'expertise_et_de_la_performance_@INSEP_PARIS-Q3152447-associations.md 
 
-![](plots/etablissements/Institut_national_du_sport,_de_l'expertise_et_de_la_performance_@INSEP_PARIS-Q3152447-associations.png) 
+### Histoire : Arts et Métiers @ArtsetMetiers_ https://github.com/cpesr/wikidataESR/blob/master/plots/etablissements/Arts_et_Métiers_@ArtsetMetiers_-Q2570220-histoire.md 
 
-[Avertissements et édition](plots/etablissements/Institut_national_du_sport,_de_l'expertise_et_de_la_performance_@INSEP_PARIS-Q3152447-associations.log) 
+[Avertissements et édition](plots/etablissements/Arts_et_Métiers_@ArtsetMetiers_-Q2570220-histoire.md 
 
-### Histoire Arts et Métiers @ArtsetMetiers_ https://www.wikidata.org/wiki/Q2570220 
-
-![](plots/etablissements/Arts_et_Métiers_@ArtsetMetiers_-Q2570220-histoire.png) 
-
-[Avertissements et édition](plots/etablissements/Arts_et_Métiers_@ArtsetMetiers_-Q2570220-histoire.log) 
-
-### Composition Arts et Métiers @ArtsetMetiers_ https://www.wikidata.org/wiki/Q2570220 
+### Composition : Arts et Métiers @ArtsetMetiers_ https://github.com/cpesr/wikidataESR/blob/master/plots/etablissements/Arts_et_Métiers_@ArtsetMetiers_-Q2570220-composition.md 
 
 ![](plots/etablissements/Arts_et_Métiers_@ArtsetMetiers_-Q2570220-composition.png) 
 
-[Avertissements et édition](plots/etablissements/Arts_et_Métiers_@ArtsetMetiers_-Q2570220-composition.log) 
+[Avertissements et édition](plots/etablissements/Arts_et_Métiers_@ArtsetMetiers_-Q2570220-composition.md 
 
-### Associations Arts et Métiers @ArtsetMetiers_ https://www.wikidata.org/wiki/Q2570220 
+### Associations : Arts et Métiers @ArtsetMetiers_ https://github.com/cpesr/wikidataESR/blob/master/plots/etablissements/Arts_et_Métiers_@ArtsetMetiers_-Q2570220-associations.md 
 
 ![](plots/etablissements/Arts_et_Métiers_@ArtsetMetiers_-Q2570220-associations.png) 
 
-[Avertissements et édition](plots/etablissements/Arts_et_Métiers_@ArtsetMetiers_-Q2570220-associations.log) 
+[Avertissements et édition](plots/etablissements/Arts_et_Métiers_@ArtsetMetiers_-Q2570220-associations.md 
 
 ## Regroupements 
 
-### Regroupement-Court COMUE d'Aquitaine https://www.wikidata.org/wiki/Q16541346 
+### Regroupement-Court : COMUE d'Aquitaine https://github.com/cpesr/wikidataESR/blob/master/plots/regroupements/COMUE_d'Aquitaine-Q16541346-regroupement-court.md 
 
 ![](plots/regroupements/COMUE_d'Aquitaine-Q16541346-regroupement-court.png) 
 
-[Avertissements et édition](plots/regroupements/COMUE_d'Aquitaine-Q16541346-regroupement-court.log) 
+[Avertissements et édition](plots/regroupements/COMUE_d'Aquitaine-Q16541346-regroupement-court.md 
 
-### Regroupement-Etendu COMUE d'Aquitaine https://www.wikidata.org/wiki/Q16541346 
+### Regroupement-Etendu : COMUE d'Aquitaine https://github.com/cpesr/wikidataESR/blob/master/plots/regroupements/COMUE_d'Aquitaine-Q16541346-regroupement-etendu.md 
 
 ![](plots/regroupements/COMUE_d'Aquitaine-Q16541346-regroupement-etendu.png) 
 
-[Avertissements et édition](plots/regroupements/COMUE_d'Aquitaine-Q16541346-regroupement-etendu.log) 
+[Avertissements et édition](plots/regroupements/COMUE_d'Aquitaine-Q16541346-regroupement-etendu.md 
 
-### Regroupement-Superetendu COMUE d'Aquitaine https://www.wikidata.org/wiki/Q16541346 
+### Regroupement-Superetendu : COMUE d'Aquitaine https://github.com/cpesr/wikidataESR/blob/master/plots/regroupements/COMUE_d'Aquitaine-Q16541346-regroupement-superetendu.md 
 
 ![](plots/regroupements/COMUE_d'Aquitaine-Q16541346-regroupement-superetendu.png) 
 
-[Avertissements et édition](plots/regroupements/COMUE_d'Aquitaine-Q16541346-regroupement-superetendu.log) 
+[Avertissements et édition](plots/regroupements/COMUE_d'Aquitaine-Q16541346-regroupement-superetendu.md 
 
-### Regroupement-Court COMUE d'Aquitaine https://www.wikidata.org/wiki/Q13344 
+### Regroupement-Court : COMUE d'Aquitaine https://github.com/cpesr/wikidataESR/blob/master/plots/regroupements/COMUE_d'Aquitaine-Q13344-regroupement-court.md 
 
 ![](plots/regroupements/COMUE_d'Aquitaine-Q13344-regroupement-court.png) 
 
-[Avertissements et édition](plots/regroupements/COMUE_d'Aquitaine-Q13344-regroupement-court.log) 
+[Avertissements et édition](plots/regroupements/COMUE_d'Aquitaine-Q13344-regroupement-court.md 
 
-### Regroupement-Etendu COMUE d'Aquitaine https://www.wikidata.org/wiki/Q13344 
+### Regroupement-Etendu : COMUE d'Aquitaine https://github.com/cpesr/wikidataESR/blob/master/plots/regroupements/COMUE_d'Aquitaine-Q13344-regroupement-etendu.md 
 
 ![](plots/regroupements/COMUE_d'Aquitaine-Q13344-regroupement-etendu.png) 
 
-[Avertissements et édition](plots/regroupements/COMUE_d'Aquitaine-Q13344-regroupement-etendu.log) 
+[Avertissements et édition](plots/regroupements/COMUE_d'Aquitaine-Q13344-regroupement-etendu.md 
 
-### Regroupement-Superetendu COMUE d'Aquitaine https://www.wikidata.org/wiki/Q13344 
+### Regroupement-Superetendu : COMUE d'Aquitaine https://github.com/cpesr/wikidataESR/blob/master/plots/regroupements/COMUE_d'Aquitaine-Q13344-regroupement-superetendu.md 
 
 ![](plots/regroupements/COMUE_d'Aquitaine-Q13344-regroupement-superetendu.png) 
 
-[Avertissements et édition](plots/regroupements/COMUE_d'Aquitaine-Q13344-regroupement-superetendu.log) 
+[Avertissements et édition](plots/regroupements/COMUE_d'Aquitaine-Q13344-regroupement-superetendu.md 
 
-### Regroupement-Court COMUE Centre Val de Loire https://www.wikidata.org/wiki/Q2944885 
+### Regroupement-Court : COMUE Centre Val de Loire https://github.com/cpesr/wikidataESR/blob/master/plots/regroupements/COMUE_Centre_Val_de_Loire-Q2944885-regroupement-court.md 
 
 ![](plots/regroupements/COMUE_Centre_Val_de_Loire-Q2944885-regroupement-court.png) 
 
-[Avertissements et édition](plots/regroupements/COMUE_Centre_Val_de_Loire-Q2944885-regroupement-court.log) 
+[Avertissements et édition](plots/regroupements/COMUE_Centre_Val_de_Loire-Q2944885-regroupement-court.md 
 
-### Regroupement-Etendu COMUE Centre Val de Loire https://www.wikidata.org/wiki/Q2944885 
+### Regroupement-Etendu : COMUE Centre Val de Loire https://github.com/cpesr/wikidataESR/blob/master/plots/regroupements/COMUE_Centre_Val_de_Loire-Q2944885-regroupement-etendu.md 
 
 ![](plots/regroupements/COMUE_Centre_Val_de_Loire-Q2944885-regroupement-etendu.png) 
 
-[Avertissements et édition](plots/regroupements/COMUE_Centre_Val_de_Loire-Q2944885-regroupement-etendu.log) 
+[Avertissements et édition](plots/regroupements/COMUE_Centre_Val_de_Loire-Q2944885-regroupement-etendu.md 
 
-### Regroupement-Superetendu COMUE Centre Val de Loire https://www.wikidata.org/wiki/Q2944885 
+### Regroupement-Superetendu : COMUE Centre Val de Loire https://github.com/cpesr/wikidataESR/blob/master/plots/regroupements/COMUE_Centre_Val_de_Loire-Q2944885-regroupement-superetendu.md 
 
 ![](plots/regroupements/COMUE_Centre_Val_de_Loire-Q2944885-regroupement-superetendu.png) 
 
-[Avertissements et édition](plots/regroupements/COMUE_Centre_Val_de_Loire-Q2944885-regroupement-superetendu.log) 
+[Avertissements et édition](plots/regroupements/COMUE_Centre_Val_de_Loire-Q2944885-regroupement-superetendu.md 
 
-### Regroupement-Court Comue de Bourgogne Franche Comté https://www.wikidata.org/wiki/Q3359833 
+### Regroupement-Court : Comue de Bourgogne Franche Comté https://github.com/cpesr/wikidataESR/blob/master/plots/regroupements/Comue_de_Bourgogne_Franche_Comté-Q3359833-regroupement-court.md 
 
 ![](plots/regroupements/Comue_de_Bourgogne_Franche_Comté-Q3359833-regroupement-court.png) 
 
-[Avertissements et édition](plots/regroupements/Comue_de_Bourgogne_Franche_Comté-Q3359833-regroupement-court.log) 
+[Avertissements et édition](plots/regroupements/Comue_de_Bourgogne_Franche_Comté-Q3359833-regroupement-court.md 
 
-### Regroupement-Etendu Comue de Bourgogne Franche Comté https://www.wikidata.org/wiki/Q3359833 
+### Regroupement-Etendu : Comue de Bourgogne Franche Comté https://github.com/cpesr/wikidataESR/blob/master/plots/regroupements/Comue_de_Bourgogne_Franche_Comté-Q3359833-regroupement-etendu.md 
 
 ![](plots/regroupements/Comue_de_Bourgogne_Franche_Comté-Q3359833-regroupement-etendu.png) 
 
-[Avertissements et édition](plots/regroupements/Comue_de_Bourgogne_Franche_Comté-Q3359833-regroupement-etendu.log) 
+[Avertissements et édition](plots/regroupements/Comue_de_Bourgogne_Franche_Comté-Q3359833-regroupement-etendu.md 
 
-### Regroupement-Superetendu Comue de Bourgogne Franche Comté https://www.wikidata.org/wiki/Q3359833 
+### Regroupement-Superetendu : Comue de Bourgogne Franche Comté https://github.com/cpesr/wikidataESR/blob/master/plots/regroupements/Comue_de_Bourgogne_Franche_Comté-Q3359833-regroupement-superetendu.md 
 
 ![](plots/regroupements/Comue_de_Bourgogne_Franche_Comté-Q3359833-regroupement-superetendu.png) 
 
-[Avertissements et édition](plots/regroupements/Comue_de_Bourgogne_Franche_Comté-Q3359833-regroupement-superetendu.log) 
+[Avertissements et édition](plots/regroupements/Comue_de_Bourgogne_Franche_Comté-Q3359833-regroupement-superetendu.md 
 
-### Regroupement-Court Comue de Toulouse https://www.wikidata.org/wiki/Q20669873 
+### Regroupement-Court : Comue de Toulouse https://github.com/cpesr/wikidataESR/blob/master/plots/regroupements/Comue_de_Toulouse-Q20669873-regroupement-court.md 
 
 ![](plots/regroupements/Comue_de_Toulouse-Q20669873-regroupement-court.png) 
 
-[Avertissements et édition](plots/regroupements/Comue_de_Toulouse-Q20669873-regroupement-court.log) 
+[Avertissements et édition](plots/regroupements/Comue_de_Toulouse-Q20669873-regroupement-court.md 
 
-### Regroupement-Etendu Comue de Toulouse https://www.wikidata.org/wiki/Q20669873 
+### Regroupement-Etendu : Comue de Toulouse https://github.com/cpesr/wikidataESR/blob/master/plots/regroupements/Comue_de_Toulouse-Q20669873-regroupement-etendu.md 
 
 ![](plots/regroupements/Comue_de_Toulouse-Q20669873-regroupement-etendu.png) 
 
-[Avertissements et édition](plots/regroupements/Comue_de_Toulouse-Q20669873-regroupement-etendu.log) 
+[Avertissements et édition](plots/regroupements/Comue_de_Toulouse-Q20669873-regroupement-etendu.md 
 
-### Regroupement-Superetendu Comue de Toulouse https://www.wikidata.org/wiki/Q20669873 
+### Regroupement-Superetendu : Comue de Toulouse https://github.com/cpesr/wikidataESR/blob/master/plots/regroupements/Comue_de_Toulouse-Q20669873-regroupement-superetendu.md 
 
 ![](plots/regroupements/Comue_de_Toulouse-Q20669873-regroupement-superetendu.png) 
 
-[Avertissements et édition](plots/regroupements/Comue_de_Toulouse-Q20669873-regroupement-superetendu.log) 
+[Avertissements et édition](plots/regroupements/Comue_de_Toulouse-Q20669873-regroupement-superetendu.md 
 
-### Regroupement-Court Comue UCA https://www.wikidata.org/wiki/Q19370961 
+### Regroupement-Court : Comue UCA https://github.com/cpesr/wikidataESR/blob/master/plots/regroupements/Comue_UCA-Q19370961-regroupement-court.md 
 
 ![](plots/regroupements/Comue_UCA-Q19370961-regroupement-court.png) 
 
-[Avertissements et édition](plots/regroupements/Comue_UCA-Q19370961-regroupement-court.log) 
+[Avertissements et édition](plots/regroupements/Comue_UCA-Q19370961-regroupement-court.md 
 
-### Regroupement-Etendu Comue UCA https://www.wikidata.org/wiki/Q19370961 
+### Regroupement-Etendu : Comue UCA https://github.com/cpesr/wikidataESR/blob/master/plots/regroupements/Comue_UCA-Q19370961-regroupement-etendu.md 
 
 ![](plots/regroupements/Comue_UCA-Q19370961-regroupement-etendu.png) 
 
-[Avertissements et édition](plots/regroupements/Comue_UCA-Q19370961-regroupement-etendu.log) 
+[Avertissements et édition](plots/regroupements/Comue_UCA-Q19370961-regroupement-etendu.md 
 
-### Regroupement-Superetendu Comue UCA https://www.wikidata.org/wiki/Q19370961 
+### Regroupement-Superetendu : Comue UCA https://github.com/cpesr/wikidataESR/blob/master/plots/regroupements/Comue_UCA-Q19370961-regroupement-superetendu.md 
 
 ![](plots/regroupements/Comue_UCA-Q19370961-regroupement-superetendu.png) 
 
-[Avertissements et édition](plots/regroupements/Comue_UCA-Q19370961-regroupement-superetendu.log) 
+[Avertissements et édition](plots/regroupements/Comue_UCA-Q19370961-regroupement-superetendu.md 
 
-### Regroupement-Court Comue UGA https://www.wikidata.org/wiki/Q3551589 
+### Regroupement-Court : Comue UGA https://github.com/cpesr/wikidataESR/blob/master/plots/regroupements/Comue_UGA-Q3551589-regroupement-court.md 
 
 ![](plots/regroupements/Comue_UGA-Q3551589-regroupement-court.png) 
 
-[Avertissements et édition](plots/regroupements/Comue_UGA-Q3551589-regroupement-court.log) 
+[Avertissements et édition](plots/regroupements/Comue_UGA-Q3551589-regroupement-court.md 
 
-### Regroupement-Etendu Comue UGA https://www.wikidata.org/wiki/Q3551589 
+### Regroupement-Etendu : Comue UGA https://github.com/cpesr/wikidataESR/blob/master/plots/regroupements/Comue_UGA-Q3551589-regroupement-etendu.md 
 
 ![](plots/regroupements/Comue_UGA-Q3551589-regroupement-etendu.png) 
 
-[Avertissements et édition](plots/regroupements/Comue_UGA-Q3551589-regroupement-etendu.log) 
+[Avertissements et édition](plots/regroupements/Comue_UGA-Q3551589-regroupement-etendu.md 
 
-### Regroupement-Superetendu Comue UGA https://www.wikidata.org/wiki/Q3551589 
+### Regroupement-Superetendu : Comue UGA https://github.com/cpesr/wikidataESR/blob/master/plots/regroupements/Comue_UGA-Q3551589-regroupement-superetendu.md 
 
 ![](plots/regroupements/Comue_UGA-Q3551589-regroupement-superetendu.png) 
 
-[Avertissements et édition](plots/regroupements/Comue_UGA-Q3551589-regroupement-superetendu.log) 
+[Avertissements et édition](plots/regroupements/Comue_UGA-Q3551589-regroupement-superetendu.md 
 
-### Regroupement-Court HESAM https://www.wikidata.org/wiki/Q3128622 
+### Regroupement-Court : HESAM https://github.com/cpesr/wikidataESR/blob/master/plots/regroupements/HESAM-Q3128622-regroupement-court.md 
 
 ![](plots/regroupements/HESAM-Q3128622-regroupement-court.png) 
 
-[Avertissements et édition](plots/regroupements/HESAM-Q3128622-regroupement-court.log) 
+[Avertissements et édition](plots/regroupements/HESAM-Q3128622-regroupement-court.md 
 
-### Regroupement-Etendu HESAM https://www.wikidata.org/wiki/Q3128622 
+### Regroupement-Etendu : HESAM https://github.com/cpesr/wikidataESR/blob/master/plots/regroupements/HESAM-Q3128622-regroupement-etendu.md 
 
 ![](plots/regroupements/HESAM-Q3128622-regroupement-etendu.png) 
 
-[Avertissements et édition](plots/regroupements/HESAM-Q3128622-regroupement-etendu.log) 
+[Avertissements et édition](plots/regroupements/HESAM-Q3128622-regroupement-etendu.md 
 
-### Regroupement-Superetendu HESAM https://www.wikidata.org/wiki/Q3128622 
+### Regroupement-Superetendu : HESAM https://github.com/cpesr/wikidataESR/blob/master/plots/regroupements/HESAM-Q3128622-regroupement-superetendu.md 
 
 ![](plots/regroupements/HESAM-Q3128622-regroupement-superetendu.png) 
 
-[Avertissements et édition](plots/regroupements/HESAM-Q3128622-regroupement-superetendu.log) 
+[Avertissements et édition](plots/regroupements/HESAM-Q3128622-regroupement-superetendu.md 
 
-### Regroupement-Court Languedoc Roussillon Universités https://www.wikidata.org/wiki/Q2476558 
+### Regroupement-Court : Languedoc Roussillon Universités https://github.com/cpesr/wikidataESR/blob/master/plots/regroupements/Languedoc_Roussillon_Universités-Q2476558-regroupement-court.md 
 
 ![](plots/regroupements/Languedoc_Roussillon_Universités-Q2476558-regroupement-court.png) 
 
-[Avertissements et édition](plots/regroupements/Languedoc_Roussillon_Universités-Q2476558-regroupement-court.log) 
+[Avertissements et édition](plots/regroupements/Languedoc_Roussillon_Universités-Q2476558-regroupement-court.md 
 
-### Regroupement-Etendu Languedoc Roussillon Universités https://www.wikidata.org/wiki/Q2476558 
+### Regroupement-Etendu : Languedoc Roussillon Universités https://github.com/cpesr/wikidataESR/blob/master/plots/regroupements/Languedoc_Roussillon_Universités-Q2476558-regroupement-etendu.md 
 
 ![](plots/regroupements/Languedoc_Roussillon_Universités-Q2476558-regroupement-etendu.png) 
 
-[Avertissements et édition](plots/regroupements/Languedoc_Roussillon_Universités-Q2476558-regroupement-etendu.log) 
+[Avertissements et édition](plots/regroupements/Languedoc_Roussillon_Universités-Q2476558-regroupement-etendu.md 
 
-### Regroupement-Superetendu Languedoc Roussillon Universités https://www.wikidata.org/wiki/Q2476558 
+### Regroupement-Superetendu : Languedoc Roussillon Universités https://github.com/cpesr/wikidataESR/blob/master/plots/regroupements/Languedoc_Roussillon_Universités-Q2476558-regroupement-superetendu.md 
 
 ![](plots/regroupements/Languedoc_Roussillon_Universités-Q2476558-regroupement-superetendu.png) 
 
-[Avertissements et édition](plots/regroupements/Languedoc_Roussillon_Universités-Q2476558-regroupement-superetendu.log) 
+[Avertissements et édition](plots/regroupements/Languedoc_Roussillon_Universités-Q2476558-regroupement-superetendu.md 
 
-### Regroupement-Court Normandie Université https://www.wikidata.org/wiki/Q3343880 
+### Regroupement-Court : Normandie Université https://github.com/cpesr/wikidataESR/blob/master/plots/regroupements/Normandie_Université-Q3343880-regroupement-court.md 
 
 ![](plots/regroupements/Normandie_Université-Q3343880-regroupement-court.png) 
 
-[Avertissements et édition](plots/regroupements/Normandie_Université-Q3343880-regroupement-court.log) 
+[Avertissements et édition](plots/regroupements/Normandie_Université-Q3343880-regroupement-court.md 
 
-### Regroupement-Etendu Normandie Université https://www.wikidata.org/wiki/Q3343880 
+### Regroupement-Etendu : Normandie Université https://github.com/cpesr/wikidataESR/blob/master/plots/regroupements/Normandie_Université-Q3343880-regroupement-etendu.md 
 
 ![](plots/regroupements/Normandie_Université-Q3343880-regroupement-etendu.png) 
 
-[Avertissements et édition](plots/regroupements/Normandie_Université-Q3343880-regroupement-etendu.log) 
+[Avertissements et édition](plots/regroupements/Normandie_Université-Q3343880-regroupement-etendu.md 
 
-### Regroupement-Superetendu Normandie Université https://www.wikidata.org/wiki/Q3343880 
+### Regroupement-Superetendu : Normandie Université https://github.com/cpesr/wikidataESR/blob/master/plots/regroupements/Normandie_Université-Q3343880-regroupement-superetendu.md 
 
 ![](plots/regroupements/Normandie_Université-Q3343880-regroupement-superetendu.png) 
 
-[Avertissements et édition](plots/regroupements/Normandie_Université-Q3343880-regroupement-superetendu.log) 
+[Avertissements et édition](plots/regroupements/Normandie_Université-Q3343880-regroupement-superetendu.md 
 
-### Regroupement-Court Picardie Universités https://www.wikidata.org/wiki/Q61716197 
+### Regroupement-Court : Picardie Universités https://github.com/cpesr/wikidataESR/blob/master/plots/regroupements/Picardie_Universités-Q61716197-regroupement-court.md 
 
 ![](plots/regroupements/Picardie_Universités-Q61716197-regroupement-court.png) 
 
-[Avertissements et édition](plots/regroupements/Picardie_Universités-Q61716197-regroupement-court.log) 
+[Avertissements et édition](plots/regroupements/Picardie_Universités-Q61716197-regroupement-court.md 
 
-### Regroupement-Etendu Picardie Universités https://www.wikidata.org/wiki/Q61716197 
+### Regroupement-Etendu : Picardie Universités https://github.com/cpesr/wikidataESR/blob/master/plots/regroupements/Picardie_Universités-Q61716197-regroupement-etendu.md 
 
 ![](plots/regroupements/Picardie_Universités-Q61716197-regroupement-etendu.png) 
 
-[Avertissements et édition](plots/regroupements/Picardie_Universités-Q61716197-regroupement-etendu.log) 
+[Avertissements et édition](plots/regroupements/Picardie_Universités-Q61716197-regroupement-etendu.md 
 
-### Regroupement-Superetendu Picardie Universités https://www.wikidata.org/wiki/Q61716197 
+### Regroupement-Superetendu : Picardie Universités https://github.com/cpesr/wikidataESR/blob/master/plots/regroupements/Picardie_Universités-Q61716197-regroupement-superetendu.md 
 
 ![](plots/regroupements/Picardie_Universités-Q61716197-regroupement-superetendu.png) 
 
-[Avertissements et édition](plots/regroupements/Picardie_Universités-Q61716197-regroupement-superetendu.log) 
+[Avertissements et édition](plots/regroupements/Picardie_Universités-Q61716197-regroupement-superetendu.md 
 
-### Regroupement-Court PSL https://www.wikidata.org/wiki/Q1163431 
+### Regroupement-Court : PSL https://github.com/cpesr/wikidataESR/blob/master/plots/regroupements/PSL-Q1163431-regroupement-court.md 
 
 ![](plots/regroupements/PSL-Q1163431-regroupement-court.png) 
 
-[Avertissements et édition](plots/regroupements/PSL-Q1163431-regroupement-court.log) 
+[Avertissements et édition](plots/regroupements/PSL-Q1163431-regroupement-court.md 
 
-### Regroupement-Etendu PSL https://www.wikidata.org/wiki/Q1163431 
+### Regroupement-Etendu : PSL https://github.com/cpesr/wikidataESR/blob/master/plots/regroupements/PSL-Q1163431-regroupement-etendu.md 
 
 ![](plots/regroupements/PSL-Q1163431-regroupement-etendu.png) 
 
-[Avertissements et édition](plots/regroupements/PSL-Q1163431-regroupement-etendu.log) 
+[Avertissements et édition](plots/regroupements/PSL-Q1163431-regroupement-etendu.md 
 
-### Regroupement-Superetendu PSL https://www.wikidata.org/wiki/Q1163431 
+### Regroupement-Superetendu : PSL https://github.com/cpesr/wikidataESR/blob/master/plots/regroupements/PSL-Q1163431-regroupement-superetendu.md 
 
 ![](plots/regroupements/PSL-Q1163431-regroupement-superetendu.png) 
 
-[Avertissements et édition](plots/regroupements/PSL-Q1163431-regroupement-superetendu.log) 
+[Avertissements et édition](plots/regroupements/PSL-Q1163431-regroupement-superetendu.md 
 
-### Regroupement-Court Site alsacien https://www.wikidata.org/wiki/Q61716176 
+### Regroupement-Court : Site alsacien https://github.com/cpesr/wikidataESR/blob/master/plots/regroupements/Site_alsacien-Q61716176-regroupement-court.md 
 
 ![](plots/regroupements/Site_alsacien-Q61716176-regroupement-court.png) 
 
-[Avertissements et édition](plots/regroupements/Site_alsacien-Q61716176-regroupement-court.log) 
+[Avertissements et édition](plots/regroupements/Site_alsacien-Q61716176-regroupement-court.md 
 
-### Regroupement-Etendu Site alsacien https://www.wikidata.org/wiki/Q61716176 
+### Regroupement-Etendu : Site alsacien https://github.com/cpesr/wikidataESR/blob/master/plots/regroupements/Site_alsacien-Q61716176-regroupement-etendu.md 
 
 ![](plots/regroupements/Site_alsacien-Q61716176-regroupement-etendu.png) 
 
-[Avertissements et édition](plots/regroupements/Site_alsacien-Q61716176-regroupement-etendu.log) 
+[Avertissements et édition](plots/regroupements/Site_alsacien-Q61716176-regroupement-etendu.md 
 
-### Regroupement-Superetendu Site alsacien https://www.wikidata.org/wiki/Q61716176 
+### Regroupement-Superetendu : Site alsacien https://github.com/cpesr/wikidataESR/blob/master/plots/regroupements/Site_alsacien-Q61716176-regroupement-superetendu.md 
 
 ![](plots/regroupements/Site_alsacien-Q61716176-regroupement-superetendu.png) 
 
-[Avertissements et édition](plots/regroupements/Site_alsacien-Q61716176-regroupement-superetendu.log) 
+[Avertissements et édition](plots/regroupements/Site_alsacien-Q61716176-regroupement-superetendu.md 
 
-### Regroupement-Court Site AMPM https://www.wikidata.org/wiki/Q61716142 
+### Regroupement-Court : Site AMPM https://github.com/cpesr/wikidataESR/blob/master/plots/regroupements/Site_AMPM-Q61716142-regroupement-court.md 
 
 ![](plots/regroupements/Site_AMPM-Q61716142-regroupement-court.png) 
 
-[Avertissements et édition](plots/regroupements/Site_AMPM-Q61716142-regroupement-court.log) 
+[Avertissements et édition](plots/regroupements/Site_AMPM-Q61716142-regroupement-court.md 
 
-### Regroupement-Etendu Site AMPM https://www.wikidata.org/wiki/Q61716142 
+### Regroupement-Etendu : Site AMPM https://github.com/cpesr/wikidataESR/blob/master/plots/regroupements/Site_AMPM-Q61716142-regroupement-etendu.md 
 
 ![](plots/regroupements/Site_AMPM-Q61716142-regroupement-etendu.png) 
 
-[Avertissements et édition](plots/regroupements/Site_AMPM-Q61716142-regroupement-etendu.log) 
+[Avertissements et édition](plots/regroupements/Site_AMPM-Q61716142-regroupement-etendu.md 
 
-### Regroupement-Superetendu Site AMPM https://www.wikidata.org/wiki/Q61716142 
+### Regroupement-Superetendu : Site AMPM https://github.com/cpesr/wikidataESR/blob/master/plots/regroupements/Site_AMPM-Q61716142-regroupement-superetendu.md 
 
 ![](plots/regroupements/Site_AMPM-Q61716142-regroupement-superetendu.png) 
 
-[Avertissements et édition](plots/regroupements/Site_AMPM-Q61716142-regroupement-superetendu.log) 
+[Avertissements et édition](plots/regroupements/Site_AMPM-Q61716142-regroupement-superetendu.md 
 
-### Regroupement-Court Site champenois https://www.wikidata.org/wiki/Q61716216 
+### Regroupement-Court : Site champenois https://github.com/cpesr/wikidataESR/blob/master/plots/regroupements/Site_champenois-Q61716216-regroupement-court.md 
 
 ![](plots/regroupements/Site_champenois-Q61716216-regroupement-court.png) 
 
-[Avertissements et édition](plots/regroupements/Site_champenois-Q61716216-regroupement-court.log) 
+[Avertissements et édition](plots/regroupements/Site_champenois-Q61716216-regroupement-court.md 
 
-### Regroupement-Etendu Site champenois https://www.wikidata.org/wiki/Q61716216 
+### Regroupement-Etendu : Site champenois https://github.com/cpesr/wikidataESR/blob/master/plots/regroupements/Site_champenois-Q61716216-regroupement-etendu.md 
 
 ![](plots/regroupements/Site_champenois-Q61716216-regroupement-etendu.png) 
 
-[Avertissements et édition](plots/regroupements/Site_champenois-Q61716216-regroupement-etendu.log) 
+[Avertissements et édition](plots/regroupements/Site_champenois-Q61716216-regroupement-etendu.md 
 
-### Regroupement-Superetendu Site champenois https://www.wikidata.org/wiki/Q61716216 
+### Regroupement-Superetendu : Site champenois https://github.com/cpesr/wikidataESR/blob/master/plots/regroupements/Site_champenois-Q61716216-regroupement-superetendu.md 
 
 ![](plots/regroupements/Site_champenois-Q61716216-regroupement-superetendu.png) 
 
-[Avertissements et édition](plots/regroupements/Site_champenois-Q61716216-regroupement-superetendu.log) 
+[Avertissements et édition](plots/regroupements/Site_champenois-Q61716216-regroupement-superetendu.md 
 
-### Regroupement-Court Sorbonne Paris Cité https://www.wikidata.org/wiki/Q3491149 
+### Regroupement-Court : Sorbonne Paris Cité https://github.com/cpesr/wikidataESR/blob/master/plots/regroupements/Sorbonne_Paris_Cité-Q3491149-regroupement-court.md 
 
 ![](plots/regroupements/Sorbonne_Paris_Cité-Q3491149-regroupement-court.png) 
 
-[Avertissements et édition](plots/regroupements/Sorbonne_Paris_Cité-Q3491149-regroupement-court.log) 
+[Avertissements et édition](plots/regroupements/Sorbonne_Paris_Cité-Q3491149-regroupement-court.md 
 
-### Regroupement-Etendu Sorbonne Paris Cité https://www.wikidata.org/wiki/Q3491149 
+### Regroupement-Etendu : Sorbonne Paris Cité https://github.com/cpesr/wikidataESR/blob/master/plots/regroupements/Sorbonne_Paris_Cité-Q3491149-regroupement-etendu.md 
 
 ![](plots/regroupements/Sorbonne_Paris_Cité-Q3491149-regroupement-etendu.png) 
 
-[Avertissements et édition](plots/regroupements/Sorbonne_Paris_Cité-Q3491149-regroupement-etendu.log) 
+[Avertissements et édition](plots/regroupements/Sorbonne_Paris_Cité-Q3491149-regroupement-etendu.md 
 
-### Regroupement-Superetendu Sorbonne Paris Cité https://www.wikidata.org/wiki/Q3491149 
+### Regroupement-Superetendu : Sorbonne Paris Cité https://github.com/cpesr/wikidataESR/blob/master/plots/regroupements/Sorbonne_Paris_Cité-Q3491149-regroupement-superetendu.md 
 
 ![](plots/regroupements/Sorbonne_Paris_Cité-Q3491149-regroupement-superetendu.png) 
 
-[Avertissements et édition](plots/regroupements/Sorbonne_Paris_Cité-Q3491149-regroupement-superetendu.log) 
+[Avertissements et édition](plots/regroupements/Sorbonne_Paris_Cité-Q3491149-regroupement-superetendu.md 
 
-### Regroupement-Court Sorbonne Université https://www.wikidata.org/wiki/Q61716212 
+### Regroupement-Court : Sorbonne Université https://github.com/cpesr/wikidataESR/blob/master/plots/regroupements/Sorbonne_Université-Q61716212-regroupement-court.md 
 
 ![](plots/regroupements/Sorbonne_Université-Q61716212-regroupement-court.png) 
 
-[Avertissements et édition](plots/regroupements/Sorbonne_Université-Q61716212-regroupement-court.log) 
+[Avertissements et édition](plots/regroupements/Sorbonne_Université-Q61716212-regroupement-court.md 
 
-### Regroupement-Etendu Sorbonne Université https://www.wikidata.org/wiki/Q61716212 
+### Regroupement-Etendu : Sorbonne Université https://github.com/cpesr/wikidataESR/blob/master/plots/regroupements/Sorbonne_Université-Q61716212-regroupement-etendu.md 
 
 ![](plots/regroupements/Sorbonne_Université-Q61716212-regroupement-etendu.png) 
 
-[Avertissements et édition](plots/regroupements/Sorbonne_Université-Q61716212-regroupement-etendu.log) 
+[Avertissements et édition](plots/regroupements/Sorbonne_Université-Q61716212-regroupement-etendu.md 
 
-### Regroupement-Superetendu Sorbonne Université https://www.wikidata.org/wiki/Q61716212 
+### Regroupement-Superetendu : Sorbonne Université https://github.com/cpesr/wikidataESR/blob/master/plots/regroupements/Sorbonne_Université-Q61716212-regroupement-superetendu.md 
 
 ![](plots/regroupements/Sorbonne_Université-Q61716212-regroupement-superetendu.png) 
 
-[Avertissements et édition](plots/regroupements/Sorbonne_Université-Q61716212-regroupement-superetendu.log) 
+[Avertissements et édition](plots/regroupements/Sorbonne_Université-Q61716212-regroupement-superetendu.md 
 
-### Regroupement-Court UBL https://www.wikidata.org/wiki/Q21994834 
+### Regroupement-Court : UBL https://github.com/cpesr/wikidataESR/blob/master/plots/regroupements/UBL-Q21994834-regroupement-court.md 
 
 ![](plots/regroupements/UBL-Q21994834-regroupement-court.png) 
 
-[Avertissements et édition](plots/regroupements/UBL-Q21994834-regroupement-court.log) 
+[Avertissements et édition](plots/regroupements/UBL-Q21994834-regroupement-court.md 
 
-### Regroupement-Etendu UBL https://www.wikidata.org/wiki/Q21994834 
+### Regroupement-Etendu : UBL https://github.com/cpesr/wikidataESR/blob/master/plots/regroupements/UBL-Q21994834-regroupement-etendu.md 
 
 ![](plots/regroupements/UBL-Q21994834-regroupement-etendu.png) 
 
-[Avertissements et édition](plots/regroupements/UBL-Q21994834-regroupement-etendu.log) 
+[Avertissements et édition](plots/regroupements/UBL-Q21994834-regroupement-etendu.md 
 
-### Regroupement-Superetendu UBL https://www.wikidata.org/wiki/Q21994834 
+### Regroupement-Superetendu : UBL https://github.com/cpesr/wikidataESR/blob/master/plots/regroupements/UBL-Q21994834-regroupement-superetendu.md 
 
 ![](plots/regroupements/UBL-Q21994834-regroupement-superetendu.png) 
 
-[Avertissements et édition](plots/regroupements/UBL-Q21994834-regroupement-superetendu.log) 
+[Avertissements et édition](plots/regroupements/UBL-Q21994834-regroupement-superetendu.md 
 
-### Regroupement-Court UCA https://www.wikidata.org/wiki/Q61716190 
+### Regroupement-Court : UCA https://github.com/cpesr/wikidataESR/blob/master/plots/regroupements/UCA-Q61716190-regroupement-court.md 
 
 ![](plots/regroupements/UCA-Q61716190-regroupement-court.png) 
 
-[Avertissements et édition](plots/regroupements/UCA-Q61716190-regroupement-court.log) 
+[Avertissements et édition](plots/regroupements/UCA-Q61716190-regroupement-court.md 
 
-### Regroupement-Etendu UCA https://www.wikidata.org/wiki/Q61716190 
+### Regroupement-Etendu : UCA https://github.com/cpesr/wikidataESR/blob/master/plots/regroupements/UCA-Q61716190-regroupement-etendu.md 
 
 ![](plots/regroupements/UCA-Q61716190-regroupement-etendu.png) 
 
-[Avertissements et édition](plots/regroupements/UCA-Q61716190-regroupement-etendu.log) 
+[Avertissements et édition](plots/regroupements/UCA-Q61716190-regroupement-etendu.md 
 
-### Regroupement-Superetendu UCA https://www.wikidata.org/wiki/Q61716190 
+### Regroupement-Superetendu : UCA https://github.com/cpesr/wikidataESR/blob/master/plots/regroupements/UCA-Q61716190-regroupement-superetendu.md 
 
 ![](plots/regroupements/UCA-Q61716190-regroupement-superetendu.png) 
 
-[Avertissements et édition](plots/regroupements/UCA-Q61716190-regroupement-superetendu.log) 
+[Avertissements et édition](plots/regroupements/UCA-Q61716190-regroupement-superetendu.md 
 
-### Regroupement-Court UDL https://www.wikidata.org/wiki/Q10176 
+### Regroupement-Court : UDL https://github.com/cpesr/wikidataESR/blob/master/plots/regroupements/UDL-Q10176-regroupement-court.md 
 
 ![](plots/regroupements/UDL-Q10176-regroupement-court.png) 
 
-[Avertissements et édition](plots/regroupements/UDL-Q10176-regroupement-court.log) 
+[Avertissements et édition](plots/regroupements/UDL-Q10176-regroupement-court.md 
 
-### Regroupement-Etendu UDL https://www.wikidata.org/wiki/Q10176 
+### Regroupement-Etendu : UDL https://github.com/cpesr/wikidataESR/blob/master/plots/regroupements/UDL-Q10176-regroupement-etendu.md 
 
 ![](plots/regroupements/UDL-Q10176-regroupement-etendu.png) 
 
-[Avertissements et édition](plots/regroupements/UDL-Q10176-regroupement-etendu.log) 
+[Avertissements et édition](plots/regroupements/UDL-Q10176-regroupement-etendu.md 
 
-### Regroupement-Superetendu UDL https://www.wikidata.org/wiki/Q10176 
+### Regroupement-Superetendu : UDL https://github.com/cpesr/wikidataESR/blob/master/plots/regroupements/UDL-Q10176-regroupement-superetendu.md 
 
 ![](plots/regroupements/UDL-Q10176-regroupement-superetendu.png) 
 
-[Avertissements et édition](plots/regroupements/UDL-Q10176-regroupement-superetendu.log) 
+[Avertissements et édition](plots/regroupements/UDL-Q10176-regroupement-superetendu.md 
 
-### Regroupement-Court Université confédérale Léonard-de-Vinci https://www.wikidata.org/wiki/Q20735682 
+### Regroupement-Court : Université confédérale Léonard-de-Vinci https://github.com/cpesr/wikidataESR/blob/master/plots/regroupements/Université_confédérale_Léonard-de-Vinci-Q20735682-regroupement-court.md 
 
 ![](plots/regroupements/Université_confédérale_Léonard-de-Vinci-Q20735682-regroupement-court.png) 
 
-[Avertissements et édition](plots/regroupements/Université_confédérale_Léonard-de-Vinci-Q20735682-regroupement-court.log) 
+[Avertissements et édition](plots/regroupements/Université_confédérale_Léonard-de-Vinci-Q20735682-regroupement-court.md 
 
-### Regroupement-Etendu Université confédérale Léonard-de-Vinci https://www.wikidata.org/wiki/Q20735682 
+### Regroupement-Etendu : Université confédérale Léonard-de-Vinci https://github.com/cpesr/wikidataESR/blob/master/plots/regroupements/Université_confédérale_Léonard-de-Vinci-Q20735682-regroupement-etendu.md 
 
 ![](plots/regroupements/Université_confédérale_Léonard-de-Vinci-Q20735682-regroupement-etendu.png) 
 
-[Avertissements et édition](plots/regroupements/Université_confédérale_Léonard-de-Vinci-Q20735682-regroupement-etendu.log) 
+[Avertissements et édition](plots/regroupements/Université_confédérale_Léonard-de-Vinci-Q20735682-regroupement-etendu.md 
 
-### Regroupement-Superetendu Université confédérale Léonard-de-Vinci https://www.wikidata.org/wiki/Q20735682 
+### Regroupement-Superetendu : Université confédérale Léonard-de-Vinci https://github.com/cpesr/wikidataESR/blob/master/plots/regroupements/Université_confédérale_Léonard-de-Vinci-Q20735682-regroupement-superetendu.md 
 
 ![](plots/regroupements/Université_confédérale_Léonard-de-Vinci-Q20735682-regroupement-superetendu.png) 
 
-[Avertissements et édition](plots/regroupements/Université_confédérale_Léonard-de-Vinci-Q20735682-regroupement-superetendu.log) 
+[Avertissements et édition](plots/regroupements/Université_confédérale_Léonard-de-Vinci-Q20735682-regroupement-superetendu.md 
 
-### Regroupement-Court Université de Lille https://www.wikidata.org/wiki/Q1322289 
+### Regroupement-Court : Université de Lille https://github.com/cpesr/wikidataESR/blob/master/plots/regroupements/Université_de_Lille-Q1322289-regroupement-court.md 
 
 ![](plots/regroupements/Université_de_Lille-Q1322289-regroupement-court.png) 
 
-[Avertissements et édition](plots/regroupements/Université_de_Lille-Q1322289-regroupement-court.log) 
+[Avertissements et édition](plots/regroupements/Université_de_Lille-Q1322289-regroupement-court.md 
 
-### Regroupement-Etendu Université de Lille https://www.wikidata.org/wiki/Q1322289 
+### Regroupement-Etendu : Université de Lille https://github.com/cpesr/wikidataESR/blob/master/plots/regroupements/Université_de_Lille-Q1322289-regroupement-etendu.md 
 
 ![](plots/regroupements/Université_de_Lille-Q1322289-regroupement-etendu.png) 
 
-[Avertissements et édition](plots/regroupements/Université_de_Lille-Q1322289-regroupement-etendu.log) 
+[Avertissements et édition](plots/regroupements/Université_de_Lille-Q1322289-regroupement-etendu.md 
 
-### Regroupement-Superetendu Université de Lille https://www.wikidata.org/wiki/Q1322289 
+### Regroupement-Superetendu : Université de Lille https://github.com/cpesr/wikidataESR/blob/master/plots/regroupements/Université_de_Lille-Q1322289-regroupement-superetendu.md 
 
 ![](plots/regroupements/Université_de_Lille-Q1322289-regroupement-superetendu.png) 
 
-[Avertissements et édition](plots/regroupements/Université_de_Lille-Q1322289-regroupement-superetendu.log) 
+[Avertissements et édition](plots/regroupements/Université_de_Lille-Q1322289-regroupement-superetendu.md 
 
-### Regroupement-Court PRES Université de Lorraine https://www.wikidata.org/wiki/Q64590454 
+### Regroupement-Court : PRES Université de Lorraine https://github.com/cpesr/wikidataESR/blob/master/plots/regroupements/PRES_Université_de_Lorraine-Q64590454-regroupement-court.md 
 
 ![](plots/regroupements/PRES_Université_de_Lorraine-Q64590454-regroupement-court.png) 
 
-[Avertissements et édition](plots/regroupements/PRES_Université_de_Lorraine-Q64590454-regroupement-court.log) 
+[Avertissements et édition](plots/regroupements/PRES_Université_de_Lorraine-Q64590454-regroupement-court.md 
 
-### Regroupement-Etendu PRES Université de Lorraine https://www.wikidata.org/wiki/Q64590454 
+### Regroupement-Etendu : PRES Université de Lorraine https://github.com/cpesr/wikidataESR/blob/master/plots/regroupements/PRES_Université_de_Lorraine-Q64590454-regroupement-etendu.md 
 
 ![](plots/regroupements/PRES_Université_de_Lorraine-Q64590454-regroupement-etendu.png) 
 
-[Avertissements et édition](plots/regroupements/PRES_Université_de_Lorraine-Q64590454-regroupement-etendu.log) 
+[Avertissements et édition](plots/regroupements/PRES_Université_de_Lorraine-Q64590454-regroupement-etendu.md 
 
-### Regroupement-Superetendu PRES Université de Lorraine https://www.wikidata.org/wiki/Q64590454 
+### Regroupement-Superetendu : PRES Université de Lorraine https://github.com/cpesr/wikidataESR/blob/master/plots/regroupements/PRES_Université_de_Lorraine-Q64590454-regroupement-superetendu.md 
 
 ![](plots/regroupements/PRES_Université_de_Lorraine-Q64590454-regroupement-superetendu.png) 
 
-[Avertissements et édition](plots/regroupements/PRES_Université_de_Lorraine-Q64590454-regroupement-superetendu.log) 
+[Avertissements et édition](plots/regroupements/PRES_Université_de_Lorraine-Q64590454-regroupement-superetendu.md 
 
-### Regroupement-Court Association Université de Lorraine https://www.wikidata.org/wiki/Q61718100 
+### Regroupement-Court : Association Université de Lorraine https://github.com/cpesr/wikidataESR/blob/master/plots/regroupements/Association_Université_de_Lorraine-Q61718100-regroupement-court.md 
 
 ![](plots/regroupements/Association_Université_de_Lorraine-Q61718100-regroupement-court.png) 
 
-[Avertissements et édition](plots/regroupements/Association_Université_de_Lorraine-Q61718100-regroupement-court.log) 
+[Avertissements et édition](plots/regroupements/Association_Université_de_Lorraine-Q61718100-regroupement-court.md 
 
-### Regroupement-Etendu Association Université de Lorraine https://www.wikidata.org/wiki/Q61718100 
+### Regroupement-Etendu : Association Université de Lorraine https://github.com/cpesr/wikidataESR/blob/master/plots/regroupements/Association_Université_de_Lorraine-Q61718100-regroupement-etendu.md 
 
 ![](plots/regroupements/Association_Université_de_Lorraine-Q61718100-regroupement-etendu.png) 
 
-[Avertissements et édition](plots/regroupements/Association_Université_de_Lorraine-Q61718100-regroupement-etendu.log) 
+[Avertissements et édition](plots/regroupements/Association_Université_de_Lorraine-Q61718100-regroupement-etendu.md 
 
-### Regroupement-Superetendu Association Université de Lorraine https://www.wikidata.org/wiki/Q61718100 
+### Regroupement-Superetendu : Association Université de Lorraine https://github.com/cpesr/wikidataESR/blob/master/plots/regroupements/Association_Université_de_Lorraine-Q61718100-regroupement-superetendu.md 
 
 ![](plots/regroupements/Association_Université_de_Lorraine-Q61718100-regroupement-superetendu.png) 
 
-[Avertissements et édition](plots/regroupements/Association_Université_de_Lorraine-Q61718100-regroupement-superetendu.log) 
+[Avertissements et édition](plots/regroupements/Association_Université_de_Lorraine-Q61718100-regroupement-superetendu.md 
 
-### Regroupement-Court Université fédérale de Toulouse Midi-Pyrénées https://www.wikidata.org/wiki/Q578023 
+### Regroupement-Court : Université fédérale de Toulouse Midi-Pyrénées https://github.com/cpesr/wikidataESR/blob/master/plots/regroupements/Université_fédérale_de_Toulouse_Midi-Pyrénées-Q578023-regroupement-court.md 
 
 ![](plots/regroupements/Université_fédérale_de_Toulouse_Midi-Pyrénées-Q578023-regroupement-court.png) 
 
-[Avertissements et édition](plots/regroupements/Université_fédérale_de_Toulouse_Midi-Pyrénées-Q578023-regroupement-court.log) 
+[Avertissements et édition](plots/regroupements/Université_fédérale_de_Toulouse_Midi-Pyrénées-Q578023-regroupement-court.md 
 
-### Regroupement-Etendu Université fédérale de Toulouse Midi-Pyrénées https://www.wikidata.org/wiki/Q578023 
+### Regroupement-Etendu : Université fédérale de Toulouse Midi-Pyrénées https://github.com/cpesr/wikidataESR/blob/master/plots/regroupements/Université_fédérale_de_Toulouse_Midi-Pyrénées-Q578023-regroupement-etendu.md 
 
 ![](plots/regroupements/Université_fédérale_de_Toulouse_Midi-Pyrénées-Q578023-regroupement-etendu.png) 
 
-[Avertissements et édition](plots/regroupements/Université_fédérale_de_Toulouse_Midi-Pyrénées-Q578023-regroupement-etendu.log) 
+[Avertissements et édition](plots/regroupements/Université_fédérale_de_Toulouse_Midi-Pyrénées-Q578023-regroupement-etendu.md 
 
-### Regroupement-Superetendu Université fédérale de Toulouse Midi-Pyrénées https://www.wikidata.org/wiki/Q578023 
+### Regroupement-Superetendu : Université fédérale de Toulouse Midi-Pyrénées https://github.com/cpesr/wikidataESR/blob/master/plots/regroupements/Université_fédérale_de_Toulouse_Midi-Pyrénées-Q578023-regroupement-superetendu.md 
 
 ![](plots/regroupements/Université_fédérale_de_Toulouse_Midi-Pyrénées-Q578023-regroupement-superetendu.png) 
 
-[Avertissements et édition](plots/regroupements/Université_fédérale_de_Toulouse_Midi-Pyrénées-Q578023-regroupement-superetendu.log) 
+[Avertissements et édition](plots/regroupements/Université_fédérale_de_Toulouse_Midi-Pyrénées-Q578023-regroupement-superetendu.md 
 
-### Regroupement-Court université Paris Lumières https://www.wikidata.org/wiki/Q3551474 
+### Regroupement-Court : université Paris Lumières https://github.com/cpesr/wikidataESR/blob/master/plots/regroupements/université_Paris_Lumières-Q3551474-regroupement-court.md 
 
 ![](plots/regroupements/université_Paris_Lumières-Q3551474-regroupement-court.png) 
 
-[Avertissements et édition](plots/regroupements/université_Paris_Lumières-Q3551474-regroupement-court.log) 
+[Avertissements et édition](plots/regroupements/université_Paris_Lumières-Q3551474-regroupement-court.md 
 
-### Regroupement-Etendu université Paris Lumières https://www.wikidata.org/wiki/Q3551474 
+### Regroupement-Etendu : université Paris Lumières https://github.com/cpesr/wikidataESR/blob/master/plots/regroupements/université_Paris_Lumières-Q3551474-regroupement-etendu.md 
 
 ![](plots/regroupements/université_Paris_Lumières-Q3551474-regroupement-etendu.png) 
 
-[Avertissements et édition](plots/regroupements/université_Paris_Lumières-Q3551474-regroupement-etendu.log) 
+[Avertissements et édition](plots/regroupements/université_Paris_Lumières-Q3551474-regroupement-etendu.md 
 
-### Regroupement-Superetendu université Paris Lumières https://www.wikidata.org/wiki/Q3551474 
+### Regroupement-Superetendu : université Paris Lumières https://github.com/cpesr/wikidataESR/blob/master/plots/regroupements/université_Paris_Lumières-Q3551474-regroupement-superetendu.md 
 
 ![](plots/regroupements/université_Paris_Lumières-Q3551474-regroupement-superetendu.png) 
 
-[Avertissements et édition](plots/regroupements/université_Paris_Lumières-Q3551474-regroupement-superetendu.log) 
+[Avertissements et édition](plots/regroupements/université_Paris_Lumières-Q3551474-regroupement-superetendu.md 
 
-### Regroupement-Court Université Paris-Est https://www.wikidata.org/wiki/Q3551472 
+### Regroupement-Court : Université Paris-Est https://github.com/cpesr/wikidataESR/blob/master/plots/regroupements/Université_Paris-Est-Q3551472-regroupement-court.md 
 
 ![](plots/regroupements/Université_Paris-Est-Q3551472-regroupement-court.png) 
 
-[Avertissements et édition](plots/regroupements/Université_Paris-Est-Q3551472-regroupement-court.log) 
+[Avertissements et édition](plots/regroupements/Université_Paris-Est-Q3551472-regroupement-court.md 
 
-### Regroupement-Etendu Université Paris-Est https://www.wikidata.org/wiki/Q3551472 
+### Regroupement-Etendu : Université Paris-Est https://github.com/cpesr/wikidataESR/blob/master/plots/regroupements/Université_Paris-Est-Q3551472-regroupement-etendu.md 
 
 ![](plots/regroupements/Université_Paris-Est-Q3551472-regroupement-etendu.png) 
 
-[Avertissements et édition](plots/regroupements/Université_Paris-Est-Q3551472-regroupement-etendu.log) 
+[Avertissements et édition](plots/regroupements/Université_Paris-Est-Q3551472-regroupement-etendu.md 
 
-### Regroupement-Superetendu Université Paris-Est https://www.wikidata.org/wiki/Q3551472 
+### Regroupement-Superetendu : Université Paris-Est https://github.com/cpesr/wikidataESR/blob/master/plots/regroupements/Université_Paris-Est-Q3551472-regroupement-superetendu.md 
 
 ![](plots/regroupements/Université_Paris-Est-Q3551472-regroupement-superetendu.png) 
 
-[Avertissements et édition](plots/regroupements/Université_Paris-Est-Q3551472-regroupement-superetendu.log) 
+[Avertissements et édition](plots/regroupements/Université_Paris-Est-Q3551472-regroupement-superetendu.md 
 
-### Regroupement-Court PRES UniverSud Paris https://www.wikidata.org/wiki/Q3248808 
+### Regroupement-Court : PRES UniverSud Paris https://github.com/cpesr/wikidataESR/blob/master/plots/regroupements/PRES_UniverSud_Paris-Q3248808-regroupement-court.md 
 
 ![](plots/regroupements/PRES_UniverSud_Paris-Q3248808-regroupement-court.png) 
 
-[Avertissements et édition](plots/regroupements/PRES_UniverSud_Paris-Q3248808-regroupement-court.log) 
+[Avertissements et édition](plots/regroupements/PRES_UniverSud_Paris-Q3248808-regroupement-court.md 
 
-### Regroupement-Etendu PRES UniverSud Paris https://www.wikidata.org/wiki/Q3248808 
+### Regroupement-Etendu : PRES UniverSud Paris https://github.com/cpesr/wikidataESR/blob/master/plots/regroupements/PRES_UniverSud_Paris-Q3248808-regroupement-etendu.md 
 
 ![](plots/regroupements/PRES_UniverSud_Paris-Q3248808-regroupement-etendu.png) 
 
-[Avertissements et édition](plots/regroupements/PRES_UniverSud_Paris-Q3248808-regroupement-etendu.log) 
+[Avertissements et édition](plots/regroupements/PRES_UniverSud_Paris-Q3248808-regroupement-etendu.md 
 
-### Regroupement-Superetendu PRES UniverSud Paris https://www.wikidata.org/wiki/Q3248808 
+### Regroupement-Superetendu : PRES UniverSud Paris https://github.com/cpesr/wikidataESR/blob/master/plots/regroupements/PRES_UniverSud_Paris-Q3248808-regroupement-superetendu.md 
 
 ![](plots/regroupements/PRES_UniverSud_Paris-Q3248808-regroupement-superetendu.png) 
 
-[Avertissements et édition](plots/regroupements/PRES_UniverSud_Paris-Q3248808-regroupement-superetendu.log) 
+[Avertissements et édition](plots/regroupements/PRES_UniverSud_Paris-Q3248808-regroupement-superetendu.md 
 
-### Regroupement-Court Université Paris-Seine https://www.wikidata.org/wiki/Q3247880 
+### Regroupement-Court : Université Paris-Seine https://github.com/cpesr/wikidataESR/blob/master/plots/regroupements/Université_Paris-Seine-Q3247880-regroupement-court.md 
 
 ![](plots/regroupements/Université_Paris-Seine-Q3247880-regroupement-court.png) 
 
-[Avertissements et édition](plots/regroupements/Université_Paris-Seine-Q3247880-regroupement-court.log) 
+[Avertissements et édition](plots/regroupements/Université_Paris-Seine-Q3247880-regroupement-court.md 
 
-### Regroupement-Etendu Université Paris-Seine https://www.wikidata.org/wiki/Q3247880 
+### Regroupement-Etendu : Université Paris-Seine https://github.com/cpesr/wikidataESR/blob/master/plots/regroupements/Université_Paris-Seine-Q3247880-regroupement-etendu.md 
 
 ![](plots/regroupements/Université_Paris-Seine-Q3247880-regroupement-etendu.png) 
 
-[Avertissements et édition](plots/regroupements/Université_Paris-Seine-Q3247880-regroupement-etendu.log) 
+[Avertissements et édition](plots/regroupements/Université_Paris-Seine-Q3247880-regroupement-etendu.md 
 
-### Regroupement-Superetendu Université Paris-Seine https://www.wikidata.org/wiki/Q3247880 
+### Regroupement-Superetendu : Université Paris-Seine https://github.com/cpesr/wikidataESR/blob/master/plots/regroupements/Université_Paris-Seine-Q3247880-regroupement-superetendu.md 
 
 ![](plots/regroupements/Université_Paris-Seine-Q3247880-regroupement-superetendu.png) 
 
-[Avertissements et édition](plots/regroupements/Université_Paris-Seine-Q3247880-regroupement-superetendu.log) 
+[Avertissements et édition](plots/regroupements/Université_Paris-Seine-Q3247880-regroupement-superetendu.md 
 
-### Regroupement-Court COMUE Université Paris-Saclay https://www.wikidata.org/wiki/Q13531686 
+### Regroupement-Court : COMUE Université Paris-Saclay https://github.com/cpesr/wikidataESR/blob/master/plots/regroupements/COMUE_Université_Paris-Saclay-Q13531686-regroupement-court.md 
 
 ![](plots/regroupements/COMUE_Université_Paris-Saclay-Q13531686-regroupement-court.png) 
 
-[Avertissements et édition](plots/regroupements/COMUE_Université_Paris-Saclay-Q13531686-regroupement-court.log) 
+[Avertissements et édition](plots/regroupements/COMUE_Université_Paris-Saclay-Q13531686-regroupement-court.md 
 
-### Regroupement-Etendu COMUE Université Paris-Saclay https://www.wikidata.org/wiki/Q13531686 
+### Regroupement-Etendu : COMUE Université Paris-Saclay https://github.com/cpesr/wikidataESR/blob/master/plots/regroupements/COMUE_Université_Paris-Saclay-Q13531686-regroupement-etendu.md 
 
 ![](plots/regroupements/COMUE_Université_Paris-Saclay-Q13531686-regroupement-etendu.png) 
 
-[Avertissements et édition](plots/regroupements/COMUE_Université_Paris-Saclay-Q13531686-regroupement-etendu.log) 
+[Avertissements et édition](plots/regroupements/COMUE_Université_Paris-Saclay-Q13531686-regroupement-etendu.md 
 
-### Regroupement-Superetendu COMUE Université Paris-Saclay https://www.wikidata.org/wiki/Q13531686 
+### Regroupement-Superetendu : COMUE Université Paris-Saclay https://github.com/cpesr/wikidataESR/blob/master/plots/regroupements/COMUE_Université_Paris-Saclay-Q13531686-regroupement-superetendu.md 
 
-![](plots/regroupements/COMUE_Université_Paris-Saclay-Q13531686-regroupement-superetendu.png) 
+[Avertissements et édition](plots/regroupements/COMUE_Université_Paris-Saclay-Q13531686-regroupement-superetendu.md 
 
-[Avertissements et édition](plots/regroupements/COMUE_Université_Paris-Saclay-Q13531686-regroupement-superetendu.log) 
+### Regroupement-Court : Union des universités de la Méditerranée https://github.com/cpesr/wikidataESR/blob/master/plots/regroupements/Union_des_universités_de_la_Méditerranée-Q850927-regroupement-court.md 
 
-### Regroupement-Court Union des universités de la Méditerranée https://www.wikidata.org/wiki/Q850927 
+[Avertissements et édition](plots/regroupements/Union_des_universités_de_la_Méditerranée-Q850927-regroupement-court.md 
 
-![](plots/regroupements/Union_des_universités_de_la_Méditerranée-Q850927-regroupement-court.png) 
+### Regroupement-Etendu : Union des universités de la Méditerranée https://github.com/cpesr/wikidataESR/blob/master/plots/regroupements/Union_des_universités_de_la_Méditerranée-Q850927-regroupement-etendu.md 
 
-[Avertissements et édition](plots/regroupements/Union_des_universités_de_la_Méditerranée-Q850927-regroupement-court.log) 
+[Avertissements et édition](plots/regroupements/Union_des_universités_de_la_Méditerranée-Q850927-regroupement-etendu.md 
 
-### Regroupement-Etendu Union des universités de la Méditerranée https://www.wikidata.org/wiki/Q850927 
+### Regroupement-Superetendu : Union des universités de la Méditerranée https://github.com/cpesr/wikidataESR/blob/master/plots/regroupements/Union_des_universités_de_la_Méditerranée-Q850927-regroupement-superetendu.md 
 
-![](plots/regroupements/Union_des_universités_de_la_Méditerranée-Q850927-regroupement-etendu.png) 
+[Avertissements et édition](plots/regroupements/Union_des_universités_de_la_Méditerranée-Q850927-regroupement-superetendu.md 
 
-[Avertissements et édition](plots/regroupements/Union_des_universités_de_la_Méditerranée-Q850927-regroupement-etendu.log) 
-
-### Regroupement-Superetendu Union des universités de la Méditerranée https://www.wikidata.org/wiki/Q850927 
-
-![](plots/regroupements/Union_des_universités_de_la_Méditerranée-Q850927-regroupement-superetendu.png) 
-
-[Avertissements et édition](plots/regroupements/Union_des_universités_de_la_Méditerranée-Q850927-regroupement-superetendu.log) 
-
-### Regroupement-Court Sorbonne Universités https://www.wikidata.org/wiki/Q3491150 
+### Regroupement-Court : Sorbonne Universités https://github.com/cpesr/wikidataESR/blob/master/plots/regroupements/Sorbonne_Universités-Q3491150-regroupement-court.md 
 
 ![](plots/regroupements/Sorbonne_Universités-Q3491150-regroupement-court.png) 
 
-[Avertissements et édition](plots/regroupements/Sorbonne_Universités-Q3491150-regroupement-court.log) 
+[Avertissements et édition](plots/regroupements/Sorbonne_Universités-Q3491150-regroupement-court.md 
 
-### Regroupement-Etendu Sorbonne Universités https://www.wikidata.org/wiki/Q3491150 
+### Regroupement-Etendu : Sorbonne Universités https://github.com/cpesr/wikidataESR/blob/master/plots/regroupements/Sorbonne_Universités-Q3491150-regroupement-etendu.md 
 
 ![](plots/regroupements/Sorbonne_Universités-Q3491150-regroupement-etendu.png) 
 
-[Avertissements et édition](plots/regroupements/Sorbonne_Universités-Q3491150-regroupement-etendu.log) 
+[Avertissements et édition](plots/regroupements/Sorbonne_Universités-Q3491150-regroupement-etendu.md 
 
-### Regroupement-Superetendu Sorbonne Universités https://www.wikidata.org/wiki/Q3491150 
+### Regroupement-Superetendu : Sorbonne Universités https://github.com/cpesr/wikidataESR/blob/master/plots/regroupements/Sorbonne_Universités-Q3491150-regroupement-superetendu.md 
 
 ![](plots/regroupements/Sorbonne_Universités-Q3491150-regroupement-superetendu.png) 
 
-[Avertissements et édition](plots/regroupements/Sorbonne_Universités-Q3491150-regroupement-superetendu.log) 
+[Avertissements et édition](plots/regroupements/Sorbonne_Universités-Q3491150-regroupement-superetendu.md 
 
-### Regroupement-Court COMUE Angers-Le Mans https://www.wikidata.org/wiki/Q104621964 
+### Regroupement-Court : COMUE Angers-Le Mans https://github.com/cpesr/wikidataESR/blob/master/plots/regroupements/COMUE_Angers-Le_Mans-Q104621964-regroupement-court.md 
 
-![](plots/regroupements/COMUE_Angers-Le_Mans-Q104621964-regroupement-court.png) 
+[Avertissements et édition](plots/regroupements/COMUE_Angers-Le_Mans-Q104621964-regroupement-court.md 
 
-[Avertissements et édition](plots/regroupements/COMUE_Angers-Le_Mans-Q104621964-regroupement-court.log) 
+### Regroupement-Etendu : COMUE Angers-Le Mans https://github.com/cpesr/wikidataESR/blob/master/plots/regroupements/COMUE_Angers-Le_Mans-Q104621964-regroupement-etendu.md 
 
-### Regroupement-Etendu COMUE Angers-Le Mans https://www.wikidata.org/wiki/Q104621964 
+[Avertissements et édition](plots/regroupements/COMUE_Angers-Le_Mans-Q104621964-regroupement-etendu.md 
 
-![](plots/regroupements/COMUE_Angers-Le_Mans-Q104621964-regroupement-etendu.png) 
+### Regroupement-Superetendu : COMUE Angers-Le Mans https://github.com/cpesr/wikidataESR/blob/master/plots/regroupements/COMUE_Angers-Le_Mans-Q104621964-regroupement-superetendu.md 
 
-[Avertissements et édition](plots/regroupements/COMUE_Angers-Le_Mans-Q104621964-regroupement-etendu.log) 
-
-### Regroupement-Superetendu COMUE Angers-Le Mans https://www.wikidata.org/wiki/Q104621964 
-
-![](plots/regroupements/COMUE_Angers-Le_Mans-Q104621964-regroupement-superetendu.png) 
-
-[Avertissements et édition](plots/regroupements/COMUE_Angers-Le_Mans-Q104621964-regroupement-superetendu.log) 
+[Avertissements et édition](plots/regroupements/COMUE_Angers-Le_Mans-Q104621964-regroupement-superetendu.md 
 
 ## Histoire des universités historiques 
 
-### Histoire université de Clermont-Ferrand https://www.wikidata.org/wiki/Q3551576 
+### Histoire : université de Clermont-Ferrand https://github.com/cpesr/wikidataESR/blob/master/plots/histoire/université_de_Clermont-Ferrand-Q3551576-histoire.md 
 
 ![](plots/histoire/université_de_Clermont-Ferrand-Q3551576-histoire.png) 
 
-[Avertissements et édition](plots/histoire/université_de_Clermont-Ferrand-Q3551576-histoire.log) 
+[Avertissements et édition](plots/histoire/université_de_Clermont-Ferrand-Q3551576-histoire.md 
 
-### Histoire université de Bordeaux https://www.wikidata.org/wiki/Q20791505 
+### Histoire : université de Bordeaux https://github.com/cpesr/wikidataESR/blob/master/plots/histoire/université_de_Bordeaux-Q20791505-histoire.md 
 
 ![](plots/histoire/université_de_Bordeaux-Q20791505-histoire.png) 
 
-[Avertissements et édition](plots/histoire/université_de_Bordeaux-Q20791505-histoire.log) 
+[Avertissements et édition](plots/histoire/université_de_Bordeaux-Q20791505-histoire.md 
 
-### Histoire Université de Paris https://www.wikidata.org/wiki/Q209842 
+### Histoire : Université de Paris https://github.com/cpesr/wikidataESR/blob/master/plots/histoire/Université_de_Paris-Q209842-histoire.md 
 
 ![](plots/histoire/Université_de_Paris-Q209842-histoire.png) 
 
-[Avertissements et édition](plots/histoire/Université_de_Paris-Q209842-histoire.log) 
+[Avertissements et édition](plots/histoire/Université_de_Paris-Q209842-histoire.md 
 
-### Histoire université de Lille https://www.wikidata.org/wiki/Q3551621 
+### Histoire : université de Lille https://github.com/cpesr/wikidataESR/blob/master/plots/histoire/université_de_Lille-Q3551621-histoire.md 
 
-![](plots/histoire/université_de_Lille-Q3551621-histoire.png) 
+[Avertissements et édition](plots/histoire/université_de_Lille-Q3551621-histoire.md 
 
-[Avertissements et édition](plots/histoire/université_de_Lille-Q3551621-histoire.log) 
-
-### Histoire université de Lyon (1896-1969) https://www.wikidata.org/wiki/Q2383462 
+### Histoire : université de Lyon (1896-1969) https://github.com/cpesr/wikidataESR/blob/master/plots/histoire/université_de_Lyon_(1896-1969)-Q2383462-histoire.md 
 
 ![](plots/histoire/université_de_Lyon_(1896-1969)-Q2383462-histoire.png) 
 
-[Avertissements et édition](plots/histoire/université_de_Lyon_(1896-1969)-Q2383462-histoire.log) 
+[Avertissements et édition](plots/histoire/université_de_Lyon_(1896-1969)-Q2383462-histoire.md 
 
-### Histoire ancienne université d'Orléans https://www.wikidata.org/wiki/Q23197733 
+### Histoire : ancienne université d'Orléans https://github.com/cpesr/wikidataESR/blob/master/plots/histoire/ancienne_université_d'Orléans-Q23197733-histoire.md 
 
 ![](plots/histoire/ancienne_université_d'Orléans-Q23197733-histoire.png) 
 
-[Avertissements et édition](plots/histoire/ancienne_université_d'Orléans-Q23197733-histoire.log) 
+[Avertissements et édition](plots/histoire/ancienne_université_d'Orléans-Q23197733-histoire.md 
 
-### Histoire Université de Montpellier https://www.wikidata.org/wiki/Q64690423 
+### Histoire : Université de Montpellier https://github.com/cpesr/wikidataESR/blob/master/plots/histoire/Université_de_Montpellier-Q64690423-histoire.md 
 
 ![](plots/histoire/Université_de_Montpellier-Q64690423-histoire.png) 
 
-[Avertissements et édition](plots/histoire/Université_de_Montpellier-Q64690423-histoire.log) 
+[Avertissements et édition](plots/histoire/Université_de_Montpellier-Q64690423-histoire.md 
 
-### Histoire université de Rennes https://www.wikidata.org/wiki/Q1987282 
+### Histoire : université de Rennes https://github.com/cpesr/wikidataESR/blob/master/plots/histoire/université_de_Rennes-Q1987282-histoire.md 
 
 ![](plots/histoire/université_de_Rennes-Q1987282-histoire.png) 
 
-[Avertissements et édition](plots/histoire/université_de_Rennes-Q1987282-histoire.log) 
+[Avertissements et édition](plots/histoire/université_de_Rennes-Q1987282-histoire.md 
 
-### Histoire École royale de dessin (Paris) https://www.wikidata.org/wiki/Q20774688 
+### Histoire : École royale de dessin (Paris) https://github.com/cpesr/wikidataESR/blob/master/plots/histoire/École_royale_de_dessin_(Paris)-Q20774688-histoire.md 
 
 ![](plots/histoire/École_royale_de_dessin_(Paris)-Q20774688-histoire.png) 
 
-[Avertissements et édition](plots/histoire/École_royale_de_dessin_(Paris)-Q20774688-histoire.log) 
+[Avertissements et édition](plots/histoire/École_royale_de_dessin_(Paris)-Q20774688-histoire.md 
 
-### Histoire Ancienne université de Toulouse https://www.wikidata.org/wiki/Q578023 
+### Histoire : Ancienne université de Toulouse https://github.com/cpesr/wikidataESR/blob/master/plots/histoire/Ancienne_université_de_Toulouse-Q578023-histoire.md 
 
 ![](plots/histoire/Ancienne_université_de_Toulouse-Q578023-histoire.png) 
 
-[Avertissements et édition](plots/histoire/Ancienne_université_de_Toulouse-Q578023-histoire.log) 
+[Avertissements et édition](plots/histoire/Ancienne_université_de_Toulouse-Q578023-histoire.md 
 
-### Histoire Academia argentinensis https://www.wikidata.org/wiki/Q20808141 
+### Histoire : Academia argentinensis https://github.com/cpesr/wikidataESR/blob/master/plots/histoire/Academia_argentinensis-Q20808141-histoire.md 
 
 ![](plots/histoire/Academia_argentinensis-Q20808141-histoire.png) 
 
-[Avertissements et édition](plots/histoire/Academia_argentinensis-Q20808141-histoire.log) 
+[Avertissements et édition](plots/histoire/Academia_argentinensis-Q20808141-histoire.md 
 
-### Histoire université d'Aix-Marseille (1896-1971) https://www.wikidata.org/wiki/Q21592577 
+### Histoire : université d'Aix-Marseille (1896-1971) https://github.com/cpesr/wikidataESR/blob/master/plots/histoire/université_d'Aix-Marseille_(1896-1971)-Q21592577-histoire.md 
 
 ![](plots/histoire/université_d'Aix-Marseille_(1896-1971)-Q21592577-histoire.png) 
 
-[Avertissements et édition](plots/histoire/université_d'Aix-Marseille_(1896-1971)-Q21592577-histoire.log) 
+[Avertissements et édition](plots/histoire/université_d'Aix-Marseille_(1896-1971)-Q21592577-histoire.md 
 
