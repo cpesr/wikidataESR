@@ -24,7 +24,7 @@
 #'
 #' @examples wd_get_item_label(item)
 #'
-#' @references \url{https://github.com/juliengossa/DataESR/tree/master/etablissements.esr/wikidataESR}
+#' @references \url{https://github.com/cpesr/wikidataESR}
 #' @seealso \code{\link[WikidataR]{WikidataR}}
 #' @author Julien Gossa, \email{gossa@unistra.fr}
 #' @noRd
@@ -44,7 +44,7 @@ wd_get_item_label <- function(item) {
 #'
 #' @examples wd_get_item_alias(item)
 #'
-#' @references \url{https://github.com/juliengossa/DataESR/tree/master/etablissements.esr/wikidataESR}
+#' @references \url{https://github.com/cpesr/wikidataESR}
 #' @seealso \code{\link[WikidataR]{WikidataR}}
 #' @author Julien Gossa, \email{gossa@unistra.fr}
 #' @noRd
@@ -64,7 +64,7 @@ wd_get_item_alias <- function(item) {
 #'
 #' @examples wd_get_item_statement_as_year(item, "P571")
 #'
-#' @references \url{https://github.com/juliengossa/DataESR/tree/master/etablissements.esr/wikidataESR}
+#' @references \url{https://github.com/cpesr/wikidataESR}
 #' @seealso \code{\link[WikidataR]{WikidataR}}
 #' @author Julien Gossa, \email{gossa@unistra.fr}
 #' @noRd
@@ -85,7 +85,7 @@ wd_get_item_statement_as_year <- function(item,prop) {
 #'
 #' @examples wd_get_item_statement_as_list(item,"P527")
 #'
-#' @references \url{https://github.com/juliengossa/DataESR/tree/master/etablissements.esr/wikidataESR}
+#' @references \url{https://github.com/cpesr/wikidataESR}
 #' @seealso \code{\link[WikidataR]{WikidataR}}
 #' @author Julien Gossa, \email{gossa@unistra.fr}
 #' @noRd
@@ -103,7 +103,7 @@ wd_get_item_statement_as_list <- function(item,prop) {
 #'
 #' @examples wd_get_item_statement_qualifier_as_list(item,"P1365","P585")
 #'
-#' @references \url{https://github.com/juliengossa/DataESR/tree/master/etablissements.esr/wikidataESR}
+#' @references \url{https://github.com/cpesr/wikidataESR}
 #' @seealso \code{\link[WikidataR]{WikidataR}}
 #' @author Julien Gossa, \email{gossa@unistra.fr}
 #' @noRd
@@ -116,3 +116,22 @@ wd_get_item_statement_qualifier_as_list <- function(item,prop,qual) {
   return(I(list(l)))
 }
 
+
+#' Get the wikidata url of an item by id
+#'
+#' @param id The id of a wikidata item
+#' @param format The format of the url: "simple" or "md" for markdown ("md" is default)
+#'
+#' @return The wikidata url of the item
+#' @export
+#'
+#' @examples wd_id2url("Q15974764")
+#' @references \url{https://github.com/cpesr/wikidataESR}
+#' @seealso \code{\link[WikidataR]{WikidataR}}
+#' @author Julien Gossa, \email{gossa@unistra.fr}
+
+wd_id2url <- function(id, format="md") {
+  if(format=="md")
+    return(paste0("[",id,"](https://www.wikidata.org/wiki/",id,")"))
+  return(paste0("https://www.wikidata.org/wiki/",id))
+}

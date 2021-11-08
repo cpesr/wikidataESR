@@ -79,11 +79,11 @@ wdesr_get_item_status <- function(item) {
   }
 
   status <- subset(wdesr.cache$status, id == instance_of_id)
-
+  
   if (status$recommandé == "non")
-    warning("The instance of wikidata item ", item_id, " is not recommended: ",status$libellé,".\n",
+    warning("The instance of wikidata item ", wdid, " is not recommended: ",status$libellé,".\n",
             "  Reason is: ", ifelse(status$note != "",status$note, "Statut pas assez précis"),".\n",
-            "  Please check https://www.wikidata.org/wiki/",item_id,"\n",
+            "  Please check https://www.wikidata.org/wiki/",wdid,"\n",
             "  using the guideline at https://github.com/cpesr")
 
   return(status)
@@ -108,7 +108,7 @@ wdesr_load_item <- function(wdid) {
 
   item <- WikidataR::get_item(id = wdid)
   status <- wdesr_get_item_status(item)
-
+  
   return(
     data.frame(
       id          = wdid,
@@ -133,8 +133,9 @@ wdesr_load_item <- function(wdid) {
 
       séparé_de        = wd_get_item_statement_as_list(item,"P807"),
       séparé_de_pit    = wd_get_item_statement_qualifier_as_list(item,"P807","P585"),
-
-      membre_de = wd_get_item_statement_as_list(item,"P463")
+      
+      membre_de = wd_get_item_statement_as_list(item,"P463"),
+      affilié_à = wd_get_item_statement_as_list(item,"P1416")
     )
   )
 }
@@ -236,13 +237,17 @@ wdesr_get_graph <- function(wdid, props, depth = 3, active_only = FALSE, stop_at
 
   wgge$edges <- wgge$edges %>% mutate(across(where(is.factor), as.character))
   suppressMessages(
-    dupes <- wgge$edges %>% janitor::get_dupes(from,to)
+    dupes <- wgge$edges %>% janitor::get_dupes(from,to) %>%
+      select(from,to) %>% mutate(warning = "duplicated")
     )
   if (nrow(dupes) > 0) {
     warning("Duplicated relations detected:\n", 
             paste0(capture.output(as.data.frame(dupes)), collapse = "\n"))
-    wgge$edges <- wgge$edges %>% group_by(from,to) %>% slice_head()
+    wgge$edges <- wgge$edges %>% group_by(from,to) %>% slice_head() 
   }
+  suppressMessages(
+    wgge$edges <- left_join(wgge$edges, dupes)
+  )
   
   wgge$vertices <- wgge$vertices %>% unique() %>% mutate(across(where(is.factor), as.character))
   res <- list('edges'=wgge$edges, 'vertices'=wgge$vertices)
@@ -374,7 +379,7 @@ wdesr_node_geom <- function(node_type = "text") {
 #'
 #' A wrapper for ggplot2 to plot graph as returned by \code{\link{wdesr_get_graph}}.
 #'
-#' @param df.g A dataframe representing a graph, as returned by wdesr_get_graph.
+#' @param df.g A data representing a graph, as returned by wdesr_get_graph.
 #' @param active_only TRUE to filter the dissolved nodes (default to FALSE).
 #' @param node_sizes The size of the nodes, either a single value or a range c(min,max).
 #' @param label_sizes The size of the nodes, either a single value or a range c(min,max).
@@ -539,4 +544,50 @@ wdesr_load_and_plot <- function( wdid,
     wdesr_ggplot_graph(df.g,...)
   }
 }
+
+
+#' Write warnings to a log file
+#'
+#' @param df.g A data representing a graph, as returned by wdesr_get_graph.
+#' @param logfile A file that will be append with warning messages in markdown format
+#'
+#' @return Nothing
+#' @export
+#'
+#' @examples wdesr_log_warnings(df, "warnings.md")
+#' @references
+#' - \url{https://github.com/cpesr/wikidataESR}
+#' - \url{https://www.wikidata.org}
+#' @seealso \code{\link{wdesr_clear_cache}}
+#' @author Julien Gossa, \email{gossa@unistra.fr}
+wdesr_log_warnings <- function(df.g, logfile) {
+
+  vw <- left_join(df.alsace$vertices, wdesr.statuts, by = c("statut" = "libellé")) %>%
+    filter(recommandé == "non") %>%
+    transmute(
+      entité = wd_id2url(id.x),
+      statut,
+      message = ifelse(note!="",note,"Statut trop imprécis")
+    )
+  if (nrow(vw) > 0) {
+    cat("\n\nProblèmes détectés dans les entités :\n\n", file=logfile, append = TRUE)
+    cat(vw %>% kableExtra::kable(format="pipe"), 
+        file=logfile, sep = '\n', append = TRUE)
+  }
+    
+  ew <- df.g$edges %>% 
+    filter(! is.na(warning)) %>% 
+    transmute(
+      de = wd_id2url(from),
+      vers = wd_id2url(to),
+      message = warning
+    )
+  if (nrow(ew) > 0) {
+    cat("\n\nProblèmes détectés dans les relations :\n\n", file=logfile, append = TRUE)
+    cat("\n",ew %>% kableExtra::kable(format="pipe"), 
+        file=logfile, sep = '\n', append = TRUE)
+  }
+  
+}
+
 

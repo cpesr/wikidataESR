@@ -7,6 +7,7 @@ export(wdesr_get_cache)
 export(wdesr_load_cache)
 export(wdesr_save_cache)
 export(wdesr_clear_cache)
+export(wdesr_log_warnings)
 
 import(dplyr)
 import(ggplot2)

@@ -41,6 +41,15 @@ print_to_md <- function(msg, append=TRUE) {
   cat(msg,"\n\n",  file=mdfile, append=append)
 }
 
+write_warnings <- function(racine,alias,basefile) {
+  logfile <- paste0("../plots/",basefile,".md")
+  cat("Warnings wikidataESR pour : ",alias,"\n================\n\n", file=logfile, sep='' )
+  cat("- Edition wikidata : [",racine,"](https://www.wikidata.org/wiki/",racine,")\n", 
+      file = logfile, append = TRUE, sep='')
+  cat("- Guide d'édition : [wikidataESR](https://github.com/cpesr/wikidataESR/)\n\n", 
+      file = logfile, append = TRUE, sep='')
+  wdesr_log_warnings(df,logfile)
+}
 
 plot_batch <- function(racine, alias, suffix, 
                        ggs.path,
@@ -54,16 +63,15 @@ plot_batch <- function(racine, alias, suffix,
                        ) {
 
   print(paste("Racine :",racine,alias,"(",suffix,")"))
-  basefile = paste0(ggs.path,"/",stringr::str_replace_all(alias," ","_"),'-',racine,"-",suffix)
+  basefile = paste0(ggs.path,"/",racine,"-",suffix)
   
   print_to_md(paste0("### ", stringr::str_to_title(suffix)," : ",alias,
                      " https://github.com/cpesr/wikidataESR/blob/master/plots/",basefile,".md"))
   
-  try( {
-    save_all_warnings(
-      df <- wdesr_get_graph(racine, relations, depth=depth), 
-      paste0("../plots/",basefile,".md"),
-      paste0("Warnings pour : ",alias,"\nEdition wikidata : https://www.wikidata.org/wiki/",racine ))
+  tryCatch( {
+    df <- wdesr_get_graph(racine, relations, depth=depth)
+    
+    write_warnings(racine, alias, basefile)
     
     mult <- ifelse(nrow(df$vertices)<double_thres, 1, 2)
     
@@ -77,9 +85,10 @@ plot_batch <- function(racine, alias, suffix,
            width = ggs.width, height = ggs.heigth, dpi = ggs.dpi)  
     
     print_to_md(paste0("![](plots/",basefile,".png)"))
-  } )
-  
-  print_to_md(paste0("[Avertissements et édition](plots/",basefile,".md"))
+  },
+    error = function(c) print_to_md("Erreur : les données sont probablement trop partielles.")
+  )
+  print_to_md(paste0("Avertissements et édition : [logs](plots/",basefile,".md"))
   
 }
 
@@ -88,7 +97,7 @@ plot_batch <- function(racine, alias, suffix,
 # Sinon, les données seront téléchargées sur wikidate.
 wdesr_load_cache()
 
-print_to_md("# Batches de représentation wikidataESR", append=FALSE)
+print_to_md("Batches de représentation wikidataESR\n================\n\n", append=FALSE)
 print_to_md("https://github.com/cpesr/WikidataESR")
 
 print_to_md(paste(sep='\n',"```",
@@ -133,7 +142,7 @@ for(i in 1:nrow(etab)) {
   
     plot_batch(wdid,alias, "associations",
                "etablissements",
-               c('composante_de','associé','associé_de'), depth=5,
+               c('composante_de','affilié_à','associé','associé_de'), depth=5,
                active_only = TRUE)
     
   }

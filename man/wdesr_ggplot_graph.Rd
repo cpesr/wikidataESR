@@ -14,16 +14,14 @@ wdesr_ggplot_graph(
   node_type = "text",
   edge_label = TRUE,
   arrow_gap = 0.05,
-  size_guide = FALSE,
+  size_guide = "none",
   legend_position = "right",
   margin_x = 0.2,
   margin_y = 0.03
 )
 }
 \arguments{
-\item{df.g}{A dataframe representing a graph, as returned by wdesr_get_graph.}
-
-\item{layout}{The layout to use to plot the graph as in \code{\link[sna]{gplot.layout}}.}
+\item{df.g}{A data representing a graph, as returned by wdesr_get_graph.}
 
 \item{active_only}{TRUE to filter the dissolved nodes (default to FALSE).}
 
@@ -63,7 +61,7 @@ wdesr_ggplot_graph(df.alsace,
 }
 \references{
 \itemize{
-\item \url{https://github.com/juliengossa/DataESR/tree/master/etablissements.esr/wikidataESR}
+\item \url{https://github.com/cpesr/wikidataESR}
 \item \url{https://www.wikidata.org}
 }
 }

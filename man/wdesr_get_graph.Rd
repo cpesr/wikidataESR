@@ -41,7 +41,7 @@ g$vertice
 }
 \references{
 \itemize{
-\item \url{https://github.com/juliengossa/DataESR/tree/master/etablissements.esr/wikidataESR}
+\item \url{https://github.com/cpesr/wikidataESR}
 \item \url{https://www.wikidata.org}
 }
 }
