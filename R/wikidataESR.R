@@ -81,9 +81,9 @@ wdesr_get_item_status <- function(item) {
   status <- subset(wdesr.cache$status, id == instance_of_id)
   
   if (status$recommandé == "non")
-    warning("The instance of wikidata item ", wdid, " is not recommended: ",status$libellé,".\n",
+    warning("The instance of wikidata item ", item_id, " is not recommended: ",status$libellé,".\n",
             "  Reason is: ", ifelse(status$note != "",status$note, "Statut pas assez précis"),".\n",
-            "  Please check https://www.wikidata.org/wiki/",wdid,"\n",
+            "  Please check https://www.wikidata.org/wiki/",item_id,"\n",
             "  using the guideline at https://github.com/cpesr")
 
   return(status)
@@ -562,10 +562,11 @@ wdesr_load_and_plot <- function( wdid,
 #' @author Julien Gossa, \email{gossa@unistra.fr}
 wdesr_log_warnings <- function(df.g, logfile) {
 
-  vw <- left_join(df.alsace$vertices, wdesr.statuts, by = c("statut" = "libellé")) %>%
+  vw <- left_join(df.g$vertices, wdesr.statuts, by = c("statut" = "libellé")) %>%
     filter(recommandé == "non") %>%
     transmute(
       entité = wd_id2url(id.x),
+      alias,
       statut,
       message = ifelse(note!="",note,"Statut trop imprécis")
     )

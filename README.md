@@ -1,7 +1,9 @@
 Tenter d’y voir clair dans l’ESR : tutorial R/WikidataESR
 ================
 Julien Gossa
-05/nov./2021
+08/11/2021
+
+Des visualisations de contrôles sont disponible ici : [check](check.md)
 
 # Guide de style pour les données wikidata
 
@@ -77,23 +79,23 @@ Les propriétés permettent de modéliser les relations entre les
 établissements de l’ESR. La proposition suivante permet d’harmoniser les
 informations :
 
-| id                                                    | libellé.wikidata     | libellé.ESR   | note                                                                                                                                                | qualificatif                                                                                                            |
-|:------------------------------------------------------|:---------------------|:--------------|:----------------------------------------------------------------------------------------------------------------------------------------------------|:------------------------------------------------------------------------------------------------------------------------|
-| [P31](https://www.wikidata.org/wiki/Property:P31)     | nature de l’élément  | nature        | voir la liste en annexe                                                                                                                             |                                                                                                                         |
-| [P3202](https://www.wikidata.org/wiki/Property:P3202) | code UAI             |               | permet de faire le lien avec les autres bases de données                                                                                            |                                                                                                                         |
-| [P571](https://www.wikidata.org/wiki/Property:P571)   | date de fondation    | fondation     |                                                                                                                                                     |                                                                                                                         |
-| [P576](https://www.wikidata.org/wiki/Property:P576)   | date de dissolution  | dissolution   |                                                                                                                                                     |                                                                                                                         |
-| [P527](https://www.wikidata.org/wiki/Property:P527)   | comprend             | associé       | lien de subordination horizontal : avec une moindre hiérachie, avec une indépendance politique et financière                                        | [date de début](https://www.wikidata.org/wiki/Property:P580) [date de fin](https://www.wikidata.org/wiki/Property:P582) |
-| [P361](https://www.wikidata.org/wiki/Property:P361)   | partie de            | associé de    | inverse de associé                                                                                                                                  | [date de début](https://www.wikidata.org/wiki/Property:P580) [date de fin](https://www.wikidata.org/wiki/Property:P582) |
-| [P355](https://www.wikidata.org/wiki/Property:P355)   | organisation filiale | composante    | lien de subordination vertical: avec hiérarchie et dépendance politique ou financière accrue                                                        | [date de début](https://www.wikidata.org/wiki/Property:P580) [date de fin](https://www.wikidata.org/wiki/Property:P582) |
-| [P749](https://www.wikidata.org/wiki/Property:P749)   | organisation mère    | composante de | inverse de composante                                                                                                                               | [date de début](https://www.wikidata.org/wiki/Property:P580) [date de fin](https://www.wikidata.org/wiki/Property:P582) |
-| [P1365](https://www.wikidata.org/wiki/Property:P1365) | remplace             | prédécesseur  | marque un changement de statut                                                                                                                      | [date](https://www.wikidata.org/wiki/Property:P585)                                                                     |
-| [P1366](https://www.wikidata.org/wiki/Property:P1366) | remplacé par         | successeur    | inverse de prédécesseur                                                                                                                             |                                                                                                                         |
-| [P807](https://www.wikidata.org/wiki/Property:P807)   | séparé de            |               | marque une séparation, lorsqu’un établissement nouveau est créé à partir d’une partie d’un autre (doit être renseigné dans les deux établissements) | [date](https://www.wikidata.org/wiki/Property:P585)                                                                     |
-| [P1416](https://www.wikidata.org/wiki/Property:P1416) | affilié à            |               | pour les tutelles (CNRS, etc.)                                                                                                                      | [date de début](https://www.wikidata.org/wiki/Property:P580) [date de fin](https://www.wikidata.org/wiki/Property:P582) |
-| [P463](https://www.wikidata.org/wiki/Property:P463)   | membre de            |               | pour les adhésions aux diverses associations, également pour l’IDEX (de façon un peu abusive)                                                       | [date de début](https://www.wikidata.org/wiki/Property:P580) [date de fin](https://www.wikidata.org/wiki/Property:P582) |
-| [P1830](https://www.wikidata.org/wiki/Property:P1830) | propriétaire de      |               | pour les équipements de recherche par exemple                                                                                                       | [date de début](https://www.wikidata.org/wiki/Property:P580) [date de fin](https://www.wikidata.org/wiki/Property:P582) |
-| [P1344](https://www.wikidata.org/wiki/Property:P1344) | participant à        |               | pour les projets par exemple                                                                                                                        | [date de début](https://www.wikidata.org/wiki/Property:P580) [date de fin](https://www.wikidata.org/wiki/Property:P582) |
+| id                                                    | libellé.wikidata     | libellé.ESR   | note                                                                                                                                                                        | qualificatif                                                                                                            |
+|:------------------------------------------------------|:---------------------|:--------------|:----------------------------------------------------------------------------------------------------------------------------------------------------------------------------|:------------------------------------------------------------------------------------------------------------------------|
+| [P31](https://www.wikidata.org/wiki/Property:P31)     | nature de l’élément  | nature        | voir la liste en annexe                                                                                                                                                     |                                                                                                                         |
+| [P3202](https://www.wikidata.org/wiki/Property:P3202) | code UAI             |               | permet de faire le lien avec les autres bases de données                                                                                                                    |                                                                                                                         |
+| [P571](https://www.wikidata.org/wiki/Property:P571)   | date de fondation    | fondation     |                                                                                                                                                                             |                                                                                                                         |
+| [P576](https://www.wikidata.org/wiki/Property:P576)   | date de dissolution  | dissolution   |                                                                                                                                                                             |                                                                                                                         |
+| [P527](https://www.wikidata.org/wiki/Property:P527)   | comprend             | associé       | lien de subordination horizontal : avec une moindre hiérachie, avec une indépendance politique et financière                                                                | [date de début](https://www.wikidata.org/wiki/Property:P580) [date de fin](https://www.wikidata.org/wiki/Property:P582) |
+| [P361](https://www.wikidata.org/wiki/Property:P361)   | partie de            | associé de    | inverse de associé                                                                                                                                                          | [date de début](https://www.wikidata.org/wiki/Property:P580) [date de fin](https://www.wikidata.org/wiki/Property:P582) |
+| [P355](https://www.wikidata.org/wiki/Property:P355)   | organisation filiale | composante    | lien de subordination vertical: avec hiérarchie et dépendance politique ou financière accrue                                                                                | [date de début](https://www.wikidata.org/wiki/Property:P580) [date de fin](https://www.wikidata.org/wiki/Property:P582) |
+| [P749](https://www.wikidata.org/wiki/Property:P749)   | organisation mère    | composante de | inverse de composante                                                                                                                                                       | [date de début](https://www.wikidata.org/wiki/Property:P580) [date de fin](https://www.wikidata.org/wiki/Property:P582) |
+| [P1365](https://www.wikidata.org/wiki/Property:P1365) | remplace             | prédécesseur  | marque un changement de statut                                                                                                                                              | [date](https://www.wikidata.org/wiki/Property:P585)                                                                     |
+| [P1366](https://www.wikidata.org/wiki/Property:P1366) | remplacé par         | successeur    | inverse de prédécesseur                                                                                                                                                     |                                                                                                                         |
+| [P807](https://www.wikidata.org/wiki/Property:P807)   | séparé de            |               | marque une séparation, lorsqu’un établissement nouveau est créé à partir d’une partie d’un autre, qui continue d’exister (doit être renseigné dans les deux établissements) | [date](https://www.wikidata.org/wiki/Property:P585)                                                                     |
+| [P1416](https://www.wikidata.org/wiki/Property:P1416) | affilié à            |               | pour le lien avec les organismes nationnaux (tutelles, EPIC, ONR, rectorat, etc.)                                                                                           | [date de début](https://www.wikidata.org/wiki/Property:P580) [date de fin](https://www.wikidata.org/wiki/Property:P582) |
+| [P463](https://www.wikidata.org/wiki/Property:P463)   | membre de            |               | pour les adhésions aux diverses associations, également pour l’IDEX (de façon un peu abusive)                                                                               | [date de début](https://www.wikidata.org/wiki/Property:P580) [date de fin](https://www.wikidata.org/wiki/Property:P582) |
+| [P1830](https://www.wikidata.org/wiki/Property:P1830) | propriétaire de      |               | pour les équipements de recherche par exemple                                                                                                                               | [date de début](https://www.wikidata.org/wiki/Property:P580) [date de fin](https://www.wikidata.org/wiki/Property:P582) |
+| [P1344](https://www.wikidata.org/wiki/Property:P1344) | participant à        |               | pour les projets par exemple                                                                                                                                                | [date de début](https://www.wikidata.org/wiki/Property:P580) [date de fin](https://www.wikidata.org/wiki/Property:P582) |
 
 ### Erreurs fréquentes
 
@@ -141,14 +143,14 @@ différencier des autres types de relations.
 
 Les statuts d’établissement sont hiérarchisés en différents niveaux :
 
-| niveau | libellé             | description                                                                                                 | exemple                                 |
-|-------:|:--------------------|:------------------------------------------------------------------------------------------------------------|:----------------------------------------|
-|      1 | national            | institutions nationales                                                                                     | CNRS                                    |
-|      2 | regroupement        | groupe d’établissement ou intitutions régionales                                                            | COMUEs                                  |
-|      3 | grand établissement | établissements de grande taille ou institutions locales                                                     | universités                             |
-|      4 | intermédiaire       | établissements de moindre taille, premier sous-niveau des grands établissements, ou réseau d’établissements | école indépendante, collégium, COUPERIN |
-|      5 | composante          | sous-partie d’un établissement                                                                              | UFR ou UMR                              |
-|      6 | autre               | ni établissement, ni institution                                                                            | équipements ou projets                  |
+| niveau | libellé       | description                                                                                                 | exemple                                 |
+|-------:|:--------------|:------------------------------------------------------------------------------------------------------------|:----------------------------------------|
+|      1 | national      | institutions nationales                                                                                     | CNRS                                    |
+|      2 | regroupement  | groupe d’établissement ou intitutions régionales                                                            | COMUEs                                  |
+|      3 | établissement | établissements de grande taille ou institutions locales                                                     | universités                             |
+|      4 | intermédiaire | établissements de moindre taille, premier sous-niveau des grands établissements, ou réseau d’établissements | école indépendante, collégium, COUPERIN |
+|      5 | composante    | sous-partie d’un établissement                                                                              | UFR ou UMR                              |
+|      6 | autre         | ni établissement, ni institution, généralement de petite taille                                             | équipements ou projets                  |
 
 Cette hiérarchisation est faite hors wikidata, directement dans la
 librairie [R/wikidataESR](wikidataESR).
@@ -319,14 +321,14 @@ les établissements et leurs relations.
 | Q61716176 | site universitaire alsacien                             | site universitaire alsacien | Regroupement universitaire |      2 |
 | Q630461   | Bibliothèque nationale et universitaire                 | BNU                         | bibliothèque nationale     |      5 |
 
-| from      | to        | type    | date | depth |
-|:----------|:----------|:--------|:-----|------:|
-| Q61716176 | Q280183   | associé | NA   |     1 |
-| Q61716176 | Q157575   | associé | NA   |     1 |
-| Q61716176 | Q521036   | associé | NA   |     1 |
-| Q61716176 | Q630461   | associé | NA   |     1 |
-| Q61716176 | Q3578190  | associé | NA   |     1 |
-| Q61716176 | Q21041502 | associé | NA   |     1 |
+| from      | to        | type    | date | depth | warning |
+|:----------|:----------|:--------|:-----|------:|:--------|
+| Q61716176 | Q280183   | associé | NA   |     1 | NA      |
+| Q61716176 | Q157575   | associé | NA   |     1 | NA      |
+| Q61716176 | Q521036   | associé | NA   |     1 | NA      |
+| Q61716176 | Q630461   | associé | NA   |     1 | NA      |
+| Q61716176 | Q3578190  | associé | NA   |     1 | NA      |
+| Q61716176 | Q21041502 | associé | NA   |     1 | NA      |
 
 ### Tracer des représentations
 

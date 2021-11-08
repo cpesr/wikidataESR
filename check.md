@@ -11,7 +11,7 @@ https://github.com/cpesr/WikidataESR
   - twurl:https://twitter.com/CPESR_/status/1457453241378148361
 ``` 
 
-## Histoire, composition et association des Université actuels 
+## Histoire, composition et association actuelles des Université 
 
 ### Histoire : Paris 1 @SorbonneParis1 https://github.com/cpesr/wikidataESR/blob/master/plots/etablissements/Q999763-histoire.md 
 
@@ -1129,7 +1129,7 @@ Avertissements et édition : [logs](plots/etablissements/Q1933558-composition.md
 
 Avertissements et édition : [logs](plots/etablissements/Q1933558-associations.md 
 
-## Histoire, composition et association des Grand établissement actuels 
+## Histoire, composition et association actuelles des Grand établissement 
 
 ### Histoire : CNAM @LeCnam https://github.com/cpesr/wikidataESR/blob/master/plots/etablissements/Q524289-histoire.md 
 

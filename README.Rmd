@@ -1,9 +1,12 @@
 ---
 title: "Tenter d'y voir clair dans l'ESR : tutorial R/WikidataESR"
 author: "Julien Gossa"
-date: "`r format(Sys.time(), '%d/%b/%Y')`"
+date: "`r format(Sys.time(), '%d/%m/%Y')`"
 output:  github_document
 ---
+
+Des visualisations de contrôles sont disponible ici : 
+[check](check.md)
 
 # Guide de style pour les données wikidata
 

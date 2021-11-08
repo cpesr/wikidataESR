@@ -41,14 +41,14 @@ print_to_md <- function(msg, append=TRUE) {
   cat(msg,"\n\n",  file=mdfile, append=append)
 }
 
-write_warnings <- function(racine,alias,basefile) {
+write_warnings <- function(df.g, racine, alias, basefile) {
   logfile <- paste0("../plots/",basefile,".md")
   cat("Warnings wikidataESR pour : ",alias,"\n================\n\n", file=logfile, sep='' )
   cat("- Edition wikidata : [",racine,"](https://www.wikidata.org/wiki/",racine,")\n", 
       file = logfile, append = TRUE, sep='')
   cat("- Guide d'édition : [wikidataESR](https://github.com/cpesr/wikidataESR/)\n\n", 
       file = logfile, append = TRUE, sep='')
-  wdesr_log_warnings(df,logfile)
+  wdesr_log_warnings(df.g,logfile)
 }
 
 plot_batch <- function(racine, alias, suffix, 
@@ -71,7 +71,7 @@ plot_batch <- function(racine, alias, suffix,
   tryCatch( {
     df <- wdesr_get_graph(racine, relations, depth=depth)
     
-    write_warnings(racine, alias, basefile)
+    write_warnings(df, racine, alias, basefile)
     
     mult <- ifelse(nrow(df$vertices)<double_thres, 1, 2)
     
@@ -88,7 +88,7 @@ plot_batch <- function(racine, alias, suffix,
   },
     error = function(c) print_to_md("Erreur : les données sont probablement trop partielles.")
   )
-  print_to_md(paste0("Avertissements et édition : [logs](plots/",basefile,".md"))
+  print_to_md(paste0("Avertissements et édition : [logs](plots/",basefile,".md)"))
   
 }
 
@@ -121,7 +121,7 @@ etab <- read.csv2("fr-esr-principaux-etablissements-enseignement-superieur.csv")
 
 for(i in 1:nrow(etab)) {
   t <- etab[i,1]$type
-  print_to_md(paste0("## Histoire, composition et association des ",t," actuels"))
+  print_to_md(paste0("## Histoire, composition et association actuelles des ",t))
   
   subetab <- etab[i,2]$data[[1]]
   for (i in 1:nrow(subetab)) {
