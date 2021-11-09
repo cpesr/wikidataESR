@@ -13,2223 +13,2714 @@ https://github.com/cpesr/WikidataESR
 
 ## Histoire, composition et association actuelles des Université 
 
-### Histoire : Paris 1 @SorbonneParis1 https://github.com/cpesr/wikidataESR/blob/master/plots/etablissements/Q999763-histoire.md 
+### Paris 1 @SorbonneParis1 : Histoire https://github.com/cpesr/wikidataESR/blob/master/plots/etablissements/Q999763.md 
 
-![](plots/etablissements/Q999763-histoire.png) 
+![](https://github.com/cpesr/wikidataESR/blob/master/plots/etablissements/Q999763-histoire.png) 
 
-Avertissements et édition : [logs](plots/etablissements/Q999763-histoire.md 
+Avertissements et édition : [logs](https://github.com/cpesr/wikidataESR/blob/master/plots/etablissements/Q999763.md) 
 
-### Composition : Paris 1 @SorbonneParis1 https://github.com/cpesr/wikidataESR/blob/master/plots/etablissements/Q999763-composition.md 
+### Paris 1 @SorbonneParis1 : Composition https://github.com/cpesr/wikidataESR/blob/master/plots/etablissements/Q999763.md 
 
-![](plots/etablissements/Q999763-composition.png) 
+![](https://github.com/cpesr/wikidataESR/blob/master/plots/etablissements/Q999763-composition.png) 
 
-Avertissements et édition : [logs](plots/etablissements/Q999763-composition.md 
+Avertissements et édition : [logs](https://github.com/cpesr/wikidataESR/blob/master/plots/etablissements/Q999763.md) 
 
-### Associations : Paris 1 @SorbonneParis1 https://github.com/cpesr/wikidataESR/blob/master/plots/etablissements/Q999763-associations.md 
+### Paris 1 @SorbonneParis1 : Associations https://github.com/cpesr/wikidataESR/blob/master/plots/etablissements/Q999763.md 
 
-![](plots/etablissements/Q999763-associations.png) 
+![](https://github.com/cpesr/wikidataESR/blob/master/plots/etablissements/Q999763-associations.png) 
 
-Avertissements et édition : [logs](plots/etablissements/Q999763-associations.md 
+Avertissements et édition : [logs](https://github.com/cpesr/wikidataESR/blob/master/plots/etablissements/Q999763.md) 
 
-### Histoire : Sorbonne U @Sorbonne_Univ_ https://github.com/cpesr/wikidataESR/blob/master/plots/etablissements/Q41497113-histoire.md 
+### Sorbonne U @Sorbonne_Univ_ : Histoire https://github.com/cpesr/wikidataESR/blob/master/plots/etablissements/Q41497113.md 
 
-![](plots/etablissements/Q41497113-histoire.png) 
+![](https://github.com/cpesr/wikidataESR/blob/master/plots/etablissements/Q41497113-histoire.png) 
 
-Avertissements et édition : [logs](plots/etablissements/Q41497113-histoire.md 
+Avertissements et édition : [logs](https://github.com/cpesr/wikidataESR/blob/master/plots/etablissements/Q41497113.md) 
 
-### Composition : Sorbonne U @Sorbonne_Univ_ https://github.com/cpesr/wikidataESR/blob/master/plots/etablissements/Q41497113-composition.md 
+### Sorbonne U @Sorbonne_Univ_ : Composition https://github.com/cpesr/wikidataESR/blob/master/plots/etablissements/Q41497113.md 
 
-![](plots/etablissements/Q41497113-composition.png) 
+![](https://github.com/cpesr/wikidataESR/blob/master/plots/etablissements/Q41497113-composition.png) 
 
-Avertissements et édition : [logs](plots/etablissements/Q41497113-composition.md 
+Avertissements et édition : [logs](https://github.com/cpesr/wikidataESR/blob/master/plots/etablissements/Q41497113.md) 
 
-### Associations : Sorbonne U @Sorbonne_Univ_ https://github.com/cpesr/wikidataESR/blob/master/plots/etablissements/Q41497113-associations.md 
+### Sorbonne U @Sorbonne_Univ_ : Associations https://github.com/cpesr/wikidataESR/blob/master/plots/etablissements/Q41497113.md 
 
-![](plots/etablissements/Q41497113-associations.png) 
+![](https://github.com/cpesr/wikidataESR/blob/master/plots/etablissements/Q41497113-associations.png) 
 
-Avertissements et édition : [logs](plots/etablissements/Q41497113-associations.md 
+Avertissements et édition : [logs](https://github.com/cpesr/wikidataESR/blob/master/plots/etablissements/Q41497113.md) 
 
-### Histoire : UBx @univbordeaux https://github.com/cpesr/wikidataESR/blob/master/plots/etablissements/Q13344-histoire.md 
+### UBx @univbordeaux : Histoire https://github.com/cpesr/wikidataESR/blob/master/plots/etablissements/Q13344.md 
 
-![](plots/etablissements/Q13344-histoire.png) 
+![](https://github.com/cpesr/wikidataESR/blob/master/plots/etablissements/Q13344-histoire.png) 
 
-Avertissements et édition : [logs](plots/etablissements/Q13344-histoire.md 
+Avertissements et édition : [logs](https://github.com/cpesr/wikidataESR/blob/master/plots/etablissements/Q13344.md) 
 
-### Composition : UBx @univbordeaux https://github.com/cpesr/wikidataESR/blob/master/plots/etablissements/Q13344-composition.md 
+### UBx @univbordeaux : Composition https://github.com/cpesr/wikidataESR/blob/master/plots/etablissements/Q13344.md 
 
-![](plots/etablissements/Q13344-composition.png) 
+![](https://github.com/cpesr/wikidataESR/blob/master/plots/etablissements/Q13344-composition.png) 
 
-Avertissements et édition : [logs](plots/etablissements/Q13344-composition.md 
+Avertissements et édition : [logs](https://github.com/cpesr/wikidataESR/blob/master/plots/etablissements/Q13344.md) 
 
-### Associations : UBx @univbordeaux https://github.com/cpesr/wikidataESR/blob/master/plots/etablissements/Q13344-associations.md 
+### UBx @univbordeaux : Associations https://github.com/cpesr/wikidataESR/blob/master/plots/etablissements/Q13344.md 
 
-Erreur : les données sont probablement trop partielles. 
+Erreur : les données sont probablement trop partielles.
+```
+Error in wdesr_ggplot_graph(df, node_size = node_size/mult, label_sizes = label_sizes/mult, : Empty ESR graph: something went wrong with the graph production parameters
 
-Avertissements et édition : [logs](plots/etablissements/Q13344-associations.md 
+``` 
 
-### Histoire : Université Gustave Eiffel @UGustaveEiffel https://github.com/cpesr/wikidataESR/blob/master/plots/etablissements/Q65153823-histoire.md 
+Avertissements et édition : [logs](https://github.com/cpesr/wikidataESR/blob/master/plots/etablissements/Q13344.md) 
 
-![](plots/etablissements/Q65153823-histoire.png) 
+### Université Gustave Eiffel @UGustaveEiffel : Histoire https://github.com/cpesr/wikidataESR/blob/master/plots/etablissements/Q65153823.md 
 
-Avertissements et édition : [logs](plots/etablissements/Q65153823-histoire.md 
+![](https://github.com/cpesr/wikidataESR/blob/master/plots/etablissements/Q65153823-histoire.png) 
 
-### Composition : Université Gustave Eiffel @UGustaveEiffel https://github.com/cpesr/wikidataESR/blob/master/plots/etablissements/Q65153823-composition.md 
+Avertissements et édition : [logs](https://github.com/cpesr/wikidataESR/blob/master/plots/etablissements/Q65153823.md) 
 
-Erreur : les données sont probablement trop partielles. 
+### Université Gustave Eiffel @UGustaveEiffel : Composition https://github.com/cpesr/wikidataESR/blob/master/plots/etablissements/Q65153823.md 
 
-Avertissements et édition : [logs](plots/etablissements/Q65153823-composition.md 
+Erreur : les données sont probablement trop partielles.
+```
+Error in wdesr_ggplot_graph(df, node_size = node_size/mult, label_sizes = label_sizes/mult, : Empty ESR graph: something went wrong with the graph production parameters
 
-### Associations : Université Gustave Eiffel @UGustaveEiffel https://github.com/cpesr/wikidataESR/blob/master/plots/etablissements/Q65153823-associations.md 
+``` 
 
-Erreur : les données sont probablement trop partielles. 
+Avertissements et édition : [logs](https://github.com/cpesr/wikidataESR/blob/master/plots/etablissements/Q65153823.md) 
 
-Avertissements et édition : [logs](plots/etablissements/Q65153823-associations.md 
+### Université Gustave Eiffel @UGustaveEiffel : Associations https://github.com/cpesr/wikidataESR/blob/master/plots/etablissements/Q65153823.md 
 
-### Histoire : Université de Poitiers @UnivPoitiers https://github.com/cpesr/wikidataESR/blob/master/plots/etablissements/Q661056-histoire.md 
+Erreur : les données sont probablement trop partielles.
+```
+Error in wdesr_ggplot_graph(df, node_size = node_size/mult, label_sizes = label_sizes/mult, : Empty ESR graph: something went wrong with the graph production parameters
 
-Erreur : les données sont probablement trop partielles. 
+``` 
 
-Avertissements et édition : [logs](plots/etablissements/Q661056-histoire.md 
+Avertissements et édition : [logs](https://github.com/cpesr/wikidataESR/blob/master/plots/etablissements/Q65153823.md) 
 
-### Composition : Université de Poitiers @UnivPoitiers https://github.com/cpesr/wikidataESR/blob/master/plots/etablissements/Q661056-composition.md 
+### Université de Poitiers @UnivPoitiers : Histoire https://github.com/cpesr/wikidataESR/blob/master/plots/etablissements/Q661056.md 
 
-![](plots/etablissements/Q661056-composition.png) 
+Erreur : les données sont probablement trop partielles.
+```
+Error in wdesr_ggplot_graph(df, node_size = node_size/mult, label_sizes = label_sizes/mult, : Empty ESR graph: something went wrong with the graph production parameters
 
-Avertissements et édition : [logs](plots/etablissements/Q661056-composition.md 
+``` 
 
-### Associations : Université de Poitiers @UnivPoitiers https://github.com/cpesr/wikidataESR/blob/master/plots/etablissements/Q661056-associations.md 
+Avertissements et édition : [logs](https://github.com/cpesr/wikidataESR/blob/master/plots/etablissements/Q661056.md) 
 
-![](plots/etablissements/Q661056-associations.png) 
+### Université de Poitiers @UnivPoitiers : Composition https://github.com/cpesr/wikidataESR/blob/master/plots/etablissements/Q661056.md 
 
-Avertissements et édition : [logs](plots/etablissements/Q661056-associations.md 
+![](https://github.com/cpesr/wikidataESR/blob/master/plots/etablissements/Q661056-composition.png) 
 
-### Histoire : Université d'Artois @Univ_Artois https://github.com/cpesr/wikidataESR/blob/master/plots/etablissements/Q475504-histoire.md 
+Avertissements et édition : [logs](https://github.com/cpesr/wikidataESR/blob/master/plots/etablissements/Q661056.md) 
 
-Erreur : les données sont probablement trop partielles. 
+### Université de Poitiers @UnivPoitiers : Associations https://github.com/cpesr/wikidataESR/blob/master/plots/etablissements/Q661056.md 
 
-Avertissements et édition : [logs](plots/etablissements/Q475504-histoire.md 
+![](https://github.com/cpesr/wikidataESR/blob/master/plots/etablissements/Q661056-associations.png) 
 
-### Composition : Université d'Artois @Univ_Artois https://github.com/cpesr/wikidataESR/blob/master/plots/etablissements/Q475504-composition.md 
+Avertissements et édition : [logs](https://github.com/cpesr/wikidataESR/blob/master/plots/etablissements/Q661056.md) 
 
-![](plots/etablissements/Q475504-composition.png) 
+### Université d'Artois @Univ_Artois : Histoire https://github.com/cpesr/wikidataESR/blob/master/plots/etablissements/Q475504.md 
 
-Avertissements et édition : [logs](plots/etablissements/Q475504-composition.md 
+Erreur : les données sont probablement trop partielles.
+```
+Error in wdesr_ggplot_graph(df, node_size = node_size/mult, label_sizes = label_sizes/mult, : Empty ESR graph: something went wrong with the graph production parameters
 
-### Associations : Université d'Artois @Univ_Artois https://github.com/cpesr/wikidataESR/blob/master/plots/etablissements/Q475504-associations.md 
+``` 
 
-![](plots/etablissements/Q475504-associations.png) 
+Avertissements et édition : [logs](https://github.com/cpesr/wikidataESR/blob/master/plots/etablissements/Q475504.md) 
 
-Avertissements et édition : [logs](plots/etablissements/Q475504-associations.md 
+### Université d'Artois @Univ_Artois : Composition https://github.com/cpesr/wikidataESR/blob/master/plots/etablissements/Q475504.md 
 
-### Histoire : Université Paris 8 - Vincennes - Saint-Denis @UnivParis8 https://github.com/cpesr/wikidataESR/blob/master/plots/etablissements/Q1194988-histoire.md 
+![](https://github.com/cpesr/wikidataESR/blob/master/plots/etablissements/Q475504-composition.png) 
 
-![](plots/etablissements/Q1194988-histoire.png) 
+Avertissements et édition : [logs](https://github.com/cpesr/wikidataESR/blob/master/plots/etablissements/Q475504.md) 
 
-Avertissements et édition : [logs](plots/etablissements/Q1194988-histoire.md 
+### Université d'Artois @Univ_Artois : Associations https://github.com/cpesr/wikidataESR/blob/master/plots/etablissements/Q475504.md 
 
-### Composition : Université Paris 8 - Vincennes - Saint-Denis @UnivParis8 https://github.com/cpesr/wikidataESR/blob/master/plots/etablissements/Q1194988-composition.md 
+![](https://github.com/cpesr/wikidataESR/blob/master/plots/etablissements/Q475504-associations.png) 
 
-![](plots/etablissements/Q1194988-composition.png) 
+Avertissements et édition : [logs](https://github.com/cpesr/wikidataESR/blob/master/plots/etablissements/Q475504.md) 
 
-Avertissements et édition : [logs](plots/etablissements/Q1194988-composition.md 
+### Université Paris 8 - Vincennes - Saint-Denis @UnivParis8 : Histoire https://github.com/cpesr/wikidataESR/blob/master/plots/etablissements/Q1194988.md 
 
-### Associations : Université Paris 8 - Vincennes - Saint-Denis @UnivParis8 https://github.com/cpesr/wikidataESR/blob/master/plots/etablissements/Q1194988-associations.md 
+![](https://github.com/cpesr/wikidataESR/blob/master/plots/etablissements/Q1194988-histoire.png) 
 
-![](plots/etablissements/Q1194988-associations.png) 
+Avertissements et édition : [logs](https://github.com/cpesr/wikidataESR/blob/master/plots/etablissements/Q1194988.md) 
 
-Avertissements et édition : [logs](plots/etablissements/Q1194988-associations.md 
+### Université Paris 8 - Vincennes - Saint-Denis @UnivParis8 : Composition https://github.com/cpesr/wikidataESR/blob/master/plots/etablissements/Q1194988.md 
 
-### Histoire : La Rochelle Université @UnivLaRochelle https://github.com/cpesr/wikidataESR/blob/master/plots/etablissements/Q1500822-histoire.md 
+![](https://github.com/cpesr/wikidataESR/blob/master/plots/etablissements/Q1194988-composition.png) 
 
-![](plots/etablissements/Q1500822-histoire.png) 
+Avertissements et édition : [logs](https://github.com/cpesr/wikidataESR/blob/master/plots/etablissements/Q1194988.md) 
 
-Avertissements et édition : [logs](plots/etablissements/Q1500822-histoire.md 
+### Université Paris 8 - Vincennes - Saint-Denis @UnivParis8 : Associations https://github.com/cpesr/wikidataESR/blob/master/plots/etablissements/Q1194988.md 
 
-### Composition : La Rochelle Université @UnivLaRochelle https://github.com/cpesr/wikidataESR/blob/master/plots/etablissements/Q1500822-composition.md 
+![](https://github.com/cpesr/wikidataESR/blob/master/plots/etablissements/Q1194988-associations.png) 
 
-![](plots/etablissements/Q1500822-composition.png) 
+Avertissements et édition : [logs](https://github.com/cpesr/wikidataESR/blob/master/plots/etablissements/Q1194988.md) 
 
-Avertissements et édition : [logs](plots/etablissements/Q1500822-composition.md 
+### La Rochelle Université @UnivLaRochelle : Histoire https://github.com/cpesr/wikidataESR/blob/master/plots/etablissements/Q1500822.md 
 
-### Associations : La Rochelle Université @UnivLaRochelle https://github.com/cpesr/wikidataESR/blob/master/plots/etablissements/Q1500822-associations.md 
+![](https://github.com/cpesr/wikidataESR/blob/master/plots/etablissements/Q1500822-histoire.png) 
 
-![](plots/etablissements/Q1500822-associations.png) 
+Avertissements et édition : [logs](https://github.com/cpesr/wikidataESR/blob/master/plots/etablissements/Q1500822.md) 
 
-Avertissements et édition : [logs](plots/etablissements/Q1500822-associations.md 
+### La Rochelle Université @UnivLaRochelle : Composition https://github.com/cpesr/wikidataESR/blob/master/plots/etablissements/Q1500822.md 
 
-### Histoire : Université Côte d'Azur @Univ_CotedAzur https://github.com/cpesr/wikidataESR/blob/master/plots/etablissements/Q80186910-histoire.md 
+![](https://github.com/cpesr/wikidataESR/blob/master/plots/etablissements/Q1500822-composition.png) 
 
-Erreur : les données sont probablement trop partielles. 
+Avertissements et édition : [logs](https://github.com/cpesr/wikidataESR/blob/master/plots/etablissements/Q1500822.md) 
 
-Avertissements et édition : [logs](plots/etablissements/Q80186910-histoire.md 
+### La Rochelle Université @UnivLaRochelle : Associations https://github.com/cpesr/wikidataESR/blob/master/plots/etablissements/Q1500822.md 
 
-### Composition : Université Côte d'Azur @Univ_CotedAzur https://github.com/cpesr/wikidataESR/blob/master/plots/etablissements/Q80186910-composition.md 
+![](https://github.com/cpesr/wikidataESR/blob/master/plots/etablissements/Q1500822-associations.png) 
 
-Erreur : les données sont probablement trop partielles. 
+Avertissements et édition : [logs](https://github.com/cpesr/wikidataESR/blob/master/plots/etablissements/Q1500822.md) 
 
-Avertissements et édition : [logs](plots/etablissements/Q80186910-composition.md 
+### Université Côte d'Azur @Univ_CotedAzur : Histoire https://github.com/cpesr/wikidataESR/blob/master/plots/etablissements/Q80186910.md 
 
-### Associations : Université Côte d'Azur @Univ_CotedAzur https://github.com/cpesr/wikidataESR/blob/master/plots/etablissements/Q80186910-associations.md 
+Erreur : les données sont probablement trop partielles.
+```
+Error in ans[npos] <- rep(no, length.out = len)[npos]: l'argument de remplacement est de longueur nulle
 
-Erreur : les données sont probablement trop partielles. 
+``` 
 
-Avertissements et édition : [logs](plots/etablissements/Q80186910-associations.md 
+Avertissements et édition : [logs](https://github.com/cpesr/wikidataESR/blob/master/plots/etablissements/Q80186910.md) 
 
-### Histoire : Université Le Havre Normandie  https://github.com/cpesr/wikidataESR/blob/master/plots/etablissements/Q1784954-histoire.md 
+### Université Côte d'Azur @Univ_CotedAzur : Composition https://github.com/cpesr/wikidataESR/blob/master/plots/etablissements/Q80186910.md 
 
-Erreur : les données sont probablement trop partielles. 
+Erreur : les données sont probablement trop partielles.
+```
+Error in ans[npos] <- rep(no, length.out = len)[npos]: l'argument de remplacement est de longueur nulle
 
-Avertissements et édition : [logs](plots/etablissements/Q1784954-histoire.md 
+``` 
 
-### Composition : Université Le Havre Normandie  https://github.com/cpesr/wikidataESR/blob/master/plots/etablissements/Q1784954-composition.md 
+Avertissements et édition : [logs](https://github.com/cpesr/wikidataESR/blob/master/plots/etablissements/Q80186910.md) 
 
-![](plots/etablissements/Q1784954-composition.png) 
+### Université Côte d'Azur @Univ_CotedAzur : Associations https://github.com/cpesr/wikidataESR/blob/master/plots/etablissements/Q80186910.md 
 
-Avertissements et édition : [logs](plots/etablissements/Q1784954-composition.md 
+Erreur : les données sont probablement trop partielles.
+```
+Error in ans[npos] <- rep(no, length.out = len)[npos]: l'argument de remplacement est de longueur nulle
 
-### Associations : Université Le Havre Normandie  https://github.com/cpesr/wikidataESR/blob/master/plots/etablissements/Q1784954-associations.md 
+``` 
 
-![](plots/etablissements/Q1784954-associations.png) 
+Avertissements et édition : [logs](https://github.com/cpesr/wikidataESR/blob/master/plots/etablissements/Q80186910.md) 
 
-Avertissements et édition : [logs](plots/etablissements/Q1784954-associations.md 
+### Université Le Havre Normandie  : Histoire https://github.com/cpesr/wikidataESR/blob/master/plots/etablissements/Q1784954.md 
 
-### Histoire : Université Jean Monnet @Univ_St_Etienne https://github.com/cpesr/wikidataESR/blob/master/plots/etablissements/Q623154-histoire.md 
+Erreur : les données sont probablement trop partielles.
+```
+Error in wdesr_ggplot_graph(df, node_size = node_size/mult, label_sizes = label_sizes/mult, : Empty ESR graph: something went wrong with the graph production parameters
 
-Erreur : les données sont probablement trop partielles. 
+``` 
 
-Avertissements et édition : [logs](plots/etablissements/Q623154-histoire.md 
+Avertissements et édition : [logs](https://github.com/cpesr/wikidataESR/blob/master/plots/etablissements/Q1784954.md) 
 
-### Composition : Université Jean Monnet @Univ_St_Etienne https://github.com/cpesr/wikidataESR/blob/master/plots/etablissements/Q623154-composition.md 
+### Université Le Havre Normandie  : Composition https://github.com/cpesr/wikidataESR/blob/master/plots/etablissements/Q1784954.md 
 
-![](plots/etablissements/Q623154-composition.png) 
+![](https://github.com/cpesr/wikidataESR/blob/master/plots/etablissements/Q1784954-composition.png) 
 
-Avertissements et édition : [logs](plots/etablissements/Q623154-composition.md 
+Avertissements et édition : [logs](https://github.com/cpesr/wikidataESR/blob/master/plots/etablissements/Q1784954.md) 
 
-### Associations : Université Jean Monnet @Univ_St_Etienne https://github.com/cpesr/wikidataESR/blob/master/plots/etablissements/Q623154-associations.md 
+### Université Le Havre Normandie  : Associations https://github.com/cpesr/wikidataESR/blob/master/plots/etablissements/Q1784954.md 
 
-![](plots/etablissements/Q623154-associations.png) 
+![](https://github.com/cpesr/wikidataESR/blob/master/plots/etablissements/Q1784954-associations.png) 
 
-Avertissements et édition : [logs](plots/etablissements/Q623154-associations.md 
+Avertissements et édition : [logs](https://github.com/cpesr/wikidataESR/blob/master/plots/etablissements/Q1784954.md) 
 
-### Histoire : Université Rennes 2 @Univ_Rennes2 https://github.com/cpesr/wikidataESR/blob/master/plots/etablissements/Q459026-histoire.md 
+### Université Jean Monnet @Univ_St_Etienne : Histoire https://github.com/cpesr/wikidataESR/blob/master/plots/etablissements/Q623154.md 
 
-![](plots/etablissements/Q459026-histoire.png) 
+Erreur : les données sont probablement trop partielles.
+```
+Error in wdesr_ggplot_graph(df, node_size = node_size/mult, label_sizes = label_sizes/mult, : Empty ESR graph: something went wrong with the graph production parameters
 
-Avertissements et édition : [logs](plots/etablissements/Q459026-histoire.md 
+``` 
 
-### Composition : Université Rennes 2 @Univ_Rennes2 https://github.com/cpesr/wikidataESR/blob/master/plots/etablissements/Q459026-composition.md 
+Avertissements et édition : [logs](https://github.com/cpesr/wikidataESR/blob/master/plots/etablissements/Q623154.md) 
 
-![](plots/etablissements/Q459026-composition.png) 
+### Université Jean Monnet @Univ_St_Etienne : Composition https://github.com/cpesr/wikidataESR/blob/master/plots/etablissements/Q623154.md 
 
-Avertissements et édition : [logs](plots/etablissements/Q459026-composition.md 
+![](https://github.com/cpesr/wikidataESR/blob/master/plots/etablissements/Q623154-composition.png) 
 
-### Associations : Université Rennes 2 @Univ_Rennes2 https://github.com/cpesr/wikidataESR/blob/master/plots/etablissements/Q459026-associations.md 
+Avertissements et édition : [logs](https://github.com/cpesr/wikidataESR/blob/master/plots/etablissements/Q623154.md) 
 
-![](plots/etablissements/Q459026-associations.png) 
+### Université Jean Monnet @Univ_St_Etienne : Associations https://github.com/cpesr/wikidataESR/blob/master/plots/etablissements/Q623154.md 
 
-Avertissements et édition : [logs](plots/etablissements/Q459026-associations.md 
+![](https://github.com/cpesr/wikidataESR/blob/master/plots/etablissements/Q623154-associations.png) 
 
-### Histoire : Université de Rennes 1 @UnivRennes1 https://github.com/cpesr/wikidataESR/blob/master/plots/etablissements/Q726595-histoire.md 
+Avertissements et édition : [logs](https://github.com/cpesr/wikidataESR/blob/master/plots/etablissements/Q623154.md) 
 
-![](plots/etablissements/Q726595-histoire.png) 
+### Université Rennes 2 @Univ_Rennes2 : Histoire https://github.com/cpesr/wikidataESR/blob/master/plots/etablissements/Q459026.md 
 
-Avertissements et édition : [logs](plots/etablissements/Q726595-histoire.md 
+![](https://github.com/cpesr/wikidataESR/blob/master/plots/etablissements/Q459026-histoire.png) 
 
-### Composition : Université de Rennes 1 @UnivRennes1 https://github.com/cpesr/wikidataESR/blob/master/plots/etablissements/Q726595-composition.md 
+Avertissements et édition : [logs](https://github.com/cpesr/wikidataESR/blob/master/plots/etablissements/Q459026.md) 
 
-![](plots/etablissements/Q726595-composition.png) 
+### Université Rennes 2 @Univ_Rennes2 : Composition https://github.com/cpesr/wikidataESR/blob/master/plots/etablissements/Q459026.md 
 
-Avertissements et édition : [logs](plots/etablissements/Q726595-composition.md 
+![](https://github.com/cpesr/wikidataESR/blob/master/plots/etablissements/Q459026-composition.png) 
 
-### Associations : Université de Rennes 1 @UnivRennes1 https://github.com/cpesr/wikidataESR/blob/master/plots/etablissements/Q726595-associations.md 
+Avertissements et édition : [logs](https://github.com/cpesr/wikidataESR/blob/master/plots/etablissements/Q459026.md) 
 
-![](plots/etablissements/Q726595-associations.png) 
+### Université Rennes 2 @Univ_Rennes2 : Associations https://github.com/cpesr/wikidataESR/blob/master/plots/etablissements/Q459026.md 
 
-Avertissements et édition : [logs](plots/etablissements/Q726595-associations.md 
+![](https://github.com/cpesr/wikidataESR/blob/master/plots/etablissements/Q459026-associations.png) 
 
-### Histoire : UBM @UBMontaigne https://github.com/cpesr/wikidataESR/blob/master/plots/etablissements/Q13342-histoire.md 
+Avertissements et édition : [logs](https://github.com/cpesr/wikidataESR/blob/master/plots/etablissements/Q459026.md) 
 
-![](plots/etablissements/Q13342-histoire.png) 
+### Université de Rennes 1 @UnivRennes1 : Histoire https://github.com/cpesr/wikidataESR/blob/master/plots/etablissements/Q726595.md 
 
-Avertissements et édition : [logs](plots/etablissements/Q13342-histoire.md 
+![](https://github.com/cpesr/wikidataESR/blob/master/plots/etablissements/Q726595-histoire.png) 
 
-### Composition : UBM @UBMontaigne https://github.com/cpesr/wikidataESR/blob/master/plots/etablissements/Q13342-composition.md 
+Avertissements et édition : [logs](https://github.com/cpesr/wikidataESR/blob/master/plots/etablissements/Q726595.md) 
 
-![](plots/etablissements/Q13342-composition.png) 
+### Université de Rennes 1 @UnivRennes1 : Composition https://github.com/cpesr/wikidataESR/blob/master/plots/etablissements/Q726595.md 
 
-Avertissements et édition : [logs](plots/etablissements/Q13342-composition.md 
+![](https://github.com/cpesr/wikidataESR/blob/master/plots/etablissements/Q726595-composition.png) 
 
-### Associations : UBM @UBMontaigne https://github.com/cpesr/wikidataESR/blob/master/plots/etablissements/Q13342-associations.md 
+Avertissements et édition : [logs](https://github.com/cpesr/wikidataESR/blob/master/plots/etablissements/Q726595.md) 
 
-![](plots/etablissements/Q13342-associations.png) 
+### Université de Rennes 1 @UnivRennes1 : Associations https://github.com/cpesr/wikidataESR/blob/master/plots/etablissements/Q726595.md 
 
-Avertissements et édition : [logs](plots/etablissements/Q13342-associations.md 
+![](https://github.com/cpesr/wikidataESR/blob/master/plots/etablissements/Q726595-associations.png) 
 
-### Histoire : Université Paul-Valéry - Montpellier 3 @univpaulvalery https://github.com/cpesr/wikidataESR/blob/master/plots/etablissements/Q2912244-histoire.md 
+Avertissements et édition : [logs](https://github.com/cpesr/wikidataESR/blob/master/plots/etablissements/Q726595.md) 
 
-![](plots/etablissements/Q2912244-histoire.png) 
+### UBM @UBMontaigne : Histoire https://github.com/cpesr/wikidataESR/blob/master/plots/etablissements/Q13342.md 
 
-Avertissements et édition : [logs](plots/etablissements/Q2912244-histoire.md 
+![](https://github.com/cpesr/wikidataESR/blob/master/plots/etablissements/Q13342-histoire.png) 
 
-### Composition : Université Paul-Valéry - Montpellier 3 @univpaulvalery https://github.com/cpesr/wikidataESR/blob/master/plots/etablissements/Q2912244-composition.md 
+Avertissements et édition : [logs](https://github.com/cpesr/wikidataESR/blob/master/plots/etablissements/Q13342.md) 
 
-![](plots/etablissements/Q2912244-composition.png) 
+### UBM @UBMontaigne : Composition https://github.com/cpesr/wikidataESR/blob/master/plots/etablissements/Q13342.md 
 
-Avertissements et édition : [logs](plots/etablissements/Q2912244-composition.md 
+![](https://github.com/cpesr/wikidataESR/blob/master/plots/etablissements/Q13342-composition.png) 
 
-### Associations : Université Paul-Valéry - Montpellier 3 @univpaulvalery https://github.com/cpesr/wikidataESR/blob/master/plots/etablissements/Q2912244-associations.md 
+Avertissements et édition : [logs](https://github.com/cpesr/wikidataESR/blob/master/plots/etablissements/Q13342.md) 
 
-![](plots/etablissements/Q2912244-associations.png) 
+### UBM @UBMontaigne : Associations https://github.com/cpesr/wikidataESR/blob/master/plots/etablissements/Q13342.md 
 
-Avertissements et édition : [logs](plots/etablissements/Q2912244-associations.md 
+![](https://github.com/cpesr/wikidataESR/blob/master/plots/etablissements/Q13342-associations.png) 
 
-### Histoire : Université de Paris @Univ_Paris https://github.com/cpesr/wikidataESR/blob/master/plots/etablissements/Q55849612-histoire.md 
+Avertissements et édition : [logs](https://github.com/cpesr/wikidataESR/blob/master/plots/etablissements/Q13342.md) 
 
-![](plots/etablissements/Q55849612-histoire.png) 
+### Université Paul-Valéry - Montpellier 3 @univpaulvalery : Histoire https://github.com/cpesr/wikidataESR/blob/master/plots/etablissements/Q2912244.md 
 
-Avertissements et édition : [logs](plots/etablissements/Q55849612-histoire.md 
+![](https://github.com/cpesr/wikidataESR/blob/master/plots/etablissements/Q2912244-histoire.png) 
 
-### Composition : Université de Paris @Univ_Paris https://github.com/cpesr/wikidataESR/blob/master/plots/etablissements/Q55849612-composition.md 
+Avertissements et édition : [logs](https://github.com/cpesr/wikidataESR/blob/master/plots/etablissements/Q2912244.md) 
 
-![](plots/etablissements/Q55849612-composition.png) 
+### Université Paul-Valéry - Montpellier 3 @univpaulvalery : Composition https://github.com/cpesr/wikidataESR/blob/master/plots/etablissements/Q2912244.md 
 
-Avertissements et édition : [logs](plots/etablissements/Q55849612-composition.md 
+![](https://github.com/cpesr/wikidataESR/blob/master/plots/etablissements/Q2912244-composition.png) 
 
-### Associations : Université de Paris @Univ_Paris https://github.com/cpesr/wikidataESR/blob/master/plots/etablissements/Q55849612-associations.md 
+Avertissements et édition : [logs](https://github.com/cpesr/wikidataESR/blob/master/plots/etablissements/Q2912244.md) 
 
-Erreur : les données sont probablement trop partielles. 
+### Université Paul-Valéry - Montpellier 3 @univpaulvalery : Associations https://github.com/cpesr/wikidataESR/blob/master/plots/etablissements/Q2912244.md 
 
-Avertissements et édition : [logs](plots/etablissements/Q55849612-associations.md 
+![](https://github.com/cpesr/wikidataESR/blob/master/plots/etablissements/Q2912244-associations.png) 
 
-### Histoire : Université de Pau et des Pays de l'Adour @universite_uppa https://github.com/cpesr/wikidataESR/blob/master/plots/etablissements/Q572968-histoire.md 
+Avertissements et édition : [logs](https://github.com/cpesr/wikidataESR/blob/master/plots/etablissements/Q2912244.md) 
 
-Erreur : les données sont probablement trop partielles. 
+### Université de Paris @Univ_Paris : Histoire https://github.com/cpesr/wikidataESR/blob/master/plots/etablissements/Q55849612.md 
 
-Avertissements et édition : [logs](plots/etablissements/Q572968-histoire.md 
+![](https://github.com/cpesr/wikidataESR/blob/master/plots/etablissements/Q55849612-histoire.png) 
 
-### Composition : Université de Pau et des Pays de l'Adour @universite_uppa https://github.com/cpesr/wikidataESR/blob/master/plots/etablissements/Q572968-composition.md 
+Avertissements et édition : [logs](https://github.com/cpesr/wikidataESR/blob/master/plots/etablissements/Q55849612.md) 
 
-![](plots/etablissements/Q572968-composition.png) 
+### Université de Paris @Univ_Paris : Composition https://github.com/cpesr/wikidataESR/blob/master/plots/etablissements/Q55849612.md 
 
-Avertissements et édition : [logs](plots/etablissements/Q572968-composition.md 
+![](https://github.com/cpesr/wikidataESR/blob/master/plots/etablissements/Q55849612-composition.png) 
 
-### Associations : Université de Pau et des Pays de l'Adour @universite_uppa https://github.com/cpesr/wikidataESR/blob/master/plots/etablissements/Q572968-associations.md 
+Avertissements et édition : [logs](https://github.com/cpesr/wikidataESR/blob/master/plots/etablissements/Q55849612.md) 
 
-![](plots/etablissements/Q572968-associations.png) 
+### Université de Paris @Univ_Paris : Associations https://github.com/cpesr/wikidataESR/blob/master/plots/etablissements/Q55849612.md 
 
-Avertissements et édition : [logs](plots/etablissements/Q572968-associations.md 
+Erreur : les données sont probablement trop partielles.
+```
+Error in wdesr_ggplot_graph(df, node_size = node_size/mult, label_sizes = label_sizes/mult, : Empty ESR graph: something went wrong with the graph production parameters
 
-### Histoire : AMU @univamu https://github.com/cpesr/wikidataESR/blob/master/plots/etablissements/Q2302586-histoire.md 
+``` 
 
-![](plots/etablissements/Q2302586-histoire.png) 
+Avertissements et édition : [logs](https://github.com/cpesr/wikidataESR/blob/master/plots/etablissements/Q55849612.md) 
 
-Avertissements et édition : [logs](plots/etablissements/Q2302586-histoire.md 
+### Université de Pau et des Pays de l'Adour @universite_uppa : Histoire https://github.com/cpesr/wikidataESR/blob/master/plots/etablissements/Q572968.md 
 
-### Composition : AMU @univamu https://github.com/cpesr/wikidataESR/blob/master/plots/etablissements/Q2302586-composition.md 
+Erreur : les données sont probablement trop partielles.
+```
+Error in wdesr_ggplot_graph(df, node_size = node_size/mult, label_sizes = label_sizes/mult, : Empty ESR graph: something went wrong with the graph production parameters
 
-![](plots/etablissements/Q2302586-composition.png) 
+``` 
 
-Avertissements et édition : [logs](plots/etablissements/Q2302586-composition.md 
+Avertissements et édition : [logs](https://github.com/cpesr/wikidataESR/blob/master/plots/etablissements/Q572968.md) 
 
-### Associations : AMU @univamu https://github.com/cpesr/wikidataESR/blob/master/plots/etablissements/Q2302586-associations.md 
+### Université de Pau et des Pays de l'Adour @universite_uppa : Composition https://github.com/cpesr/wikidataESR/blob/master/plots/etablissements/Q572968.md 
 
-![](plots/etablissements/Q2302586-associations.png) 
+![](https://github.com/cpesr/wikidataESR/blob/master/plots/etablissements/Q572968-composition.png) 
 
-Avertissements et édition : [logs](plots/etablissements/Q2302586-associations.md 
+Avertissements et édition : [logs](https://github.com/cpesr/wikidataESR/blob/master/plots/etablissements/Q572968.md) 
 
-### Histoire : Université de Haute-Alsace @UHA68 https://github.com/cpesr/wikidataESR/blob/master/plots/etablissements/Q280183-histoire.md 
+### Université de Pau et des Pays de l'Adour @universite_uppa : Associations https://github.com/cpesr/wikidataESR/blob/master/plots/etablissements/Q572968.md 
 
-Erreur : les données sont probablement trop partielles. 
+![](https://github.com/cpesr/wikidataESR/blob/master/plots/etablissements/Q572968-associations.png) 
 
-Avertissements et édition : [logs](plots/etablissements/Q280183-histoire.md 
+Avertissements et édition : [logs](https://github.com/cpesr/wikidataESR/blob/master/plots/etablissements/Q572968.md) 
 
-### Composition : Université de Haute-Alsace @UHA68 https://github.com/cpesr/wikidataESR/blob/master/plots/etablissements/Q280183-composition.md 
+### AMU @univamu : Histoire https://github.com/cpesr/wikidataESR/blob/master/plots/etablissements/Q2302586.md 
 
-![](plots/etablissements/Q280183-composition.png) 
+![](https://github.com/cpesr/wikidataESR/blob/master/plots/etablissements/Q2302586-histoire.png) 
 
-Avertissements et édition : [logs](plots/etablissements/Q280183-composition.md 
+Avertissements et édition : [logs](https://github.com/cpesr/wikidataESR/blob/master/plots/etablissements/Q2302586.md) 
 
-### Associations : Université de Haute-Alsace @UHA68 https://github.com/cpesr/wikidataESR/blob/master/plots/etablissements/Q280183-associations.md 
+### AMU @univamu : Composition https://github.com/cpesr/wikidataESR/blob/master/plots/etablissements/Q2302586.md 
 
-![](plots/etablissements/Q280183-associations.png) 
+![](https://github.com/cpesr/wikidataESR/blob/master/plots/etablissements/Q2302586-composition.png) 
 
-Avertissements et édition : [logs](plots/etablissements/Q280183-associations.md 
+Avertissements et édition : [logs](https://github.com/cpesr/wikidataESR/blob/master/plots/etablissements/Q2302586.md) 
 
-### Histoire : Université de La Réunion @univ_reunion https://github.com/cpesr/wikidataESR/blob/master/plots/etablissements/Q834819-histoire.md 
+### AMU @univamu : Associations https://github.com/cpesr/wikidataESR/blob/master/plots/etablissements/Q2302586.md 
 
-Erreur : les données sont probablement trop partielles. 
+![](https://github.com/cpesr/wikidataESR/blob/master/plots/etablissements/Q2302586-associations.png) 
 
-Avertissements et édition : [logs](plots/etablissements/Q834819-histoire.md 
+Avertissements et édition : [logs](https://github.com/cpesr/wikidataESR/blob/master/plots/etablissements/Q2302586.md) 
 
-### Composition : Université de La Réunion @univ_reunion https://github.com/cpesr/wikidataESR/blob/master/plots/etablissements/Q834819-composition.md 
+### Université de Haute-Alsace @UHA68 : Histoire https://github.com/cpesr/wikidataESR/blob/master/plots/etablissements/Q280183.md 
 
-![](plots/etablissements/Q834819-composition.png) 
+Erreur : les données sont probablement trop partielles.
+```
+Error in wdesr_ggplot_graph(df, node_size = node_size/mult, label_sizes = label_sizes/mult, : Empty ESR graph: something went wrong with the graph production parameters
 
-Avertissements et édition : [logs](plots/etablissements/Q834819-composition.md 
+``` 
 
-### Associations : Université de La Réunion @univ_reunion https://github.com/cpesr/wikidataESR/blob/master/plots/etablissements/Q834819-associations.md 
+Avertissements et édition : [logs](https://github.com/cpesr/wikidataESR/blob/master/plots/etablissements/Q280183.md) 
 
-Erreur : les données sont probablement trop partielles. 
+### Université de Haute-Alsace @UHA68 : Composition https://github.com/cpesr/wikidataESR/blob/master/plots/etablissements/Q280183.md 
 
-Avertissements et édition : [logs](plots/etablissements/Q834819-associations.md 
+![](https://github.com/cpesr/wikidataESR/blob/master/plots/etablissements/Q280183-composition.png) 
 
-### Histoire : Université Toulouse III - Paul Sabatier @UT3PaulSabatier https://github.com/cpesr/wikidataESR/blob/master/plots/etablissements/Q1273188-histoire.md 
+Avertissements et édition : [logs](https://github.com/cpesr/wikidataESR/blob/master/plots/etablissements/Q280183.md) 
 
-![](plots/etablissements/Q1273188-histoire.png) 
+### Université de Haute-Alsace @UHA68 : Associations https://github.com/cpesr/wikidataESR/blob/master/plots/etablissements/Q280183.md 
 
-Avertissements et édition : [logs](plots/etablissements/Q1273188-histoire.md 
+![](https://github.com/cpesr/wikidataESR/blob/master/plots/etablissements/Q280183-associations.png) 
 
-### Composition : Université Toulouse III - Paul Sabatier @UT3PaulSabatier https://github.com/cpesr/wikidataESR/blob/master/plots/etablissements/Q1273188-composition.md 
+Avertissements et édition : [logs](https://github.com/cpesr/wikidataESR/blob/master/plots/etablissements/Q280183.md) 
 
-![](plots/etablissements/Q1273188-composition.png) 
+### Université de La Réunion @univ_reunion : Histoire https://github.com/cpesr/wikidataESR/blob/master/plots/etablissements/Q834819.md 
 
-Avertissements et édition : [logs](plots/etablissements/Q1273188-composition.md 
+Erreur : les données sont probablement trop partielles.
+```
+Error in wdesr_ggplot_graph(df, node_size = node_size/mult, label_sizes = label_sizes/mult, : Empty ESR graph: something went wrong with the graph production parameters
 
-### Associations : Université Toulouse III - Paul Sabatier @UT3PaulSabatier https://github.com/cpesr/wikidataESR/blob/master/plots/etablissements/Q1273188-associations.md 
+``` 
 
-![](plots/etablissements/Q1273188-associations.png) 
+Avertissements et édition : [logs](https://github.com/cpesr/wikidataESR/blob/master/plots/etablissements/Q834819.md) 
 
-Avertissements et édition : [logs](plots/etablissements/Q1273188-associations.md 
+### Université de La Réunion @univ_reunion : Composition https://github.com/cpesr/wikidataESR/blob/master/plots/etablissements/Q834819.md 
 
-### Histoire : Université d'Orléans @Univ_Orleans https://github.com/cpesr/wikidataESR/blob/master/plots/etablissements/Q13334-histoire.md 
+![](https://github.com/cpesr/wikidataESR/blob/master/plots/etablissements/Q834819-composition.png) 
 
-![](plots/etablissements/Q13334-histoire.png) 
+Avertissements et édition : [logs](https://github.com/cpesr/wikidataESR/blob/master/plots/etablissements/Q834819.md) 
 
-Avertissements et édition : [logs](plots/etablissements/Q13334-histoire.md 
+### Université de La Réunion @univ_reunion : Associations https://github.com/cpesr/wikidataESR/blob/master/plots/etablissements/Q834819.md 
 
-### Composition : Université d'Orléans @Univ_Orleans https://github.com/cpesr/wikidataESR/blob/master/plots/etablissements/Q13334-composition.md 
+Erreur : les données sont probablement trop partielles.
+```
+Error in wdesr_ggplot_graph(df, node_size = node_size/mult, label_sizes = label_sizes/mult, : Empty ESR graph: something went wrong with the graph production parameters
 
-![](plots/etablissements/Q13334-composition.png) 
+``` 
 
-Avertissements et édition : [logs](plots/etablissements/Q13334-composition.md 
+Avertissements et édition : [logs](https://github.com/cpesr/wikidataESR/blob/master/plots/etablissements/Q834819.md) 
 
-### Associations : Université d'Orléans @Univ_Orleans https://github.com/cpesr/wikidataESR/blob/master/plots/etablissements/Q13334-associations.md 
+### Université Toulouse III - Paul Sabatier @UT3PaulSabatier : Histoire https://github.com/cpesr/wikidataESR/blob/master/plots/etablissements/Q1273188.md 
 
-![](plots/etablissements/Q13334-associations.png) 
+![](https://github.com/cpesr/wikidataESR/blob/master/plots/etablissements/Q1273188-histoire.png) 
 
-Avertissements et édition : [logs](plots/etablissements/Q13334-associations.md 
+Avertissements et édition : [logs](https://github.com/cpesr/wikidataESR/blob/master/plots/etablissements/Q1273188.md) 
 
-### Histoire : CY Cergy Paris Université @UniversiteCergy https://github.com/cpesr/wikidataESR/blob/master/plots/etablissements/Q74452784-histoire.md 
+### Université Toulouse III - Paul Sabatier @UT3PaulSabatier : Composition https://github.com/cpesr/wikidataESR/blob/master/plots/etablissements/Q1273188.md 
 
-Erreur : les données sont probablement trop partielles. 
+![](https://github.com/cpesr/wikidataESR/blob/master/plots/etablissements/Q1273188-composition.png) 
 
-Avertissements et édition : [logs](plots/etablissements/Q74452784-histoire.md 
+Avertissements et édition : [logs](https://github.com/cpesr/wikidataESR/blob/master/plots/etablissements/Q1273188.md) 
 
-### Composition : CY Cergy Paris Université @UniversiteCergy https://github.com/cpesr/wikidataESR/blob/master/plots/etablissements/Q74452784-composition.md 
+### Université Toulouse III - Paul Sabatier @UT3PaulSabatier : Associations https://github.com/cpesr/wikidataESR/blob/master/plots/etablissements/Q1273188.md 
 
-![](plots/etablissements/Q74452784-composition.png) 
+![](https://github.com/cpesr/wikidataESR/blob/master/plots/etablissements/Q1273188-associations.png) 
 
-Avertissements et édition : [logs](plots/etablissements/Q74452784-composition.md 
+Avertissements et édition : [logs](https://github.com/cpesr/wikidataESR/blob/master/plots/etablissements/Q1273188.md) 
 
-### Associations : CY Cergy Paris Université @UniversiteCergy https://github.com/cpesr/wikidataESR/blob/master/plots/etablissements/Q74452784-associations.md 
+### Université d'Orléans @Univ_Orleans : Histoire https://github.com/cpesr/wikidataESR/blob/master/plots/etablissements/Q13334.md 
 
-![](plots/etablissements/Q74452784-associations.png) 
+![](https://github.com/cpesr/wikidataESR/blob/master/plots/etablissements/Q13334-histoire.png) 
 
-Avertissements et édition : [logs](plots/etablissements/Q74452784-associations.md 
+Avertissements et édition : [logs](https://github.com/cpesr/wikidataESR/blob/master/plots/etablissements/Q13334.md) 
 
-### Histoire : Université de la Polynésie Française @univpf https://github.com/cpesr/wikidataESR/blob/master/plots/etablissements/Q1695245-histoire.md 
+### Université d'Orléans @Univ_Orleans : Composition https://github.com/cpesr/wikidataESR/blob/master/plots/etablissements/Q13334.md 
 
-Erreur : les données sont probablement trop partielles. 
+![](https://github.com/cpesr/wikidataESR/blob/master/plots/etablissements/Q13334-composition.png) 
 
-Avertissements et édition : [logs](plots/etablissements/Q1695245-histoire.md 
+Avertissements et édition : [logs](https://github.com/cpesr/wikidataESR/blob/master/plots/etablissements/Q13334.md) 
 
-### Composition : Université de la Polynésie Française @univpf https://github.com/cpesr/wikidataESR/blob/master/plots/etablissements/Q1695245-composition.md 
+### Université d'Orléans @Univ_Orleans : Associations https://github.com/cpesr/wikidataESR/blob/master/plots/etablissements/Q13334.md 
 
-Erreur : les données sont probablement trop partielles. 
+![](https://github.com/cpesr/wikidataESR/blob/master/plots/etablissements/Q13334-associations.png) 
 
-Avertissements et édition : [logs](plots/etablissements/Q1695245-composition.md 
+Avertissements et édition : [logs](https://github.com/cpesr/wikidataESR/blob/master/plots/etablissements/Q13334.md) 
 
-### Associations : Université de la Polynésie Française @univpf https://github.com/cpesr/wikidataESR/blob/master/plots/etablissements/Q1695245-associations.md 
+### CY Cergy Paris Université @UniversiteCergy : Histoire https://github.com/cpesr/wikidataESR/blob/master/plots/etablissements/Q74452784.md 
 
-Erreur : les données sont probablement trop partielles. 
+Erreur : les données sont probablement trop partielles.
+```
+Error in wdesr_ggplot_graph(df, node_size = node_size/mult, label_sizes = label_sizes/mult, : Empty ESR graph: something went wrong with the graph production parameters
 
-Avertissements et édition : [logs](plots/etablissements/Q1695245-associations.md 
+``` 
 
-### Histoire : Université Panthéon-Assas @AssasParis2 https://github.com/cpesr/wikidataESR/blob/master/plots/etablissements/Q662976-histoire.md 
+Avertissements et édition : [logs](https://github.com/cpesr/wikidataESR/blob/master/plots/etablissements/Q74452784.md) 
 
-![](plots/etablissements/Q662976-histoire.png) 
+### CY Cergy Paris Université @UniversiteCergy : Composition https://github.com/cpesr/wikidataESR/blob/master/plots/etablissements/Q74452784.md 
 
-Avertissements et édition : [logs](plots/etablissements/Q662976-histoire.md 
+![](https://github.com/cpesr/wikidataESR/blob/master/plots/etablissements/Q74452784-composition.png) 
 
-### Composition : Université Panthéon-Assas @AssasParis2 https://github.com/cpesr/wikidataESR/blob/master/plots/etablissements/Q662976-composition.md 
+Avertissements et édition : [logs](https://github.com/cpesr/wikidataESR/blob/master/plots/etablissements/Q74452784.md) 
 
-![](plots/etablissements/Q662976-composition.png) 
+### CY Cergy Paris Université @UniversiteCergy : Associations https://github.com/cpesr/wikidataESR/blob/master/plots/etablissements/Q74452784.md 
 
-Avertissements et édition : [logs](plots/etablissements/Q662976-composition.md 
+![](https://github.com/cpesr/wikidataESR/blob/master/plots/etablissements/Q74452784-associations.png) 
 
-### Associations : Université Panthéon-Assas @AssasParis2 https://github.com/cpesr/wikidataESR/blob/master/plots/etablissements/Q662976-associations.md 
+Avertissements et édition : [logs](https://github.com/cpesr/wikidataESR/blob/master/plots/etablissements/Q74452784.md) 
 
-![](plots/etablissements/Q662976-associations.png) 
+### Université de la Polynésie Française @univpf : Histoire https://github.com/cpesr/wikidataESR/blob/master/plots/etablissements/Q1695245.md 
 
-Avertissements et édition : [logs](plots/etablissements/Q662976-associations.md 
+Erreur : les données sont probablement trop partielles.
+```
+Error in wdesr_ggplot_graph(df, node_size = node_size/mult, label_sizes = label_sizes/mult, : Empty ESR graph: something went wrong with the graph production parameters
 
-### Histoire : Université Paris Nanterre @uparisnanterre https://github.com/cpesr/wikidataESR/blob/master/plots/etablissements/Q1394262-histoire.md 
+``` 
 
-![](plots/etablissements/Q1394262-histoire.png) 
+Avertissements et édition : [logs](https://github.com/cpesr/wikidataESR/blob/master/plots/etablissements/Q1695245.md) 
 
-Avertissements et édition : [logs](plots/etablissements/Q1394262-histoire.md 
+### Université de la Polynésie Française @univpf : Composition https://github.com/cpesr/wikidataESR/blob/master/plots/etablissements/Q1695245.md 
 
-### Composition : Université Paris Nanterre @uparisnanterre https://github.com/cpesr/wikidataESR/blob/master/plots/etablissements/Q1394262-composition.md 
+Erreur : les données sont probablement trop partielles.
+```
+Error in wdesr_ggplot_graph(df, node_size = node_size/mult, label_sizes = label_sizes/mult, : Empty ESR graph: something went wrong with the graph production parameters
 
-![](plots/etablissements/Q1394262-composition.png) 
+``` 
 
-Avertissements et édition : [logs](plots/etablissements/Q1394262-composition.md 
+Avertissements et édition : [logs](https://github.com/cpesr/wikidataESR/blob/master/plots/etablissements/Q1695245.md) 
 
-### Associations : Université Paris Nanterre @uparisnanterre https://github.com/cpesr/wikidataESR/blob/master/plots/etablissements/Q1394262-associations.md 
+### Université de la Polynésie Française @univpf : Associations https://github.com/cpesr/wikidataESR/blob/master/plots/etablissements/Q1695245.md 
 
-![](plots/etablissements/Q1394262-associations.png) 
+Erreur : les données sont probablement trop partielles.
+```
+Error in wdesr_ggplot_graph(df, node_size = node_size/mult, label_sizes = label_sizes/mult, : Empty ESR graph: something went wrong with the graph production parameters
 
-Avertissements et édition : [logs](plots/etablissements/Q1394262-associations.md 
+``` 
 
-### Histoire : Université Savoie Mont Blanc @Univ_Savoie https://github.com/cpesr/wikidataESR/blob/master/plots/etablissements/Q2496158-histoire.md 
+Avertissements et édition : [logs](https://github.com/cpesr/wikidataESR/blob/master/plots/etablissements/Q1695245.md) 
 
-Erreur : les données sont probablement trop partielles. 
+### Université Panthéon-Assas @AssasParis2 : Histoire https://github.com/cpesr/wikidataESR/blob/master/plots/etablissements/Q662976.md 
 
-Avertissements et édition : [logs](plots/etablissements/Q2496158-histoire.md 
+![](https://github.com/cpesr/wikidataESR/blob/master/plots/etablissements/Q662976-histoire.png) 
 
-### Composition : Université Savoie Mont Blanc @Univ_Savoie https://github.com/cpesr/wikidataESR/blob/master/plots/etablissements/Q2496158-composition.md 
+Avertissements et édition : [logs](https://github.com/cpesr/wikidataESR/blob/master/plots/etablissements/Q662976.md) 
 
-![](plots/etablissements/Q2496158-composition.png) 
+### Université Panthéon-Assas @AssasParis2 : Composition https://github.com/cpesr/wikidataESR/blob/master/plots/etablissements/Q662976.md 
 
-Avertissements et édition : [logs](plots/etablissements/Q2496158-composition.md 
+![](https://github.com/cpesr/wikidataESR/blob/master/plots/etablissements/Q662976-composition.png) 
 
-### Associations : Université Savoie Mont Blanc @Univ_Savoie https://github.com/cpesr/wikidataESR/blob/master/plots/etablissements/Q2496158-associations.md 
+Avertissements et édition : [logs](https://github.com/cpesr/wikidataESR/blob/master/plots/etablissements/Q662976.md) 
 
-Erreur : les données sont probablement trop partielles. 
+### Université Panthéon-Assas @AssasParis2 : Associations https://github.com/cpesr/wikidataESR/blob/master/plots/etablissements/Q662976.md 
 
-Avertissements et édition : [logs](plots/etablissements/Q2496158-associations.md 
+![](https://github.com/cpesr/wikidataESR/blob/master/plots/etablissements/Q662976-associations.png) 
 
-### Histoire : Le Mans Université @LeMansUniv https://github.com/cpesr/wikidataESR/blob/master/plots/etablissements/Q834825-histoire.md 
+Avertissements et édition : [logs](https://github.com/cpesr/wikidataESR/blob/master/plots/etablissements/Q662976.md) 
 
-Erreur : les données sont probablement trop partielles. 
+### Université Paris Nanterre @uparisnanterre : Histoire https://github.com/cpesr/wikidataESR/blob/master/plots/etablissements/Q1394262.md 
 
-Avertissements et édition : [logs](plots/etablissements/Q834825-histoire.md 
+![](https://github.com/cpesr/wikidataESR/blob/master/plots/etablissements/Q1394262-histoire.png) 
 
-### Composition : Le Mans Université @LeMansUniv https://github.com/cpesr/wikidataESR/blob/master/plots/etablissements/Q834825-composition.md 
+Avertissements et édition : [logs](https://github.com/cpesr/wikidataESR/blob/master/plots/etablissements/Q1394262.md) 
 
-![](plots/etablissements/Q834825-composition.png) 
+### Université Paris Nanterre @uparisnanterre : Composition https://github.com/cpesr/wikidataESR/blob/master/plots/etablissements/Q1394262.md 
 
-Avertissements et édition : [logs](plots/etablissements/Q834825-composition.md 
+![](https://github.com/cpesr/wikidataESR/blob/master/plots/etablissements/Q1394262-composition.png) 
 
-### Associations : Le Mans Université @LeMansUniv https://github.com/cpesr/wikidataESR/blob/master/plots/etablissements/Q834825-associations.md 
+Avertissements et édition : [logs](https://github.com/cpesr/wikidataESR/blob/master/plots/etablissements/Q1394262.md) 
 
-![](plots/etablissements/Q834825-associations.png) 
+### Université Paris Nanterre @uparisnanterre : Associations https://github.com/cpesr/wikidataESR/blob/master/plots/etablissements/Q1394262.md 
 
-Avertissements et édition : [logs](plots/etablissements/Q834825-associations.md 
+![](https://github.com/cpesr/wikidataESR/blob/master/plots/etablissements/Q1394262-associations.png) 
 
-### Histoire : UNICAEN @universite_caen https://github.com/cpesr/wikidataESR/blob/master/plots/etablissements/Q568554-histoire.md 
+Avertissements et édition : [logs](https://github.com/cpesr/wikidataESR/blob/master/plots/etablissements/Q1394262.md) 
 
-Erreur : les données sont probablement trop partielles. 
+### Université Savoie Mont Blanc @Univ_Savoie : Histoire https://github.com/cpesr/wikidataESR/blob/master/plots/etablissements/Q2496158.md 
 
-Avertissements et édition : [logs](plots/etablissements/Q568554-histoire.md 
+Erreur : les données sont probablement trop partielles.
+```
+Error in wdesr_ggplot_graph(df, node_size = node_size/mult, label_sizes = label_sizes/mult, : Empty ESR graph: something went wrong with the graph production parameters
 
-### Composition : UNICAEN @universite_caen https://github.com/cpesr/wikidataESR/blob/master/plots/etablissements/Q568554-composition.md 
+``` 
 
-![](plots/etablissements/Q568554-composition.png) 
+Avertissements et édition : [logs](https://github.com/cpesr/wikidataESR/blob/master/plots/etablissements/Q2496158.md) 
 
-Avertissements et édition : [logs](plots/etablissements/Q568554-composition.md 
+### Université Savoie Mont Blanc @Univ_Savoie : Composition https://github.com/cpesr/wikidataESR/blob/master/plots/etablissements/Q2496158.md 
 
-### Associations : UNICAEN @universite_caen https://github.com/cpesr/wikidataESR/blob/master/plots/etablissements/Q568554-associations.md 
+![](https://github.com/cpesr/wikidataESR/blob/master/plots/etablissements/Q2496158-composition.png) 
 
-![](plots/etablissements/Q568554-associations.png) 
+Avertissements et édition : [logs](https://github.com/cpesr/wikidataESR/blob/master/plots/etablissements/Q2496158.md) 
 
-Avertissements et édition : [logs](plots/etablissements/Q568554-associations.md 
+### Université Savoie Mont Blanc @Univ_Savoie : Associations https://github.com/cpesr/wikidataESR/blob/master/plots/etablissements/Q2496158.md 
 
-### Histoire : Université de Strasbourg @unistra https://github.com/cpesr/wikidataESR/blob/master/plots/etablissements/Q157575-histoire.md 
+Erreur : les données sont probablement trop partielles.
+```
+Error in wdesr_ggplot_graph(df, node_size = node_size/mult, label_sizes = label_sizes/mult, : Empty ESR graph: something went wrong with the graph production parameters
 
-![](plots/etablissements/Q157575-histoire.png) 
+``` 
 
-Avertissements et édition : [logs](plots/etablissements/Q157575-histoire.md 
+Avertissements et édition : [logs](https://github.com/cpesr/wikidataESR/blob/master/plots/etablissements/Q2496158.md) 
 
-### Composition : Université de Strasbourg @unistra https://github.com/cpesr/wikidataESR/blob/master/plots/etablissements/Q157575-composition.md 
+### Le Mans Université @LeMansUniv : Histoire https://github.com/cpesr/wikidataESR/blob/master/plots/etablissements/Q834825.md 
 
-![](plots/etablissements/Q157575-composition.png) 
+Erreur : les données sont probablement trop partielles.
+```
+Error in wdesr_ggplot_graph(df, node_size = node_size/mult, label_sizes = label_sizes/mult, : Empty ESR graph: something went wrong with the graph production parameters
 
-Avertissements et édition : [logs](plots/etablissements/Q157575-composition.md 
+``` 
 
-### Associations : Université de Strasbourg @unistra https://github.com/cpesr/wikidataESR/blob/master/plots/etablissements/Q157575-associations.md 
+Avertissements et édition : [logs](https://github.com/cpesr/wikidataESR/blob/master/plots/etablissements/Q834825.md) 
 
-![](plots/etablissements/Q157575-associations.png) 
+### Le Mans Université @LeMansUniv : Composition https://github.com/cpesr/wikidataESR/blob/master/plots/etablissements/Q834825.md 
 
-Avertissements et édition : [logs](plots/etablissements/Q157575-associations.md 
+![](https://github.com/cpesr/wikidataESR/blob/master/plots/etablissements/Q834825-composition.png) 
 
-### Histoire : Université d'Évry-Val-d'Essonne @UnivEvry https://github.com/cpesr/wikidataESR/blob/master/plots/etablissements/Q1531014-histoire.md 
+Avertissements et édition : [logs](https://github.com/cpesr/wikidataESR/blob/master/plots/etablissements/Q834825.md) 
 
-Erreur : les données sont probablement trop partielles. 
+### Le Mans Université @LeMansUniv : Associations https://github.com/cpesr/wikidataESR/blob/master/plots/etablissements/Q834825.md 
 
-Avertissements et édition : [logs](plots/etablissements/Q1531014-histoire.md 
+![](https://github.com/cpesr/wikidataESR/blob/master/plots/etablissements/Q834825-associations.png) 
 
-### Composition : Université d'Évry-Val-d'Essonne @UnivEvry https://github.com/cpesr/wikidataESR/blob/master/plots/etablissements/Q1531014-composition.md 
+Avertissements et édition : [logs](https://github.com/cpesr/wikidataESR/blob/master/plots/etablissements/Q834825.md) 
 
-![](plots/etablissements/Q1531014-composition.png) 
+### UNICAEN @universite_caen : Histoire https://github.com/cpesr/wikidataESR/blob/master/plots/etablissements/Q568554.md 
 
-Avertissements et édition : [logs](plots/etablissements/Q1531014-composition.md 
+Erreur : les données sont probablement trop partielles.
+```
+Error in wdesr_ggplot_graph(df, node_size = node_size/mult, label_sizes = label_sizes/mult, : Empty ESR graph: something went wrong with the graph production parameters
 
-### Associations : Université d'Évry-Val-d'Essonne @UnivEvry https://github.com/cpesr/wikidataESR/blob/master/plots/etablissements/Q1531014-associations.md 
+``` 
 
-Erreur : les données sont probablement trop partielles. 
+Avertissements et édition : [logs](https://github.com/cpesr/wikidataESR/blob/master/plots/etablissements/Q568554.md) 
 
-Avertissements et édition : [logs](plots/etablissements/Q1531014-associations.md 
+### UNICAEN @universite_caen : Composition https://github.com/cpesr/wikidataESR/blob/master/plots/etablissements/Q568554.md 
 
-### Histoire : Université Grenoble Alpes @UGrenobleAlpes https://github.com/cpesr/wikidataESR/blob/master/plots/etablissements/Q945876-histoire.md 
+![](https://github.com/cpesr/wikidataESR/blob/master/plots/etablissements/Q568554-composition.png) 
 
-![](plots/etablissements/Q945876-histoire.png) 
+Avertissements et édition : [logs](https://github.com/cpesr/wikidataESR/blob/master/plots/etablissements/Q568554.md) 
 
-Avertissements et édition : [logs](plots/etablissements/Q945876-histoire.md 
+### UNICAEN @universite_caen : Associations https://github.com/cpesr/wikidataESR/blob/master/plots/etablissements/Q568554.md 
 
-### Composition : Université Grenoble Alpes @UGrenobleAlpes https://github.com/cpesr/wikidataESR/blob/master/plots/etablissements/Q945876-composition.md 
+![](https://github.com/cpesr/wikidataESR/blob/master/plots/etablissements/Q568554-associations.png) 
 
-![](plots/etablissements/Q945876-composition.png) 
+Avertissements et édition : [logs](https://github.com/cpesr/wikidataESR/blob/master/plots/etablissements/Q568554.md) 
 
-Avertissements et édition : [logs](plots/etablissements/Q945876-composition.md 
+### Université de Strasbourg @unistra : Histoire https://github.com/cpesr/wikidataESR/blob/master/plots/etablissements/Q157575.md 
 
-### Associations : Université Grenoble Alpes @UGrenobleAlpes https://github.com/cpesr/wikidataESR/blob/master/plots/etablissements/Q945876-associations.md 
+![](https://github.com/cpesr/wikidataESR/blob/master/plots/etablissements/Q157575-histoire.png) 
 
-Erreur : les données sont probablement trop partielles. 
+Avertissements et édition : [logs](https://github.com/cpesr/wikidataESR/blob/master/plots/etablissements/Q157575.md) 
 
-Avertissements et édition : [logs](plots/etablissements/Q945876-associations.md 
+### Université de Strasbourg @unistra : Composition https://github.com/cpesr/wikidataESR/blob/master/plots/etablissements/Q157575.md 
 
-### Histoire : URCA @universitereims https://github.com/cpesr/wikidataESR/blob/master/plots/etablissements/Q2496149-histoire.md 
+![](https://github.com/cpesr/wikidataESR/blob/master/plots/etablissements/Q157575-composition.png) 
 
-Erreur : les données sont probablement trop partielles. 
+Avertissements et édition : [logs](https://github.com/cpesr/wikidataESR/blob/master/plots/etablissements/Q157575.md) 
 
-Avertissements et édition : [logs](plots/etablissements/Q2496149-histoire.md 
+### Université de Strasbourg @unistra : Associations https://github.com/cpesr/wikidataESR/blob/master/plots/etablissements/Q157575.md 
 
-### Composition : URCA @universitereims https://github.com/cpesr/wikidataESR/blob/master/plots/etablissements/Q2496149-composition.md 
+![](https://github.com/cpesr/wikidataESR/blob/master/plots/etablissements/Q157575-associations.png) 
 
-![](plots/etablissements/Q2496149-composition.png) 
+Avertissements et édition : [logs](https://github.com/cpesr/wikidataESR/blob/master/plots/etablissements/Q157575.md) 
 
-Avertissements et édition : [logs](plots/etablissements/Q2496149-composition.md 
+### Université d'Évry-Val-d'Essonne @UnivEvry : Histoire https://github.com/cpesr/wikidataESR/blob/master/plots/etablissements/Q1531014.md 
 
-### Associations : URCA @universitereims https://github.com/cpesr/wikidataESR/blob/master/plots/etablissements/Q2496149-associations.md 
+Erreur : les données sont probablement trop partielles.
+```
+Error in wdesr_ggplot_graph(df, node_size = node_size/mult, label_sizes = label_sizes/mult, : Empty ESR graph: something went wrong with the graph production parameters
 
-![](plots/etablissements/Q2496149-associations.png) 
+``` 
 
-Avertissements et édition : [logs](plots/etablissements/Q2496149-associations.md 
+Avertissements et édition : [logs](https://github.com/cpesr/wikidataESR/blob/master/plots/etablissements/Q1531014.md) 
 
-### Histoire : Université de Toulon @univtoulon https://github.com/cpesr/wikidataESR/blob/master/plots/etablissements/Q1816857-histoire.md 
+### Université d'Évry-Val-d'Essonne @UnivEvry : Composition https://github.com/cpesr/wikidataESR/blob/master/plots/etablissements/Q1531014.md 
 
-Erreur : les données sont probablement trop partielles. 
+![](https://github.com/cpesr/wikidataESR/blob/master/plots/etablissements/Q1531014-composition.png) 
 
-Avertissements et édition : [logs](plots/etablissements/Q1816857-histoire.md 
+Avertissements et édition : [logs](https://github.com/cpesr/wikidataESR/blob/master/plots/etablissements/Q1531014.md) 
 
-### Composition : Université de Toulon @univtoulon https://github.com/cpesr/wikidataESR/blob/master/plots/etablissements/Q1816857-composition.md 
+### Université d'Évry-Val-d'Essonne @UnivEvry : Associations https://github.com/cpesr/wikidataESR/blob/master/plots/etablissements/Q1531014.md 
 
-![](plots/etablissements/Q1816857-composition.png) 
+Erreur : les données sont probablement trop partielles.
+```
+Error: `multiple` is `FALSE`, but `x` contains parallel edges.
+The following rows in `x` are duplicated:
+	- `x[49, ]`
 
-Avertissements et édition : [logs](plots/etablissements/Q1816857-composition.md 
+``` 
 
-### Associations : Université de Toulon @univtoulon https://github.com/cpesr/wikidataESR/blob/master/plots/etablissements/Q1816857-associations.md 
+Avertissements et édition : [logs](https://github.com/cpesr/wikidataESR/blob/master/plots/etablissements/Q1531014.md) 
 
-![](plots/etablissements/Q1816857-associations.png) 
+### Université Grenoble Alpes @UGrenobleAlpes : Histoire https://github.com/cpesr/wikidataESR/blob/master/plots/etablissements/Q945876.md 
 
-Avertissements et édition : [logs](plots/etablissements/Q1816857-associations.md 
+![](https://github.com/cpesr/wikidataESR/blob/master/plots/etablissements/Q945876-histoire.png) 
 
-### Histoire : Université de Guyane @univguyane https://github.com/cpesr/wikidataESR/blob/master/plots/etablissements/Q16682067-histoire.md 
+Avertissements et édition : [logs](https://github.com/cpesr/wikidataESR/blob/master/plots/etablissements/Q945876.md) 
 
-Erreur : les données sont probablement trop partielles. 
+### Université Grenoble Alpes @UGrenobleAlpes : Composition https://github.com/cpesr/wikidataESR/blob/master/plots/etablissements/Q945876.md 
 
-Avertissements et édition : [logs](plots/etablissements/Q16682067-histoire.md 
+![](https://github.com/cpesr/wikidataESR/blob/master/plots/etablissements/Q945876-composition.png) 
 
-### Composition : Université de Guyane @univguyane https://github.com/cpesr/wikidataESR/blob/master/plots/etablissements/Q16682067-composition.md 
+Avertissements et édition : [logs](https://github.com/cpesr/wikidataESR/blob/master/plots/etablissements/Q945876.md) 
 
-![](plots/etablissements/Q16682067-composition.png) 
+### Université Grenoble Alpes @UGrenobleAlpes : Associations https://github.com/cpesr/wikidataESR/blob/master/plots/etablissements/Q945876.md 
 
-Avertissements et édition : [logs](plots/etablissements/Q16682067-composition.md 
+Erreur : les données sont probablement trop partielles.
+```
+Error in wdesr_ggplot_graph(df, node_size = node_size/mult, label_sizes = label_sizes/mult, : Empty ESR graph: something went wrong with the graph production parameters
 
-### Associations : Université de Guyane @univguyane https://github.com/cpesr/wikidataESR/blob/master/plots/etablissements/Q16682067-associations.md 
+``` 
 
-Erreur : les données sont probablement trop partielles. 
+Avertissements et édition : [logs](https://github.com/cpesr/wikidataESR/blob/master/plots/etablissements/Q945876.md) 
 
-Avertissements et édition : [logs](plots/etablissements/Q16682067-associations.md 
+### URCA @universitereims : Histoire https://github.com/cpesr/wikidataESR/blob/master/plots/etablissements/Q2496149.md 
 
-### Histoire : UVSQ @uvsq https://github.com/cpesr/wikidataESR/blob/master/plots/etablissements/Q186638-histoire.md 
+Erreur : les données sont probablement trop partielles.
+```
+Error in wdesr_ggplot_graph(df, node_size = node_size/mult, label_sizes = label_sizes/mult, : Empty ESR graph: something went wrong with the graph production parameters
 
-Erreur : les données sont probablement trop partielles. 
+``` 
 
-Avertissements et édition : [logs](plots/etablissements/Q186638-histoire.md 
+Avertissements et édition : [logs](https://github.com/cpesr/wikidataESR/blob/master/plots/etablissements/Q2496149.md) 
 
-### Composition : UVSQ @uvsq https://github.com/cpesr/wikidataESR/blob/master/plots/etablissements/Q186638-composition.md 
+### URCA @universitereims : Composition https://github.com/cpesr/wikidataESR/blob/master/plots/etablissements/Q2496149.md 
 
-![](plots/etablissements/Q186638-composition.png) 
+![](https://github.com/cpesr/wikidataESR/blob/master/plots/etablissements/Q2496149-composition.png) 
 
-Avertissements et édition : [logs](plots/etablissements/Q186638-composition.md 
+Avertissements et édition : [logs](https://github.com/cpesr/wikidataESR/blob/master/plots/etablissements/Q2496149.md) 
 
-### Associations : UVSQ @uvsq https://github.com/cpesr/wikidataESR/blob/master/plots/etablissements/Q186638-associations.md 
+### URCA @universitereims : Associations https://github.com/cpesr/wikidataESR/blob/master/plots/etablissements/Q2496149.md 
 
-Erreur : les données sont probablement trop partielles. 
+![](https://github.com/cpesr/wikidataESR/blob/master/plots/etablissements/Q2496149-associations.png) 
 
-Avertissements et édition : [logs](plots/etablissements/Q186638-associations.md 
+Avertissements et édition : [logs](https://github.com/cpesr/wikidataESR/blob/master/plots/etablissements/Q2496149.md) 
 
-### Histoire : ULCO @ULCO_Univ https://github.com/cpesr/wikidataESR/blob/master/plots/etablissements/Q3551755-histoire.md 
+### Université de Toulon @univtoulon : Histoire https://github.com/cpesr/wikidataESR/blob/master/plots/etablissements/Q1816857.md 
 
-Erreur : les données sont probablement trop partielles. 
+Erreur : les données sont probablement trop partielles.
+```
+Error in wdesr_ggplot_graph(df, node_size = node_size/mult, label_sizes = label_sizes/mult, : Empty ESR graph: something went wrong with the graph production parameters
 
-Avertissements et édition : [logs](plots/etablissements/Q3551755-histoire.md 
+``` 
 
-### Composition : ULCO @ULCO_Univ https://github.com/cpesr/wikidataESR/blob/master/plots/etablissements/Q3551755-composition.md 
+Avertissements et édition : [logs](https://github.com/cpesr/wikidataESR/blob/master/plots/etablissements/Q1816857.md) 
 
-![](plots/etablissements/Q3551755-composition.png) 
+### Université de Toulon @univtoulon : Composition https://github.com/cpesr/wikidataESR/blob/master/plots/etablissements/Q1816857.md 
 
-Avertissements et édition : [logs](plots/etablissements/Q3551755-composition.md 
+![](https://github.com/cpesr/wikidataESR/blob/master/plots/etablissements/Q1816857-composition.png) 
 
-### Associations : ULCO @ULCO_Univ https://github.com/cpesr/wikidataESR/blob/master/plots/etablissements/Q3551755-associations.md 
+Avertissements et édition : [logs](https://github.com/cpesr/wikidataESR/blob/master/plots/etablissements/Q1816857.md) 
 
-![](plots/etablissements/Q3551755-associations.png) 
+### Université de Toulon @univtoulon : Associations https://github.com/cpesr/wikidataESR/blob/master/plots/etablissements/Q1816857.md 
 
-Avertissements et édition : [logs](plots/etablissements/Q3551755-associations.md 
+![](https://github.com/cpesr/wikidataESR/blob/master/plots/etablissements/Q1816857-associations.png) 
 
-### Histoire : UFC @fc_univ https://github.com/cpesr/wikidataESR/blob/master/plots/etablissements/Q829449-histoire.md 
+Avertissements et édition : [logs](https://github.com/cpesr/wikidataESR/blob/master/plots/etablissements/Q1816857.md) 
 
-Erreur : les données sont probablement trop partielles. 
+### Université de Guyane @univguyane : Histoire https://github.com/cpesr/wikidataESR/blob/master/plots/etablissements/Q16682067.md 
 
-Avertissements et édition : [logs](plots/etablissements/Q829449-histoire.md 
+Erreur : les données sont probablement trop partielles.
+```
+Error in wdesr_ggplot_graph(df, node_size = node_size/mult, label_sizes = label_sizes/mult, : Empty ESR graph: something went wrong with the graph production parameters
 
-### Composition : UFC @fc_univ https://github.com/cpesr/wikidataESR/blob/master/plots/etablissements/Q829449-composition.md 
+``` 
 
-![](plots/etablissements/Q829449-composition.png) 
+Avertissements et édition : [logs](https://github.com/cpesr/wikidataESR/blob/master/plots/etablissements/Q16682067.md) 
 
-Avertissements et édition : [logs](plots/etablissements/Q829449-composition.md 
+### Université de Guyane @univguyane : Composition https://github.com/cpesr/wikidataESR/blob/master/plots/etablissements/Q16682067.md 
 
-### Associations : UFC @fc_univ https://github.com/cpesr/wikidataESR/blob/master/plots/etablissements/Q829449-associations.md 
+![](https://github.com/cpesr/wikidataESR/blob/master/plots/etablissements/Q16682067-composition.png) 
 
-![](plots/etablissements/Q829449-associations.png) 
+Avertissements et édition : [logs](https://github.com/cpesr/wikidataESR/blob/master/plots/etablissements/Q16682067.md) 
 
-Avertissements et édition : [logs](plots/etablissements/Q829449-associations.md 
+### Université de Guyane @univguyane : Associations https://github.com/cpesr/wikidataESR/blob/master/plots/etablissements/Q16682067.md 
 
-### Histoire : Université Sorbonne Nouvelle - Paris 3 @SorbonneParis3 https://github.com/cpesr/wikidataESR/blob/master/plots/etablissements/Q571293-histoire.md 
+Erreur : les données sont probablement trop partielles.
+```
+Error in wdesr_ggplot_graph(df, node_size = node_size/mult, label_sizes = label_sizes/mult, : Empty ESR graph: something went wrong with the graph production parameters
 
-![](plots/etablissements/Q571293-histoire.png) 
+``` 
 
-Avertissements et édition : [logs](plots/etablissements/Q571293-histoire.md 
+Avertissements et édition : [logs](https://github.com/cpesr/wikidataESR/blob/master/plots/etablissements/Q16682067.md) 
 
-### Composition : Université Sorbonne Nouvelle - Paris 3 @SorbonneParis3 https://github.com/cpesr/wikidataESR/blob/master/plots/etablissements/Q571293-composition.md 
+### UVSQ @uvsq : Histoire https://github.com/cpesr/wikidataESR/blob/master/plots/etablissements/Q186638.md 
 
-![](plots/etablissements/Q571293-composition.png) 
+Erreur : les données sont probablement trop partielles.
+```
+Error in wdesr_ggplot_graph(df, node_size = node_size/mult, label_sizes = label_sizes/mult, : Empty ESR graph: something went wrong with the graph production parameters
 
-Avertissements et édition : [logs](plots/etablissements/Q571293-composition.md 
+``` 
 
-### Associations : Université Sorbonne Nouvelle - Paris 3 @SorbonneParis3 https://github.com/cpesr/wikidataESR/blob/master/plots/etablissements/Q571293-associations.md 
+Avertissements et édition : [logs](https://github.com/cpesr/wikidataESR/blob/master/plots/etablissements/Q186638.md) 
 
-![](plots/etablissements/Q571293-associations.png) 
+### UVSQ @uvsq : Composition https://github.com/cpesr/wikidataESR/blob/master/plots/etablissements/Q186638.md 
 
-Avertissements et édition : [logs](plots/etablissements/Q571293-associations.md 
+![](https://github.com/cpesr/wikidataESR/blob/master/plots/etablissements/Q186638-composition.png) 
 
-### Histoire : UT1 @UT1Capitole https://github.com/cpesr/wikidataESR/blob/master/plots/etablissements/Q590201-histoire.md 
+Avertissements et édition : [logs](https://github.com/cpesr/wikidataESR/blob/master/plots/etablissements/Q186638.md) 
 
-![](plots/etablissements/Q590201-histoire.png) 
+### UVSQ @uvsq : Associations https://github.com/cpesr/wikidataESR/blob/master/plots/etablissements/Q186638.md 
 
-Avertissements et édition : [logs](plots/etablissements/Q590201-histoire.md 
+Erreur : les données sont probablement trop partielles.
+```
+Error: `multiple` is `FALSE`, but `x` contains parallel edges.
+The following rows in `x` are duplicated:
+	- `x[50, ]`
 
-### Composition : UT1 @UT1Capitole https://github.com/cpesr/wikidataESR/blob/master/plots/etablissements/Q590201-composition.md 
+``` 
 
-![](plots/etablissements/Q590201-composition.png) 
+Avertissements et édition : [logs](https://github.com/cpesr/wikidataESR/blob/master/plots/etablissements/Q186638.md) 
 
-Avertissements et édition : [logs](plots/etablissements/Q590201-composition.md 
+### ULCO @ULCO_Univ : Histoire https://github.com/cpesr/wikidataESR/blob/master/plots/etablissements/Q3551755.md 
 
-### Associations : UT1 @UT1Capitole https://github.com/cpesr/wikidataESR/blob/master/plots/etablissements/Q590201-associations.md 
+Erreur : les données sont probablement trop partielles.
+```
+Error in wdesr_ggplot_graph(df, node_size = node_size/mult, label_sizes = label_sizes/mult, : Empty ESR graph: something went wrong with the graph production parameters
 
-![](plots/etablissements/Q590201-associations.png) 
+``` 
 
-Avertissements et édition : [logs](plots/etablissements/Q590201-associations.md 
+Avertissements et édition : [logs](https://github.com/cpesr/wikidataESR/blob/master/plots/etablissements/Q3551755.md) 
 
-### Histoire : Université de Picardie Jules-Verne @UPJV_Univ https://github.com/cpesr/wikidataESR/blob/master/plots/etablissements/Q947747-histoire.md 
+### ULCO @ULCO_Univ : Composition https://github.com/cpesr/wikidataESR/blob/master/plots/etablissements/Q3551755.md 
 
-Erreur : les données sont probablement trop partielles. 
+![](https://github.com/cpesr/wikidataESR/blob/master/plots/etablissements/Q3551755-composition.png) 
 
-Avertissements et édition : [logs](plots/etablissements/Q947747-histoire.md 
+Avertissements et édition : [logs](https://github.com/cpesr/wikidataESR/blob/master/plots/etablissements/Q3551755.md) 
 
-### Composition : Université de Picardie Jules-Verne @UPJV_Univ https://github.com/cpesr/wikidataESR/blob/master/plots/etablissements/Q947747-composition.md 
+### ULCO @ULCO_Univ : Associations https://github.com/cpesr/wikidataESR/blob/master/plots/etablissements/Q3551755.md 
 
-Erreur : les données sont probablement trop partielles. 
+![](https://github.com/cpesr/wikidataESR/blob/master/plots/etablissements/Q3551755-associations.png) 
 
-Avertissements et édition : [logs](plots/etablissements/Q947747-composition.md 
+Avertissements et édition : [logs](https://github.com/cpesr/wikidataESR/blob/master/plots/etablissements/Q3551755.md) 
 
-### Associations : Université de Picardie Jules-Verne @UPJV_Univ https://github.com/cpesr/wikidataESR/blob/master/plots/etablissements/Q947747-associations.md 
+### UFC @fc_univ : Histoire https://github.com/cpesr/wikidataESR/blob/master/plots/etablissements/Q829449.md 
 
-Erreur : les données sont probablement trop partielles. 
+Erreur : les données sont probablement trop partielles.
+```
+Error in wdesr_ggplot_graph(df, node_size = node_size/mult, label_sizes = label_sizes/mult, : Empty ESR graph: something went wrong with the graph production parameters
 
-Avertissements et édition : [logs](plots/etablissements/Q947747-associations.md 
+``` 
 
-### Histoire : Université PSL @psl_univ https://github.com/cpesr/wikidataESR/blob/master/plots/etablissements/Q1163431-histoire.md 
+Avertissements et édition : [logs](https://github.com/cpesr/wikidataESR/blob/master/plots/etablissements/Q829449.md) 
 
-![](plots/etablissements/Q1163431-histoire.png) 
+### UFC @fc_univ : Composition https://github.com/cpesr/wikidataESR/blob/master/plots/etablissements/Q829449.md 
 
-Avertissements et édition : [logs](plots/etablissements/Q1163431-histoire.md 
+![](https://github.com/cpesr/wikidataESR/blob/master/plots/etablissements/Q829449-composition.png) 
 
-### Composition : Université PSL @psl_univ https://github.com/cpesr/wikidataESR/blob/master/plots/etablissements/Q1163431-composition.md 
+Avertissements et édition : [logs](https://github.com/cpesr/wikidataESR/blob/master/plots/etablissements/Q829449.md) 
 
-![](plots/etablissements/Q1163431-composition.png) 
+### UFC @fc_univ : Associations https://github.com/cpesr/wikidataESR/blob/master/plots/etablissements/Q829449.md 
 
-Avertissements et édition : [logs](plots/etablissements/Q1163431-composition.md 
+![](https://github.com/cpesr/wikidataESR/blob/master/plots/etablissements/Q829449-associations.png) 
 
-### Associations : Université PSL @psl_univ https://github.com/cpesr/wikidataESR/blob/master/plots/etablissements/Q1163431-associations.md 
+Avertissements et édition : [logs](https://github.com/cpesr/wikidataESR/blob/master/plots/etablissements/Q829449.md) 
 
-Erreur : les données sont probablement trop partielles. 
+### Université Sorbonne Nouvelle - Paris 3 @SorbonneParis3 : Histoire https://github.com/cpesr/wikidataESR/blob/master/plots/etablissements/Q571293.md 
 
-Avertissements et édition : [logs](plots/etablissements/Q1163431-associations.md 
+![](https://github.com/cpesr/wikidataESR/blob/master/plots/etablissements/Q571293-histoire.png) 
 
-### Histoire : Université Paris-Est Créteil @UPECactus https://github.com/cpesr/wikidataESR/blob/master/plots/etablissements/Q980688-histoire.md 
+Avertissements et édition : [logs](https://github.com/cpesr/wikidataESR/blob/master/plots/etablissements/Q571293.md) 
 
-![](plots/etablissements/Q980688-histoire.png) 
+### Université Sorbonne Nouvelle - Paris 3 @SorbonneParis3 : Composition https://github.com/cpesr/wikidataESR/blob/master/plots/etablissements/Q571293.md 
 
-Avertissements et édition : [logs](plots/etablissements/Q980688-histoire.md 
+![](https://github.com/cpesr/wikidataESR/blob/master/plots/etablissements/Q571293-composition.png) 
 
-### Composition : Université Paris-Est Créteil @UPECactus https://github.com/cpesr/wikidataESR/blob/master/plots/etablissements/Q980688-composition.md 
+Avertissements et édition : [logs](https://github.com/cpesr/wikidataESR/blob/master/plots/etablissements/Q571293.md) 
 
-![](plots/etablissements/Q980688-composition.png) 
+### Université Sorbonne Nouvelle - Paris 3 @SorbonneParis3 : Associations https://github.com/cpesr/wikidataESR/blob/master/plots/etablissements/Q571293.md 
 
-Avertissements et édition : [logs](plots/etablissements/Q980688-composition.md 
+![](https://github.com/cpesr/wikidataESR/blob/master/plots/etablissements/Q571293-associations.png) 
 
-### Associations : Université Paris-Est Créteil @UPECactus https://github.com/cpesr/wikidataESR/blob/master/plots/etablissements/Q980688-associations.md 
+Avertissements et édition : [logs](https://github.com/cpesr/wikidataESR/blob/master/plots/etablissements/Q571293.md) 
 
-![](plots/etablissements/Q980688-associations.png) 
+### UT1 @UT1Capitole : Histoire https://github.com/cpesr/wikidataESR/blob/master/plots/etablissements/Q590201.md 
 
-Avertissements et édition : [logs](plots/etablissements/Q980688-associations.md 
+![](https://github.com/cpesr/wikidataESR/blob/master/plots/etablissements/Q590201-histoire.png) 
 
-### Histoire : UNÎMES @unimesfr https://github.com/cpesr/wikidataESR/blob/master/plots/etablissements/Q2496121-histoire.md 
+Avertissements et édition : [logs](https://github.com/cpesr/wikidataESR/blob/master/plots/etablissements/Q590201.md) 
 
-Erreur : les données sont probablement trop partielles. 
+### UT1 @UT1Capitole : Composition https://github.com/cpesr/wikidataESR/blob/master/plots/etablissements/Q590201.md 
 
-Avertissements et édition : [logs](plots/etablissements/Q2496121-histoire.md 
+![](https://github.com/cpesr/wikidataESR/blob/master/plots/etablissements/Q590201-composition.png) 
 
-### Composition : UNÎMES @unimesfr https://github.com/cpesr/wikidataESR/blob/master/plots/etablissements/Q2496121-composition.md 
+Avertissements et édition : [logs](https://github.com/cpesr/wikidataESR/blob/master/plots/etablissements/Q590201.md) 
 
-![](plots/etablissements/Q2496121-composition.png) 
+### UT1 @UT1Capitole : Associations https://github.com/cpesr/wikidataESR/blob/master/plots/etablissements/Q590201.md 
 
-Avertissements et édition : [logs](plots/etablissements/Q2496121-composition.md 
+![](https://github.com/cpesr/wikidataESR/blob/master/plots/etablissements/Q590201-associations.png) 
 
-### Associations : UNÎMES @unimesfr https://github.com/cpesr/wikidataESR/blob/master/plots/etablissements/Q2496121-associations.md 
+Avertissements et édition : [logs](https://github.com/cpesr/wikidataESR/blob/master/plots/etablissements/Q590201.md) 
 
-![](plots/etablissements/Q2496121-associations.png) 
+### Université de Picardie Jules-Verne @UPJV_Univ : Histoire https://github.com/cpesr/wikidataESR/blob/master/plots/etablissements/Q947747.md 
 
-Avertissements et édition : [logs](plots/etablissements/Q2496121-associations.md 
+Erreur : les données sont probablement trop partielles.
+```
+Error in wdesr_ggplot_graph(df, node_size = node_size/mult, label_sizes = label_sizes/mult, : Empty ESR graph: something went wrong with the graph production parameters
 
-### Histoire : Université Sorbonne Paris Nord @univ_spn https://github.com/cpesr/wikidataESR/blob/master/plots/etablissements/Q1780212-histoire.md 
+``` 
 
-![](plots/etablissements/Q1780212-histoire.png) 
+Avertissements et édition : [logs](https://github.com/cpesr/wikidataESR/blob/master/plots/etablissements/Q947747.md) 
 
-Avertissements et édition : [logs](plots/etablissements/Q1780212-histoire.md 
+### Université de Picardie Jules-Verne @UPJV_Univ : Composition https://github.com/cpesr/wikidataESR/blob/master/plots/etablissements/Q947747.md 
 
-### Composition : Université Sorbonne Paris Nord @univ_spn https://github.com/cpesr/wikidataESR/blob/master/plots/etablissements/Q1780212-composition.md 
+Erreur : les données sont probablement trop partielles.
+```
+Error in wdesr_ggplot_graph(df, node_size = node_size/mult, label_sizes = label_sizes/mult, : Empty ESR graph: something went wrong with the graph production parameters
 
-![](plots/etablissements/Q1780212-composition.png) 
+``` 
 
-Avertissements et édition : [logs](plots/etablissements/Q1780212-composition.md 
+Avertissements et édition : [logs](https://github.com/cpesr/wikidataESR/blob/master/plots/etablissements/Q947747.md) 
 
-### Associations : Université Sorbonne Paris Nord @univ_spn https://github.com/cpesr/wikidataESR/blob/master/plots/etablissements/Q1780212-associations.md 
+### Université de Picardie Jules-Verne @UPJV_Univ : Associations https://github.com/cpesr/wikidataESR/blob/master/plots/etablissements/Q947747.md 
 
-![](plots/etablissements/Q1780212-associations.png) 
+Erreur : les données sont probablement trop partielles.
+```
+Error in wdesr_ggplot_graph(df, node_size = node_size/mult, label_sizes = label_sizes/mult, : Empty ESR graph: something went wrong with the graph production parameters
 
-Avertissements et édition : [logs](plots/etablissements/Q1780212-associations.md 
+``` 
 
-### Histoire : Université Claude Bernard - Lyon 1 @UnivLyon1 https://github.com/cpesr/wikidataESR/blob/master/plots/etablissements/Q4032-histoire.md 
+Avertissements et édition : [logs](https://github.com/cpesr/wikidataESR/blob/master/plots/etablissements/Q947747.md) 
 
-![](plots/etablissements/Q4032-histoire.png) 
+### Université PSL @psl_univ : Histoire https://github.com/cpesr/wikidataESR/blob/master/plots/etablissements/Q1163431.md 
 
-Avertissements et édition : [logs](plots/etablissements/Q4032-histoire.md 
+![](https://github.com/cpesr/wikidataESR/blob/master/plots/etablissements/Q1163431-histoire.png) 
 
-### Composition : Université Claude Bernard - Lyon 1 @UnivLyon1 https://github.com/cpesr/wikidataESR/blob/master/plots/etablissements/Q4032-composition.md 
+Avertissements et édition : [logs](https://github.com/cpesr/wikidataESR/blob/master/plots/etablissements/Q1163431.md) 
 
-![](plots/etablissements/Q4032-composition.png) 
+### Université PSL @psl_univ : Composition https://github.com/cpesr/wikidataESR/blob/master/plots/etablissements/Q1163431.md 
 
-Avertissements et édition : [logs](plots/etablissements/Q4032-composition.md 
+![](https://github.com/cpesr/wikidataESR/blob/master/plots/etablissements/Q1163431-composition.png) 
 
-### Associations : Université Claude Bernard - Lyon 1 @UnivLyon1 https://github.com/cpesr/wikidataESR/blob/master/plots/etablissements/Q4032-associations.md 
+Avertissements et édition : [logs](https://github.com/cpesr/wikidataESR/blob/master/plots/etablissements/Q1163431.md) 
 
-![](plots/etablissements/Q4032-associations.png) 
+### Université PSL @psl_univ : Associations https://github.com/cpesr/wikidataESR/blob/master/plots/etablissements/Q1163431.md 
 
-Avertissements et édition : [logs](plots/etablissements/Q4032-associations.md 
+Erreur : les données sont probablement trop partielles.
+```
+Error in wdesr_ggplot_graph(df, node_size = node_size/mult, label_sizes = label_sizes/mult, : Empty ESR graph: something went wrong with the graph production parameters
 
-### Histoire : Université de Corse Pasquale Paoli @univcorse https://github.com/cpesr/wikidataESR/blob/master/plots/etablissements/Q335841-histoire.md 
+``` 
 
-Erreur : les données sont probablement trop partielles. 
+Avertissements et édition : [logs](https://github.com/cpesr/wikidataESR/blob/master/plots/etablissements/Q1163431.md) 
 
-Avertissements et édition : [logs](plots/etablissements/Q335841-histoire.md 
+### Université Paris-Est Créteil @UPECactus : Histoire https://github.com/cpesr/wikidataESR/blob/master/plots/etablissements/Q980688.md 
 
-### Composition : Université de Corse Pasquale Paoli @univcorse https://github.com/cpesr/wikidataESR/blob/master/plots/etablissements/Q335841-composition.md 
+![](https://github.com/cpesr/wikidataESR/blob/master/plots/etablissements/Q980688-histoire.png) 
 
-Erreur : les données sont probablement trop partielles. 
+Avertissements et édition : [logs](https://github.com/cpesr/wikidataESR/blob/master/plots/etablissements/Q980688.md) 
 
-Avertissements et édition : [logs](plots/etablissements/Q335841-composition.md 
+### Université Paris-Est Créteil @UPECactus : Composition https://github.com/cpesr/wikidataESR/blob/master/plots/etablissements/Q980688.md 
 
-### Associations : Université de Corse Pasquale Paoli @univcorse https://github.com/cpesr/wikidataESR/blob/master/plots/etablissements/Q335841-associations.md 
+![](https://github.com/cpesr/wikidataESR/blob/master/plots/etablissements/Q980688-composition.png) 
 
-Erreur : les données sont probablement trop partielles. 
+Avertissements et édition : [logs](https://github.com/cpesr/wikidataESR/blob/master/plots/etablissements/Q980688.md) 
 
-Avertissements et édition : [logs](plots/etablissements/Q335841-associations.md 
+### Université Paris-Est Créteil @UPECactus : Associations https://github.com/cpesr/wikidataESR/blob/master/plots/etablissements/Q980688.md 
 
-### Histoire : Université de Perpignan Via Domitia @upvd1 https://github.com/cpesr/wikidataESR/blob/master/plots/etablissements/Q304872-histoire.md 
+![](https://github.com/cpesr/wikidataESR/blob/master/plots/etablissements/Q980688-associations.png) 
 
-![](plots/etablissements/Q304872-histoire.png) 
+Avertissements et édition : [logs](https://github.com/cpesr/wikidataESR/blob/master/plots/etablissements/Q980688.md) 
 
-Avertissements et édition : [logs](plots/etablissements/Q304872-histoire.md 
+### UNÎMES @unimesfr : Histoire https://github.com/cpesr/wikidataESR/blob/master/plots/etablissements/Q2496121.md 
 
-### Composition : Université de Perpignan Via Domitia @upvd1 https://github.com/cpesr/wikidataESR/blob/master/plots/etablissements/Q304872-composition.md 
+Erreur : les données sont probablement trop partielles.
+```
+Error in wdesr_ggplot_graph(df, node_size = node_size/mult, label_sizes = label_sizes/mult, : Empty ESR graph: something went wrong with the graph production parameters
 
-![](plots/etablissements/Q304872-composition.png) 
+``` 
 
-Avertissements et édition : [logs](plots/etablissements/Q304872-composition.md 
+Avertissements et édition : [logs](https://github.com/cpesr/wikidataESR/blob/master/plots/etablissements/Q2496121.md) 
 
-### Associations : Université de Perpignan Via Domitia @upvd1 https://github.com/cpesr/wikidataESR/blob/master/plots/etablissements/Q304872-associations.md 
+### UNÎMES @unimesfr : Composition https://github.com/cpesr/wikidataESR/blob/master/plots/etablissements/Q2496121.md 
 
-![](plots/etablissements/Q304872-associations.png) 
+![](https://github.com/cpesr/wikidataESR/blob/master/plots/etablissements/Q2496121-composition.png) 
 
-Avertissements et édition : [logs](plots/etablissements/Q304872-associations.md 
+Avertissements et édition : [logs](https://github.com/cpesr/wikidataESR/blob/master/plots/etablissements/Q2496121.md) 
 
-### Histoire : Université Paris-Saclay @UnivParisSaclay https://github.com/cpesr/wikidataESR/blob/master/plots/etablissements/Q13531686-histoire.md 
+### UNÎMES @unimesfr : Associations https://github.com/cpesr/wikidataESR/blob/master/plots/etablissements/Q2496121.md 
 
-![](plots/etablissements/Q13531686-histoire.png) 
+![](https://github.com/cpesr/wikidataESR/blob/master/plots/etablissements/Q2496121-associations.png) 
 
-Avertissements et édition : [logs](plots/etablissements/Q13531686-histoire.md 
+Avertissements et édition : [logs](https://github.com/cpesr/wikidataESR/blob/master/plots/etablissements/Q2496121.md) 
 
-### Composition : Université Paris-Saclay @UnivParisSaclay https://github.com/cpesr/wikidataESR/blob/master/plots/etablissements/Q13531686-composition.md 
+### Université Sorbonne Paris Nord @univ_spn : Histoire https://github.com/cpesr/wikidataESR/blob/master/plots/etablissements/Q1780212.md 
 
-Erreur : les données sont probablement trop partielles. 
+![](https://github.com/cpesr/wikidataESR/blob/master/plots/etablissements/Q1780212-histoire.png) 
 
-Avertissements et édition : [logs](plots/etablissements/Q13531686-composition.md 
+Avertissements et édition : [logs](https://github.com/cpesr/wikidataESR/blob/master/plots/etablissements/Q1780212.md) 
 
-### Associations : Université Paris-Saclay @UnivParisSaclay https://github.com/cpesr/wikidataESR/blob/master/plots/etablissements/Q13531686-associations.md 
+### Université Sorbonne Paris Nord @univ_spn : Composition https://github.com/cpesr/wikidataESR/blob/master/plots/etablissements/Q1780212.md 
 
-Erreur : les données sont probablement trop partielles. 
+![](https://github.com/cpesr/wikidataESR/blob/master/plots/etablissements/Q1780212-composition.png) 
 
-Avertissements et édition : [logs](plots/etablissements/Q13531686-associations.md 
+Avertissements et édition : [logs](https://github.com/cpesr/wikidataESR/blob/master/plots/etablissements/Q1780212.md) 
 
-### Histoire : Université de la Nouvelle-Calédonie @unc_nc https://github.com/cpesr/wikidataESR/blob/master/plots/etablissements/Q734332-histoire.md 
+### Université Sorbonne Paris Nord @univ_spn : Associations https://github.com/cpesr/wikidataESR/blob/master/plots/etablissements/Q1780212.md 
 
-Erreur : les données sont probablement trop partielles. 
+![](https://github.com/cpesr/wikidataESR/blob/master/plots/etablissements/Q1780212-associations.png) 
 
-Avertissements et édition : [logs](plots/etablissements/Q734332-histoire.md 
+Avertissements et édition : [logs](https://github.com/cpesr/wikidataESR/blob/master/plots/etablissements/Q1780212.md) 
 
-### Composition : Université de la Nouvelle-Calédonie @unc_nc https://github.com/cpesr/wikidataESR/blob/master/plots/etablissements/Q734332-composition.md 
+### Université Claude Bernard - Lyon 1 @UnivLyon1 : Histoire https://github.com/cpesr/wikidataESR/blob/master/plots/etablissements/Q4032.md 
 
-![](plots/etablissements/Q734332-composition.png) 
+![](https://github.com/cpesr/wikidataESR/blob/master/plots/etablissements/Q4032-histoire.png) 
 
-Avertissements et édition : [logs](plots/etablissements/Q734332-composition.md 
+Avertissements et édition : [logs](https://github.com/cpesr/wikidataESR/blob/master/plots/etablissements/Q4032.md) 
 
-### Associations : Université de la Nouvelle-Calédonie @unc_nc https://github.com/cpesr/wikidataESR/blob/master/plots/etablissements/Q734332-associations.md 
+### Université Claude Bernard - Lyon 1 @UnivLyon1 : Composition https://github.com/cpesr/wikidataESR/blob/master/plots/etablissements/Q4032.md 
 
-Erreur : les données sont probablement trop partielles. 
+![](https://github.com/cpesr/wikidataESR/blob/master/plots/etablissements/Q4032-composition.png) 
 
-Avertissements et édition : [logs](plots/etablissements/Q734332-associations.md 
+Avertissements et édition : [logs](https://github.com/cpesr/wikidataESR/blob/master/plots/etablissements/Q4032.md) 
 
-### Histoire : Université de Limoges @unilim https://github.com/cpesr/wikidataESR/blob/master/plots/etablissements/Q2661290-histoire.md 
+### Université Claude Bernard - Lyon 1 @UnivLyon1 : Associations https://github.com/cpesr/wikidataESR/blob/master/plots/etablissements/Q4032.md 
 
-Erreur : les données sont probablement trop partielles. 
+![](https://github.com/cpesr/wikidataESR/blob/master/plots/etablissements/Q4032-associations.png) 
 
-Avertissements et édition : [logs](plots/etablissements/Q2661290-histoire.md 
+Avertissements et édition : [logs](https://github.com/cpesr/wikidataESR/blob/master/plots/etablissements/Q4032.md) 
 
-### Composition : Université de Limoges @unilim https://github.com/cpesr/wikidataESR/blob/master/plots/etablissements/Q2661290-composition.md 
+### Université de Corse Pasquale Paoli @univcorse : Histoire https://github.com/cpesr/wikidataESR/blob/master/plots/etablissements/Q335841.md 
 
-![](plots/etablissements/Q2661290-composition.png) 
+Erreur : les données sont probablement trop partielles.
+```
+Error in wdesr_ggplot_graph(df, node_size = node_size/mult, label_sizes = label_sizes/mult, : Empty ESR graph: something went wrong with the graph production parameters
 
-Avertissements et édition : [logs](plots/etablissements/Q2661290-composition.md 
+``` 
 
-### Associations : Université de Limoges @unilim https://github.com/cpesr/wikidataESR/blob/master/plots/etablissements/Q2661290-associations.md 
+Avertissements et édition : [logs](https://github.com/cpesr/wikidataESR/blob/master/plots/etablissements/Q335841.md) 
 
-![](plots/etablissements/Q2661290-associations.png) 
+### Université de Corse Pasquale Paoli @univcorse : Composition https://github.com/cpesr/wikidataESR/blob/master/plots/etablissements/Q335841.md 
 
-Avertissements et édition : [logs](plots/etablissements/Q2661290-associations.md 
+Erreur : les données sont probablement trop partielles.
+```
+Error in wdesr_ggplot_graph(df, node_size = node_size/mult, label_sizes = label_sizes/mult, : Empty ESR graph: something went wrong with the graph production parameters
 
-### Histoire : Université de Tours @UnivTours https://github.com/cpesr/wikidataESR/blob/master/plots/etablissements/Q494335-histoire.md 
+``` 
 
-![](plots/etablissements/Q494335-histoire.png) 
+Avertissements et édition : [logs](https://github.com/cpesr/wikidataESR/blob/master/plots/etablissements/Q335841.md) 
 
-Avertissements et édition : [logs](plots/etablissements/Q494335-histoire.md 
+### Université de Corse Pasquale Paoli @univcorse : Associations https://github.com/cpesr/wikidataESR/blob/master/plots/etablissements/Q335841.md 
 
-### Composition : Université de Tours @UnivTours https://github.com/cpesr/wikidataESR/blob/master/plots/etablissements/Q494335-composition.md 
+Erreur : les données sont probablement trop partielles.
+```
+Error in wdesr_ggplot_graph(df, node_size = node_size/mult, label_sizes = label_sizes/mult, : Empty ESR graph: something went wrong with the graph production parameters
 
-![](plots/etablissements/Q494335-composition.png) 
+``` 
 
-Avertissements et édition : [logs](plots/etablissements/Q494335-composition.md 
+Avertissements et édition : [logs](https://github.com/cpesr/wikidataESR/blob/master/plots/etablissements/Q335841.md) 
 
-### Associations : Université de Tours @UnivTours https://github.com/cpesr/wikidataESR/blob/master/plots/etablissements/Q494335-associations.md 
+### Université de Perpignan Via Domitia @upvd1 : Histoire https://github.com/cpesr/wikidataESR/blob/master/plots/etablissements/Q304872.md 
 
-![](plots/etablissements/Q494335-associations.png) 
+![](https://github.com/cpesr/wikidataESR/blob/master/plots/etablissements/Q304872-histoire.png) 
 
-Avertissements et édition : [logs](plots/etablissements/Q494335-associations.md 
+Avertissements et édition : [logs](https://github.com/cpesr/wikidataESR/blob/master/plots/etablissements/Q304872.md) 
 
-### Histoire : Université des Antilles @UnivAntilles https://github.com/cpesr/wikidataESR/blob/master/plots/etablissements/Q16682075-histoire.md 
+### Université de Perpignan Via Domitia @upvd1 : Composition https://github.com/cpesr/wikidataESR/blob/master/plots/etablissements/Q304872.md 
 
-Erreur : les données sont probablement trop partielles. 
+![](https://github.com/cpesr/wikidataESR/blob/master/plots/etablissements/Q304872-composition.png) 
 
-Avertissements et édition : [logs](plots/etablissements/Q16682075-histoire.md 
+Avertissements et édition : [logs](https://github.com/cpesr/wikidataESR/blob/master/plots/etablissements/Q304872.md) 
 
-### Composition : Université des Antilles @UnivAntilles https://github.com/cpesr/wikidataESR/blob/master/plots/etablissements/Q16682075-composition.md 
+### Université de Perpignan Via Domitia @upvd1 : Associations https://github.com/cpesr/wikidataESR/blob/master/plots/etablissements/Q304872.md 
 
-Erreur : les données sont probablement trop partielles. 
+![](https://github.com/cpesr/wikidataESR/blob/master/plots/etablissements/Q304872-associations.png) 
 
-Avertissements et édition : [logs](plots/etablissements/Q16682075-composition.md 
+Avertissements et édition : [logs](https://github.com/cpesr/wikidataESR/blob/master/plots/etablissements/Q304872.md) 
 
-### Associations : Université des Antilles @UnivAntilles https://github.com/cpesr/wikidataESR/blob/master/plots/etablissements/Q16682075-associations.md 
+### Université Paris-Saclay @UnivParisSaclay : Histoire https://github.com/cpesr/wikidataESR/blob/master/plots/etablissements/Q13531686.md 
 
-Erreur : les données sont probablement trop partielles. 
+![](https://github.com/cpesr/wikidataESR/blob/master/plots/etablissements/Q13531686-histoire.png) 
 
-Avertissements et édition : [logs](plots/etablissements/Q16682075-associations.md 
+Avertissements et édition : [logs](https://github.com/cpesr/wikidataESR/blob/master/plots/etablissements/Q13531686.md) 
 
-### Histoire : Université Lumière - Lyon 2 @univ_lyon2 https://github.com/cpesr/wikidataESR/blob/master/plots/etablissements/Q4041-histoire.md 
+### Université Paris-Saclay @UnivParisSaclay : Composition https://github.com/cpesr/wikidataESR/blob/master/plots/etablissements/Q13531686.md 
 
-![](plots/etablissements/Q4041-histoire.png) 
+Erreur : les données sont probablement trop partielles.
+```
+Error: `multiple` is `FALSE`, but `x` contains parallel edges.
+The following rows in `x` are duplicated:
+	- `x[74, ]`
+	- `x[141, ]`
+	- `x[256, ]`
 
-Avertissements et édition : [logs](plots/etablissements/Q4041-histoire.md 
+``` 
 
-### Composition : Université Lumière - Lyon 2 @univ_lyon2 https://github.com/cpesr/wikidataESR/blob/master/plots/etablissements/Q4041-composition.md 
+Avertissements et édition : [logs](https://github.com/cpesr/wikidataESR/blob/master/plots/etablissements/Q13531686.md) 
 
-![](plots/etablissements/Q4041-composition.png) 
+### Université Paris-Saclay @UnivParisSaclay : Associations https://github.com/cpesr/wikidataESR/blob/master/plots/etablissements/Q13531686.md 
 
-Avertissements et édition : [logs](plots/etablissements/Q4041-composition.md 
+Erreur : les données sont probablement trop partielles.
+```
+Error in ans[npos] <- rep(no, length.out = len)[npos]: l'argument de remplacement est de longueur nulle
 
-### Associations : Université Lumière - Lyon 2 @univ_lyon2 https://github.com/cpesr/wikidataESR/blob/master/plots/etablissements/Q4041-associations.md 
+``` 
 
-![](plots/etablissements/Q4041-associations.png) 
+Avertissements et édition : [logs](https://github.com/cpesr/wikidataESR/blob/master/plots/etablissements/Q13531686.md) 
 
-Avertissements et édition : [logs](plots/etablissements/Q4041-associations.md 
+### Université de la Nouvelle-Calédonie @unc_nc : Histoire https://github.com/cpesr/wikidataESR/blob/master/plots/etablissements/Q734332.md 
 
-### Histoire : Université Jean Moulin - Lyon 3 @UJML https://github.com/cpesr/wikidataESR/blob/master/plots/etablissements/Q4027-histoire.md 
+Erreur : les données sont probablement trop partielles.
+```
+Error in wdesr_ggplot_graph(df, node_size = node_size/mult, label_sizes = label_sizes/mult, : Empty ESR graph: something went wrong with the graph production parameters
 
-![](plots/etablissements/Q4027-histoire.png) 
+``` 
 
-Avertissements et édition : [logs](plots/etablissements/Q4027-histoire.md 
+Avertissements et édition : [logs](https://github.com/cpesr/wikidataESR/blob/master/plots/etablissements/Q734332.md) 
 
-### Composition : Université Jean Moulin - Lyon 3 @UJML https://github.com/cpesr/wikidataESR/blob/master/plots/etablissements/Q4027-composition.md 
+### Université de la Nouvelle-Calédonie @unc_nc : Composition https://github.com/cpesr/wikidataESR/blob/master/plots/etablissements/Q734332.md 
 
-![](plots/etablissements/Q4027-composition.png) 
+![](https://github.com/cpesr/wikidataESR/blob/master/plots/etablissements/Q734332-composition.png) 
 
-Avertissements et édition : [logs](plots/etablissements/Q4027-composition.md 
+Avertissements et édition : [logs](https://github.com/cpesr/wikidataESR/blob/master/plots/etablissements/Q734332.md) 
 
-### Associations : Université Jean Moulin - Lyon 3 @UJML https://github.com/cpesr/wikidataESR/blob/master/plots/etablissements/Q4027-associations.md 
+### Université de la Nouvelle-Calédonie @unc_nc : Associations https://github.com/cpesr/wikidataESR/blob/master/plots/etablissements/Q734332.md 
 
-![](plots/etablissements/Q4027-associations.png) 
+Erreur : les données sont probablement trop partielles.
+```
+Error in wdesr_ggplot_graph(df, node_size = node_size/mult, label_sizes = label_sizes/mult, : Empty ESR graph: something went wrong with the graph production parameters
 
-Avertissements et édition : [logs](plots/etablissements/Q4027-associations.md 
+``` 
 
-### Histoire : AU @univavignon https://github.com/cpesr/wikidataESR/blob/master/plots/etablissements/Q2033119-histoire.md 
+Avertissements et édition : [logs](https://github.com/cpesr/wikidataESR/blob/master/plots/etablissements/Q734332.md) 
 
-Erreur : les données sont probablement trop partielles. 
+### Université de Limoges @unilim : Histoire https://github.com/cpesr/wikidataESR/blob/master/plots/etablissements/Q2661290.md 
 
-Avertissements et édition : [logs](plots/etablissements/Q2033119-histoire.md 
+Erreur : les données sont probablement trop partielles.
+```
+Error in wdesr_ggplot_graph(df, node_size = node_size/mult, label_sizes = label_sizes/mult, : Empty ESR graph: something went wrong with the graph production parameters
 
-### Composition : AU @univavignon https://github.com/cpesr/wikidataESR/blob/master/plots/etablissements/Q2033119-composition.md 
+``` 
 
-![](plots/etablissements/Q2033119-composition.png) 
+Avertissements et édition : [logs](https://github.com/cpesr/wikidataESR/blob/master/plots/etablissements/Q2661290.md) 
 
-Avertissements et édition : [logs](plots/etablissements/Q2033119-composition.md 
+### Université de Limoges @unilim : Composition https://github.com/cpesr/wikidataESR/blob/master/plots/etablissements/Q2661290.md 
 
-### Associations : AU @univavignon https://github.com/cpesr/wikidataESR/blob/master/plots/etablissements/Q2033119-associations.md 
+![](https://github.com/cpesr/wikidataESR/blob/master/plots/etablissements/Q2661290-composition.png) 
 
-![](plots/etablissements/Q2033119-associations.png) 
+Avertissements et édition : [logs](https://github.com/cpesr/wikidataESR/blob/master/plots/etablissements/Q2661290.md) 
 
-Avertissements et édition : [logs](plots/etablissements/Q2033119-associations.md 
+### Université de Limoges @unilim : Associations https://github.com/cpesr/wikidataESR/blob/master/plots/etablissements/Q2661290.md 
 
-### Histoire : Université d'Angers @UnivAngers https://github.com/cpesr/wikidataESR/blob/master/plots/etablissements/Q1538727-histoire.md 
+![](https://github.com/cpesr/wikidataESR/blob/master/plots/etablissements/Q2661290-associations.png) 
 
-Erreur : les données sont probablement trop partielles. 
+Avertissements et édition : [logs](https://github.com/cpesr/wikidataESR/blob/master/plots/etablissements/Q2661290.md) 
 
-Avertissements et édition : [logs](plots/etablissements/Q1538727-histoire.md 
+### Université de Tours @UnivTours : Histoire https://github.com/cpesr/wikidataESR/blob/master/plots/etablissements/Q494335.md 
 
-### Composition : Université d'Angers @UnivAngers https://github.com/cpesr/wikidataESR/blob/master/plots/etablissements/Q1538727-composition.md 
+![](https://github.com/cpesr/wikidataESR/blob/master/plots/etablissements/Q494335-histoire.png) 
 
-![](plots/etablissements/Q1538727-composition.png) 
+Avertissements et édition : [logs](https://github.com/cpesr/wikidataESR/blob/master/plots/etablissements/Q494335.md) 
 
-Avertissements et édition : [logs](plots/etablissements/Q1538727-composition.md 
+### Université de Tours @UnivTours : Composition https://github.com/cpesr/wikidataESR/blob/master/plots/etablissements/Q494335.md 
 
-### Associations : Université d'Angers @UnivAngers https://github.com/cpesr/wikidataESR/blob/master/plots/etablissements/Q1538727-associations.md 
+![](https://github.com/cpesr/wikidataESR/blob/master/plots/etablissements/Q494335-composition.png) 
 
-![](plots/etablissements/Q1538727-associations.png) 
+Avertissements et édition : [logs](https://github.com/cpesr/wikidataESR/blob/master/plots/etablissements/Q494335.md) 
 
-Avertissements et édition : [logs](plots/etablissements/Q1538727-associations.md 
+### Université de Tours @UnivTours : Associations https://github.com/cpesr/wikidataESR/blob/master/plots/etablissements/Q494335.md 
 
-### Histoire : Université de Bourgogne @univbourgogne https://github.com/cpesr/wikidataESR/blob/master/plots/etablissements/Q287072-histoire.md 
+![](https://github.com/cpesr/wikidataESR/blob/master/plots/etablissements/Q494335-associations.png) 
 
-Erreur : les données sont probablement trop partielles. 
+Avertissements et édition : [logs](https://github.com/cpesr/wikidataESR/blob/master/plots/etablissements/Q494335.md) 
 
-Avertissements et édition : [logs](plots/etablissements/Q287072-histoire.md 
+### Université des Antilles @UnivAntilles : Histoire https://github.com/cpesr/wikidataESR/blob/master/plots/etablissements/Q16682075.md 
 
-### Composition : Université de Bourgogne @univbourgogne https://github.com/cpesr/wikidataESR/blob/master/plots/etablissements/Q287072-composition.md 
+Erreur : les données sont probablement trop partielles.
+```
+Error in wdesr_ggplot_graph(df, node_size = node_size/mult, label_sizes = label_sizes/mult, : Empty ESR graph: something went wrong with the graph production parameters
 
-![](plots/etablissements/Q287072-composition.png) 
+``` 
 
-Avertissements et édition : [logs](plots/etablissements/Q287072-composition.md 
+Avertissements et édition : [logs](https://github.com/cpesr/wikidataESR/blob/master/plots/etablissements/Q16682075.md) 
 
-### Associations : Université de Bourgogne @univbourgogne https://github.com/cpesr/wikidataESR/blob/master/plots/etablissements/Q287072-associations.md 
+### Université des Antilles @UnivAntilles : Composition https://github.com/cpesr/wikidataESR/blob/master/plots/etablissements/Q16682075.md 
 
-![](plots/etablissements/Q287072-associations.png) 
+Erreur : les données sont probablement trop partielles.
+```
+Error in wdesr_ggplot_graph(df, node_size = node_size/mult, label_sizes = label_sizes/mult, : Empty ESR graph: something went wrong with the graph production parameters
 
-Avertissements et édition : [logs](plots/etablissements/Q287072-associations.md 
+``` 
 
-### Histoire : UBS @ubs_universite https://github.com/cpesr/wikidataESR/blob/master/plots/etablissements/Q1125958-histoire.md 
+Avertissements et édition : [logs](https://github.com/cpesr/wikidataESR/blob/master/plots/etablissements/Q16682075.md) 
 
-Erreur : les données sont probablement trop partielles. 
+### Université des Antilles @UnivAntilles : Associations https://github.com/cpesr/wikidataESR/blob/master/plots/etablissements/Q16682075.md 
 
-Avertissements et édition : [logs](plots/etablissements/Q1125958-histoire.md 
+Erreur : les données sont probablement trop partielles.
+```
+Error in wdesr_ggplot_graph(df, node_size = node_size/mult, label_sizes = label_sizes/mult, : Empty ESR graph: something went wrong with the graph production parameters
 
-### Composition : UBS @ubs_universite https://github.com/cpesr/wikidataESR/blob/master/plots/etablissements/Q1125958-composition.md 
+``` 
 
-![](plots/etablissements/Q1125958-composition.png) 
+Avertissements et édition : [logs](https://github.com/cpesr/wikidataESR/blob/master/plots/etablissements/Q16682075.md) 
 
-Avertissements et édition : [logs](plots/etablissements/Q1125958-composition.md 
+### Université Lumière - Lyon 2 @univ_lyon2 : Histoire https://github.com/cpesr/wikidataESR/blob/master/plots/etablissements/Q4041.md 
 
-### Associations : UBS @ubs_universite https://github.com/cpesr/wikidataESR/blob/master/plots/etablissements/Q1125958-associations.md 
+![](https://github.com/cpesr/wikidataESR/blob/master/plots/etablissements/Q4041-histoire.png) 
 
-Erreur : les données sont probablement trop partielles. 
+Avertissements et édition : [logs](https://github.com/cpesr/wikidataESR/blob/master/plots/etablissements/Q4041.md) 
 
-Avertissements et édition : [logs](plots/etablissements/Q1125958-associations.md 
+### Université Lumière - Lyon 2 @univ_lyon2 : Composition https://github.com/cpesr/wikidataESR/blob/master/plots/etablissements/Q4041.md 
 
-### Histoire : Université de Rouen Normandie  https://github.com/cpesr/wikidataESR/blob/master/plots/etablissements/Q494247-histoire.md 
+![](https://github.com/cpesr/wikidataESR/blob/master/plots/etablissements/Q4041-composition.png) 
 
-Erreur : les données sont probablement trop partielles. 
+Avertissements et édition : [logs](https://github.com/cpesr/wikidataESR/blob/master/plots/etablissements/Q4041.md) 
 
-Avertissements et édition : [logs](plots/etablissements/Q494247-histoire.md 
+### Université Lumière - Lyon 2 @univ_lyon2 : Associations https://github.com/cpesr/wikidataESR/blob/master/plots/etablissements/Q4041.md 
 
-### Composition : Université de Rouen Normandie  https://github.com/cpesr/wikidataESR/blob/master/plots/etablissements/Q494247-composition.md 
+![](https://github.com/cpesr/wikidataESR/blob/master/plots/etablissements/Q4041-associations.png) 
 
-![](plots/etablissements/Q494247-composition.png) 
+Avertissements et édition : [logs](https://github.com/cpesr/wikidataESR/blob/master/plots/etablissements/Q4041.md) 
 
-Avertissements et édition : [logs](plots/etablissements/Q494247-composition.md 
+### Université Jean Moulin - Lyon 3 @UJML : Histoire https://github.com/cpesr/wikidataESR/blob/master/plots/etablissements/Q4027.md 
 
-### Associations : Université de Rouen Normandie  https://github.com/cpesr/wikidataESR/blob/master/plots/etablissements/Q494247-associations.md 
+![](https://github.com/cpesr/wikidataESR/blob/master/plots/etablissements/Q4027-histoire.png) 
 
-![](plots/etablissements/Q494247-associations.png) 
+Avertissements et édition : [logs](https://github.com/cpesr/wikidataESR/blob/master/plots/etablissements/Q4027.md) 
 
-Avertissements et édition : [logs](plots/etablissements/Q494247-associations.md 
+### Université Jean Moulin - Lyon 3 @UJML : Composition https://github.com/cpesr/wikidataESR/blob/master/plots/etablissements/Q4027.md 
 
-### Histoire : Université de Bretagne Occidentale @UBO_UnivBrest https://github.com/cpesr/wikidataESR/blob/master/plots/etablissements/Q1857334-histoire.md 
+![](https://github.com/cpesr/wikidataESR/blob/master/plots/etablissements/Q4027-composition.png) 
 
-Erreur : les données sont probablement trop partielles. 
+Avertissements et édition : [logs](https://github.com/cpesr/wikidataESR/blob/master/plots/etablissements/Q4027.md) 
 
-Avertissements et édition : [logs](plots/etablissements/Q1857334-histoire.md 
+### Université Jean Moulin - Lyon 3 @UJML : Associations https://github.com/cpesr/wikidataESR/blob/master/plots/etablissements/Q4027.md 
 
-### Composition : Université de Bretagne Occidentale @UBO_UnivBrest https://github.com/cpesr/wikidataESR/blob/master/plots/etablissements/Q1857334-composition.md 
+![](https://github.com/cpesr/wikidataESR/blob/master/plots/etablissements/Q4027-associations.png) 
 
-![](plots/etablissements/Q1857334-composition.png) 
+Avertissements et édition : [logs](https://github.com/cpesr/wikidataESR/blob/master/plots/etablissements/Q4027.md) 
 
-Avertissements et édition : [logs](plots/etablissements/Q1857334-composition.md 
+### AU @univavignon : Histoire https://github.com/cpesr/wikidataESR/blob/master/plots/etablissements/Q2033119.md 
 
-### Associations : Université de Bretagne Occidentale @UBO_UnivBrest https://github.com/cpesr/wikidataESR/blob/master/plots/etablissements/Q1857334-associations.md 
+Erreur : les données sont probablement trop partielles.
+```
+Error in wdesr_ggplot_graph(df, node_size = node_size/mult, label_sizes = label_sizes/mult, : Empty ESR graph: something went wrong with the graph production parameters
 
-Erreur : les données sont probablement trop partielles. 
+``` 
 
-Avertissements et édition : [logs](plots/etablissements/Q1857334-associations.md 
+Avertissements et édition : [logs](https://github.com/cpesr/wikidataESR/blob/master/plots/etablissements/Q2033119.md) 
 
-### Histoire : Université Toulouse - Jean Jaurès @UTJeanJaures https://github.com/cpesr/wikidataESR/blob/master/plots/etablissements/Q1933558-histoire.md 
+### AU @univavignon : Composition https://github.com/cpesr/wikidataESR/blob/master/plots/etablissements/Q2033119.md 
 
-![](plots/etablissements/Q1933558-histoire.png) 
+![](https://github.com/cpesr/wikidataESR/blob/master/plots/etablissements/Q2033119-composition.png) 
 
-Avertissements et édition : [logs](plots/etablissements/Q1933558-histoire.md 
+Avertissements et édition : [logs](https://github.com/cpesr/wikidataESR/blob/master/plots/etablissements/Q2033119.md) 
 
-### Composition : Université Toulouse - Jean Jaurès @UTJeanJaures https://github.com/cpesr/wikidataESR/blob/master/plots/etablissements/Q1933558-composition.md 
+### AU @univavignon : Associations https://github.com/cpesr/wikidataESR/blob/master/plots/etablissements/Q2033119.md 
 
-![](plots/etablissements/Q1933558-composition.png) 
+![](https://github.com/cpesr/wikidataESR/blob/master/plots/etablissements/Q2033119-associations.png) 
 
-Avertissements et édition : [logs](plots/etablissements/Q1933558-composition.md 
+Avertissements et édition : [logs](https://github.com/cpesr/wikidataESR/blob/master/plots/etablissements/Q2033119.md) 
 
-### Associations : Université Toulouse - Jean Jaurès @UTJeanJaures https://github.com/cpesr/wikidataESR/blob/master/plots/etablissements/Q1933558-associations.md 
+### Université d'Angers @UnivAngers : Histoire https://github.com/cpesr/wikidataESR/blob/master/plots/etablissements/Q1538727.md 
 
-![](plots/etablissements/Q1933558-associations.png) 
+Erreur : les données sont probablement trop partielles.
+```
+Error in wdesr_ggplot_graph(df, node_size = node_size/mult, label_sizes = label_sizes/mult, : Empty ESR graph: something went wrong with the graph production parameters
 
-Avertissements et édition : [logs](plots/etablissements/Q1933558-associations.md 
+``` 
+
+Avertissements et édition : [logs](https://github.com/cpesr/wikidataESR/blob/master/plots/etablissements/Q1538727.md) 
+
+### Université d'Angers @UnivAngers : Composition https://github.com/cpesr/wikidataESR/blob/master/plots/etablissements/Q1538727.md 
+
+![](https://github.com/cpesr/wikidataESR/blob/master/plots/etablissements/Q1538727-composition.png) 
+
+Avertissements et édition : [logs](https://github.com/cpesr/wikidataESR/blob/master/plots/etablissements/Q1538727.md) 
+
+### Université d'Angers @UnivAngers : Associations https://github.com/cpesr/wikidataESR/blob/master/plots/etablissements/Q1538727.md 
+
+![](https://github.com/cpesr/wikidataESR/blob/master/plots/etablissements/Q1538727-associations.png) 
+
+Avertissements et édition : [logs](https://github.com/cpesr/wikidataESR/blob/master/plots/etablissements/Q1538727.md) 
+
+### Université de Bourgogne @univbourgogne : Histoire https://github.com/cpesr/wikidataESR/blob/master/plots/etablissements/Q287072.md 
+
+Erreur : les données sont probablement trop partielles.
+```
+Error in wdesr_ggplot_graph(df, node_size = node_size/mult, label_sizes = label_sizes/mult, : Empty ESR graph: something went wrong with the graph production parameters
+
+``` 
+
+Avertissements et édition : [logs](https://github.com/cpesr/wikidataESR/blob/master/plots/etablissements/Q287072.md) 
+
+### Université de Bourgogne @univbourgogne : Composition https://github.com/cpesr/wikidataESR/blob/master/plots/etablissements/Q287072.md 
+
+![](https://github.com/cpesr/wikidataESR/blob/master/plots/etablissements/Q287072-composition.png) 
+
+Avertissements et édition : [logs](https://github.com/cpesr/wikidataESR/blob/master/plots/etablissements/Q287072.md) 
+
+### Université de Bourgogne @univbourgogne : Associations https://github.com/cpesr/wikidataESR/blob/master/plots/etablissements/Q287072.md 
+
+![](https://github.com/cpesr/wikidataESR/blob/master/plots/etablissements/Q287072-associations.png) 
+
+Avertissements et édition : [logs](https://github.com/cpesr/wikidataESR/blob/master/plots/etablissements/Q287072.md) 
+
+### UBS @ubs_universite : Histoire https://github.com/cpesr/wikidataESR/blob/master/plots/etablissements/Q1125958.md 
+
+Erreur : les données sont probablement trop partielles.
+```
+Error in wdesr_ggplot_graph(df, node_size = node_size/mult, label_sizes = label_sizes/mult, : Empty ESR graph: something went wrong with the graph production parameters
+
+``` 
+
+Avertissements et édition : [logs](https://github.com/cpesr/wikidataESR/blob/master/plots/etablissements/Q1125958.md) 
+
+### UBS @ubs_universite : Composition https://github.com/cpesr/wikidataESR/blob/master/plots/etablissements/Q1125958.md 
+
+![](https://github.com/cpesr/wikidataESR/blob/master/plots/etablissements/Q1125958-composition.png) 
+
+Avertissements et édition : [logs](https://github.com/cpesr/wikidataESR/blob/master/plots/etablissements/Q1125958.md) 
+
+### UBS @ubs_universite : Associations https://github.com/cpesr/wikidataESR/blob/master/plots/etablissements/Q1125958.md 
+
+Erreur : les données sont probablement trop partielles.
+```
+Error in wdesr_ggplot_graph(df, node_size = node_size/mult, label_sizes = label_sizes/mult, : Empty ESR graph: something went wrong with the graph production parameters
+
+``` 
+
+Avertissements et édition : [logs](https://github.com/cpesr/wikidataESR/blob/master/plots/etablissements/Q1125958.md) 
+
+### Université de Rouen Normandie  : Histoire https://github.com/cpesr/wikidataESR/blob/master/plots/etablissements/Q494247.md 
+
+Erreur : les données sont probablement trop partielles.
+```
+Error in wdesr_ggplot_graph(df, node_size = node_size/mult, label_sizes = label_sizes/mult, : Empty ESR graph: something went wrong with the graph production parameters
+
+``` 
+
+Avertissements et édition : [logs](https://github.com/cpesr/wikidataESR/blob/master/plots/etablissements/Q494247.md) 
+
+### Université de Rouen Normandie  : Composition https://github.com/cpesr/wikidataESR/blob/master/plots/etablissements/Q494247.md 
+
+![](https://github.com/cpesr/wikidataESR/blob/master/plots/etablissements/Q494247-composition.png) 
+
+Avertissements et édition : [logs](https://github.com/cpesr/wikidataESR/blob/master/plots/etablissements/Q494247.md) 
+
+### Université de Rouen Normandie  : Associations https://github.com/cpesr/wikidataESR/blob/master/plots/etablissements/Q494247.md 
+
+![](https://github.com/cpesr/wikidataESR/blob/master/plots/etablissements/Q494247-associations.png) 
+
+Avertissements et édition : [logs](https://github.com/cpesr/wikidataESR/blob/master/plots/etablissements/Q494247.md) 
+
+### Université de Bretagne Occidentale @UBO_UnivBrest : Histoire https://github.com/cpesr/wikidataESR/blob/master/plots/etablissements/Q1857334.md 
+
+Erreur : les données sont probablement trop partielles.
+```
+Error in wdesr_ggplot_graph(df, node_size = node_size/mult, label_sizes = label_sizes/mult, : Empty ESR graph: something went wrong with the graph production parameters
+
+``` 
+
+Avertissements et édition : [logs](https://github.com/cpesr/wikidataESR/blob/master/plots/etablissements/Q1857334.md) 
+
+### Université de Bretagne Occidentale @UBO_UnivBrest : Composition https://github.com/cpesr/wikidataESR/blob/master/plots/etablissements/Q1857334.md 
+
+![](https://github.com/cpesr/wikidataESR/blob/master/plots/etablissements/Q1857334-composition.png) 
+
+Avertissements et édition : [logs](https://github.com/cpesr/wikidataESR/blob/master/plots/etablissements/Q1857334.md) 
+
+### Université de Bretagne Occidentale @UBO_UnivBrest : Associations https://github.com/cpesr/wikidataESR/blob/master/plots/etablissements/Q1857334.md 
+
+Erreur : les données sont probablement trop partielles.
+```
+Error in wdesr_ggplot_graph(df, node_size = node_size/mult, label_sizes = label_sizes/mult, : Empty ESR graph: something went wrong with the graph production parameters
+
+``` 
+
+Avertissements et édition : [logs](https://github.com/cpesr/wikidataESR/blob/master/plots/etablissements/Q1857334.md) 
+
+### Université Toulouse - Jean Jaurès @UTJeanJaures : Histoire https://github.com/cpesr/wikidataESR/blob/master/plots/etablissements/Q1933558.md 
+
+![](https://github.com/cpesr/wikidataESR/blob/master/plots/etablissements/Q1933558-histoire.png) 
+
+Avertissements et édition : [logs](https://github.com/cpesr/wikidataESR/blob/master/plots/etablissements/Q1933558.md) 
+
+### Université Toulouse - Jean Jaurès @UTJeanJaures : Composition https://github.com/cpesr/wikidataESR/blob/master/plots/etablissements/Q1933558.md 
+
+![](https://github.com/cpesr/wikidataESR/blob/master/plots/etablissements/Q1933558-composition.png) 
+
+Avertissements et édition : [logs](https://github.com/cpesr/wikidataESR/blob/master/plots/etablissements/Q1933558.md) 
+
+### Université Toulouse - Jean Jaurès @UTJeanJaures : Associations https://github.com/cpesr/wikidataESR/blob/master/plots/etablissements/Q1933558.md 
+
+![](https://github.com/cpesr/wikidataESR/blob/master/plots/etablissements/Q1933558-associations.png) 
+
+Avertissements et édition : [logs](https://github.com/cpesr/wikidataESR/blob/master/plots/etablissements/Q1933558.md) 
 
 ## Histoire, composition et association actuelles des Grand établissement 
 
-### Histoire : CNAM @LeCnam https://github.com/cpesr/wikidataESR/blob/master/plots/etablissements/Q524289-histoire.md 
+### CNAM @LeCnam : Histoire https://github.com/cpesr/wikidataESR/blob/master/plots/etablissements/Q524289.md 
 
-Erreur : les données sont probablement trop partielles. 
+Erreur : les données sont probablement trop partielles.
+```
+Error in wdesr_ggplot_graph(df, node_size = node_size/mult, label_sizes = label_sizes/mult, : Empty ESR graph: something went wrong with the graph production parameters
 
-Avertissements et édition : [logs](plots/etablissements/Q524289-histoire.md 
+``` 
 
-### Composition : CNAM @LeCnam https://github.com/cpesr/wikidataESR/blob/master/plots/etablissements/Q524289-composition.md 
+Avertissements et édition : [logs](https://github.com/cpesr/wikidataESR/blob/master/plots/etablissements/Q524289.md) 
 
-![](plots/etablissements/Q524289-composition.png) 
+### CNAM @LeCnam : Composition https://github.com/cpesr/wikidataESR/blob/master/plots/etablissements/Q524289.md 
 
-Avertissements et édition : [logs](plots/etablissements/Q524289-composition.md 
+![](https://github.com/cpesr/wikidataESR/blob/master/plots/etablissements/Q524289-composition.png) 
 
-### Associations : CNAM @LeCnam https://github.com/cpesr/wikidataESR/blob/master/plots/etablissements/Q524289-associations.md 
+Avertissements et édition : [logs](https://github.com/cpesr/wikidataESR/blob/master/plots/etablissements/Q524289.md) 
 
-![](plots/etablissements/Q524289-associations.png) 
+### CNAM @LeCnam : Associations https://github.com/cpesr/wikidataESR/blob/master/plots/etablissements/Q524289.md 
 
-Avertissements et édition : [logs](plots/etablissements/Q524289-associations.md 
+![](https://github.com/cpesr/wikidataESR/blob/master/plots/etablissements/Q524289-associations.png) 
 
-### Histoire : IEP de Paris @sciencespo https://github.com/cpesr/wikidataESR/blob/master/plots/etablissements/Q859363-histoire.md 
+Avertissements et édition : [logs](https://github.com/cpesr/wikidataESR/blob/master/plots/etablissements/Q524289.md) 
 
-![](plots/etablissements/Q859363-histoire.png) 
+### IEP de Paris @sciencespo : Histoire https://github.com/cpesr/wikidataESR/blob/master/plots/etablissements/Q859363.md 
 
-Avertissements et édition : [logs](plots/etablissements/Q859363-histoire.md 
+![](https://github.com/cpesr/wikidataESR/blob/master/plots/etablissements/Q859363-histoire.png) 
 
-### Composition : IEP de Paris @sciencespo https://github.com/cpesr/wikidataESR/blob/master/plots/etablissements/Q859363-composition.md 
+Avertissements et édition : [logs](https://github.com/cpesr/wikidataESR/blob/master/plots/etablissements/Q859363.md) 
 
-![](plots/etablissements/Q859363-composition.png) 
+### IEP de Paris @sciencespo : Composition https://github.com/cpesr/wikidataESR/blob/master/plots/etablissements/Q859363.md 
 
-Avertissements et édition : [logs](plots/etablissements/Q859363-composition.md 
+![](https://github.com/cpesr/wikidataESR/blob/master/plots/etablissements/Q859363-composition.png) 
 
-### Associations : IEP de Paris @sciencespo https://github.com/cpesr/wikidataESR/blob/master/plots/etablissements/Q859363-associations.md 
+Avertissements et édition : [logs](https://github.com/cpesr/wikidataESR/blob/master/plots/etablissements/Q859363.md) 
 
-![](plots/etablissements/Q859363-associations.png) 
+### IEP de Paris @sciencespo : Associations https://github.com/cpesr/wikidataESR/blob/master/plots/etablissements/Q859363.md 
 
-Avertissements et édition : [logs](plots/etablissements/Q859363-associations.md 
+![](https://github.com/cpesr/wikidataESR/blob/master/plots/etablissements/Q859363-associations.png) 
 
-### Histoire : Agrosup Dijon @AgroSupDijon https://github.com/cpesr/wikidataESR/blob/master/plots/etablissements/Q8077943-histoire.md 
+Avertissements et édition : [logs](https://github.com/cpesr/wikidataESR/blob/master/plots/etablissements/Q859363.md) 
 
-Erreur : les données sont probablement trop partielles. 
+### Agrosup Dijon @AgroSupDijon : Histoire https://github.com/cpesr/wikidataESR/blob/master/plots/etablissements/Q8077943.md 
 
-Avertissements et édition : [logs](plots/etablissements/Q8077943-histoire.md 
+Erreur : les données sont probablement trop partielles.
+```
+Error in wdesr_ggplot_graph(df, node_size = node_size/mult, label_sizes = label_sizes/mult, : Empty ESR graph: something went wrong with the graph production parameters
 
-### Composition : Agrosup Dijon @AgroSupDijon https://github.com/cpesr/wikidataESR/blob/master/plots/etablissements/Q8077943-composition.md 
+``` 
 
-![](plots/etablissements/Q8077943-composition.png) 
+Avertissements et édition : [logs](https://github.com/cpesr/wikidataESR/blob/master/plots/etablissements/Q8077943.md) 
 
-Avertissements et édition : [logs](plots/etablissements/Q8077943-composition.md 
+### Agrosup Dijon @AgroSupDijon : Composition https://github.com/cpesr/wikidataESR/blob/master/plots/etablissements/Q8077943.md 
 
-### Associations : Agrosup Dijon @AgroSupDijon https://github.com/cpesr/wikidataESR/blob/master/plots/etablissements/Q8077943-associations.md 
+![](https://github.com/cpesr/wikidataESR/blob/master/plots/etablissements/Q8077943-composition.png) 
 
-Erreur : les données sont probablement trop partielles. 
+Avertissements et édition : [logs](https://github.com/cpesr/wikidataESR/blob/master/plots/etablissements/Q8077943.md) 
 
-Avertissements et édition : [logs](plots/etablissements/Q8077943-associations.md 
+### Agrosup Dijon @AgroSupDijon : Associations https://github.com/cpesr/wikidataESR/blob/master/plots/etablissements/Q8077943.md 
 
-### Histoire : Ecole de l'air et de l'espace  https://github.com/cpesr/wikidataESR/blob/master/plots/etablissements/Q3577870-histoire.md 
+Erreur : les données sont probablement trop partielles.
+```
+Error in wdesr_ggplot_graph(df, node_size = node_size/mult, label_sizes = label_sizes/mult, : Empty ESR graph: something went wrong with the graph production parameters
 
-Erreur : les données sont probablement trop partielles. 
+``` 
 
-Avertissements et édition : [logs](plots/etablissements/Q3577870-histoire.md 
+Avertissements et édition : [logs](https://github.com/cpesr/wikidataESR/blob/master/plots/etablissements/Q8077943.md) 
 
-### Composition : Ecole de l'air et de l'espace  https://github.com/cpesr/wikidataESR/blob/master/plots/etablissements/Q3577870-composition.md 
+### Ecole de l'air et de l'espace  : Histoire https://github.com/cpesr/wikidataESR/blob/master/plots/etablissements/Q3577870.md 
 
-Erreur : les données sont probablement trop partielles. 
+Erreur : les données sont probablement trop partielles.
+```
+Error in wdesr_ggplot_graph(df, node_size = node_size/mult, label_sizes = label_sizes/mult, : Empty ESR graph: something went wrong with the graph production parameters
 
-Avertissements et édition : [logs](plots/etablissements/Q3577870-composition.md 
+``` 
 
-### Associations : Ecole de l'air et de l'espace  https://github.com/cpesr/wikidataESR/blob/master/plots/etablissements/Q3577870-associations.md 
+Avertissements et édition : [logs](https://github.com/cpesr/wikidataESR/blob/master/plots/etablissements/Q3577870.md) 
 
-![](plots/etablissements/Q3577870-associations.png) 
+### Ecole de l'air et de l'espace  : Composition https://github.com/cpesr/wikidataESR/blob/master/plots/etablissements/Q3577870.md 
 
-Avertissements et édition : [logs](plots/etablissements/Q3577870-associations.md 
+Erreur : les données sont probablement trop partielles.
+```
+Error in wdesr_ggplot_graph(df, node_size = node_size/mult, label_sizes = label_sizes/mult, : Empty ESR graph: something went wrong with the graph production parameters
 
-### Histoire : ENAC @enacfrance https://github.com/cpesr/wikidataESR/blob/master/plots/etablissements/Q174335-histoire.md 
+``` 
 
-Erreur : les données sont probablement trop partielles. 
+Avertissements et édition : [logs](https://github.com/cpesr/wikidataESR/blob/master/plots/etablissements/Q3577870.md) 
 
-Avertissements et édition : [logs](plots/etablissements/Q174335-histoire.md 
+### Ecole de l'air et de l'espace  : Associations https://github.com/cpesr/wikidataESR/blob/master/plots/etablissements/Q3577870.md 
 
-### Composition : ENAC @enacfrance https://github.com/cpesr/wikidataESR/blob/master/plots/etablissements/Q174335-composition.md 
+![](https://github.com/cpesr/wikidataESR/blob/master/plots/etablissements/Q3577870-associations.png) 
 
-Erreur : les données sont probablement trop partielles. 
+Avertissements et édition : [logs](https://github.com/cpesr/wikidataESR/blob/master/plots/etablissements/Q3577870.md) 
 
-Avertissements et édition : [logs](plots/etablissements/Q174335-composition.md 
+### ENAC @enacfrance : Histoire https://github.com/cpesr/wikidataESR/blob/master/plots/etablissements/Q174335.md 
 
-### Associations : ENAC @enacfrance https://github.com/cpesr/wikidataESR/blob/master/plots/etablissements/Q174335-associations.md 
+Erreur : les données sont probablement trop partielles.
+```
+Error in wdesr_ggplot_graph(df, node_size = node_size/mult, label_sizes = label_sizes/mult, : Empty ESR graph: something went wrong with the graph production parameters
 
-![](plots/etablissements/Q174335-associations.png) 
+``` 
 
-Avertissements et édition : [logs](plots/etablissements/Q174335-associations.md 
+Avertissements et édition : [logs](https://github.com/cpesr/wikidataESR/blob/master/plots/etablissements/Q174335.md) 
 
-### Histoire : École nationale des ponts et chaussées @EcoledesPonts https://github.com/cpesr/wikidataESR/blob/master/plots/etablissements/Q273523-histoire.md 
+### ENAC @enacfrance : Composition https://github.com/cpesr/wikidataESR/blob/master/plots/etablissements/Q174335.md 
 
-Erreur : les données sont probablement trop partielles. 
+Erreur : les données sont probablement trop partielles.
+```
+Error in wdesr_ggplot_graph(df, node_size = node_size/mult, label_sizes = label_sizes/mult, : Empty ESR graph: something went wrong with the graph production parameters
 
-Avertissements et édition : [logs](plots/etablissements/Q273523-histoire.md 
+``` 
 
-### Composition : École nationale des ponts et chaussées @EcoledesPonts https://github.com/cpesr/wikidataESR/blob/master/plots/etablissements/Q273523-composition.md 
+Avertissements et édition : [logs](https://github.com/cpesr/wikidataESR/blob/master/plots/etablissements/Q174335.md) 
 
-![](plots/etablissements/Q273523-composition.png) 
+### ENAC @enacfrance : Associations https://github.com/cpesr/wikidataESR/blob/master/plots/etablissements/Q174335.md 
 
-Avertissements et édition : [logs](plots/etablissements/Q273523-composition.md 
+![](https://github.com/cpesr/wikidataESR/blob/master/plots/etablissements/Q174335-associations.png) 
 
-### Associations : École nationale des ponts et chaussées @EcoledesPonts https://github.com/cpesr/wikidataESR/blob/master/plots/etablissements/Q273523-associations.md 
+Avertissements et édition : [logs](https://github.com/cpesr/wikidataESR/blob/master/plots/etablissements/Q174335.md) 
 
-Erreur : les données sont probablement trop partielles. 
+### École nationale des ponts et chaussées @EcoledesPonts : Histoire https://github.com/cpesr/wikidataESR/blob/master/plots/etablissements/Q273523.md 
 
-Avertissements et édition : [logs](plots/etablissements/Q273523-associations.md 
+Erreur : les données sont probablement trop partielles.
+```
+Error in wdesr_ggplot_graph(df, node_size = node_size/mult, label_sizes = label_sizes/mult, : Empty ESR graph: something went wrong with the graph production parameters
 
-### Histoire : EHESP @EHESP https://github.com/cpesr/wikidataESR/blob/master/plots/etablissements/Q1587855-histoire.md 
+``` 
 
-Erreur : les données sont probablement trop partielles. 
+Avertissements et édition : [logs](https://github.com/cpesr/wikidataESR/blob/master/plots/etablissements/Q273523.md) 
 
-Avertissements et édition : [logs](plots/etablissements/Q1587855-histoire.md 
+### École nationale des ponts et chaussées @EcoledesPonts : Composition https://github.com/cpesr/wikidataESR/blob/master/plots/etablissements/Q273523.md 
 
-### Composition : EHESP @EHESP https://github.com/cpesr/wikidataESR/blob/master/plots/etablissements/Q1587855-composition.md 
+![](https://github.com/cpesr/wikidataESR/blob/master/plots/etablissements/Q273523-composition.png) 
 
-Erreur : les données sont probablement trop partielles. 
+Avertissements et édition : [logs](https://github.com/cpesr/wikidataESR/blob/master/plots/etablissements/Q273523.md) 
 
-Avertissements et édition : [logs](plots/etablissements/Q1587855-composition.md 
+### École nationale des ponts et chaussées @EcoledesPonts : Associations https://github.com/cpesr/wikidataESR/blob/master/plots/etablissements/Q273523.md 
 
-### Associations : EHESP @EHESP https://github.com/cpesr/wikidataESR/blob/master/plots/etablissements/Q1587855-associations.md 
+Erreur : les données sont probablement trop partielles.
+```
+Error: `multiple` is `FALSE`, but `x` contains parallel edges.
+The following rows in `x` are duplicated:
+	- `x[3, ]`
 
-![](plots/etablissements/Q1587855-associations.png) 
+``` 
 
-Avertissements et édition : [logs](plots/etablissements/Q1587855-associations.md 
+Avertissements et édition : [logs](https://github.com/cpesr/wikidataESR/blob/master/plots/etablissements/Q273523.md) 
 
-### Histoire : Collège de France @cdf1530 https://github.com/cpesr/wikidataESR/blob/master/plots/etablissements/Q202660-histoire.md 
+### EHESP @EHESP : Histoire https://github.com/cpesr/wikidataESR/blob/master/plots/etablissements/Q1587855.md 
 
-![](plots/etablissements/Q202660-histoire.png) 
+Erreur : les données sont probablement trop partielles.
+```
+Error in wdesr_ggplot_graph(df, node_size = node_size/mult, label_sizes = label_sizes/mult, : Empty ESR graph: something went wrong with the graph production parameters
 
-Avertissements et édition : [logs](plots/etablissements/Q202660-histoire.md 
+``` 
 
-### Composition : Collège de France @cdf1530 https://github.com/cpesr/wikidataESR/blob/master/plots/etablissements/Q202660-composition.md 
+Avertissements et édition : [logs](https://github.com/cpesr/wikidataESR/blob/master/plots/etablissements/Q1587855.md) 
 
-![](plots/etablissements/Q202660-composition.png) 
+### EHESP @EHESP : Composition https://github.com/cpesr/wikidataESR/blob/master/plots/etablissements/Q1587855.md 
 
-Avertissements et édition : [logs](plots/etablissements/Q202660-composition.md 
+Erreur : les données sont probablement trop partielles.
+```
+Error in wdesr_ggplot_graph(df, node_size = node_size/mult, label_sizes = label_sizes/mult, : Empty ESR graph: something went wrong with the graph production parameters
 
-### Associations : Collège de France @cdf1530 https://github.com/cpesr/wikidataESR/blob/master/plots/etablissements/Q202660-associations.md 
+``` 
 
-![](plots/etablissements/Q202660-associations.png) 
+Avertissements et édition : [logs](https://github.com/cpesr/wikidataESR/blob/master/plots/etablissements/Q1587855.md) 
 
-Avertissements et édition : [logs](plots/etablissements/Q202660-associations.md 
+### EHESP @EHESP : Associations https://github.com/cpesr/wikidataESR/blob/master/plots/etablissements/Q1587855.md 
 
-### Histoire : EHESS @EHESS_fr https://github.com/cpesr/wikidataESR/blob/master/plots/etablissements/Q273518-histoire.md 
+![](https://github.com/cpesr/wikidataESR/blob/master/plots/etablissements/Q1587855-associations.png) 
 
-![](plots/etablissements/Q273518-histoire.png) 
+Avertissements et édition : [logs](https://github.com/cpesr/wikidataESR/blob/master/plots/etablissements/Q1587855.md) 
 
-Avertissements et édition : [logs](plots/etablissements/Q273518-histoire.md 
+### Collège de France @cdf1530 : Histoire https://github.com/cpesr/wikidataESR/blob/master/plots/etablissements/Q202660.md 
 
-### Composition : EHESS @EHESS_fr https://github.com/cpesr/wikidataESR/blob/master/plots/etablissements/Q273518-composition.md 
+![](https://github.com/cpesr/wikidataESR/blob/master/plots/etablissements/Q202660-histoire.png) 
 
-![](plots/etablissements/Q273518-composition.png) 
+Avertissements et édition : [logs](https://github.com/cpesr/wikidataESR/blob/master/plots/etablissements/Q202660.md) 
 
-Avertissements et édition : [logs](plots/etablissements/Q273518-composition.md 
+### Collège de France @cdf1530 : Composition https://github.com/cpesr/wikidataESR/blob/master/plots/etablissements/Q202660.md 
 
-### Associations : EHESS @EHESS_fr https://github.com/cpesr/wikidataESR/blob/master/plots/etablissements/Q273518-associations.md 
+![](https://github.com/cpesr/wikidataESR/blob/master/plots/etablissements/Q202660-composition.png) 
 
-![](plots/etablissements/Q273518-associations.png) 
+Avertissements et édition : [logs](https://github.com/cpesr/wikidataESR/blob/master/plots/etablissements/Q202660.md) 
 
-Avertissements et édition : [logs](plots/etablissements/Q273518-associations.md 
+### Collège de France @cdf1530 : Associations https://github.com/cpesr/wikidataESR/blob/master/plots/etablissements/Q202660.md 
 
-### Histoire : École nationale vétérinaire, agroalimentaire et de l'alimentation, Nantes-Atlantique  https://github.com/cpesr/wikidataESR/blob/master/plots/etablissements/Q3578268-histoire.md 
+![](https://github.com/cpesr/wikidataESR/blob/master/plots/etablissements/Q202660-associations.png) 
 
-Erreur : les données sont probablement trop partielles. 
+Avertissements et édition : [logs](https://github.com/cpesr/wikidataESR/blob/master/plots/etablissements/Q202660.md) 
 
-Avertissements et édition : [logs](plots/etablissements/Q3578268-histoire.md 
+### EHESS @EHESS_fr : Histoire https://github.com/cpesr/wikidataESR/blob/master/plots/etablissements/Q273518.md 
 
-### Composition : École nationale vétérinaire, agroalimentaire et de l'alimentation, Nantes-Atlantique  https://github.com/cpesr/wikidataESR/blob/master/plots/etablissements/Q3578268-composition.md 
+![](https://github.com/cpesr/wikidataESR/blob/master/plots/etablissements/Q273518-histoire.png) 
 
-![](plots/etablissements/Q3578268-composition.png) 
+Avertissements et édition : [logs](https://github.com/cpesr/wikidataESR/blob/master/plots/etablissements/Q273518.md) 
 
-Avertissements et édition : [logs](plots/etablissements/Q3578268-composition.md 
+### EHESS @EHESS_fr : Composition https://github.com/cpesr/wikidataESR/blob/master/plots/etablissements/Q273518.md 
 
-### Associations : École nationale vétérinaire, agroalimentaire et de l'alimentation, Nantes-Atlantique  https://github.com/cpesr/wikidataESR/blob/master/plots/etablissements/Q3578268-associations.md 
+![](https://github.com/cpesr/wikidataESR/blob/master/plots/etablissements/Q273518-composition.png) 
 
-Erreur : les données sont probablement trop partielles. 
+Avertissements et édition : [logs](https://github.com/cpesr/wikidataESR/blob/master/plots/etablissements/Q273518.md) 
 
-Avertissements et édition : [logs](plots/etablissements/Q3578268-associations.md 
+### EHESS @EHESS_fr : Associations https://github.com/cpesr/wikidataESR/blob/master/plots/etablissements/Q273518.md 
 
-### Histoire : Bordeaux INP @BordeauxINP https://github.com/cpesr/wikidataESR/blob/master/plots/etablissements/Q3152470-histoire.md 
+![](https://github.com/cpesr/wikidataESR/blob/master/plots/etablissements/Q273518-associations.png) 
 
-Erreur : les données sont probablement trop partielles. 
+Avertissements et édition : [logs](https://github.com/cpesr/wikidataESR/blob/master/plots/etablissements/Q273518.md) 
 
-Avertissements et édition : [logs](plots/etablissements/Q3152470-histoire.md 
+### École nationale vétérinaire, agroalimentaire et de l'alimentation, Nantes-Atlantique  : Histoire https://github.com/cpesr/wikidataESR/blob/master/plots/etablissements/Q3578268.md 
 
-### Composition : Bordeaux INP @BordeauxINP https://github.com/cpesr/wikidataESR/blob/master/plots/etablissements/Q3152470-composition.md 
+Erreur : les données sont probablement trop partielles.
+```
+Error in wdesr_ggplot_graph(df, node_size = node_size/mult, label_sizes = label_sizes/mult, : Empty ESR graph: something went wrong with the graph production parameters
 
-![](plots/etablissements/Q3152470-composition.png) 
+``` 
 
-Avertissements et édition : [logs](plots/etablissements/Q3152470-composition.md 
+Avertissements et édition : [logs](https://github.com/cpesr/wikidataESR/blob/master/plots/etablissements/Q3578268.md) 
 
-### Associations : Bordeaux INP @BordeauxINP https://github.com/cpesr/wikidataESR/blob/master/plots/etablissements/Q3152470-associations.md 
+### École nationale vétérinaire, agroalimentaire et de l'alimentation, Nantes-Atlantique  : Composition https://github.com/cpesr/wikidataESR/blob/master/plots/etablissements/Q3578268.md 
 
-Erreur : les données sont probablement trop partielles. 
+![](https://github.com/cpesr/wikidataESR/blob/master/plots/etablissements/Q3578268-composition.png) 
 
-Avertissements et édition : [logs](plots/etablissements/Q3152470-associations.md 
+Avertissements et édition : [logs](https://github.com/cpesr/wikidataESR/blob/master/plots/etablissements/Q3578268.md) 
 
-### Histoire : École navale @Ecole_navale https://github.com/cpesr/wikidataESR/blob/master/plots/etablissements/Q974394-histoire.md 
+### École nationale vétérinaire, agroalimentaire et de l'alimentation, Nantes-Atlantique  : Associations https://github.com/cpesr/wikidataESR/blob/master/plots/etablissements/Q3578268.md 
 
-Erreur : les données sont probablement trop partielles. 
+Erreur : les données sont probablement trop partielles.
+```
+Error in wdesr_ggplot_graph(df, node_size = node_size/mult, label_sizes = label_sizes/mult, : Empty ESR graph: something went wrong with the graph production parameters
 
-Avertissements et édition : [logs](plots/etablissements/Q974394-histoire.md 
+``` 
 
-### Composition : École navale @Ecole_navale https://github.com/cpesr/wikidataESR/blob/master/plots/etablissements/Q974394-composition.md 
+Avertissements et édition : [logs](https://github.com/cpesr/wikidataESR/blob/master/plots/etablissements/Q3578268.md) 
 
-![](plots/etablissements/Q974394-composition.png) 
+### Bordeaux INP @BordeauxINP : Histoire https://github.com/cpesr/wikidataESR/blob/master/plots/etablissements/Q3152470.md 
 
-Avertissements et édition : [logs](plots/etablissements/Q974394-composition.md 
+Erreur : les données sont probablement trop partielles.
+```
+Error in wdesr_ggplot_graph(df, node_size = node_size/mult, label_sizes = label_sizes/mult, : Empty ESR graph: something went wrong with the graph production parameters
 
-### Associations : École navale @Ecole_navale https://github.com/cpesr/wikidataESR/blob/master/plots/etablissements/Q974394-associations.md 
+``` 
 
-Erreur : les données sont probablement trop partielles. 
+Avertissements et édition : [logs](https://github.com/cpesr/wikidataESR/blob/master/plots/etablissements/Q3152470.md) 
 
-Avertissements et édition : [logs](plots/etablissements/Q974394-associations.md 
+### Bordeaux INP @BordeauxINP : Composition https://github.com/cpesr/wikidataESR/blob/master/plots/etablissements/Q3152470.md 
 
-### Histoire : INALCO @Inalco https://github.com/cpesr/wikidataESR/blob/master/plots/etablissements/Q1430113-histoire.md 
+![](https://github.com/cpesr/wikidataESR/blob/master/plots/etablissements/Q3152470-composition.png) 
 
-![](plots/etablissements/Q1430113-histoire.png) 
+Avertissements et édition : [logs](https://github.com/cpesr/wikidataESR/blob/master/plots/etablissements/Q3152470.md) 
 
-Avertissements et édition : [logs](plots/etablissements/Q1430113-histoire.md 
+### Bordeaux INP @BordeauxINP : Associations https://github.com/cpesr/wikidataESR/blob/master/plots/etablissements/Q3152470.md 
 
-### Composition : INALCO @Inalco https://github.com/cpesr/wikidataESR/blob/master/plots/etablissements/Q1430113-composition.md 
+Erreur : les données sont probablement trop partielles.
+```
+Error in wdesr_ggplot_graph(df, node_size = node_size/mult, label_sizes = label_sizes/mult, : Empty ESR graph: something went wrong with the graph production parameters
 
-![](plots/etablissements/Q1430113-composition.png) 
+``` 
 
-Avertissements et édition : [logs](plots/etablissements/Q1430113-composition.md 
+Avertissements et édition : [logs](https://github.com/cpesr/wikidataESR/blob/master/plots/etablissements/Q3152470.md) 
 
-### Associations : INALCO @Inalco https://github.com/cpesr/wikidataESR/blob/master/plots/etablissements/Q1430113-associations.md 
+### École navale @Ecole_navale : Histoire https://github.com/cpesr/wikidataESR/blob/master/plots/etablissements/Q974394.md 
 
-![](plots/etablissements/Q1430113-associations.png) 
+Erreur : les données sont probablement trop partielles.
+```
+Error in wdesr_ggplot_graph(df, node_size = node_size/mult, label_sizes = label_sizes/mult, : Empty ESR graph: something went wrong with the graph production parameters
 
-Avertissements et édition : [logs](plots/etablissements/Q1430113-associations.md 
+``` 
 
-### Histoire : Institut national d'histoire de l'art @INHA_Fr https://github.com/cpesr/wikidataESR/blob/master/plots/etablissements/Q3152376-histoire.md 
+Avertissements et édition : [logs](https://github.com/cpesr/wikidataESR/blob/master/plots/etablissements/Q974394.md) 
 
-Erreur : les données sont probablement trop partielles. 
+### École navale @Ecole_navale : Composition https://github.com/cpesr/wikidataESR/blob/master/plots/etablissements/Q974394.md 
 
-Avertissements et édition : [logs](plots/etablissements/Q3152376-histoire.md 
+![](https://github.com/cpesr/wikidataESR/blob/master/plots/etablissements/Q974394-composition.png) 
 
-### Composition : Institut national d'histoire de l'art @INHA_Fr https://github.com/cpesr/wikidataESR/blob/master/plots/etablissements/Q3152376-composition.md 
+Avertissements et édition : [logs](https://github.com/cpesr/wikidataESR/blob/master/plots/etablissements/Q974394.md) 
 
-Erreur : les données sont probablement trop partielles. 
+### École navale @Ecole_navale : Associations https://github.com/cpesr/wikidataESR/blob/master/plots/etablissements/Q974394.md 
 
-Avertissements et édition : [logs](plots/etablissements/Q3152376-composition.md 
+Erreur : les données sont probablement trop partielles.
+```
+Error: `multiple` is `FALSE`, but `x` contains parallel edges.
+The following rows in `x` are duplicated:
+	- `x[3, ]`
+	- `x[18, ]`
+	- `x[53, ]`
+	- `x[67, ]`
+	- `x[251, ]`
+	- `x[274, ]`
 
-### Associations : Institut national d'histoire de l'art @INHA_Fr https://github.com/cpesr/wikidataESR/blob/master/plots/etablissements/Q3152376-associations.md 
+``` 
 
-![](plots/etablissements/Q3152376-associations.png) 
+Avertissements et édition : [logs](https://github.com/cpesr/wikidataESR/blob/master/plots/etablissements/Q974394.md) 
 
-Avertissements et édition : [logs](plots/etablissements/Q3152376-associations.md 
+### INALCO @Inalco : Histoire https://github.com/cpesr/wikidataESR/blob/master/plots/etablissements/Q1430113.md 
 
-### Histoire : Muséum national d'histoire naturelle @Le_Museum https://github.com/cpesr/wikidataESR/blob/master/plots/etablissements/Q838691-histoire.md 
+![](https://github.com/cpesr/wikidataESR/blob/master/plots/etablissements/Q1430113-histoire.png) 
 
-Erreur : les données sont probablement trop partielles. 
+Avertissements et édition : [logs](https://github.com/cpesr/wikidataESR/blob/master/plots/etablissements/Q1430113.md) 
 
-Avertissements et édition : [logs](plots/etablissements/Q838691-histoire.md 
+### INALCO @Inalco : Composition https://github.com/cpesr/wikidataESR/blob/master/plots/etablissements/Q1430113.md 
 
-### Composition : Muséum national d'histoire naturelle @Le_Museum https://github.com/cpesr/wikidataESR/blob/master/plots/etablissements/Q838691-composition.md 
+![](https://github.com/cpesr/wikidataESR/blob/master/plots/etablissements/Q1430113-composition.png) 
 
-![](plots/etablissements/Q838691-composition.png) 
+Avertissements et édition : [logs](https://github.com/cpesr/wikidataESR/blob/master/plots/etablissements/Q1430113.md) 
 
-Avertissements et édition : [logs](plots/etablissements/Q838691-composition.md 
+### INALCO @Inalco : Associations https://github.com/cpesr/wikidataESR/blob/master/plots/etablissements/Q1430113.md 
 
-### Associations : Muséum national d'histoire naturelle @Le_Museum https://github.com/cpesr/wikidataESR/blob/master/plots/etablissements/Q838691-associations.md 
+![](https://github.com/cpesr/wikidataESR/blob/master/plots/etablissements/Q1430113-associations.png) 
 
-![](plots/etablissements/Q838691-associations.png) 
+Avertissements et édition : [logs](https://github.com/cpesr/wikidataESR/blob/master/plots/etablissements/Q1430113.md) 
 
-Avertissements et édition : [logs](plots/etablissements/Q838691-associations.md 
+### Institut national d'histoire de l'art @INHA_Fr : Histoire https://github.com/cpesr/wikidataESR/blob/master/plots/etablissements/Q3152376.md 
 
-### Histoire : Institut Agro  https://github.com/cpesr/wikidataESR/blob/master/plots/etablissements/Q81433122-histoire.md 
+Erreur : les données sont probablement trop partielles.
+```
+Error in wdesr_ggplot_graph(df, node_size = node_size/mult, label_sizes = label_sizes/mult, : Empty ESR graph: something went wrong with the graph production parameters
 
-![](plots/etablissements/Q81433122-histoire.png) 
+``` 
 
-Avertissements et édition : [logs](plots/etablissements/Q81433122-histoire.md 
+Avertissements et édition : [logs](https://github.com/cpesr/wikidataESR/blob/master/plots/etablissements/Q3152376.md) 
 
-### Composition : Institut Agro  https://github.com/cpesr/wikidataESR/blob/master/plots/etablissements/Q81433122-composition.md 
+### Institut national d'histoire de l'art @INHA_Fr : Composition https://github.com/cpesr/wikidataESR/blob/master/plots/etablissements/Q3152376.md 
 
-Erreur : les données sont probablement trop partielles. 
+Erreur : les données sont probablement trop partielles.
+```
+Error in wdesr_ggplot_graph(df, node_size = node_size/mult, label_sizes = label_sizes/mult, : Empty ESR graph: something went wrong with the graph production parameters
 
-Avertissements et édition : [logs](plots/etablissements/Q81433122-composition.md 
+``` 
 
-### Associations : Institut Agro  https://github.com/cpesr/wikidataESR/blob/master/plots/etablissements/Q81433122-associations.md 
+Avertissements et édition : [logs](https://github.com/cpesr/wikidataESR/blob/master/plots/etablissements/Q3152376.md) 
 
-Erreur : les données sont probablement trop partielles. 
+### Institut national d'histoire de l'art @INHA_Fr : Associations https://github.com/cpesr/wikidataESR/blob/master/plots/etablissements/Q3152376.md 
 
-Avertissements et édition : [logs](plots/etablissements/Q81433122-associations.md 
+![](https://github.com/cpesr/wikidataESR/blob/master/plots/etablissements/Q3152376-associations.png) 
 
-### Histoire : Université de Lorraine @Univ_Lorraine https://github.com/cpesr/wikidataESR/blob/master/plots/etablissements/Q4173330-histoire.md 
+Avertissements et édition : [logs](https://github.com/cpesr/wikidataESR/blob/master/plots/etablissements/Q3152376.md) 
 
-![](plots/etablissements/Q4173330-histoire.png) 
+### Muséum national d'histoire naturelle @Le_Museum : Histoire https://github.com/cpesr/wikidataESR/blob/master/plots/etablissements/Q838691.md 
 
-Avertissements et édition : [logs](plots/etablissements/Q4173330-histoire.md 
+Erreur : les données sont probablement trop partielles.
+```
+Error in wdesr_ggplot_graph(df, node_size = node_size/mult, label_sizes = label_sizes/mult, : Empty ESR graph: something went wrong with the graph production parameters
 
-### Composition : Université de Lorraine @Univ_Lorraine https://github.com/cpesr/wikidataESR/blob/master/plots/etablissements/Q4173330-composition.md 
+``` 
 
-![](plots/etablissements/Q4173330-composition.png) 
+Avertissements et édition : [logs](https://github.com/cpesr/wikidataESR/blob/master/plots/etablissements/Q838691.md) 
 
-Avertissements et édition : [logs](plots/etablissements/Q4173330-composition.md 
+### Muséum national d'histoire naturelle @Le_Museum : Composition https://github.com/cpesr/wikidataESR/blob/master/plots/etablissements/Q838691.md 
 
-### Associations : Université de Lorraine @Univ_Lorraine https://github.com/cpesr/wikidataESR/blob/master/plots/etablissements/Q4173330-associations.md 
+![](https://github.com/cpesr/wikidataESR/blob/master/plots/etablissements/Q838691-composition.png) 
 
-![](plots/etablissements/Q4173330-associations.png) 
+Avertissements et édition : [logs](https://github.com/cpesr/wikidataESR/blob/master/plots/etablissements/Q838691.md) 
 
-Avertissements et édition : [logs](plots/etablissements/Q4173330-associations.md 
+### Muséum national d'histoire naturelle @Le_Museum : Associations https://github.com/cpesr/wikidataESR/blob/master/plots/etablissements/Q838691.md 
 
-### Histoire : Institut Mines-Télécom, au périmètre des écoles IMT Atlantique, Lille Douai, Albi, Alès, Mines Saint-Étienne et Institut Mines-Télécom Business school @IMTFrance https://github.com/cpesr/wikidataESR/blob/master/plots/etablissements/Q7885718-histoire.md 
+![](https://github.com/cpesr/wikidataESR/blob/master/plots/etablissements/Q838691-associations.png) 
 
-Erreur : les données sont probablement trop partielles. 
+Avertissements et édition : [logs](https://github.com/cpesr/wikidataESR/blob/master/plots/etablissements/Q838691.md) 
 
-Avertissements et édition : [logs](plots/etablissements/Q7885718-histoire.md 
+### Institut Agro  : Histoire https://github.com/cpesr/wikidataESR/blob/master/plots/etablissements/Q81433122.md 
 
-### Composition : Institut Mines-Télécom, au périmètre des écoles IMT Atlantique, Lille Douai, Albi, Alès, Mines Saint-Étienne et Institut Mines-Télécom Business school @IMTFrance https://github.com/cpesr/wikidataESR/blob/master/plots/etablissements/Q7885718-composition.md 
+![](https://github.com/cpesr/wikidataESR/blob/master/plots/etablissements/Q81433122-histoire.png) 
 
-![](plots/etablissements/Q7885718-composition.png) 
+Avertissements et édition : [logs](https://github.com/cpesr/wikidataESR/blob/master/plots/etablissements/Q81433122.md) 
 
-Avertissements et édition : [logs](plots/etablissements/Q7885718-composition.md 
+### Institut Agro  : Composition https://github.com/cpesr/wikidataESR/blob/master/plots/etablissements/Q81433122.md 
 
-### Associations : Institut Mines-Télécom, au périmètre des écoles IMT Atlantique, Lille Douai, Albi, Alès, Mines Saint-Étienne et Institut Mines-Télécom Business school @IMTFrance https://github.com/cpesr/wikidataESR/blob/master/plots/etablissements/Q7885718-associations.md 
+Erreur : les données sont probablement trop partielles.
+```
+Error in wdesr_ggplot_graph(df, node_size = node_size/mult, label_sizes = label_sizes/mult, : Empty ESR graph: something went wrong with the graph production parameters
 
-![](plots/etablissements/Q7885718-associations.png) 
+``` 
 
-Avertissements et édition : [logs](plots/etablissements/Q7885718-associations.md 
+Avertissements et édition : [logs](https://github.com/cpesr/wikidataESR/blob/master/plots/etablissements/Q81433122.md) 
 
-### Histoire : École nationale supérieure maritime @ENSM https://github.com/cpesr/wikidataESR/blob/master/plots/etablissements/Q3578264-histoire.md 
+### Institut Agro  : Associations https://github.com/cpesr/wikidataESR/blob/master/plots/etablissements/Q81433122.md 
 
-Erreur : les données sont probablement trop partielles. 
+Erreur : les données sont probablement trop partielles.
+```
+Error in wdesr_ggplot_graph(df, node_size = node_size/mult, label_sizes = label_sizes/mult, : Empty ESR graph: something went wrong with the graph production parameters
 
-Avertissements et édition : [logs](plots/etablissements/Q3578264-histoire.md 
+``` 
 
-### Composition : École nationale supérieure maritime @ENSM https://github.com/cpesr/wikidataESR/blob/master/plots/etablissements/Q3578264-composition.md 
+Avertissements et édition : [logs](https://github.com/cpesr/wikidataESR/blob/master/plots/etablissements/Q81433122.md) 
 
-Erreur : les données sont probablement trop partielles. 
+### Université de Lorraine @Univ_Lorraine : Histoire https://github.com/cpesr/wikidataESR/blob/master/plots/etablissements/Q4173330.md 
 
-Avertissements et édition : [logs](plots/etablissements/Q3578264-composition.md 
+![](https://github.com/cpesr/wikidataESR/blob/master/plots/etablissements/Q4173330-histoire.png) 
 
-### Associations : École nationale supérieure maritime @ENSM https://github.com/cpesr/wikidataESR/blob/master/plots/etablissements/Q3578264-associations.md 
+Avertissements et édition : [logs](https://github.com/cpesr/wikidataESR/blob/master/plots/etablissements/Q4173330.md) 
 
-![](plots/etablissements/Q3578264-associations.png) 
+### Université de Lorraine @Univ_Lorraine : Composition https://github.com/cpesr/wikidataESR/blob/master/plots/etablissements/Q4173330.md 
 
-Avertissements et édition : [logs](plots/etablissements/Q3578264-associations.md 
+![](https://github.com/cpesr/wikidataESR/blob/master/plots/etablissements/Q4173330-composition.png) 
 
-### Histoire : Vet Agro Sup @VetAgroSup https://github.com/cpesr/wikidataESR/blob/master/plots/etablissements/Q3151920-histoire.md 
+Avertissements et édition : [logs](https://github.com/cpesr/wikidataESR/blob/master/plots/etablissements/Q4173330.md) 
 
-![](plots/etablissements/Q3151920-histoire.png) 
+### Université de Lorraine @Univ_Lorraine : Associations https://github.com/cpesr/wikidataESR/blob/master/plots/etablissements/Q4173330.md 
 
-Avertissements et édition : [logs](plots/etablissements/Q3151920-histoire.md 
+![](https://github.com/cpesr/wikidataESR/blob/master/plots/etablissements/Q4173330-associations.png) 
 
-### Composition : Vet Agro Sup @VetAgroSup https://github.com/cpesr/wikidataESR/blob/master/plots/etablissements/Q3151920-composition.md 
+Avertissements et édition : [logs](https://github.com/cpesr/wikidataESR/blob/master/plots/etablissements/Q4173330.md) 
 
-![](plots/etablissements/Q3151920-composition.png) 
+### Institut Mines-Télécom, au périmètre des écoles IMT Atlantique, Lille Douai, Albi, Alès, Mines Saint-Étienne et Institut Mines-Télécom Business school @IMTFrance : Histoire https://github.com/cpesr/wikidataESR/blob/master/plots/etablissements/Q7885718.md 
 
-Avertissements et édition : [logs](plots/etablissements/Q3151920-composition.md 
+Erreur : les données sont probablement trop partielles.
+```
+Error in wdesr_ggplot_graph(df, node_size = node_size/mult, label_sizes = label_sizes/mult, : Empty ESR graph: something went wrong with the graph production parameters
 
-### Associations : Vet Agro Sup @VetAgroSup https://github.com/cpesr/wikidataESR/blob/master/plots/etablissements/Q3151920-associations.md 
+``` 
 
-Erreur : les données sont probablement trop partielles. 
+Avertissements et édition : [logs](https://github.com/cpesr/wikidataESR/blob/master/plots/etablissements/Q7885718.md) 
 
-Avertissements et édition : [logs](plots/etablissements/Q3151920-associations.md 
+### Institut Mines-Télécom, au périmètre des écoles IMT Atlantique, Lille Douai, Albi, Alès, Mines Saint-Étienne et Institut Mines-Télécom Business school @IMTFrance : Composition https://github.com/cpesr/wikidataESR/blob/master/plots/etablissements/Q7885718.md 
 
-### Histoire : ISAE-SUPAERO @ISAE_officiel https://github.com/cpesr/wikidataESR/blob/master/plots/etablissements/Q155446-histoire.md 
+![](https://github.com/cpesr/wikidataESR/blob/master/plots/etablissements/Q7885718-composition.png) 
 
-![](plots/etablissements/Q155446-histoire.png) 
+Avertissements et édition : [logs](https://github.com/cpesr/wikidataESR/blob/master/plots/etablissements/Q7885718.md) 
 
-Avertissements et édition : [logs](plots/etablissements/Q155446-histoire.md 
+### Institut Mines-Télécom, au périmètre des écoles IMT Atlantique, Lille Douai, Albi, Alès, Mines Saint-Étienne et Institut Mines-Télécom Business school @IMTFrance : Associations https://github.com/cpesr/wikidataESR/blob/master/plots/etablissements/Q7885718.md 
 
-### Composition : ISAE-SUPAERO @ISAE_officiel https://github.com/cpesr/wikidataESR/blob/master/plots/etablissements/Q155446-composition.md 
+![](https://github.com/cpesr/wikidataESR/blob/master/plots/etablissements/Q7885718-associations.png) 
 
-![](plots/etablissements/Q155446-composition.png) 
+Avertissements et édition : [logs](https://github.com/cpesr/wikidataESR/blob/master/plots/etablissements/Q7885718.md) 
 
-Avertissements et édition : [logs](plots/etablissements/Q155446-composition.md 
+### École nationale supérieure maritime @ENSM : Histoire https://github.com/cpesr/wikidataESR/blob/master/plots/etablissements/Q3578264.md 
 
-### Associations : ISAE-SUPAERO @ISAE_officiel https://github.com/cpesr/wikidataESR/blob/master/plots/etablissements/Q155446-associations.md 
+Erreur : les données sont probablement trop partielles.
+```
+Error in wdesr_ggplot_graph(df, node_size = node_size/mult, label_sizes = label_sizes/mult, : Empty ESR graph: something went wrong with the graph production parameters
 
-Erreur : les données sont probablement trop partielles. 
+``` 
 
-Avertissements et édition : [logs](plots/etablissements/Q155446-associations.md 
+Avertissements et édition : [logs](https://github.com/cpesr/wikidataESR/blob/master/plots/etablissements/Q3578264.md) 
 
-### Histoire : École nationale supérieure des sciences de l'information et des bibliothèques @enssib https://github.com/cpesr/wikidataESR/blob/master/plots/etablissements/Q2791269-histoire.md 
+### École nationale supérieure maritime @ENSM : Composition https://github.com/cpesr/wikidataESR/blob/master/plots/etablissements/Q3578264.md 
 
-Erreur : les données sont probablement trop partielles. 
+Erreur : les données sont probablement trop partielles.
+```
+Error in wdesr_ggplot_graph(df, node_size = node_size/mult, label_sizes = label_sizes/mult, : Empty ESR graph: something went wrong with the graph production parameters
 
-Avertissements et édition : [logs](plots/etablissements/Q2791269-histoire.md 
+``` 
 
-### Composition : École nationale supérieure des sciences de l'information et des bibliothèques @enssib https://github.com/cpesr/wikidataESR/blob/master/plots/etablissements/Q2791269-composition.md 
+Avertissements et édition : [logs](https://github.com/cpesr/wikidataESR/blob/master/plots/etablissements/Q3578264.md) 
 
-![](plots/etablissements/Q2791269-composition.png) 
+### École nationale supérieure maritime @ENSM : Associations https://github.com/cpesr/wikidataESR/blob/master/plots/etablissements/Q3578264.md 
 
-Avertissements et édition : [logs](plots/etablissements/Q2791269-composition.md 
+![](https://github.com/cpesr/wikidataESR/blob/master/plots/etablissements/Q3578264-associations.png) 
 
-### Associations : École nationale supérieure des sciences de l'information et des bibliothèques @enssib https://github.com/cpesr/wikidataESR/blob/master/plots/etablissements/Q2791269-associations.md 
+Avertissements et édition : [logs](https://github.com/cpesr/wikidataESR/blob/master/plots/etablissements/Q3578264.md) 
 
-Erreur : les données sont probablement trop partielles. 
+### Vet Agro Sup @VetAgroSup : Histoire https://github.com/cpesr/wikidataESR/blob/master/plots/etablissements/Q3151920.md 
 
-Avertissements et édition : [logs](plots/etablissements/Q2791269-associations.md 
+![](https://github.com/cpesr/wikidataESR/blob/master/plots/etablissements/Q3151920-histoire.png) 
 
-### Histoire : Institut national du sport, de l'expertise et de la performance @INSEP_PARIS https://github.com/cpesr/wikidataESR/blob/master/plots/etablissements/Q3152447-histoire.md 
+Avertissements et édition : [logs](https://github.com/cpesr/wikidataESR/blob/master/plots/etablissements/Q3151920.md) 
 
-![](plots/etablissements/Q3152447-histoire.png) 
+### Vet Agro Sup @VetAgroSup : Composition https://github.com/cpesr/wikidataESR/blob/master/plots/etablissements/Q3151920.md 
 
-Avertissements et édition : [logs](plots/etablissements/Q3152447-histoire.md 
+![](https://github.com/cpesr/wikidataESR/blob/master/plots/etablissements/Q3151920-composition.png) 
 
-### Composition : Institut national du sport, de l'expertise et de la performance @INSEP_PARIS https://github.com/cpesr/wikidataESR/blob/master/plots/etablissements/Q3152447-composition.md 
+Avertissements et édition : [logs](https://github.com/cpesr/wikidataESR/blob/master/plots/etablissements/Q3151920.md) 
 
-Erreur : les données sont probablement trop partielles. 
+### Vet Agro Sup @VetAgroSup : Associations https://github.com/cpesr/wikidataESR/blob/master/plots/etablissements/Q3151920.md 
 
-Avertissements et édition : [logs](plots/etablissements/Q3152447-composition.md 
+Erreur : les données sont probablement trop partielles.
+```
+Error in wdesr_ggplot_graph(df, node_size = node_size/mult, label_sizes = label_sizes/mult, : Empty ESR graph: something went wrong with the graph production parameters
 
-### Associations : Institut national du sport, de l'expertise et de la performance @INSEP_PARIS https://github.com/cpesr/wikidataESR/blob/master/plots/etablissements/Q3152447-associations.md 
+``` 
 
-Erreur : les données sont probablement trop partielles. 
+Avertissements et édition : [logs](https://github.com/cpesr/wikidataESR/blob/master/plots/etablissements/Q3151920.md) 
 
-Avertissements et édition : [logs](plots/etablissements/Q3152447-associations.md 
+### ISAE-SUPAERO @ISAE_officiel : Histoire https://github.com/cpesr/wikidataESR/blob/master/plots/etablissements/Q155446.md 
 
-### Histoire : Arts et Métiers @ArtsetMetiers_ https://github.com/cpesr/wikidataESR/blob/master/plots/etablissements/Q2570220-histoire.md 
+![](https://github.com/cpesr/wikidataESR/blob/master/plots/etablissements/Q155446-histoire.png) 
 
-Erreur : les données sont probablement trop partielles. 
+Avertissements et édition : [logs](https://github.com/cpesr/wikidataESR/blob/master/plots/etablissements/Q155446.md) 
 
-Avertissements et édition : [logs](plots/etablissements/Q2570220-histoire.md 
+### ISAE-SUPAERO @ISAE_officiel : Composition https://github.com/cpesr/wikidataESR/blob/master/plots/etablissements/Q155446.md 
 
-### Composition : Arts et Métiers @ArtsetMetiers_ https://github.com/cpesr/wikidataESR/blob/master/plots/etablissements/Q2570220-composition.md 
+![](https://github.com/cpesr/wikidataESR/blob/master/plots/etablissements/Q155446-composition.png) 
 
-![](plots/etablissements/Q2570220-composition.png) 
+Avertissements et édition : [logs](https://github.com/cpesr/wikidataESR/blob/master/plots/etablissements/Q155446.md) 
 
-Avertissements et édition : [logs](plots/etablissements/Q2570220-composition.md 
+### ISAE-SUPAERO @ISAE_officiel : Associations https://github.com/cpesr/wikidataESR/blob/master/plots/etablissements/Q155446.md 
 
-### Associations : Arts et Métiers @ArtsetMetiers_ https://github.com/cpesr/wikidataESR/blob/master/plots/etablissements/Q2570220-associations.md 
+Erreur : les données sont probablement trop partielles.
+```
+Error in wdesr_ggplot_graph(df, node_size = node_size/mult, label_sizes = label_sizes/mult, : Empty ESR graph: something went wrong with the graph production parameters
 
-![](plots/etablissements/Q2570220-associations.png) 
+``` 
 
-Avertissements et édition : [logs](plots/etablissements/Q2570220-associations.md 
+Avertissements et édition : [logs](https://github.com/cpesr/wikidataESR/blob/master/plots/etablissements/Q155446.md) 
+
+### École nationale supérieure des sciences de l'information et des bibliothèques @enssib : Histoire https://github.com/cpesr/wikidataESR/blob/master/plots/etablissements/Q2791269.md 
+
+Erreur : les données sont probablement trop partielles.
+```
+Error in wdesr_ggplot_graph(df, node_size = node_size/mult, label_sizes = label_sizes/mult, : Empty ESR graph: something went wrong with the graph production parameters
+
+``` 
+
+Avertissements et édition : [logs](https://github.com/cpesr/wikidataESR/blob/master/plots/etablissements/Q2791269.md) 
+
+### École nationale supérieure des sciences de l'information et des bibliothèques @enssib : Composition https://github.com/cpesr/wikidataESR/blob/master/plots/etablissements/Q2791269.md 
+
+![](https://github.com/cpesr/wikidataESR/blob/master/plots/etablissements/Q2791269-composition.png) 
+
+Avertissements et édition : [logs](https://github.com/cpesr/wikidataESR/blob/master/plots/etablissements/Q2791269.md) 
+
+### École nationale supérieure des sciences de l'information et des bibliothèques @enssib : Associations https://github.com/cpesr/wikidataESR/blob/master/plots/etablissements/Q2791269.md 
+
+Erreur : les données sont probablement trop partielles.
+```
+Error in wdesr_ggplot_graph(df, node_size = node_size/mult, label_sizes = label_sizes/mult, : Empty ESR graph: something went wrong with the graph production parameters
+
+``` 
+
+Avertissements et édition : [logs](https://github.com/cpesr/wikidataESR/blob/master/plots/etablissements/Q2791269.md) 
+
+### Institut national du sport, de l'expertise et de la performance @INSEP_PARIS : Histoire https://github.com/cpesr/wikidataESR/blob/master/plots/etablissements/Q3152447.md 
+
+![](https://github.com/cpesr/wikidataESR/blob/master/plots/etablissements/Q3152447-histoire.png) 
+
+Avertissements et édition : [logs](https://github.com/cpesr/wikidataESR/blob/master/plots/etablissements/Q3152447.md) 
+
+### Institut national du sport, de l'expertise et de la performance @INSEP_PARIS : Composition https://github.com/cpesr/wikidataESR/blob/master/plots/etablissements/Q3152447.md 
+
+Erreur : les données sont probablement trop partielles.
+```
+Error in wdesr_ggplot_graph(df, node_size = node_size/mult, label_sizes = label_sizes/mult, : Empty ESR graph: something went wrong with the graph production parameters
+
+``` 
+
+Avertissements et édition : [logs](https://github.com/cpesr/wikidataESR/blob/master/plots/etablissements/Q3152447.md) 
+
+### Institut national du sport, de l'expertise et de la performance @INSEP_PARIS : Associations https://github.com/cpesr/wikidataESR/blob/master/plots/etablissements/Q3152447.md 
+
+Erreur : les données sont probablement trop partielles.
+```
+Error in wdesr_ggplot_graph(df, node_size = node_size/mult, label_sizes = label_sizes/mult, : Empty ESR graph: something went wrong with the graph production parameters
+
+``` 
+
+Avertissements et édition : [logs](https://github.com/cpesr/wikidataESR/blob/master/plots/etablissements/Q3152447.md) 
+
+### Arts et Métiers @ArtsetMetiers_ : Histoire https://github.com/cpesr/wikidataESR/blob/master/plots/etablissements/Q2570220.md 
+
+Erreur : les données sont probablement trop partielles.
+```
+Error in wdesr_ggplot_graph(df, node_size = node_size/mult, label_sizes = label_sizes/mult, : Empty ESR graph: something went wrong with the graph production parameters
+
+``` 
+
+Avertissements et édition : [logs](https://github.com/cpesr/wikidataESR/blob/master/plots/etablissements/Q2570220.md) 
+
+### Arts et Métiers @ArtsetMetiers_ : Composition https://github.com/cpesr/wikidataESR/blob/master/plots/etablissements/Q2570220.md 
+
+![](https://github.com/cpesr/wikidataESR/blob/master/plots/etablissements/Q2570220-composition.png) 
+
+Avertissements et édition : [logs](https://github.com/cpesr/wikidataESR/blob/master/plots/etablissements/Q2570220.md) 
+
+### Arts et Métiers @ArtsetMetiers_ : Associations https://github.com/cpesr/wikidataESR/blob/master/plots/etablissements/Q2570220.md 
+
+![](https://github.com/cpesr/wikidataESR/blob/master/plots/etablissements/Q2570220-associations.png) 
+
+Avertissements et édition : [logs](https://github.com/cpesr/wikidataESR/blob/master/plots/etablissements/Q2570220.md) 
 
 ## Regroupements 
 
-### Regroupement-Court : COMUE d'Aquitaine https://github.com/cpesr/wikidataESR/blob/master/plots/regroupements/Q16541346-regroupement-court.md 
+### COMUE d'Aquitaine : Regroupement-Court https://github.com/cpesr/wikidataESR/blob/master/plots/regroupements/Q16541346.md 
 
-![](plots/regroupements/Q16541346-regroupement-court.png) 
+![](https://github.com/cpesr/wikidataESR/blob/master/plots/regroupements/Q16541346-regroupement-court.png) 
 
-Avertissements et édition : [logs](plots/regroupements/Q16541346-regroupement-court.md 
+Avertissements et édition : [logs](https://github.com/cpesr/wikidataESR/blob/master/plots/regroupements/Q16541346.md) 
 
-### Regroupement-Etendu : COMUE d'Aquitaine https://github.com/cpesr/wikidataESR/blob/master/plots/regroupements/Q16541346-regroupement-etendu.md 
+### COMUE d'Aquitaine : Regroupement-Etendu https://github.com/cpesr/wikidataESR/blob/master/plots/regroupements/Q16541346.md 
 
-![](plots/regroupements/Q16541346-regroupement-etendu.png) 
+![](https://github.com/cpesr/wikidataESR/blob/master/plots/regroupements/Q16541346-regroupement-etendu.png) 
 
-Avertissements et édition : [logs](plots/regroupements/Q16541346-regroupement-etendu.md 
+Avertissements et édition : [logs](https://github.com/cpesr/wikidataESR/blob/master/plots/regroupements/Q16541346.md) 
 
-### Regroupement-Superetendu : COMUE d'Aquitaine https://github.com/cpesr/wikidataESR/blob/master/plots/regroupements/Q16541346-regroupement-superetendu.md 
+### COMUE d'Aquitaine : Regroupement-Superetendu https://github.com/cpesr/wikidataESR/blob/master/plots/regroupements/Q16541346.md 
 
-![](plots/regroupements/Q16541346-regroupement-superetendu.png) 
+![](https://github.com/cpesr/wikidataESR/blob/master/plots/regroupements/Q16541346-regroupement-superetendu.png) 
 
-Avertissements et édition : [logs](plots/regroupements/Q16541346-regroupement-superetendu.md 
+Avertissements et édition : [logs](https://github.com/cpesr/wikidataESR/blob/master/plots/regroupements/Q16541346.md) 
 
-### Regroupement-Court : COMUE d'Aquitaine https://github.com/cpesr/wikidataESR/blob/master/plots/regroupements/Q13344-regroupement-court.md 
+### COMUE d'Aquitaine : Regroupement-Court https://github.com/cpesr/wikidataESR/blob/master/plots/regroupements/Q13344.md 
 
-![](plots/regroupements/Q13344-regroupement-court.png) 
+![](https://github.com/cpesr/wikidataESR/blob/master/plots/regroupements/Q13344-regroupement-court.png) 
 
-Avertissements et édition : [logs](plots/regroupements/Q13344-regroupement-court.md 
+Avertissements et édition : [logs](https://github.com/cpesr/wikidataESR/blob/master/plots/regroupements/Q13344.md) 
 
-### Regroupement-Etendu : COMUE d'Aquitaine https://github.com/cpesr/wikidataESR/blob/master/plots/regroupements/Q13344-regroupement-etendu.md 
+### COMUE d'Aquitaine : Regroupement-Etendu https://github.com/cpesr/wikidataESR/blob/master/plots/regroupements/Q13344.md 
 
-![](plots/regroupements/Q13344-regroupement-etendu.png) 
+![](https://github.com/cpesr/wikidataESR/blob/master/plots/regroupements/Q13344-regroupement-etendu.png) 
 
-Avertissements et édition : [logs](plots/regroupements/Q13344-regroupement-etendu.md 
+Avertissements et édition : [logs](https://github.com/cpesr/wikidataESR/blob/master/plots/regroupements/Q13344.md) 
 
-### Regroupement-Superetendu : COMUE d'Aquitaine https://github.com/cpesr/wikidataESR/blob/master/plots/regroupements/Q13344-regroupement-superetendu.md 
+### COMUE d'Aquitaine : Regroupement-Superetendu https://github.com/cpesr/wikidataESR/blob/master/plots/regroupements/Q13344.md 
 
-![](plots/regroupements/Q13344-regroupement-superetendu.png) 
+![](https://github.com/cpesr/wikidataESR/blob/master/plots/regroupements/Q13344-regroupement-superetendu.png) 
 
-Avertissements et édition : [logs](plots/regroupements/Q13344-regroupement-superetendu.md 
+Avertissements et édition : [logs](https://github.com/cpesr/wikidataESR/blob/master/plots/regroupements/Q13344.md) 
 
-### Regroupement-Court : COMUE Centre Val de Loire https://github.com/cpesr/wikidataESR/blob/master/plots/regroupements/Q2944885-regroupement-court.md 
+### COMUE Centre Val de Loire : Regroupement-Court https://github.com/cpesr/wikidataESR/blob/master/plots/regroupements/Q2944885.md 
 
-![](plots/regroupements/Q2944885-regroupement-court.png) 
+![](https://github.com/cpesr/wikidataESR/blob/master/plots/regroupements/Q2944885-regroupement-court.png) 
 
-Avertissements et édition : [logs](plots/regroupements/Q2944885-regroupement-court.md 
+Avertissements et édition : [logs](https://github.com/cpesr/wikidataESR/blob/master/plots/regroupements/Q2944885.md) 
 
-### Regroupement-Etendu : COMUE Centre Val de Loire https://github.com/cpesr/wikidataESR/blob/master/plots/regroupements/Q2944885-regroupement-etendu.md 
+### COMUE Centre Val de Loire : Regroupement-Etendu https://github.com/cpesr/wikidataESR/blob/master/plots/regroupements/Q2944885.md 
 
-![](plots/regroupements/Q2944885-regroupement-etendu.png) 
+![](https://github.com/cpesr/wikidataESR/blob/master/plots/regroupements/Q2944885-regroupement-etendu.png) 
 
-Avertissements et édition : [logs](plots/regroupements/Q2944885-regroupement-etendu.md 
+Avertissements et édition : [logs](https://github.com/cpesr/wikidataESR/blob/master/plots/regroupements/Q2944885.md) 
 
-### Regroupement-Superetendu : COMUE Centre Val de Loire https://github.com/cpesr/wikidataESR/blob/master/plots/regroupements/Q2944885-regroupement-superetendu.md 
+### COMUE Centre Val de Loire : Regroupement-Superetendu https://github.com/cpesr/wikidataESR/blob/master/plots/regroupements/Q2944885.md 
 
-![](plots/regroupements/Q2944885-regroupement-superetendu.png) 
+![](https://github.com/cpesr/wikidataESR/blob/master/plots/regroupements/Q2944885-regroupement-superetendu.png) 
 
-Avertissements et édition : [logs](plots/regroupements/Q2944885-regroupement-superetendu.md 
+Avertissements et édition : [logs](https://github.com/cpesr/wikidataESR/blob/master/plots/regroupements/Q2944885.md) 
 
-### Regroupement-Court : Comue de Bourgogne Franche Comté https://github.com/cpesr/wikidataESR/blob/master/plots/regroupements/Q3359833-regroupement-court.md 
+### Comue de Bourgogne Franche Comté : Regroupement-Court https://github.com/cpesr/wikidataESR/blob/master/plots/regroupements/Q3359833.md 
 
-![](plots/regroupements/Q3359833-regroupement-court.png) 
+![](https://github.com/cpesr/wikidataESR/blob/master/plots/regroupements/Q3359833-regroupement-court.png) 
 
-Avertissements et édition : [logs](plots/regroupements/Q3359833-regroupement-court.md 
+Avertissements et édition : [logs](https://github.com/cpesr/wikidataESR/blob/master/plots/regroupements/Q3359833.md) 
 
-### Regroupement-Etendu : Comue de Bourgogne Franche Comté https://github.com/cpesr/wikidataESR/blob/master/plots/regroupements/Q3359833-regroupement-etendu.md 
+### Comue de Bourgogne Franche Comté : Regroupement-Etendu https://github.com/cpesr/wikidataESR/blob/master/plots/regroupements/Q3359833.md 
 
-![](plots/regroupements/Q3359833-regroupement-etendu.png) 
+![](https://github.com/cpesr/wikidataESR/blob/master/plots/regroupements/Q3359833-regroupement-etendu.png) 
 
-Avertissements et édition : [logs](plots/regroupements/Q3359833-regroupement-etendu.md 
+Avertissements et édition : [logs](https://github.com/cpesr/wikidataESR/blob/master/plots/regroupements/Q3359833.md) 
 
-### Regroupement-Superetendu : Comue de Bourgogne Franche Comté https://github.com/cpesr/wikidataESR/blob/master/plots/regroupements/Q3359833-regroupement-superetendu.md 
+### Comue de Bourgogne Franche Comté : Regroupement-Superetendu https://github.com/cpesr/wikidataESR/blob/master/plots/regroupements/Q3359833.md 
 
-![](plots/regroupements/Q3359833-regroupement-superetendu.png) 
+![](https://github.com/cpesr/wikidataESR/blob/master/plots/regroupements/Q3359833-regroupement-superetendu.png) 
 
-Avertissements et édition : [logs](plots/regroupements/Q3359833-regroupement-superetendu.md 
+Avertissements et édition : [logs](https://github.com/cpesr/wikidataESR/blob/master/plots/regroupements/Q3359833.md) 
 
-### Regroupement-Court : Comue de Toulouse https://github.com/cpesr/wikidataESR/blob/master/plots/regroupements/Q20669873-regroupement-court.md 
+### Comue de Toulouse : Regroupement-Court https://github.com/cpesr/wikidataESR/blob/master/plots/regroupements/Q20669873.md 
 
-![](plots/regroupements/Q20669873-regroupement-court.png) 
+![](https://github.com/cpesr/wikidataESR/blob/master/plots/regroupements/Q20669873-regroupement-court.png) 
 
-Avertissements et édition : [logs](plots/regroupements/Q20669873-regroupement-court.md 
+Avertissements et édition : [logs](https://github.com/cpesr/wikidataESR/blob/master/plots/regroupements/Q20669873.md) 
 
-### Regroupement-Etendu : Comue de Toulouse https://github.com/cpesr/wikidataESR/blob/master/plots/regroupements/Q20669873-regroupement-etendu.md 
+### Comue de Toulouse : Regroupement-Etendu https://github.com/cpesr/wikidataESR/blob/master/plots/regroupements/Q20669873.md 
 
-![](plots/regroupements/Q20669873-regroupement-etendu.png) 
+![](https://github.com/cpesr/wikidataESR/blob/master/plots/regroupements/Q20669873-regroupement-etendu.png) 
 
-Avertissements et édition : [logs](plots/regroupements/Q20669873-regroupement-etendu.md 
+Avertissements et édition : [logs](https://github.com/cpesr/wikidataESR/blob/master/plots/regroupements/Q20669873.md) 
 
-### Regroupement-Superetendu : Comue de Toulouse https://github.com/cpesr/wikidataESR/blob/master/plots/regroupements/Q20669873-regroupement-superetendu.md 
+### Comue de Toulouse : Regroupement-Superetendu https://github.com/cpesr/wikidataESR/blob/master/plots/regroupements/Q20669873.md 
 
-![](plots/regroupements/Q20669873-regroupement-superetendu.png) 
+![](https://github.com/cpesr/wikidataESR/blob/master/plots/regroupements/Q20669873-regroupement-superetendu.png) 
 
-Avertissements et édition : [logs](plots/regroupements/Q20669873-regroupement-superetendu.md 
+Avertissements et édition : [logs](https://github.com/cpesr/wikidataESR/blob/master/plots/regroupements/Q20669873.md) 
 
-### Regroupement-Court : Comue UCA https://github.com/cpesr/wikidataESR/blob/master/plots/regroupements/Q19370961-regroupement-court.md 
+### Comue UCA : Regroupement-Court https://github.com/cpesr/wikidataESR/blob/master/plots/regroupements/Q19370961.md 
 
-Erreur : les données sont probablement trop partielles. 
+Erreur : les données sont probablement trop partielles.
+```
+Error: `multiple` is `FALSE`, but `x` contains parallel edges.
+The following rows in `x` are duplicated:
+	- `x[2, ]`
+	- `x[7, ]`
+	- `x[14, ]`
 
-Avertissements et édition : [logs](plots/regroupements/Q19370961-regroupement-court.md 
+``` 
 
-### Regroupement-Etendu : Comue UCA https://github.com/cpesr/wikidataESR/blob/master/plots/regroupements/Q19370961-regroupement-etendu.md 
+Avertissements et édition : [logs](https://github.com/cpesr/wikidataESR/blob/master/plots/regroupements/Q19370961.md) 
 
-Erreur : les données sont probablement trop partielles. 
+### Comue UCA : Regroupement-Etendu https://github.com/cpesr/wikidataESR/blob/master/plots/regroupements/Q19370961.md 
 
-Avertissements et édition : [logs](plots/regroupements/Q19370961-regroupement-etendu.md 
+Erreur : les données sont probablement trop partielles.
+```
+Error: `multiple` is `FALSE`, but `x` contains parallel edges.
+The following rows in `x` are duplicated:
+	- `x[16, ]`
+	- `x[21, ]`
+	- `x[28, ]`
+	- `x[37, ]`
+	- `x[39, ]`
 
-### Regroupement-Superetendu : Comue UCA https://github.com/cpesr/wikidataESR/blob/master/plots/regroupements/Q19370961-regroupement-superetendu.md 
+``` 
 
-Erreur : les données sont probablement trop partielles. 
+Avertissements et édition : [logs](https://github.com/cpesr/wikidataESR/blob/master/plots/regroupements/Q19370961.md) 
 
-Avertissements et édition : [logs](plots/regroupements/Q19370961-regroupement-superetendu.md 
+### Comue UCA : Regroupement-Superetendu https://github.com/cpesr/wikidataESR/blob/master/plots/regroupements/Q19370961.md 
 
-### Regroupement-Court : Comue UGA https://github.com/cpesr/wikidataESR/blob/master/plots/regroupements/Q3551589-regroupement-court.md 
+Erreur : les données sont probablement trop partielles.
+```
+Error: `multiple` is `FALSE`, but `x` contains parallel edges.
+The following rows in `x` are duplicated:
+	- `x[17, ]`
+	- `x[19, ]`
+	- `x[23, ]`
+	- `x[30, ]`
+	- `x[39, ]`
+	- `x[41, ]`
 
-![](plots/regroupements/Q3551589-regroupement-court.png) 
+``` 
 
-Avertissements et édition : [logs](plots/regroupements/Q3551589-regroupement-court.md 
+Avertissements et édition : [logs](https://github.com/cpesr/wikidataESR/blob/master/plots/regroupements/Q19370961.md) 
 
-### Regroupement-Etendu : Comue UGA https://github.com/cpesr/wikidataESR/blob/master/plots/regroupements/Q3551589-regroupement-etendu.md 
+### Comue UGA : Regroupement-Court https://github.com/cpesr/wikidataESR/blob/master/plots/regroupements/Q3551589.md 
 
-![](plots/regroupements/Q3551589-regroupement-etendu.png) 
+![](https://github.com/cpesr/wikidataESR/blob/master/plots/regroupements/Q3551589-regroupement-court.png) 
 
-Avertissements et édition : [logs](plots/regroupements/Q3551589-regroupement-etendu.md 
+Avertissements et édition : [logs](https://github.com/cpesr/wikidataESR/blob/master/plots/regroupements/Q3551589.md) 
 
-### Regroupement-Superetendu : Comue UGA https://github.com/cpesr/wikidataESR/blob/master/plots/regroupements/Q3551589-regroupement-superetendu.md 
+### Comue UGA : Regroupement-Etendu https://github.com/cpesr/wikidataESR/blob/master/plots/regroupements/Q3551589.md 
 
-![](plots/regroupements/Q3551589-regroupement-superetendu.png) 
+![](https://github.com/cpesr/wikidataESR/blob/master/plots/regroupements/Q3551589-regroupement-etendu.png) 
 
-Avertissements et édition : [logs](plots/regroupements/Q3551589-regroupement-superetendu.md 
+Avertissements et édition : [logs](https://github.com/cpesr/wikidataESR/blob/master/plots/regroupements/Q3551589.md) 
 
-### Regroupement-Court : HESAM https://github.com/cpesr/wikidataESR/blob/master/plots/regroupements/Q3128622-regroupement-court.md 
+### Comue UGA : Regroupement-Superetendu https://github.com/cpesr/wikidataESR/blob/master/plots/regroupements/Q3551589.md 
 
-![](plots/regroupements/Q3128622-regroupement-court.png) 
+![](https://github.com/cpesr/wikidataESR/blob/master/plots/regroupements/Q3551589-regroupement-superetendu.png) 
 
-Avertissements et édition : [logs](plots/regroupements/Q3128622-regroupement-court.md 
+Avertissements et édition : [logs](https://github.com/cpesr/wikidataESR/blob/master/plots/regroupements/Q3551589.md) 
 
-### Regroupement-Etendu : HESAM https://github.com/cpesr/wikidataESR/blob/master/plots/regroupements/Q3128622-regroupement-etendu.md 
+### HESAM : Regroupement-Court https://github.com/cpesr/wikidataESR/blob/master/plots/regroupements/Q3128622.md 
 
-![](plots/regroupements/Q3128622-regroupement-etendu.png) 
+![](https://github.com/cpesr/wikidataESR/blob/master/plots/regroupements/Q3128622-regroupement-court.png) 
 
-Avertissements et édition : [logs](plots/regroupements/Q3128622-regroupement-etendu.md 
+Avertissements et édition : [logs](https://github.com/cpesr/wikidataESR/blob/master/plots/regroupements/Q3128622.md) 
 
-### Regroupement-Superetendu : HESAM https://github.com/cpesr/wikidataESR/blob/master/plots/regroupements/Q3128622-regroupement-superetendu.md 
+### HESAM : Regroupement-Etendu https://github.com/cpesr/wikidataESR/blob/master/plots/regroupements/Q3128622.md 
 
-![](plots/regroupements/Q3128622-regroupement-superetendu.png) 
+![](https://github.com/cpesr/wikidataESR/blob/master/plots/regroupements/Q3128622-regroupement-etendu.png) 
 
-Avertissements et édition : [logs](plots/regroupements/Q3128622-regroupement-superetendu.md 
+Avertissements et édition : [logs](https://github.com/cpesr/wikidataESR/blob/master/plots/regroupements/Q3128622.md) 
 
-### Regroupement-Court : Languedoc Roussillon Universités https://github.com/cpesr/wikidataESR/blob/master/plots/regroupements/Q2476558-regroupement-court.md 
+### HESAM : Regroupement-Superetendu https://github.com/cpesr/wikidataESR/blob/master/plots/regroupements/Q3128622.md 
 
-![](plots/regroupements/Q2476558-regroupement-court.png) 
+![](https://github.com/cpesr/wikidataESR/blob/master/plots/regroupements/Q3128622-regroupement-superetendu.png) 
 
-Avertissements et édition : [logs](plots/regroupements/Q2476558-regroupement-court.md 
+Avertissements et édition : [logs](https://github.com/cpesr/wikidataESR/blob/master/plots/regroupements/Q3128622.md) 
 
-### Regroupement-Etendu : Languedoc Roussillon Universités https://github.com/cpesr/wikidataESR/blob/master/plots/regroupements/Q2476558-regroupement-etendu.md 
+### Languedoc Roussillon Universités : Regroupement-Court https://github.com/cpesr/wikidataESR/blob/master/plots/regroupements/Q2476558.md 
 
-![](plots/regroupements/Q2476558-regroupement-etendu.png) 
+![](https://github.com/cpesr/wikidataESR/blob/master/plots/regroupements/Q2476558-regroupement-court.png) 
 
-Avertissements et édition : [logs](plots/regroupements/Q2476558-regroupement-etendu.md 
+Avertissements et édition : [logs](https://github.com/cpesr/wikidataESR/blob/master/plots/regroupements/Q2476558.md) 
 
-### Regroupement-Superetendu : Languedoc Roussillon Universités https://github.com/cpesr/wikidataESR/blob/master/plots/regroupements/Q2476558-regroupement-superetendu.md 
+### Languedoc Roussillon Universités : Regroupement-Etendu https://github.com/cpesr/wikidataESR/blob/master/plots/regroupements/Q2476558.md 
 
-![](plots/regroupements/Q2476558-regroupement-superetendu.png) 
+![](https://github.com/cpesr/wikidataESR/blob/master/plots/regroupements/Q2476558-regroupement-etendu.png) 
 
-Avertissements et édition : [logs](plots/regroupements/Q2476558-regroupement-superetendu.md 
+Avertissements et édition : [logs](https://github.com/cpesr/wikidataESR/blob/master/plots/regroupements/Q2476558.md) 
 
-### Regroupement-Court : Normandie Université https://github.com/cpesr/wikidataESR/blob/master/plots/regroupements/Q3343880-regroupement-court.md 
+### Languedoc Roussillon Universités : Regroupement-Superetendu https://github.com/cpesr/wikidataESR/blob/master/plots/regroupements/Q2476558.md 
 
-![](plots/regroupements/Q3343880-regroupement-court.png) 
+![](https://github.com/cpesr/wikidataESR/blob/master/plots/regroupements/Q2476558-regroupement-superetendu.png) 
 
-Avertissements et édition : [logs](plots/regroupements/Q3343880-regroupement-court.md 
+Avertissements et édition : [logs](https://github.com/cpesr/wikidataESR/blob/master/plots/regroupements/Q2476558.md) 
 
-### Regroupement-Etendu : Normandie Université https://github.com/cpesr/wikidataESR/blob/master/plots/regroupements/Q3343880-regroupement-etendu.md 
+### Normandie Université : Regroupement-Court https://github.com/cpesr/wikidataESR/blob/master/plots/regroupements/Q3343880.md 
 
-![](plots/regroupements/Q3343880-regroupement-etendu.png) 
+![](https://github.com/cpesr/wikidataESR/blob/master/plots/regroupements/Q3343880-regroupement-court.png) 
 
-Avertissements et édition : [logs](plots/regroupements/Q3343880-regroupement-etendu.md 
+Avertissements et édition : [logs](https://github.com/cpesr/wikidataESR/blob/master/plots/regroupements/Q3343880.md) 
 
-### Regroupement-Superetendu : Normandie Université https://github.com/cpesr/wikidataESR/blob/master/plots/regroupements/Q3343880-regroupement-superetendu.md 
+### Normandie Université : Regroupement-Etendu https://github.com/cpesr/wikidataESR/blob/master/plots/regroupements/Q3343880.md 
 
-![](plots/regroupements/Q3343880-regroupement-superetendu.png) 
+![](https://github.com/cpesr/wikidataESR/blob/master/plots/regroupements/Q3343880-regroupement-etendu.png) 
 
-Avertissements et édition : [logs](plots/regroupements/Q3343880-regroupement-superetendu.md 
+Avertissements et édition : [logs](https://github.com/cpesr/wikidataESR/blob/master/plots/regroupements/Q3343880.md) 
 
-### Regroupement-Court : Picardie Universités https://github.com/cpesr/wikidataESR/blob/master/plots/regroupements/Q61716197-regroupement-court.md 
+### Normandie Université : Regroupement-Superetendu https://github.com/cpesr/wikidataESR/blob/master/plots/regroupements/Q3343880.md 
 
-![](plots/regroupements/Q61716197-regroupement-court.png) 
+![](https://github.com/cpesr/wikidataESR/blob/master/plots/regroupements/Q3343880-regroupement-superetendu.png) 
 
-Avertissements et édition : [logs](plots/regroupements/Q61716197-regroupement-court.md 
+Avertissements et édition : [logs](https://github.com/cpesr/wikidataESR/blob/master/plots/regroupements/Q3343880.md) 
 
-### Regroupement-Etendu : Picardie Universités https://github.com/cpesr/wikidataESR/blob/master/plots/regroupements/Q61716197-regroupement-etendu.md 
+### Picardie Universités : Regroupement-Court https://github.com/cpesr/wikidataESR/blob/master/plots/regroupements/Q61716197.md 
 
-![](plots/regroupements/Q61716197-regroupement-etendu.png) 
+![](https://github.com/cpesr/wikidataESR/blob/master/plots/regroupements/Q61716197-regroupement-court.png) 
 
-Avertissements et édition : [logs](plots/regroupements/Q61716197-regroupement-etendu.md 
+Avertissements et édition : [logs](https://github.com/cpesr/wikidataESR/blob/master/plots/regroupements/Q61716197.md) 
 
-### Regroupement-Superetendu : Picardie Universités https://github.com/cpesr/wikidataESR/blob/master/plots/regroupements/Q61716197-regroupement-superetendu.md 
+### Picardie Universités : Regroupement-Etendu https://github.com/cpesr/wikidataESR/blob/master/plots/regroupements/Q61716197.md 
 
-![](plots/regroupements/Q61716197-regroupement-superetendu.png) 
+![](https://github.com/cpesr/wikidataESR/blob/master/plots/regroupements/Q61716197-regroupement-etendu.png) 
 
-Avertissements et édition : [logs](plots/regroupements/Q61716197-regroupement-superetendu.md 
+Avertissements et édition : [logs](https://github.com/cpesr/wikidataESR/blob/master/plots/regroupements/Q61716197.md) 
 
-### Regroupement-Court : PSL https://github.com/cpesr/wikidataESR/blob/master/plots/regroupements/Q1163431-regroupement-court.md 
+### Picardie Universités : Regroupement-Superetendu https://github.com/cpesr/wikidataESR/blob/master/plots/regroupements/Q61716197.md 
 
-![](plots/regroupements/Q1163431-regroupement-court.png) 
+![](https://github.com/cpesr/wikidataESR/blob/master/plots/regroupements/Q61716197-regroupement-superetendu.png) 
 
-Avertissements et édition : [logs](plots/regroupements/Q1163431-regroupement-court.md 
+Avertissements et édition : [logs](https://github.com/cpesr/wikidataESR/blob/master/plots/regroupements/Q61716197.md) 
 
-### Regroupement-Etendu : PSL https://github.com/cpesr/wikidataESR/blob/master/plots/regroupements/Q1163431-regroupement-etendu.md 
+### PSL : Regroupement-Court https://github.com/cpesr/wikidataESR/blob/master/plots/regroupements/Q1163431.md 
 
-![](plots/regroupements/Q1163431-regroupement-etendu.png) 
+![](https://github.com/cpesr/wikidataESR/blob/master/plots/regroupements/Q1163431-regroupement-court.png) 
 
-Avertissements et édition : [logs](plots/regroupements/Q1163431-regroupement-etendu.md 
+Avertissements et édition : [logs](https://github.com/cpesr/wikidataESR/blob/master/plots/regroupements/Q1163431.md) 
 
-### Regroupement-Superetendu : PSL https://github.com/cpesr/wikidataESR/blob/master/plots/regroupements/Q1163431-regroupement-superetendu.md 
+### PSL : Regroupement-Etendu https://github.com/cpesr/wikidataESR/blob/master/plots/regroupements/Q1163431.md 
 
-![](plots/regroupements/Q1163431-regroupement-superetendu.png) 
+![](https://github.com/cpesr/wikidataESR/blob/master/plots/regroupements/Q1163431-regroupement-etendu.png) 
 
-Avertissements et édition : [logs](plots/regroupements/Q1163431-regroupement-superetendu.md 
+Avertissements et édition : [logs](https://github.com/cpesr/wikidataESR/blob/master/plots/regroupements/Q1163431.md) 
 
-### Regroupement-Court : Site alsacien https://github.com/cpesr/wikidataESR/blob/master/plots/regroupements/Q61716176-regroupement-court.md 
+### PSL : Regroupement-Superetendu https://github.com/cpesr/wikidataESR/blob/master/plots/regroupements/Q1163431.md 
 
-![](plots/regroupements/Q61716176-regroupement-court.png) 
+![](https://github.com/cpesr/wikidataESR/blob/master/plots/regroupements/Q1163431-regroupement-superetendu.png) 
 
-Avertissements et édition : [logs](plots/regroupements/Q61716176-regroupement-court.md 
+Avertissements et édition : [logs](https://github.com/cpesr/wikidataESR/blob/master/plots/regroupements/Q1163431.md) 
 
-### Regroupement-Etendu : Site alsacien https://github.com/cpesr/wikidataESR/blob/master/plots/regroupements/Q61716176-regroupement-etendu.md 
+### Site alsacien : Regroupement-Court https://github.com/cpesr/wikidataESR/blob/master/plots/regroupements/Q61716176.md 
 
-![](plots/regroupements/Q61716176-regroupement-etendu.png) 
+![](https://github.com/cpesr/wikidataESR/blob/master/plots/regroupements/Q61716176-regroupement-court.png) 
 
-Avertissements et édition : [logs](plots/regroupements/Q61716176-regroupement-etendu.md 
+Avertissements et édition : [logs](https://github.com/cpesr/wikidataESR/blob/master/plots/regroupements/Q61716176.md) 
 
-### Regroupement-Superetendu : Site alsacien https://github.com/cpesr/wikidataESR/blob/master/plots/regroupements/Q61716176-regroupement-superetendu.md 
+### Site alsacien : Regroupement-Etendu https://github.com/cpesr/wikidataESR/blob/master/plots/regroupements/Q61716176.md 
 
-![](plots/regroupements/Q61716176-regroupement-superetendu.png) 
+![](https://github.com/cpesr/wikidataESR/blob/master/plots/regroupements/Q61716176-regroupement-etendu.png) 
 
-Avertissements et édition : [logs](plots/regroupements/Q61716176-regroupement-superetendu.md 
+Avertissements et édition : [logs](https://github.com/cpesr/wikidataESR/blob/master/plots/regroupements/Q61716176.md) 
 
-### Regroupement-Court : Site AMPM https://github.com/cpesr/wikidataESR/blob/master/plots/regroupements/Q61716142-regroupement-court.md 
+### Site alsacien : Regroupement-Superetendu https://github.com/cpesr/wikidataESR/blob/master/plots/regroupements/Q61716176.md 
 
-![](plots/regroupements/Q61716142-regroupement-court.png) 
+![](https://github.com/cpesr/wikidataESR/blob/master/plots/regroupements/Q61716176-regroupement-superetendu.png) 
 
-Avertissements et édition : [logs](plots/regroupements/Q61716142-regroupement-court.md 
+Avertissements et édition : [logs](https://github.com/cpesr/wikidataESR/blob/master/plots/regroupements/Q61716176.md) 
 
-### Regroupement-Etendu : Site AMPM https://github.com/cpesr/wikidataESR/blob/master/plots/regroupements/Q61716142-regroupement-etendu.md 
+### Site AMPM : Regroupement-Court https://github.com/cpesr/wikidataESR/blob/master/plots/regroupements/Q61716142.md 
 
-![](plots/regroupements/Q61716142-regroupement-etendu.png) 
+![](https://github.com/cpesr/wikidataESR/blob/master/plots/regroupements/Q61716142-regroupement-court.png) 
 
-Avertissements et édition : [logs](plots/regroupements/Q61716142-regroupement-etendu.md 
+Avertissements et édition : [logs](https://github.com/cpesr/wikidataESR/blob/master/plots/regroupements/Q61716142.md) 
 
-### Regroupement-Superetendu : Site AMPM https://github.com/cpesr/wikidataESR/blob/master/plots/regroupements/Q61716142-regroupement-superetendu.md 
+### Site AMPM : Regroupement-Etendu https://github.com/cpesr/wikidataESR/blob/master/plots/regroupements/Q61716142.md 
 
-![](plots/regroupements/Q61716142-regroupement-superetendu.png) 
+![](https://github.com/cpesr/wikidataESR/blob/master/plots/regroupements/Q61716142-regroupement-etendu.png) 
 
-Avertissements et édition : [logs](plots/regroupements/Q61716142-regroupement-superetendu.md 
+Avertissements et édition : [logs](https://github.com/cpesr/wikidataESR/blob/master/plots/regroupements/Q61716142.md) 
 
-### Regroupement-Court : Site champenois https://github.com/cpesr/wikidataESR/blob/master/plots/regroupements/Q61716216-regroupement-court.md 
+### Site AMPM : Regroupement-Superetendu https://github.com/cpesr/wikidataESR/blob/master/plots/regroupements/Q61716142.md 
 
-![](plots/regroupements/Q61716216-regroupement-court.png) 
+![](https://github.com/cpesr/wikidataESR/blob/master/plots/regroupements/Q61716142-regroupement-superetendu.png) 
 
-Avertissements et édition : [logs](plots/regroupements/Q61716216-regroupement-court.md 
+Avertissements et édition : [logs](https://github.com/cpesr/wikidataESR/blob/master/plots/regroupements/Q61716142.md) 
 
-### Regroupement-Etendu : Site champenois https://github.com/cpesr/wikidataESR/blob/master/plots/regroupements/Q61716216-regroupement-etendu.md 
+### Site champenois : Regroupement-Court https://github.com/cpesr/wikidataESR/blob/master/plots/regroupements/Q61716216.md 
 
-![](plots/regroupements/Q61716216-regroupement-etendu.png) 
+![](https://github.com/cpesr/wikidataESR/blob/master/plots/regroupements/Q61716216-regroupement-court.png) 
 
-Avertissements et édition : [logs](plots/regroupements/Q61716216-regroupement-etendu.md 
+Avertissements et édition : [logs](https://github.com/cpesr/wikidataESR/blob/master/plots/regroupements/Q61716216.md) 
 
-### Regroupement-Superetendu : Site champenois https://github.com/cpesr/wikidataESR/blob/master/plots/regroupements/Q61716216-regroupement-superetendu.md 
+### Site champenois : Regroupement-Etendu https://github.com/cpesr/wikidataESR/blob/master/plots/regroupements/Q61716216.md 
 
-![](plots/regroupements/Q61716216-regroupement-superetendu.png) 
+![](https://github.com/cpesr/wikidataESR/blob/master/plots/regroupements/Q61716216-regroupement-etendu.png) 
 
-Avertissements et édition : [logs](plots/regroupements/Q61716216-regroupement-superetendu.md 
+Avertissements et édition : [logs](https://github.com/cpesr/wikidataESR/blob/master/plots/regroupements/Q61716216.md) 
 
-### Regroupement-Court : Sorbonne Paris Cité https://github.com/cpesr/wikidataESR/blob/master/plots/regroupements/Q3491149-regroupement-court.md 
+### Site champenois : Regroupement-Superetendu https://github.com/cpesr/wikidataESR/blob/master/plots/regroupements/Q61716216.md 
 
-![](plots/regroupements/Q3491149-regroupement-court.png) 
+![](https://github.com/cpesr/wikidataESR/blob/master/plots/regroupements/Q61716216-regroupement-superetendu.png) 
 
-Avertissements et édition : [logs](plots/regroupements/Q3491149-regroupement-court.md 
+Avertissements et édition : [logs](https://github.com/cpesr/wikidataESR/blob/master/plots/regroupements/Q61716216.md) 
 
-### Regroupement-Etendu : Sorbonne Paris Cité https://github.com/cpesr/wikidataESR/blob/master/plots/regroupements/Q3491149-regroupement-etendu.md 
+### Sorbonne Paris Cité : Regroupement-Court https://github.com/cpesr/wikidataESR/blob/master/plots/regroupements/Q3491149.md 
 
-![](plots/regroupements/Q3491149-regroupement-etendu.png) 
+![](https://github.com/cpesr/wikidataESR/blob/master/plots/regroupements/Q3491149-regroupement-court.png) 
 
-Avertissements et édition : [logs](plots/regroupements/Q3491149-regroupement-etendu.md 
+Avertissements et édition : [logs](https://github.com/cpesr/wikidataESR/blob/master/plots/regroupements/Q3491149.md) 
 
-### Regroupement-Superetendu : Sorbonne Paris Cité https://github.com/cpesr/wikidataESR/blob/master/plots/regroupements/Q3491149-regroupement-superetendu.md 
+### Sorbonne Paris Cité : Regroupement-Etendu https://github.com/cpesr/wikidataESR/blob/master/plots/regroupements/Q3491149.md 
 
-![](plots/regroupements/Q3491149-regroupement-superetendu.png) 
+![](https://github.com/cpesr/wikidataESR/blob/master/plots/regroupements/Q3491149-regroupement-etendu.png) 
 
-Avertissements et édition : [logs](plots/regroupements/Q3491149-regroupement-superetendu.md 
+Avertissements et édition : [logs](https://github.com/cpesr/wikidataESR/blob/master/plots/regroupements/Q3491149.md) 
 
-### Regroupement-Court : Sorbonne Université https://github.com/cpesr/wikidataESR/blob/master/plots/regroupements/Q61716212-regroupement-court.md 
+### Sorbonne Paris Cité : Regroupement-Superetendu https://github.com/cpesr/wikidataESR/blob/master/plots/regroupements/Q3491149.md 
 
-![](plots/regroupements/Q61716212-regroupement-court.png) 
+![](https://github.com/cpesr/wikidataESR/blob/master/plots/regroupements/Q3491149-regroupement-superetendu.png) 
 
-Avertissements et édition : [logs](plots/regroupements/Q61716212-regroupement-court.md 
+Avertissements et édition : [logs](https://github.com/cpesr/wikidataESR/blob/master/plots/regroupements/Q3491149.md) 
 
-### Regroupement-Etendu : Sorbonne Université https://github.com/cpesr/wikidataESR/blob/master/plots/regroupements/Q61716212-regroupement-etendu.md 
+### Sorbonne Université : Regroupement-Court https://github.com/cpesr/wikidataESR/blob/master/plots/regroupements/Q61716212.md 
 
-![](plots/regroupements/Q61716212-regroupement-etendu.png) 
+![](https://github.com/cpesr/wikidataESR/blob/master/plots/regroupements/Q61716212-regroupement-court.png) 
 
-Avertissements et édition : [logs](plots/regroupements/Q61716212-regroupement-etendu.md 
+Avertissements et édition : [logs](https://github.com/cpesr/wikidataESR/blob/master/plots/regroupements/Q61716212.md) 
 
-### Regroupement-Superetendu : Sorbonne Université https://github.com/cpesr/wikidataESR/blob/master/plots/regroupements/Q61716212-regroupement-superetendu.md 
+### Sorbonne Université : Regroupement-Etendu https://github.com/cpesr/wikidataESR/blob/master/plots/regroupements/Q61716212.md 
 
-![](plots/regroupements/Q61716212-regroupement-superetendu.png) 
+![](https://github.com/cpesr/wikidataESR/blob/master/plots/regroupements/Q61716212-regroupement-etendu.png) 
 
-Avertissements et édition : [logs](plots/regroupements/Q61716212-regroupement-superetendu.md 
+Avertissements et édition : [logs](https://github.com/cpesr/wikidataESR/blob/master/plots/regroupements/Q61716212.md) 
 
-### Regroupement-Court : UBL https://github.com/cpesr/wikidataESR/blob/master/plots/regroupements/Q21994834-regroupement-court.md 
+### Sorbonne Université : Regroupement-Superetendu https://github.com/cpesr/wikidataESR/blob/master/plots/regroupements/Q61716212.md 
 
-![](plots/regroupements/Q21994834-regroupement-court.png) 
+![](https://github.com/cpesr/wikidataESR/blob/master/plots/regroupements/Q61716212-regroupement-superetendu.png) 
 
-Avertissements et édition : [logs](plots/regroupements/Q21994834-regroupement-court.md 
+Avertissements et édition : [logs](https://github.com/cpesr/wikidataESR/blob/master/plots/regroupements/Q61716212.md) 
 
-### Regroupement-Etendu : UBL https://github.com/cpesr/wikidataESR/blob/master/plots/regroupements/Q21994834-regroupement-etendu.md 
+### UBL : Regroupement-Court https://github.com/cpesr/wikidataESR/blob/master/plots/regroupements/Q21994834.md 
 
-Erreur : les données sont probablement trop partielles. 
+![](https://github.com/cpesr/wikidataESR/blob/master/plots/regroupements/Q21994834-regroupement-court.png) 
 
-Avertissements et édition : [logs](plots/regroupements/Q21994834-regroupement-etendu.md 
+Avertissements et édition : [logs](https://github.com/cpesr/wikidataESR/blob/master/plots/regroupements/Q21994834.md) 
 
-### Regroupement-Superetendu : UBL https://github.com/cpesr/wikidataESR/blob/master/plots/regroupements/Q21994834-regroupement-superetendu.md 
+### UBL : Regroupement-Etendu https://github.com/cpesr/wikidataESR/blob/master/plots/regroupements/Q21994834.md 
 
-Erreur : les données sont probablement trop partielles. 
+Erreur : les données sont probablement trop partielles.
+```
+Error: `multiple` is `FALSE`, but `x` contains parallel edges.
+The following rows in `x` are duplicated:
+	- `x[15, ]`
 
-Avertissements et édition : [logs](plots/regroupements/Q21994834-regroupement-superetendu.md 
+``` 
 
-### Regroupement-Court : UCA https://github.com/cpesr/wikidataESR/blob/master/plots/regroupements/Q61716190-regroupement-court.md 
+Avertissements et édition : [logs](https://github.com/cpesr/wikidataESR/blob/master/plots/regroupements/Q21994834.md) 
 
-![](plots/regroupements/Q61716190-regroupement-court.png) 
+### UBL : Regroupement-Superetendu https://github.com/cpesr/wikidataESR/blob/master/plots/regroupements/Q21994834.md 
 
-Avertissements et édition : [logs](plots/regroupements/Q61716190-regroupement-court.md 
+Erreur : les données sont probablement trop partielles.
+```
+Error: `multiple` is `FALSE`, but `x` contains parallel edges.
+The following rows in `x` are duplicated:
+	- `x[36, ]`
 
-### Regroupement-Etendu : UCA https://github.com/cpesr/wikidataESR/blob/master/plots/regroupements/Q61716190-regroupement-etendu.md 
+``` 
 
-![](plots/regroupements/Q61716190-regroupement-etendu.png) 
+Avertissements et édition : [logs](https://github.com/cpesr/wikidataESR/blob/master/plots/regroupements/Q21994834.md) 
 
-Avertissements et édition : [logs](plots/regroupements/Q61716190-regroupement-etendu.md 
+### UCA : Regroupement-Court https://github.com/cpesr/wikidataESR/blob/master/plots/regroupements/Q61716190.md 
 
-### Regroupement-Superetendu : UCA https://github.com/cpesr/wikidataESR/blob/master/plots/regroupements/Q61716190-regroupement-superetendu.md 
+![](https://github.com/cpesr/wikidataESR/blob/master/plots/regroupements/Q61716190-regroupement-court.png) 
 
-![](plots/regroupements/Q61716190-regroupement-superetendu.png) 
+Avertissements et édition : [logs](https://github.com/cpesr/wikidataESR/blob/master/plots/regroupements/Q61716190.md) 
 
-Avertissements et édition : [logs](plots/regroupements/Q61716190-regroupement-superetendu.md 
+### UCA : Regroupement-Etendu https://github.com/cpesr/wikidataESR/blob/master/plots/regroupements/Q61716190.md 
 
-### Regroupement-Court : UDL https://github.com/cpesr/wikidataESR/blob/master/plots/regroupements/Q10176-regroupement-court.md 
+![](https://github.com/cpesr/wikidataESR/blob/master/plots/regroupements/Q61716190-regroupement-etendu.png) 
 
-![](plots/regroupements/Q10176-regroupement-court.png) 
+Avertissements et édition : [logs](https://github.com/cpesr/wikidataESR/blob/master/plots/regroupements/Q61716190.md) 
 
-Avertissements et édition : [logs](plots/regroupements/Q10176-regroupement-court.md 
+### UCA : Regroupement-Superetendu https://github.com/cpesr/wikidataESR/blob/master/plots/regroupements/Q61716190.md 
 
-### Regroupement-Etendu : UDL https://github.com/cpesr/wikidataESR/blob/master/plots/regroupements/Q10176-regroupement-etendu.md 
+![](https://github.com/cpesr/wikidataESR/blob/master/plots/regroupements/Q61716190-regroupement-superetendu.png) 
 
-![](plots/regroupements/Q10176-regroupement-etendu.png) 
+Avertissements et édition : [logs](https://github.com/cpesr/wikidataESR/blob/master/plots/regroupements/Q61716190.md) 
 
-Avertissements et édition : [logs](plots/regroupements/Q10176-regroupement-etendu.md 
+### UDL : Regroupement-Court https://github.com/cpesr/wikidataESR/blob/master/plots/regroupements/Q10176.md 
 
-### Regroupement-Superetendu : UDL https://github.com/cpesr/wikidataESR/blob/master/plots/regroupements/Q10176-regroupement-superetendu.md 
+![](https://github.com/cpesr/wikidataESR/blob/master/plots/regroupements/Q10176-regroupement-court.png) 
 
-![](plots/regroupements/Q10176-regroupement-superetendu.png) 
+Avertissements et édition : [logs](https://github.com/cpesr/wikidataESR/blob/master/plots/regroupements/Q10176.md) 
 
-Avertissements et édition : [logs](plots/regroupements/Q10176-regroupement-superetendu.md 
+### UDL : Regroupement-Etendu https://github.com/cpesr/wikidataESR/blob/master/plots/regroupements/Q10176.md 
 
-### Regroupement-Court : Université confédérale Léonard-de-Vinci https://github.com/cpesr/wikidataESR/blob/master/plots/regroupements/Q20735682-regroupement-court.md 
+![](https://github.com/cpesr/wikidataESR/blob/master/plots/regroupements/Q10176-regroupement-etendu.png) 
 
-![](plots/regroupements/Q20735682-regroupement-court.png) 
+Avertissements et édition : [logs](https://github.com/cpesr/wikidataESR/blob/master/plots/regroupements/Q10176.md) 
 
-Avertissements et édition : [logs](plots/regroupements/Q20735682-regroupement-court.md 
+### UDL : Regroupement-Superetendu https://github.com/cpesr/wikidataESR/blob/master/plots/regroupements/Q10176.md 
 
-### Regroupement-Etendu : Université confédérale Léonard-de-Vinci https://github.com/cpesr/wikidataESR/blob/master/plots/regroupements/Q20735682-regroupement-etendu.md 
+![](https://github.com/cpesr/wikidataESR/blob/master/plots/regroupements/Q10176-regroupement-superetendu.png) 
 
-![](plots/regroupements/Q20735682-regroupement-etendu.png) 
+Avertissements et édition : [logs](https://github.com/cpesr/wikidataESR/blob/master/plots/regroupements/Q10176.md) 
 
-Avertissements et édition : [logs](plots/regroupements/Q20735682-regroupement-etendu.md 
+### Université confédérale Léonard-de-Vinci : Regroupement-Court https://github.com/cpesr/wikidataESR/blob/master/plots/regroupements/Q20735682.md 
 
-### Regroupement-Superetendu : Université confédérale Léonard-de-Vinci https://github.com/cpesr/wikidataESR/blob/master/plots/regroupements/Q20735682-regroupement-superetendu.md 
+![](https://github.com/cpesr/wikidataESR/blob/master/plots/regroupements/Q20735682-regroupement-court.png) 
 
-![](plots/regroupements/Q20735682-regroupement-superetendu.png) 
+Avertissements et édition : [logs](https://github.com/cpesr/wikidataESR/blob/master/plots/regroupements/Q20735682.md) 
 
-Avertissements et édition : [logs](plots/regroupements/Q20735682-regroupement-superetendu.md 
+### Université confédérale Léonard-de-Vinci : Regroupement-Etendu https://github.com/cpesr/wikidataESR/blob/master/plots/regroupements/Q20735682.md 
 
-### Regroupement-Court : Université de Lille https://github.com/cpesr/wikidataESR/blob/master/plots/regroupements/Q1322289-regroupement-court.md 
+![](https://github.com/cpesr/wikidataESR/blob/master/plots/regroupements/Q20735682-regroupement-etendu.png) 
 
-![](plots/regroupements/Q1322289-regroupement-court.png) 
+Avertissements et édition : [logs](https://github.com/cpesr/wikidataESR/blob/master/plots/regroupements/Q20735682.md) 
 
-Avertissements et édition : [logs](plots/regroupements/Q1322289-regroupement-court.md 
+### Université confédérale Léonard-de-Vinci : Regroupement-Superetendu https://github.com/cpesr/wikidataESR/blob/master/plots/regroupements/Q20735682.md 
 
-### Regroupement-Etendu : Université de Lille https://github.com/cpesr/wikidataESR/blob/master/plots/regroupements/Q1322289-regroupement-etendu.md 
+![](https://github.com/cpesr/wikidataESR/blob/master/plots/regroupements/Q20735682-regroupement-superetendu.png) 
 
-![](plots/regroupements/Q1322289-regroupement-etendu.png) 
+Avertissements et édition : [logs](https://github.com/cpesr/wikidataESR/blob/master/plots/regroupements/Q20735682.md) 
 
-Avertissements et édition : [logs](plots/regroupements/Q1322289-regroupement-etendu.md 
+### Université de Lille : Regroupement-Court https://github.com/cpesr/wikidataESR/blob/master/plots/regroupements/Q1322289.md 
 
-### Regroupement-Superetendu : Université de Lille https://github.com/cpesr/wikidataESR/blob/master/plots/regroupements/Q1322289-regroupement-superetendu.md 
+![](https://github.com/cpesr/wikidataESR/blob/master/plots/regroupements/Q1322289-regroupement-court.png) 
 
-![](plots/regroupements/Q1322289-regroupement-superetendu.png) 
+Avertissements et édition : [logs](https://github.com/cpesr/wikidataESR/blob/master/plots/regroupements/Q1322289.md) 
 
-Avertissements et édition : [logs](plots/regroupements/Q1322289-regroupement-superetendu.md 
+### Université de Lille : Regroupement-Etendu https://github.com/cpesr/wikidataESR/blob/master/plots/regroupements/Q1322289.md 
 
-### Regroupement-Court : PRES Université de Lorraine https://github.com/cpesr/wikidataESR/blob/master/plots/regroupements/Q64590454-regroupement-court.md 
+![](https://github.com/cpesr/wikidataESR/blob/master/plots/regroupements/Q1322289-regroupement-etendu.png) 
 
-![](plots/regroupements/Q64590454-regroupement-court.png) 
+Avertissements et édition : [logs](https://github.com/cpesr/wikidataESR/blob/master/plots/regroupements/Q1322289.md) 
 
-Avertissements et édition : [logs](plots/regroupements/Q64590454-regroupement-court.md 
+### Université de Lille : Regroupement-Superetendu https://github.com/cpesr/wikidataESR/blob/master/plots/regroupements/Q1322289.md 
 
-### Regroupement-Etendu : PRES Université de Lorraine https://github.com/cpesr/wikidataESR/blob/master/plots/regroupements/Q64590454-regroupement-etendu.md 
+![](https://github.com/cpesr/wikidataESR/blob/master/plots/regroupements/Q1322289-regroupement-superetendu.png) 
 
-![](plots/regroupements/Q64590454-regroupement-etendu.png) 
+Avertissements et édition : [logs](https://github.com/cpesr/wikidataESR/blob/master/plots/regroupements/Q1322289.md) 
 
-Avertissements et édition : [logs](plots/regroupements/Q64590454-regroupement-etendu.md 
+### PRES Université de Lorraine : Regroupement-Court https://github.com/cpesr/wikidataESR/blob/master/plots/regroupements/Q64590454.md 
 
-### Regroupement-Superetendu : PRES Université de Lorraine https://github.com/cpesr/wikidataESR/blob/master/plots/regroupements/Q64590454-regroupement-superetendu.md 
+![](https://github.com/cpesr/wikidataESR/blob/master/plots/regroupements/Q64590454-regroupement-court.png) 
 
-![](plots/regroupements/Q64590454-regroupement-superetendu.png) 
+Avertissements et édition : [logs](https://github.com/cpesr/wikidataESR/blob/master/plots/regroupements/Q64590454.md) 
 
-Avertissements et édition : [logs](plots/regroupements/Q64590454-regroupement-superetendu.md 
+### PRES Université de Lorraine : Regroupement-Etendu https://github.com/cpesr/wikidataESR/blob/master/plots/regroupements/Q64590454.md 
 
-### Regroupement-Court : Association Université de Lorraine https://github.com/cpesr/wikidataESR/blob/master/plots/regroupements/Q61718100-regroupement-court.md 
+![](https://github.com/cpesr/wikidataESR/blob/master/plots/regroupements/Q64590454-regroupement-etendu.png) 
 
-![](plots/regroupements/Q61718100-regroupement-court.png) 
+Avertissements et édition : [logs](https://github.com/cpesr/wikidataESR/blob/master/plots/regroupements/Q64590454.md) 
 
-Avertissements et édition : [logs](plots/regroupements/Q61718100-regroupement-court.md 
+### PRES Université de Lorraine : Regroupement-Superetendu https://github.com/cpesr/wikidataESR/blob/master/plots/regroupements/Q64590454.md 
 
-### Regroupement-Etendu : Association Université de Lorraine https://github.com/cpesr/wikidataESR/blob/master/plots/regroupements/Q61718100-regroupement-etendu.md 
+![](https://github.com/cpesr/wikidataESR/blob/master/plots/regroupements/Q64590454-regroupement-superetendu.png) 
 
-![](plots/regroupements/Q61718100-regroupement-etendu.png) 
+Avertissements et édition : [logs](https://github.com/cpesr/wikidataESR/blob/master/plots/regroupements/Q64590454.md) 
 
-Avertissements et édition : [logs](plots/regroupements/Q61718100-regroupement-etendu.md 
+### Association Université de Lorraine : Regroupement-Court https://github.com/cpesr/wikidataESR/blob/master/plots/regroupements/Q61718100.md 
 
-### Regroupement-Superetendu : Association Université de Lorraine https://github.com/cpesr/wikidataESR/blob/master/plots/regroupements/Q61718100-regroupement-superetendu.md 
+![](https://github.com/cpesr/wikidataESR/blob/master/plots/regroupements/Q61718100-regroupement-court.png) 
 
-![](plots/regroupements/Q61718100-regroupement-superetendu.png) 
+Avertissements et édition : [logs](https://github.com/cpesr/wikidataESR/blob/master/plots/regroupements/Q61718100.md) 
 
-Avertissements et édition : [logs](plots/regroupements/Q61718100-regroupement-superetendu.md 
+### Association Université de Lorraine : Regroupement-Etendu https://github.com/cpesr/wikidataESR/blob/master/plots/regroupements/Q61718100.md 
 
-### Regroupement-Court : Université fédérale de Toulouse Midi-Pyrénées https://github.com/cpesr/wikidataESR/blob/master/plots/regroupements/Q578023-regroupement-court.md 
+![](https://github.com/cpesr/wikidataESR/blob/master/plots/regroupements/Q61718100-regroupement-etendu.png) 
 
-![](plots/regroupements/Q578023-regroupement-court.png) 
+Avertissements et édition : [logs](https://github.com/cpesr/wikidataESR/blob/master/plots/regroupements/Q61718100.md) 
 
-Avertissements et édition : [logs](plots/regroupements/Q578023-regroupement-court.md 
+### Association Université de Lorraine : Regroupement-Superetendu https://github.com/cpesr/wikidataESR/blob/master/plots/regroupements/Q61718100.md 
 
-### Regroupement-Etendu : Université fédérale de Toulouse Midi-Pyrénées https://github.com/cpesr/wikidataESR/blob/master/plots/regroupements/Q578023-regroupement-etendu.md 
+![](https://github.com/cpesr/wikidataESR/blob/master/plots/regroupements/Q61718100-regroupement-superetendu.png) 
 
-![](plots/regroupements/Q578023-regroupement-etendu.png) 
+Avertissements et édition : [logs](https://github.com/cpesr/wikidataESR/blob/master/plots/regroupements/Q61718100.md) 
 
-Avertissements et édition : [logs](plots/regroupements/Q578023-regroupement-etendu.md 
+### Université fédérale de Toulouse Midi-Pyrénées : Regroupement-Court https://github.com/cpesr/wikidataESR/blob/master/plots/regroupements/Q578023.md 
 
-### Regroupement-Superetendu : Université fédérale de Toulouse Midi-Pyrénées https://github.com/cpesr/wikidataESR/blob/master/plots/regroupements/Q578023-regroupement-superetendu.md 
+![](https://github.com/cpesr/wikidataESR/blob/master/plots/regroupements/Q578023-regroupement-court.png) 
 
-![](plots/regroupements/Q578023-regroupement-superetendu.png) 
+Avertissements et édition : [logs](https://github.com/cpesr/wikidataESR/blob/master/plots/regroupements/Q578023.md) 
 
-Avertissements et édition : [logs](plots/regroupements/Q578023-regroupement-superetendu.md 
+### Université fédérale de Toulouse Midi-Pyrénées : Regroupement-Etendu https://github.com/cpesr/wikidataESR/blob/master/plots/regroupements/Q578023.md 
 
-### Regroupement-Court : université Paris Lumières https://github.com/cpesr/wikidataESR/blob/master/plots/regroupements/Q3551474-regroupement-court.md 
+![](https://github.com/cpesr/wikidataESR/blob/master/plots/regroupements/Q578023-regroupement-etendu.png) 
 
-![](plots/regroupements/Q3551474-regroupement-court.png) 
+Avertissements et édition : [logs](https://github.com/cpesr/wikidataESR/blob/master/plots/regroupements/Q578023.md) 
 
-Avertissements et édition : [logs](plots/regroupements/Q3551474-regroupement-court.md 
+### Université fédérale de Toulouse Midi-Pyrénées : Regroupement-Superetendu https://github.com/cpesr/wikidataESR/blob/master/plots/regroupements/Q578023.md 
 
-### Regroupement-Etendu : université Paris Lumières https://github.com/cpesr/wikidataESR/blob/master/plots/regroupements/Q3551474-regroupement-etendu.md 
+![](https://github.com/cpesr/wikidataESR/blob/master/plots/regroupements/Q578023-regroupement-superetendu.png) 
 
-![](plots/regroupements/Q3551474-regroupement-etendu.png) 
+Avertissements et édition : [logs](https://github.com/cpesr/wikidataESR/blob/master/plots/regroupements/Q578023.md) 
 
-Avertissements et édition : [logs](plots/regroupements/Q3551474-regroupement-etendu.md 
+### université Paris Lumières : Regroupement-Court https://github.com/cpesr/wikidataESR/blob/master/plots/regroupements/Q3551474.md 
 
-### Regroupement-Superetendu : université Paris Lumières https://github.com/cpesr/wikidataESR/blob/master/plots/regroupements/Q3551474-regroupement-superetendu.md 
+![](https://github.com/cpesr/wikidataESR/blob/master/plots/regroupements/Q3551474-regroupement-court.png) 
 
-![](plots/regroupements/Q3551474-regroupement-superetendu.png) 
+Avertissements et édition : [logs](https://github.com/cpesr/wikidataESR/blob/master/plots/regroupements/Q3551474.md) 
 
-Avertissements et édition : [logs](plots/regroupements/Q3551474-regroupement-superetendu.md 
+### université Paris Lumières : Regroupement-Etendu https://github.com/cpesr/wikidataESR/blob/master/plots/regroupements/Q3551474.md 
 
-### Regroupement-Court : Université Paris-Est https://github.com/cpesr/wikidataESR/blob/master/plots/regroupements/Q3551472-regroupement-court.md 
+![](https://github.com/cpesr/wikidataESR/blob/master/plots/regroupements/Q3551474-regroupement-etendu.png) 
 
-![](plots/regroupements/Q3551472-regroupement-court.png) 
+Avertissements et édition : [logs](https://github.com/cpesr/wikidataESR/blob/master/plots/regroupements/Q3551474.md) 
 
-Avertissements et édition : [logs](plots/regroupements/Q3551472-regroupement-court.md 
+### université Paris Lumières : Regroupement-Superetendu https://github.com/cpesr/wikidataESR/blob/master/plots/regroupements/Q3551474.md 
 
-### Regroupement-Etendu : Université Paris-Est https://github.com/cpesr/wikidataESR/blob/master/plots/regroupements/Q3551472-regroupement-etendu.md 
+![](https://github.com/cpesr/wikidataESR/blob/master/plots/regroupements/Q3551474-regroupement-superetendu.png) 
 
-![](plots/regroupements/Q3551472-regroupement-etendu.png) 
+Avertissements et édition : [logs](https://github.com/cpesr/wikidataESR/blob/master/plots/regroupements/Q3551474.md) 
 
-Avertissements et édition : [logs](plots/regroupements/Q3551472-regroupement-etendu.md 
+### Université Paris-Est : Regroupement-Court https://github.com/cpesr/wikidataESR/blob/master/plots/regroupements/Q3551472.md 
 
-### Regroupement-Superetendu : Université Paris-Est https://github.com/cpesr/wikidataESR/blob/master/plots/regroupements/Q3551472-regroupement-superetendu.md 
+![](https://github.com/cpesr/wikidataESR/blob/master/plots/regroupements/Q3551472-regroupement-court.png) 
 
-![](plots/regroupements/Q3551472-regroupement-superetendu.png) 
+Avertissements et édition : [logs](https://github.com/cpesr/wikidataESR/blob/master/plots/regroupements/Q3551472.md) 
 
-Avertissements et édition : [logs](plots/regroupements/Q3551472-regroupement-superetendu.md 
+### Université Paris-Est : Regroupement-Etendu https://github.com/cpesr/wikidataESR/blob/master/plots/regroupements/Q3551472.md 
 
-### Regroupement-Court : PRES UniverSud Paris https://github.com/cpesr/wikidataESR/blob/master/plots/regroupements/Q3248808-regroupement-court.md 
+![](https://github.com/cpesr/wikidataESR/blob/master/plots/regroupements/Q3551472-regroupement-etendu.png) 
 
-![](plots/regroupements/Q3248808-regroupement-court.png) 
+Avertissements et édition : [logs](https://github.com/cpesr/wikidataESR/blob/master/plots/regroupements/Q3551472.md) 
 
-Avertissements et édition : [logs](plots/regroupements/Q3248808-regroupement-court.md 
+### Université Paris-Est : Regroupement-Superetendu https://github.com/cpesr/wikidataESR/blob/master/plots/regroupements/Q3551472.md 
 
-### Regroupement-Etendu : PRES UniverSud Paris https://github.com/cpesr/wikidataESR/blob/master/plots/regroupements/Q3248808-regroupement-etendu.md 
+![](https://github.com/cpesr/wikidataESR/blob/master/plots/regroupements/Q3551472-regroupement-superetendu.png) 
 
-Erreur : les données sont probablement trop partielles. 
+Avertissements et édition : [logs](https://github.com/cpesr/wikidataESR/blob/master/plots/regroupements/Q3551472.md) 
 
-Avertissements et édition : [logs](plots/regroupements/Q3248808-regroupement-etendu.md 
+### PRES UniverSud Paris : Regroupement-Court https://github.com/cpesr/wikidataESR/blob/master/plots/regroupements/Q3248808.md 
 
-### Regroupement-Superetendu : PRES UniverSud Paris https://github.com/cpesr/wikidataESR/blob/master/plots/regroupements/Q3248808-regroupement-superetendu.md 
+![](https://github.com/cpesr/wikidataESR/blob/master/plots/regroupements/Q3248808-regroupement-court.png) 
 
-Erreur : les données sont probablement trop partielles. 
+Avertissements et édition : [logs](https://github.com/cpesr/wikidataESR/blob/master/plots/regroupements/Q3248808.md) 
 
-Avertissements et édition : [logs](plots/regroupements/Q3248808-regroupement-superetendu.md 
+### PRES UniverSud Paris : Regroupement-Etendu https://github.com/cpesr/wikidataESR/blob/master/plots/regroupements/Q3248808.md 
 
-### Regroupement-Court : Université Paris-Seine https://github.com/cpesr/wikidataESR/blob/master/plots/regroupements/Q3247880-regroupement-court.md 
+Erreur : les données sont probablement trop partielles.
+```
+Error: `multiple` is `FALSE`, but `x` contains parallel edges.
+The following rows in `x` are duplicated:
+	- `x[106, ]`
 
-![](plots/regroupements/Q3247880-regroupement-court.png) 
+``` 
 
-Avertissements et édition : [logs](plots/regroupements/Q3247880-regroupement-court.md 
+Avertissements et édition : [logs](https://github.com/cpesr/wikidataESR/blob/master/plots/regroupements/Q3248808.md) 
 
-### Regroupement-Etendu : Université Paris-Seine https://github.com/cpesr/wikidataESR/blob/master/plots/regroupements/Q3247880-regroupement-etendu.md 
+### PRES UniverSud Paris : Regroupement-Superetendu https://github.com/cpesr/wikidataESR/blob/master/plots/regroupements/Q3248808.md 
 
-![](plots/regroupements/Q3247880-regroupement-etendu.png) 
+Erreur : les données sont probablement trop partielles.
+```
+Error: `multiple` is `FALSE`, but `x` contains parallel edges.
+The following rows in `x` are duplicated:
+	- `x[108, ]`
 
-Avertissements et édition : [logs](plots/regroupements/Q3247880-regroupement-etendu.md 
+``` 
 
-### Regroupement-Superetendu : Université Paris-Seine https://github.com/cpesr/wikidataESR/blob/master/plots/regroupements/Q3247880-regroupement-superetendu.md 
+Avertissements et édition : [logs](https://github.com/cpesr/wikidataESR/blob/master/plots/regroupements/Q3248808.md) 
 
-![](plots/regroupements/Q3247880-regroupement-superetendu.png) 
+### Université Paris-Seine : Regroupement-Court https://github.com/cpesr/wikidataESR/blob/master/plots/regroupements/Q3247880.md 
 
-Avertissements et édition : [logs](plots/regroupements/Q3247880-regroupement-superetendu.md 
+![](https://github.com/cpesr/wikidataESR/blob/master/plots/regroupements/Q3247880-regroupement-court.png) 
 
-### Regroupement-Court : COMUE Université Paris-Saclay https://github.com/cpesr/wikidataESR/blob/master/plots/regroupements/Q13531686-regroupement-court.md 
+Avertissements et édition : [logs](https://github.com/cpesr/wikidataESR/blob/master/plots/regroupements/Q3247880.md) 
 
-Erreur : les données sont probablement trop partielles. 
+### Université Paris-Seine : Regroupement-Etendu https://github.com/cpesr/wikidataESR/blob/master/plots/regroupements/Q3247880.md 
 
-Avertissements et édition : [logs](plots/regroupements/Q13531686-regroupement-court.md 
+![](https://github.com/cpesr/wikidataESR/blob/master/plots/regroupements/Q3247880-regroupement-etendu.png) 
 
-### Regroupement-Etendu : COMUE Université Paris-Saclay https://github.com/cpesr/wikidataESR/blob/master/plots/regroupements/Q13531686-regroupement-etendu.md 
+Avertissements et édition : [logs](https://github.com/cpesr/wikidataESR/blob/master/plots/regroupements/Q3247880.md) 
 
-Erreur : les données sont probablement trop partielles. 
+### Université Paris-Seine : Regroupement-Superetendu https://github.com/cpesr/wikidataESR/blob/master/plots/regroupements/Q3247880.md 
 
-Avertissements et édition : [logs](plots/regroupements/Q13531686-regroupement-etendu.md 
+![](https://github.com/cpesr/wikidataESR/blob/master/plots/regroupements/Q3247880-regroupement-superetendu.png) 
 
-### Regroupement-Superetendu : COMUE Université Paris-Saclay https://github.com/cpesr/wikidataESR/blob/master/plots/regroupements/Q13531686-regroupement-superetendu.md 
+Avertissements et édition : [logs](https://github.com/cpesr/wikidataESR/blob/master/plots/regroupements/Q3247880.md) 
 
-Erreur : les données sont probablement trop partielles. 
+### COMUE Université Paris-Saclay : Regroupement-Court https://github.com/cpesr/wikidataESR/blob/master/plots/regroupements/Q13531686.md 
 
-Avertissements et édition : [logs](plots/regroupements/Q13531686-regroupement-superetendu.md 
+Erreur : les données sont probablement trop partielles.
+```
+Error: `multiple` is `FALSE`, but `x` contains parallel edges.
+The following rows in `x` are duplicated:
+	- `x[5, ]`
+	- `x[19, ]`
+	- `x[44, ]`
+	- `x[111, ]`
+	- `x[117, ]`
 
-### Regroupement-Court : Union des universités de la Méditerranée https://github.com/cpesr/wikidataESR/blob/master/plots/regroupements/Q850927-regroupement-court.md 
+``` 
 
-Erreur : les données sont probablement trop partielles. 
+Avertissements et édition : [logs](https://github.com/cpesr/wikidataESR/blob/master/plots/regroupements/Q13531686.md) 
 
-Avertissements et édition : [logs](plots/regroupements/Q850927-regroupement-court.md 
+### COMUE Université Paris-Saclay : Regroupement-Etendu https://github.com/cpesr/wikidataESR/blob/master/plots/regroupements/Q13531686.md 
 
-### Regroupement-Etendu : Union des universités de la Méditerranée https://github.com/cpesr/wikidataESR/blob/master/plots/regroupements/Q850927-regroupement-etendu.md 
+Erreur : les données sont probablement trop partielles.
+```
+Error: `multiple` is `FALSE`, but `x` contains parallel edges.
+The following rows in `x` are duplicated:
+	- `x[39, ]`
+	- `x[53, ]`
+	- `x[78, ]`
+	- `x[145, ]`
+	- `x[151, ]`
+	- `x[262, ]`
 
-Erreur : les données sont probablement trop partielles. 
+``` 
 
-Avertissements et édition : [logs](plots/regroupements/Q850927-regroupement-etendu.md 
+Avertissements et édition : [logs](https://github.com/cpesr/wikidataESR/blob/master/plots/regroupements/Q13531686.md) 
 
-### Regroupement-Superetendu : Union des universités de la Méditerranée https://github.com/cpesr/wikidataESR/blob/master/plots/regroupements/Q850927-regroupement-superetendu.md 
+### COMUE Université Paris-Saclay : Regroupement-Superetendu https://github.com/cpesr/wikidataESR/blob/master/plots/regroupements/Q13531686.md 
 
-Erreur : les données sont probablement trop partielles. 
+Erreur : les données sont probablement trop partielles.
+```
+Error: `loops` is `FALSE`, but `x` contains loops.
+The following values are affected:
+	- `x[6, 1:2]`
 
-Avertissements et édition : [logs](plots/regroupements/Q850927-regroupement-superetendu.md 
+``` 
 
-### Regroupement-Court : Sorbonne Universités https://github.com/cpesr/wikidataESR/blob/master/plots/regroupements/Q3491150-regroupement-court.md 
+Avertissements et édition : [logs](https://github.com/cpesr/wikidataESR/blob/master/plots/regroupements/Q13531686.md) 
 
-![](plots/regroupements/Q3491150-regroupement-court.png) 
+### Union des universités de la Méditerranée : Regroupement-Court https://github.com/cpesr/wikidataESR/blob/master/plots/regroupements/Q850927.md 
 
-Avertissements et édition : [logs](plots/regroupements/Q3491150-regroupement-court.md 
+Erreur : les données sont probablement trop partielles.
+```
+Error in wdesr_ggplot_graph(df, node_size = node_size/mult, label_sizes = label_sizes/mult, : Empty ESR graph: something went wrong with the graph production parameters
 
-### Regroupement-Etendu : Sorbonne Universités https://github.com/cpesr/wikidataESR/blob/master/plots/regroupements/Q3491150-regroupement-etendu.md 
+``` 
 
-![](plots/regroupements/Q3491150-regroupement-etendu.png) 
+Avertissements et édition : [logs](https://github.com/cpesr/wikidataESR/blob/master/plots/regroupements/Q850927.md) 
 
-Avertissements et édition : [logs](plots/regroupements/Q3491150-regroupement-etendu.md 
+### Union des universités de la Méditerranée : Regroupement-Etendu https://github.com/cpesr/wikidataESR/blob/master/plots/regroupements/Q850927.md 
 
-### Regroupement-Superetendu : Sorbonne Universités https://github.com/cpesr/wikidataESR/blob/master/plots/regroupements/Q3491150-regroupement-superetendu.md 
+Erreur : les données sont probablement trop partielles.
+```
+Error in wdesr_ggplot_graph(df, node_size = node_size/mult, label_sizes = label_sizes/mult, : Empty ESR graph: something went wrong with the graph production parameters
 
-![](plots/regroupements/Q3491150-regroupement-superetendu.png) 
+``` 
 
-Avertissements et édition : [logs](plots/regroupements/Q3491150-regroupement-superetendu.md 
+Avertissements et édition : [logs](https://github.com/cpesr/wikidataESR/blob/master/plots/regroupements/Q850927.md) 
 
-### Regroupement-Court : COMUE Angers-Le Mans https://github.com/cpesr/wikidataESR/blob/master/plots/regroupements/Q104621964-regroupement-court.md 
+### Union des universités de la Méditerranée : Regroupement-Superetendu https://github.com/cpesr/wikidataESR/blob/master/plots/regroupements/Q850927.md 
 
-Erreur : les données sont probablement trop partielles. 
+Erreur : les données sont probablement trop partielles.
+```
+Error in wdesr_ggplot_graph(df, node_size = node_size/mult, label_sizes = label_sizes/mult, : Empty ESR graph: something went wrong with the graph production parameters
 
-Avertissements et édition : [logs](plots/regroupements/Q104621964-regroupement-court.md 
+``` 
 
-### Regroupement-Etendu : COMUE Angers-Le Mans https://github.com/cpesr/wikidataESR/blob/master/plots/regroupements/Q104621964-regroupement-etendu.md 
+Avertissements et édition : [logs](https://github.com/cpesr/wikidataESR/blob/master/plots/regroupements/Q850927.md) 
 
-Erreur : les données sont probablement trop partielles. 
+### Sorbonne Universités : Regroupement-Court https://github.com/cpesr/wikidataESR/blob/master/plots/regroupements/Q3491150.md 
 
-Avertissements et édition : [logs](plots/regroupements/Q104621964-regroupement-etendu.md 
+![](https://github.com/cpesr/wikidataESR/blob/master/plots/regroupements/Q3491150-regroupement-court.png) 
 
-### Regroupement-Superetendu : COMUE Angers-Le Mans https://github.com/cpesr/wikidataESR/blob/master/plots/regroupements/Q104621964-regroupement-superetendu.md 
+Avertissements et édition : [logs](https://github.com/cpesr/wikidataESR/blob/master/plots/regroupements/Q3491150.md) 
 
-Erreur : les données sont probablement trop partielles. 
+### Sorbonne Universités : Regroupement-Etendu https://github.com/cpesr/wikidataESR/blob/master/plots/regroupements/Q3491150.md 
 
-Avertissements et édition : [logs](plots/regroupements/Q104621964-regroupement-superetendu.md 
+![](https://github.com/cpesr/wikidataESR/blob/master/plots/regroupements/Q3491150-regroupement-etendu.png) 
+
+Avertissements et édition : [logs](https://github.com/cpesr/wikidataESR/blob/master/plots/regroupements/Q3491150.md) 
+
+### Sorbonne Universités : Regroupement-Superetendu https://github.com/cpesr/wikidataESR/blob/master/plots/regroupements/Q3491150.md 
+
+![](https://github.com/cpesr/wikidataESR/blob/master/plots/regroupements/Q3491150-regroupement-superetendu.png) 
+
+Avertissements et édition : [logs](https://github.com/cpesr/wikidataESR/blob/master/plots/regroupements/Q3491150.md) 
+
+### COMUE Angers-Le Mans : Regroupement-Court https://github.com/cpesr/wikidataESR/blob/master/plots/regroupements/Q104621964.md 
+
+Erreur : les données sont probablement trop partielles.
+```
+Error in wdesr_ggplot_graph(df, node_size = node_size/mult, label_sizes = label_sizes/mult, : Empty ESR graph: something went wrong with the graph production parameters
+
+``` 
+
+Avertissements et édition : [logs](https://github.com/cpesr/wikidataESR/blob/master/plots/regroupements/Q104621964.md) 
+
+### COMUE Angers-Le Mans : Regroupement-Etendu https://github.com/cpesr/wikidataESR/blob/master/plots/regroupements/Q104621964.md 
+
+Erreur : les données sont probablement trop partielles.
+```
+Error in wdesr_ggplot_graph(df, node_size = node_size/mult, label_sizes = label_sizes/mult, : Empty ESR graph: something went wrong with the graph production parameters
+
+``` 
+
+Avertissements et édition : [logs](https://github.com/cpesr/wikidataESR/blob/master/plots/regroupements/Q104621964.md) 
+
+### COMUE Angers-Le Mans : Regroupement-Superetendu https://github.com/cpesr/wikidataESR/blob/master/plots/regroupements/Q104621964.md 
+
+Erreur : les données sont probablement trop partielles.
+```
+Error in wdesr_ggplot_graph(df, node_size = node_size/mult, label_sizes = label_sizes/mult, : Empty ESR graph: something went wrong with the graph production parameters
+
+``` 
+
+Avertissements et édition : [logs](https://github.com/cpesr/wikidataESR/blob/master/plots/regroupements/Q104621964.md) 
 
 ## Histoire des universités historiques 
 
-### Histoire : université de Clermont-Ferrand https://github.com/cpesr/wikidataESR/blob/master/plots/histoire/Q3551576-histoire.md 
+### université de Clermont-Ferrand : Histoire https://github.com/cpesr/wikidataESR/blob/master/plots/histoire/Q3551576.md 
 
-![](plots/histoire/Q3551576-histoire.png) 
+![](https://github.com/cpesr/wikidataESR/blob/master/plots/histoire/Q3551576-histoire.png) 
 
-Avertissements et édition : [logs](plots/histoire/Q3551576-histoire.md 
+Avertissements et édition : [logs](https://github.com/cpesr/wikidataESR/blob/master/plots/histoire/Q3551576.md) 
 
-### Histoire : université de Bordeaux https://github.com/cpesr/wikidataESR/blob/master/plots/histoire/Q20791505-histoire.md 
+### université de Bordeaux : Histoire https://github.com/cpesr/wikidataESR/blob/master/plots/histoire/Q20791505.md 
 
-![](plots/histoire/Q20791505-histoire.png) 
+![](https://github.com/cpesr/wikidataESR/blob/master/plots/histoire/Q20791505-histoire.png) 
 
-Avertissements et édition : [logs](plots/histoire/Q20791505-histoire.md 
+Avertissements et édition : [logs](https://github.com/cpesr/wikidataESR/blob/master/plots/histoire/Q20791505.md) 
 
-### Histoire : Université de Paris https://github.com/cpesr/wikidataESR/blob/master/plots/histoire/Q209842-histoire.md 
+### Université de Paris : Histoire https://github.com/cpesr/wikidataESR/blob/master/plots/histoire/Q209842.md 
 
-Erreur : les données sont probablement trop partielles. 
+Erreur : les données sont probablement trop partielles.
+```
+Error: `multiple` is `FALSE`, but `x` contains parallel edges.
+The following rows in `x` are duplicated:
+	- `x[17, ]`
 
-Avertissements et édition : [logs](plots/histoire/Q209842-histoire.md 
+``` 
 
-### Histoire : université de Lille https://github.com/cpesr/wikidataESR/blob/master/plots/histoire/Q3551621-histoire.md 
+Avertissements et édition : [logs](https://github.com/cpesr/wikidataESR/blob/master/plots/histoire/Q209842.md) 
 
-Erreur : les données sont probablement trop partielles. 
+### université de Lille : Histoire https://github.com/cpesr/wikidataESR/blob/master/plots/histoire/Q3551621.md 
 
-Avertissements et édition : [logs](plots/histoire/Q3551621-histoire.md 
+Erreur : les données sont probablement trop partielles.
+```
+Error in wdesr_ggplot_graph(df, node_size = node_size/mult, label_sizes = label_sizes/mult, : Empty ESR graph: something went wrong with the graph production parameters
 
-### Histoire : université de Lyon (1896-1969) https://github.com/cpesr/wikidataESR/blob/master/plots/histoire/Q2383462-histoire.md 
+``` 
 
-![](plots/histoire/Q2383462-histoire.png) 
+Avertissements et édition : [logs](https://github.com/cpesr/wikidataESR/blob/master/plots/histoire/Q3551621.md) 
 
-Avertissements et édition : [logs](plots/histoire/Q2383462-histoire.md 
+### université de Lyon (1896-1969) : Histoire https://github.com/cpesr/wikidataESR/blob/master/plots/histoire/Q2383462.md 
 
-### Histoire : ancienne université d'Orléans https://github.com/cpesr/wikidataESR/blob/master/plots/histoire/Q23197733-histoire.md 
+![](https://github.com/cpesr/wikidataESR/blob/master/plots/histoire/Q2383462-histoire.png) 
 
-![](plots/histoire/Q23197733-histoire.png) 
+Avertissements et édition : [logs](https://github.com/cpesr/wikidataESR/blob/master/plots/histoire/Q2383462.md) 
 
-Avertissements et édition : [logs](plots/histoire/Q23197733-histoire.md 
+### ancienne université d'Orléans : Histoire https://github.com/cpesr/wikidataESR/blob/master/plots/histoire/Q23197733.md 
 
-### Histoire : Université de Montpellier https://github.com/cpesr/wikidataESR/blob/master/plots/histoire/Q64690423-histoire.md 
+![](https://github.com/cpesr/wikidataESR/blob/master/plots/histoire/Q23197733-histoire.png) 
 
-![](plots/histoire/Q64690423-histoire.png) 
+Avertissements et édition : [logs](https://github.com/cpesr/wikidataESR/blob/master/plots/histoire/Q23197733.md) 
 
-Avertissements et édition : [logs](plots/histoire/Q64690423-histoire.md 
+### Université de Montpellier : Histoire https://github.com/cpesr/wikidataESR/blob/master/plots/histoire/Q64690423.md 
 
-### Histoire : université de Rennes https://github.com/cpesr/wikidataESR/blob/master/plots/histoire/Q1987282-histoire.md 
+![](https://github.com/cpesr/wikidataESR/blob/master/plots/histoire/Q64690423-histoire.png) 
 
-![](plots/histoire/Q1987282-histoire.png) 
+Avertissements et édition : [logs](https://github.com/cpesr/wikidataESR/blob/master/plots/histoire/Q64690423.md) 
 
-Avertissements et édition : [logs](plots/histoire/Q1987282-histoire.md 
+### université de Rennes : Histoire https://github.com/cpesr/wikidataESR/blob/master/plots/histoire/Q1987282.md 
 
-### Histoire : École royale de dessin (Paris) https://github.com/cpesr/wikidataESR/blob/master/plots/histoire/Q20774688-histoire.md 
+![](https://github.com/cpesr/wikidataESR/blob/master/plots/histoire/Q1987282-histoire.png) 
 
-![](plots/histoire/Q20774688-histoire.png) 
+Avertissements et édition : [logs](https://github.com/cpesr/wikidataESR/blob/master/plots/histoire/Q1987282.md) 
 
-Avertissements et édition : [logs](plots/histoire/Q20774688-histoire.md 
+### École royale de dessin (Paris) : Histoire https://github.com/cpesr/wikidataESR/blob/master/plots/histoire/Q20774688.md 
 
-### Histoire : Ancienne université de Toulouse https://github.com/cpesr/wikidataESR/blob/master/plots/histoire/Q578023-histoire.md 
+![](https://github.com/cpesr/wikidataESR/blob/master/plots/histoire/Q20774688-histoire.png) 
 
-![](plots/histoire/Q578023-histoire.png) 
+Avertissements et édition : [logs](https://github.com/cpesr/wikidataESR/blob/master/plots/histoire/Q20774688.md) 
 
-Avertissements et édition : [logs](plots/histoire/Q578023-histoire.md 
+### Ancienne université de Toulouse : Histoire https://github.com/cpesr/wikidataESR/blob/master/plots/histoire/Q578023.md 
 
-### Histoire : Academia argentinensis https://github.com/cpesr/wikidataESR/blob/master/plots/histoire/Q20808141-histoire.md 
+![](https://github.com/cpesr/wikidataESR/blob/master/plots/histoire/Q578023-histoire.png) 
 
-![](plots/histoire/Q20808141-histoire.png) 
+Avertissements et édition : [logs](https://github.com/cpesr/wikidataESR/blob/master/plots/histoire/Q578023.md) 
 
-Avertissements et édition : [logs](plots/histoire/Q20808141-histoire.md 
+### Academia argentinensis : Histoire https://github.com/cpesr/wikidataESR/blob/master/plots/histoire/Q20808141.md 
 
-### Histoire : université d'Aix-Marseille (1896-1971) https://github.com/cpesr/wikidataESR/blob/master/plots/histoire/Q21592577-histoire.md 
+![](https://github.com/cpesr/wikidataESR/blob/master/plots/histoire/Q20808141-histoire.png) 
 
-![](plots/histoire/Q21592577-histoire.png) 
+Avertissements et édition : [logs](https://github.com/cpesr/wikidataESR/blob/master/plots/histoire/Q20808141.md) 
 
-Avertissements et édition : [logs](plots/histoire/Q21592577-histoire.md 
+### université d'Aix-Marseille (1896-1971) : Histoire https://github.com/cpesr/wikidataESR/blob/master/plots/histoire/Q21592577.md 
+
+![](https://github.com/cpesr/wikidataESR/blob/master/plots/histoire/Q21592577-histoire.png) 
+
+Avertissements et édition : [logs](https://github.com/cpesr/wikidataESR/blob/master/plots/histoire/Q21592577.md) 
 

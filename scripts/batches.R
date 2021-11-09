@@ -37,18 +37,17 @@ save_all_warnings <- function(expr, logfile, header) {
 }
 
 mdfile = "../check.md"
-print_to_md <- function(msg, append=TRUE) {
-  cat(msg,"\n\n",  file=mdfile, append=append)
+print_to_md <- function(msg, append=TRUE, file=mdfile) {
+  cat(msg,"\n\n", file=file, append=append)
 }
 
-write_warnings <- function(df.g, racine, alias, basefile) {
-  logfile <- paste0("../plots/",basefile,".md")
-  cat("Warnings wikidataESR pour : ",alias,"\n================\n\n", file=logfile, sep='' )
+start_logfile <- function(racine, alias, logfile) {
+  cat("Warnings wikidataESR pour : ",alias,"\n================\n\n", 
+      file=logfile, sep='' )
   cat("- Edition wikidata : [",racine,"](https://www.wikidata.org/wiki/",racine,")\n", 
       file = logfile, append = TRUE, sep='')
   cat("- Guide d'édition : [wikidataESR](https://github.com/cpesr/wikidataESR/)\n\n", 
       file = logfile, append = TRUE, sep='')
-  wdesr_log_warnings(df.g,logfile)
 }
 
 plot_batch <- function(racine, alias, suffix, 
@@ -59,19 +58,27 @@ plot_batch <- function(racine, alias, suffix,
                        edge_label = FALSE,
                        active_only = FALSE,
                        ggs.width = 10.66, ggs.heigth = 6, ggs.dpi = 200,
-                       double_thres = 50
+                       double_thres = 50,
+                       append_logfile = FALSE
                        ) {
 
   print(paste("Racine :",racine,alias,"(",suffix,")"))
-  basefile = paste0(ggs.path,"/",racine,"-",suffix)
+
+  githuburl = "https://github.com/cpesr/wikidataESR/blob/master/"
+  logfile = paste0("../plots/",ggs.path,"/",racine,".md")
+  logurl = paste0(githuburl,"plots/",ggs.path,"/",racine,".md")
+  plotfile = paste0("../plots/",ggs.path,"/",racine,"-",suffix,".png")
+  ploturl = paste0(githuburl,"plots/",ggs.path,"/",racine,"-",suffix,".png")
   
-  print_to_md(paste0("### ", stringr::str_to_title(suffix)," : ",alias,
-                     " https://github.com/cpesr/wikidataESR/blob/master/plots/",basefile,".md"))
+  if(!append_logfile) start_logfile(racine,alias,logfile)
+  print_to_md(paste0("### ",alias," : ",stringr::str_to_title(suffix)," ", logurl))
+  print_to_md(paste0("\n\n## ",suffix), file=logfile)
+  print_to_md(paste0("![Graphique non généré](",ploturl,")"), file=logfile)
   
   tryCatch( {
     df <- wdesr_get_graph(racine, relations, depth=depth)
     
-    write_warnings(df, racine, alias, basefile)
+    wdesr_log_warnings(df,logfile)
     
     mult <- ifelse(nrow(df$vertices)<double_thres, 1, 2)
     
@@ -80,15 +87,17 @@ plot_batch <- function(racine, alias, suffix,
                        node_label = node_label, node_type = node_type,
                        edge_label = edge_label,
                        active_only = active_only)
+
+    ggsave(plotfile, width = ggs.width, height = ggs.heigth, dpi = ggs.dpi)  
     
-    ggsave(paste0("../plots/",basefile,".png"), 
-           width = ggs.width, height = ggs.heigth, dpi = ggs.dpi)  
-    
-    print_to_md(paste0("![](plots/",basefile,".png)"))
+    print_to_md(paste0("![](",ploturl,")"))
   },
-    error = function(c) print_to_md("Erreur : les données sont probablement trop partielles.")
+    error = function(c) {
+      print_to_md(paste0("Erreur : les données sont probablement trop partielles.\n```\n", c,"\n```"))
+      print_to_md(paste0("Erreur : les données sont probablement trop partielles.\n```\n", c,"\n```"), file=logfile)
+    }
   )
-  print_to_md(paste0("Avertissements et édition : [logs](plots/",basefile,".md)"))
+  print_to_md(paste0("Avertissements et édition : [logs](",logurl,")"))
   
 }
 
@@ -129,21 +138,20 @@ for(i in 1:nrow(etab)) {
     alias <- paste(subetab[i,2]$alias,
                    stringr::str_replace(subetab[i,3]$twitter, "https://twitter.com/", "@"))
     
-    plot_batch(wdid,alias, "histoire",
-               "etablissements",
+    plot_batch(wdid,alias, "histoire", "etablissements",
                c('séparé_de', 'prédécesseur'), depth=10,
                node_label = "alias_date",
                edge_label = TRUE)
     
-    plot_batch(wdid,alias, "composition",
-               "etablissements",
+    plot_batch(wdid,alias, "composition", "etablissements",
                c('composante'), depth=10,
-               active_only = TRUE)
+               active_only = TRUE,
+               append_logfile = TRUE)
   
-    plot_batch(wdid,alias, "associations",
-               "etablissements",
+    plot_batch(wdid,alias, "associations", "etablissements",
                c('composante_de','affilié_à','associé','associé_de'), depth=5,
-               active_only = TRUE)
+               active_only = TRUE,
+               append_logfile = TRUE)
     
   }
 }
@@ -155,16 +163,15 @@ print_to_md("## Regroupements")
 # Lecture des id wikidata des racines pour les regroupements, puis plot.
 regroupements <- read.csv2("regroupements.csv")
 for(i in 1:nrow(regroupements)) {
-  plot_batch(regroupements[i,1],regroupements[i,2], "regroupement-court",
-             "regroupements",
+  plot_batch(regroupements[i,1],regroupements[i,2], "regroupement-court", "regroupements",
              relations = c('composante','associé'), depth = 1)
-  plot_batch(regroupements[i,1],regroupements[i,2], "regroupement-etendu",
-             "regroupements",
-             relations = c('composante','associé'), depth = 2)
-  plot_batch(regroupements[i,1],regroupements[i,2], "regroupement-superetendu",
-             "regroupements",
+  plot_batch(regroupements[i,1],regroupements[i,2], "regroupement-etendu", "regroupements",
+             relations = c('composante','associé'), depth = 2,
+             append_logfile = TRUE)
+  plot_batch(regroupements[i,1],regroupements[i,2], "regroupement-superetendu", "regroupements",
              relations = c('composante','associé','prédécesseur'), depth = 3,
-             ggs.width = 16, ggs.heigth = 9)
+             ggs.width = 16, ggs.heigth = 9,
+             append_logfile = TRUE)
 }
 
 
