@@ -117,6 +117,29 @@ wd_get_item_statement_qualifier_as_list <- function(item,prop,qual) {
 }
 
 
+
+#' Check if there is a redirection for the given wikidata id
+#'
+#' @param wdid The id of the wikidata item to check
+#'
+#' @return The redirection id if there is, wdid otherwise
+#'
+#' @examples wd_check_redirection("Q80186910")
+#' 
+#' @references \url{https://github.com/cpesr/wikidataESR}
+#' @seealso \code{\link[WikidataR]{WikidataR}}
+#' @author Julien Gossa, \email{gossa@unistra.fr}
+#' @noRd
+wd_check_redirection <- function(wdid) {
+  item <- WikidataR::get_item(id = wdid)
+  if (!is.null(item[[1]]$redirect)) {
+    warning("Redirection detected ", wdid, " -> ", item[[1]]$redirect)
+    return(item[[1]]$redirect)
+  }
+  return(wdid)
+}
+
+
 #' Get the wikidata url of an item by id
 #'
 #' @param id The id of a wikidata item

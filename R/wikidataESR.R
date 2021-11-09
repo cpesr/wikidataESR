@@ -89,8 +89,6 @@ wdesr_get_item_status <- function(item) {
   return(status)
 }
 
-
-
 #' Load the data of one university.
 #'
 #' @param wdid The wikidata id of the university.
@@ -107,6 +105,9 @@ wdesr_get_item_status <- function(item) {
 wdesr_load_item <- function(wdid) {
 
   item <- WikidataR::get_item(id = wdid)
+  if (!is.null(item[[1]]$redirect)) {
+    stop("Redirection ",wdid," -> ",item[[1]]$redirect)
+  }
   status <- wdesr_get_item_status(item)
   
   return(
@@ -224,6 +225,7 @@ wdesr_get_graph <- function(wdid, props, depth = 3, active_only = FALSE, stop_at
   wgge$edges <- data.frame(from=character(),to=character(),stringsAsFactors = FALSE)
   wgge$vertices <- data.frame()
 
+  wdid <- wd_check_redirection(wdid)
   wdesr_get_subgraph(wgge, wdid, props, depth, active_only, stop_at)
 
   wgge$vertices <- wgge$vertices %>%
