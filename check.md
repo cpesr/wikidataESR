@@ -179,11 +179,7 @@ Avertissements et édition : [logs](https://github.com/cpesr/wikidataESR/blob/ma
 
 ### Université Côte d'Azur @Univ_CotedAzur : Histoire https://github.com/cpesr/wikidataESR/blob/master/plots/etablissements/Q80186910.md 
 
-Erreur : les données sont probablement trop partielles.
-```
-Error in ans[npos] <- rep(no, length.out = len)[npos]: l'argument de remplacement est de longueur nulle
-
-``` 
+![](https://github.com/cpesr/wikidataESR/blob/master/plots/etablissements/Q80186910-histoire.png) 
 
 Avertissements et édition : [logs](https://github.com/cpesr/wikidataESR/blob/master/plots/etablissements/Q80186910.md) 
 
@@ -191,7 +187,11 @@ Avertissements et édition : [logs](https://github.com/cpesr/wikidataESR/blob/ma
 
 Erreur : les données sont probablement trop partielles.
 ```
-Error in ans[npos] <- rep(no, length.out = len)[npos]: l'argument de remplacement est de longueur nulle
+Error: `multiple` is `FALSE`, but `x` contains parallel edges.
+The following rows in `x` are duplicated:
+	- `x[16, ]`
+	- `x[21, ]`
+	- `x[28, ]`
 
 ``` 
 
@@ -199,11 +199,7 @@ Avertissements et édition : [logs](https://github.com/cpesr/wikidataESR/blob/ma
 
 ### Université Côte d'Azur @Univ_CotedAzur : Associations https://github.com/cpesr/wikidataESR/blob/master/plots/etablissements/Q80186910.md 
 
-Erreur : les données sont probablement trop partielles.
-```
-Error in ans[npos] <- rep(no, length.out = len)[npos]: l'argument de remplacement est de longueur nulle
-
-``` 
+![](https://github.com/cpesr/wikidataESR/blob/master/plots/etablissements/Q80186910-associations.png) 
 
 Avertissements et édition : [logs](https://github.com/cpesr/wikidataESR/blob/master/plots/etablissements/Q80186910.md) 
 
