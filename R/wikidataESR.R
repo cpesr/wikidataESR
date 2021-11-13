@@ -479,6 +479,7 @@ wdesr_ggplot_graph <- function( df.g,
     fill = statut),
     size = scales::rescale(-ggnet.nodes$niveau,label_sizes,range(-wdesr.niveaux$niveau))
     )
+  g <- g + coord_cartesian(clip="off") 
   g <- g + scale_alpha_manual(labels=c("dissous","actif"), values = (c(0.8,1)), name='statut')
   g <- g + scale_color_manual(values = c("grey30","white"))
   g <- g + scale_fill_manual(values = statuts_colors)

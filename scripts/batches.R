@@ -26,6 +26,9 @@ library(ggnetwork)
 library(scales)
 library(dplyr)
 
+library(ggcpesrthemes)
+theme_cpesr_setup(authors = "Julien Gossa", url = "www.cpesr.fr WikidataESR")
+
 save_all_warnings <- function(expr, logfile, header) {
   if(file.exists(logfile)) logfile <- paste0(logfile,".1")
   cat(header, "\n\n",  file=logfile, append=FALSE)
@@ -73,7 +76,7 @@ plot_batch <- function(racine, alias, suffix,
   ploturl = paste0("plots/",ggs.path,"/",plotfilename)
   
   if(!append_logfile) start_logfile(racine,alias,logfile)
-  print_to_md(paste0("### ",alias," : ",stringr::str_to_title(suffix)," ", githuburl,logurl))
+  print_to_md(paste0("### ",alias," : ",stringr::str_to_title(suffix)," \\nEdition des données : ", githuburl,logurl))
   print_to_md(paste0("\n\n## ",suffix), file=logfile)
   print_to_md(paste0("![Graphique non généré](",plotfilename,")"), file=logfile)
   
@@ -96,7 +99,9 @@ plot_batch <- function(racine, alias, suffix,
                        node_size = node_size, label_sizes = label_sizes, arrow_gap = arrow_gap,
                        node_label = node_label, node_type = node_type,
                        edge_label = edge_label,
-                       margin_x = 0.2*mult.margin, margin_y = 0.03*mult.margin)
+                       margin_x = 0.2*mult.margin, margin_y = 0.03*mult.margin) +
+      ggtitle(paste(stringr::str_to_sentence(suffix),"de",alias)) +
+      cpesr_cap()
 
     ggsave(plotfile, width = ggs.width*mult.ggs, height = ggs.heigth*mult.ggs, dpi = ggs.dpi)  
     
@@ -143,16 +148,23 @@ etab <- read.csv2("fr-esr-principaux-etablissements-enseignement-superieur.csv")
   nest_by(type) %>% 
   arrange(desc(type))
 
+
+
 for(i in 1:nrow(etab)) {
   t <- etab[i,1]$type
   print_to_md(paste0("## Histoire, composition et association actuelles des ",t))
-  
+
   subetab <- etab[i,2]$data[[1]]
+  
+  print_to_md(paste0("Twitters manquants :\n```\n",
+                     paste0(" - ", subetab %>% filter(twitter=="") %>% pull(alias), collapse = "\n"),
+                     "\n```"))
+  
   for (i in 1:nrow(subetab)) {
     wdid <- subetab[i,1]$wdid
     alias <- paste(subetab[i,2]$alias,
                    stringr::str_replace(subetab[i,3]$twitter, "https://twitter.com/", "@"))
-    
+  
     plot_batch(wdid,alias, "histoire", "etablissements",
                c('séparé_de', 'absorbé_par', 'prédécesseur'), depth=10,
                node_label = "alias_date",
@@ -167,7 +179,6 @@ for(i in 1:nrow(etab)) {
                c('composante_de','affilié_à','associé','associé_de'), depth=5,
                active_only = TRUE,
                append_logfile = TRUE)
-    
   }
 }
 
