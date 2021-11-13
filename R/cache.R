@@ -52,12 +52,13 @@
 #' @examples wdesr_make_package_data()
 #' @noRd
 wdesr_make_package_data <- function(path="./R/") {
-  wdesr.statuts <- read.table(paste0(path,"wdesr.statuts.csv"),header=TRUE,sep=';',quote='"',stringsAsFactors=FALSE)
-  wdesr.niveaux <- read.table(paste0(path,"wdesr.niveaux.csv"),header=TRUE,sep=';',quote='"',stringsAsFactors=FALSE)
+  wdesr.statuts <- read.csv2(paste0(path,"wdesr.statuts.csv"), na.strings = "") %>%
+    mutate(note = ifelse(is.na(note) & recommandé=="non","Statut trop imprécis",note))
+  wdesr.niveaux <- read.csv2(paste0(path,"wdesr.niveaux.csv"))
   usethis::use_data(wdesr.statuts, wdesr.niveaux, overwrite = TRUE, internal = FALSE)
 
-  write.table(wdesr.statuts, file = paste0(path,"wdesr.statuts.csv"), sep=';', quote = TRUE, row.names = FALSE)
-  write.table(wdesr.niveaux, file = paste0(path,"wdesr.niveaux.csv"), sep=';', quote = TRUE, row.names = FALSE)
+  #write.table(wdesr.statuts, file = paste0(path,"wdesr.statuts.csv"), sep=';', quote = TRUE, row.names = FALSE)
+  #write.table(wdesr.niveaux, file = paste0(path,"wdesr.niveaux.csv"), sep=';', quote = TRUE, row.names = FALSE)
 
   #usethis::use_data(items,instance_ofs, internal = TRUE, overwrite = TRUE)
 }

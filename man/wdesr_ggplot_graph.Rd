@@ -6,13 +6,14 @@
 \usage{
 wdesr_ggplot_graph(
   df.g,
-  layout = "kamadakawai",
+  layout = igraph::with_kk,
   active_only = FALSE,
   node_sizes = c(10, 30),
   label_sizes = c(4, 6),
   node_label = "alias",
   node_type = "text",
   edge_label = TRUE,
+  edge_arrow = FALSE,
   arrow_gap = 0.05,
   size_guide = "none",
   legend_position = "right",
@@ -34,6 +35,8 @@ wdesr_ggplot_graph(
 \item{node_type}{Define the type of drawing for the nodes. Either "text", "text_repel", "label", or "label_repel" (default to "text").}
 
 \item{edge_label}{TRUE to plot dates on edges (default to "TRUE").}
+
+\item{edge_arrow}{TRUE or arrow object to plot arrow on edges, FALSE otherwise (default to "FALSE").}
 
 \item{arrow_gap}{A parameter that will shorten the network edges in order to avoid overplotting edge arrows and nodes see \code{\link[ggnetwork]{fortify.network}}.}
 

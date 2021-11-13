@@ -21,8 +21,11 @@ Imports:
     ggplot2,
     intergraph,
     network,
+    igraph,
     dplyr,
     scales,
-    RColorBrewer
+    RColorBrewer,
+    janitor,
+    kableExtra
 Depends: 
     R (>= 2.10)

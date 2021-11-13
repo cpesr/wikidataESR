@@ -158,3 +158,4 @@ wd_id2url <- function(id, format="md") {
     return(paste0("[",id,"](https://www.wikidata.org/wiki/",id,")"))
   return(paste0("https://www.wikidata.org/wiki/",id))
 }
+

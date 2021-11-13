@@ -3,6 +3,7 @@
 knitr::opts_chunk$set(echo = TRUE)
 library(wikidataESR)
 library(knitr)
+library(tidyverse)
 wdesr_clear_cache()
 
 statuts_to_table <- function (statuts) {
@@ -15,7 +16,7 @@ statuts_to_table <- function (statuts) {
     paste('[ref](',df$wikipedia,')',sep=''),
     "")
   
-  return(subset(df,,c('wikidata.id','libellé','niveau','note','wikipedia')))
+  return(select(df,wikidata.id,libellé,niveau,note,wikipedia))
 }
 ```
 
@@ -74,6 +75,12 @@ Afin d'harmoniser au mieux les informations, il est utile d'éviter plusieurs er
 - Utiliser un seul élément pour représenter plusieurs établissements.
 
 Il est recommandé d'utiliser autant d'éléments que de nécessaires, sans tenter de réutiliser ceux qui existent. Cela vaut aussi bien pour les établissements composites (regroupements) que pour les établissements qui changent de statuts au cours du temps.
+
+En particulier, les universités qui retrouvent leur nom historique après une 
+re-fusion ne doivent surtout pas réutiliser l'élément historique. De même pour 
+les universités qui gardent le même nom mais changent de statut. Globalement,
+chaque changement d'UAI doit être marqué par un changement d'élément wikidata.
+
 
 - Utiliser un statut inappropriée.
 

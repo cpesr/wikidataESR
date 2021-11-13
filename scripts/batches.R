@@ -37,16 +37,18 @@ save_all_warnings <- function(expr, logfile, header) {
 }
 
 mdfile = "../check.md"
-print_to_md <- function(msg, append=TRUE, file=mdfile) {
+print_to_md <- function(msg, file=mdfile, append=TRUE) {
   cat(msg,"\n\n", file=file, append=append)
 }
 
 start_logfile <- function(racine, alias, logfile) {
-  cat("Warnings wikidataESR pour : ",alias,"\n================\n\n", 
+  cat("Warnings wikidataESR pour : ",alias,"(",format(Sys.time(), '%d/%m/%Y'),"\n================\n\n", 
       file=logfile, sep='' )
   cat("- Edition wikidata : [",racine,"](https://www.wikidata.org/wiki/",racine,")\n", 
       file = logfile, append = TRUE, sep='')
   cat("- Guide d'édition : [wikidataESR](https://github.com/cpesr/wikidataESR/)\n\n", 
+      file = logfile, append = TRUE, sep='')
+  cat("- Discussion sur le guide d'édition : [github](https://github.com/cpesr/wikidataESR/issues)\n\n", 
       file = logfile, append = TRUE, sep='')
 }
 
@@ -58,7 +60,6 @@ plot_batch <- function(racine, alias, suffix,
                        edge_label = FALSE,
                        active_only = FALSE,
                        ggs.width = 10.66, ggs.heigth = 6, ggs.dpi = 200,
-                       double_thres = 50,
                        append_logfile = FALSE
                        ) {
 
@@ -66,35 +67,44 @@ plot_batch <- function(racine, alias, suffix,
 
   githuburl = "https://github.com/cpesr/wikidataESR/blob/master/"
   logfile = paste0("../plots/",ggs.path,"/",racine,".md")
-  logurl = paste0(githuburl,"plots/",ggs.path,"/",racine,".md")
-  plotfile = paste0("../plots/",ggs.path,"/",racine,"-",suffix,".png")
-  ploturl = paste0(githuburl,"plots/",ggs.path,"/",racine,"-",suffix,".png")
+  logurl = paste0("plots/",ggs.path,"/",racine,".md")
+  plotfilename = paste0(racine,"-",suffix,".png")
+  plotfile = paste0("../plots/",ggs.path,"/",plotfilename)
+  ploturl = paste0("plots/",ggs.path,"/",plotfilename)
   
   if(!append_logfile) start_logfile(racine,alias,logfile)
-  print_to_md(paste0("### ",alias," : ",stringr::str_to_title(suffix)," ", logurl))
+  print_to_md(paste0("### ",alias," : ",stringr::str_to_title(suffix)," ", githuburl,logurl))
   print_to_md(paste0("\n\n## ",suffix), file=logfile)
-  print_to_md(paste0("![Graphique non généré](",ploturl,")"), file=logfile)
+  print_to_md(paste0("![Graphique non généré](",plotfilename,")"), file=logfile)
   
   tryCatch( {
-    df <- wdesr_get_graph(racine, relations, depth=depth)
+    df <- wdesr_get_graph(racine, relations, depth=depth, active_only = active_only)
     
-    wdesr_log_warnings(df,logfile)
+    print_to_md(wdesr_log_warnings(df),logfile)
     
-    mult <- ifelse(nrow(df$vertices)<double_thres, 1, 2)
+    mult.ggs <- 1 ; mult.margin <- 1
+    
+    
+    if(nrow(df$vertices)<16)    { mult.ggs <- 0.9 ; mult.margin <- 1.6 }
+    if(nrow(df$vertices)<6)     { mult.ggs <- 0.7 ; mult.margin <- 2.0 }
+    if(nrow(df$vertices)>=50)   { mult.ggs <- 1.3 ; mult.margin <- 0.5 }
+    if(nrow(df$vertices)>=100)  { mult.ggs <- 2.0 ; mult.margin <- 0.1 }
+    if(nrow(df$vertices)>=150)  { mult.ggs <- 2.5 ; mult.margin <- 0.1 }
+    if (racine == "Q209842")    { mult.ggs <- 1.5 ; mult.margin <- 0.5 }
     
     wdesr_ggplot_graph(df,
-                       node_size = node_size/mult, label_sizes = label_sizes/mult, arrow_gap = arrow_gap/mult,
+                       node_size = node_size, label_sizes = label_sizes, arrow_gap = arrow_gap,
                        node_label = node_label, node_type = node_type,
                        edge_label = edge_label,
-                       active_only = active_only)
+                       margin_x = 0.2*mult.margin, margin_y = 0.03*mult.margin)
 
-    ggsave(plotfile, width = ggs.width, height = ggs.heigth, dpi = ggs.dpi)  
+    ggsave(plotfile, width = ggs.width*mult.ggs, height = ggs.heigth*mult.ggs, dpi = ggs.dpi)  
     
     print_to_md(paste0("![](",ploturl,")"))
   },
     error = function(c) {
-      print_to_md(paste0("Erreur : les données sont probablement trop partielles.\n```\n", c,"\n```"))
-      print_to_md(paste0("Erreur : les données sont probablement trop partielles.\n```\n", c,"\n```"), file=logfile)
+      print_to_md(paste0("\nErreur : les données sont probablement trop partielles.\n```\n", c,"\n```"))
+      print_to_md(paste0("\nErreur : les données sont probablement trop partielles.\n```\n", c,"\n```"), file=logfile)
     }
   )
   print_to_md(paste0("Avertissements et édition : [logs](",logurl,")"))
@@ -106,7 +116,12 @@ plot_batch <- function(racine, alias, suffix,
 # Sinon, les données seront téléchargées sur wikidate.
 wdesr_load_cache()
 
+setwd("scripts")
+
+
+
 print_to_md("Batches de représentation wikidataESR\n================\n\n", append=FALSE)
+print_to_md(format(Sys.time(), '%d/%m/%Y'))
 print_to_md("https://github.com/cpesr/WikidataESR")
 
 print_to_md(paste(sep='\n',"```",
@@ -139,7 +154,7 @@ for(i in 1:nrow(etab)) {
                    stringr::str_replace(subetab[i,3]$twitter, "https://twitter.com/", "@"))
     
     plot_batch(wdid,alias, "histoire", "etablissements",
-               c('séparé_de', 'prédécesseur'), depth=10,
+               c('séparé_de', 'absorbé_par', 'prédécesseur'), depth=10,
                node_label = "alias_date",
                edge_label = TRUE)
     
@@ -182,8 +197,7 @@ anciennes_univ <- read.table("anciennes_univ.csv", sep = ";", header = TRUE, quo
 for(i in 1:nrow(anciennes_univ))
   plot_batch(anciennes_univ[i,1],anciennes_univ[i,2], "histoire",
              "histoire",
-             c('successeur', 'séparé_de', 'composante_de', 'associé_de'), depth=10,
-             double_thres = 20,
+             c('successeur', 'séparé_de', 'absorbé_par', 'composante_de', 'associé_de'), depth=10,
              node_label = "alias_date",
              edge_label = TRUE)
 

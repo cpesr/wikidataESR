@@ -1,7 +1,7 @@
 Tenter d’y voir clair dans l’ESR : tutorial R/WikidataESR
 ================
 Julien Gossa
-08/11/2021
+11/11/2021
 
 Des visualisations de contrôles sont disponible ici : [check](check.md)
 
@@ -92,6 +92,7 @@ informations :
 | [P1365](https://www.wikidata.org/wiki/Property:P1365) | remplace             | prédécesseur  | marque un changement de statut                                                                                                                                              | [date](https://www.wikidata.org/wiki/Property:P585)                                                                     |
 | [P1366](https://www.wikidata.org/wiki/Property:P1366) | remplacé par         | successeur    | inverse de prédécesseur                                                                                                                                                     |                                                                                                                         |
 | [P807](https://www.wikidata.org/wiki/Property:P807)   | séparé de            |               | marque une séparation, lorsqu’un établissement nouveau est créé à partir d’une partie d’un autre, qui continue d’exister (doit être renseigné dans les deux établissements) | [date](https://www.wikidata.org/wiki/Property:P585)                                                                     |
+| [P7888](https://www.wikidata.org/wiki/Property:P7888) | fusionné dans        | absorbé par   | marque une absorbtion, lorsqu’un établissement est dissout et fusionné dans un autre qui existait auparavant (doit être renseigné dans les deux établissements)             | [date](https://www.wikidata.org/wiki/Property:P585)                                                                     |
 | [P1416](https://www.wikidata.org/wiki/Property:P1416) | affilié à            |               | pour le lien avec les organismes nationnaux (tutelles, EPIC, ONR, rectorat, etc.)                                                                                           | [date de début](https://www.wikidata.org/wiki/Property:P580) [date de fin](https://www.wikidata.org/wiki/Property:P582) |
 | [P463](https://www.wikidata.org/wiki/Property:P463)   | membre de            |               | pour les adhésions aux diverses associations, également pour l’IDEX (de façon un peu abusive)                                                                               | [date de début](https://www.wikidata.org/wiki/Property:P580) [date de fin](https://www.wikidata.org/wiki/Property:P582) |
 | [P1830](https://www.wikidata.org/wiki/Property:P1830) | propriétaire de      |               | pour les équipements de recherche par exemple                                                                                                                               | [date de début](https://www.wikidata.org/wiki/Property:P580) [date de fin](https://www.wikidata.org/wiki/Property:P582) |
@@ -108,6 +109,12 @@ Il est recommandé d’utiliser autant d’éléments que de nécessaires, sans
 tenter de réutiliser ceux qui existent. Cela vaut aussi bien pour les
 établissements composites (regroupements) que pour les établissements
 qui changent de statuts au cours du temps.
+
+En particulier, les universités qui retrouvent leur nom historique après
+une re-fusion ne doivent surtout pas réutiliser l’élément historique. De
+même pour les universités qui gardent le même nom mais changent de
+statut. Globalement, chaque changement d’UAI doit être marqué par un
+changement d’élément wikidata.
 
 -   Utiliser un statut inappropriée.
 
@@ -313,22 +320,22 @@ les établissements et leurs relations.
 
 | id        | label                                                   | alias                       | statut                     | niveau |
 |:----------|:--------------------------------------------------------|:----------------------------|:---------------------------|-------:|
-| Q157575   | université de Strasbourg                                | Unistra                     | Université (EPSCP)         |      3 |
-| Q21041502 | Haute école des arts du Rhin                            | HEAR                        | école d’art                |      4 |
-| Q280183   | université de Haute-Alsace                              | UHA                         | Université (EPSCP)         |      3 |
-| Q3578190  | École nationale supérieure d’architecture de Strasbourg | ENSAS                       | École nationale supérieure |      4 |
-| Q521036   | Institut national des sciences appliquées de Strasbourg | INSA Strasbourg             | école d’ingé               |      4 |
 | Q61716176 | site universitaire alsacien                             | site universitaire alsacien | Regroupement universitaire |      2 |
+| Q280183   | université de Haute-Alsace                              | UHA                         | Université (EPSCP)         |      3 |
+| Q157575   | université de Strasbourg                                | Unistra                     | Université (EPSCP)         |      3 |
+| Q521036   | Institut national des sciences appliquées de Strasbourg | INSA Strasbourg             | école d’ingé               |      4 |
 | Q630461   | Bibliothèque nationale et universitaire                 | BNU                         | bibliothèque nationale     |      5 |
+| Q3578190  | École nationale supérieure d’architecture de Strasbourg | ENSAS                       | École nationale supérieure |      4 |
+| Q21041502 | Haute école des arts du Rhin                            | HEAR                        | école d’art                |      4 |
 
-| from      | to        | type    | date | depth | warning |
-|:----------|:----------|:--------|:-----|------:|:--------|
-| Q61716176 | Q280183   | associé | NA   |     1 | NA      |
-| Q61716176 | Q157575   | associé | NA   |     1 | NA      |
-| Q61716176 | Q521036   | associé | NA   |     1 | NA      |
-| Q61716176 | Q630461   | associé | NA   |     1 | NA      |
-| Q61716176 | Q3578190  | associé | NA   |     1 | NA      |
-| Q61716176 | Q21041502 | associé | NA   |     1 | NA      |
+| from      | to        | type    | date | depth |
+|:----------|:----------|:--------|:-----|------:|
+| Q61716176 | Q280183   | associé | NA   |     1 |
+| Q61716176 | Q157575   | associé | NA   |     1 |
+| Q61716176 | Q521036   | associé | NA   |     1 |
+| Q61716176 | Q630461   | associé | NA   |     1 |
+| Q61716176 | Q3578190  | associé | NA   |     1 |
+| Q61716176 | Q21041502 | associé | NA   |     1 |
 
 ### Tracer des représentations
 

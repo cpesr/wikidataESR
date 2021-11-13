@@ -116,7 +116,8 @@ wdesr_load_item <- function(wdid) {
       label       = wd_get_item_label(item),
       alias       = wd_get_item_alias(item),
       statut      = status$libellé,
-      niveau      = status$niveau,
+      niveau      = as.numeric(status$niveau),
+      état        = ifelse(is.na(wd_get_item_statement_as_year(item,"P576")), "actif", "dissout"),
 
       fondation   = wd_get_item_statement_as_year(item,"P571"),
       dissolution = wd_get_item_statement_as_year(item,"P576"),
@@ -134,7 +135,10 @@ wdesr_load_item <- function(wdid) {
 
       séparé_de        = wd_get_item_statement_as_list(item,"P807"),
       séparé_de_pit    = wd_get_item_statement_qualifier_as_list(item,"P807","P585"),
+      absorbé_par      = wd_get_item_statement_as_list(item,"P7888"),
+      absorbé_par_pit  = wd_get_item_statement_qualifier_as_list(item,"P7888","P585"),
       
+            
       membre_de = wd_get_item_statement_as_list(item,"P463"),
       affilié_à = wd_get_item_statement_as_list(item,"P1416")
     )
@@ -204,7 +208,7 @@ wdesr_get_data <- function(wdids) {
 #' @param props The set of properties to follow.
 #' @param depth The depth of the graph (more or less) (default to 3).
 #' @param active_only TRUE to filter dissolved universities (default to FALSE).
-#' @param stop_at A list of type of nodes that must not be visited furthermore (default to "EPST").
+#' @param stop_at A list of type of nodes that must not be visited furthermore (default to c("EPST","EPIC","EPCA","Académie")).
 #'
 #' @return A list of edges and vertices.
 #' @export
@@ -219,10 +223,10 @@ wdesr_get_data <- function(wdids) {
 #' - \url{https://www.wikidata.org}
 #' @seealso \code{\link{wdesr_clear_cache}}
 #' @author Julien Gossa, \email{gossa@unistra.fr}
-wdesr_get_graph <- function(wdid, props, depth = 3, active_only = FALSE, stop_at = c("EPST") ) {
+wdesr_get_graph <- function(wdid, props, depth = 3, active_only = FALSE, stop_at = c("EPST","EPIC","EPCA","Académie") ) {
 
   wgge <- new.env()
-  wgge$edges <- data.frame(from=character(),to=character(),stringsAsFactors = FALSE)
+  wgge$edges <- data.frame(from=character(),to=character(),type=character(),stringsAsFactors = FALSE)
   wgge$vertices <- data.frame()
 
   wdid <- wd_check_redirection(wdid)
@@ -231,25 +235,23 @@ wdesr_get_graph <- function(wdid, props, depth = 3, active_only = FALSE, stop_at
   wgge$vertices <- wgge$vertices %>%
     mutate_all(as.character) %>%
     mutate(
-      niveau = as.numeric(niveau),
-      état = ifelse(is.na(dissolution), "actif", "dissout")
-    ) %>%
-    arrange(id)
+      niveau = as.numeric(niveau)
+    ) 
   #wgge$vertices$niveau <- factor(wgge$vertices$niveau, levels = wdesr.niveaux$niveau)
 
   wgge$edges <- wgge$edges %>% mutate(across(where(is.factor), as.character))
   suppressMessages(
     dupes <- wgge$edges %>% janitor::get_dupes(from,to) %>%
-      select(from,to) %>% mutate(warning = "duplicated")
+      select(from,to,type) %>% mutate(warning = "duplicated")
     )
   if (nrow(dupes) > 0) {
     warning("Duplicated relations detected:\n", 
             paste0(capture.output(as.data.frame(dupes)), collapse = "\n"))
-    wgge$edges <- wgge$edges %>% group_by(from,to) %>% slice_head() 
+    #wgge$edges <- wgge$edges %>% group_by(from,to) %>% slice_head() 
   }
-  suppressMessages(
-    wgge$edges <- left_join(wgge$edges, dupes)
-  )
+  #suppressMessages(
+  #  wgge$edges <- left_join(wgge$edges, dupes)
+  #)
   
   wgge$vertices <- wgge$vertices %>% unique() %>% mutate(across(where(is.factor), as.character))
   res <- list('edges'=wgge$edges, 'vertices'=wgge$vertices)
@@ -283,7 +285,7 @@ wdesr_get_subgraph <- function(wgge, wdid, props, depth = 3, active_only = FALSE
     df.to <- wdesr_get_data(unlist(df.from[,p]))
 
     # Remove dissolved
-    if (active_only) df.to <- subset(df.to, is.na(dissolution))
+    if (active_only) df.to <- filter(df.to, état == "actif")
 
     # Remove existing to -> from edges
     tmp <- subset(wgge$edges, to == wdid)$from
@@ -296,7 +298,8 @@ wdesr_get_subgraph <- function(wgge, wdid, props, depth = 3, active_only = FALSE
       to    = df.to$id,
       type  = p,
       date  = ifelse(ppit %in% colnames(df.from),unlist(df.from[,ppit]),NA),
-      depth = depth
+      depth = depth,
+      distance = df.from$niveau - df.to$niveau
       )
     wgge$edges <- rbind(wgge$edges,edges)
 
@@ -341,11 +344,11 @@ wdesr_node_label_aes <- function(node_label = "alias", alias, label, fondation, 
          alias = {
            alias},
          alias_date = {
-           paste(alias,paste('(',fondation,'-',dissolution,')',sep=''),sep='\n')},
+           paste0(alias,'\n',fondation,'-',dissolution) },
          long = {
            label},
          long_date = {
-           paste(label,paste('(',fondation,'-',dissolution,')',sep=''),sep='\n')},
+           paste0(label,"\n",fondation,'-',dissolution) },
          ""
   )
 }
@@ -377,6 +380,11 @@ wdesr_node_geom <- function(node_type = "text") {
 }
 
 
+
+distance2weight <- function(d) {
+  return(10+d)
+}
+
 #' Plot an ESR graph.
 #'
 #' A wrapper for ggplot2 to plot graph as returned by \code{\link{wdesr_get_graph}}.
@@ -388,6 +396,7 @@ wdesr_node_geom <- function(node_type = "text") {
 #' @param node_label Define the label for the nodess. Either "alias", "alias_date", "long", or "long_date" (default to "alias").
 #' @param node_type Define the type of drawing for the nodes. Either "text", "text_repel", "label", or "label_repel" (default to "text").
 #' @param edge_label TRUE to plot dates on edges (default to "TRUE").
+#' @param edge_arrow TRUE or arrow object to plot arrow on edges, FALSE otherwise (default to "FALSE").
 #' @param arrow_gap A parameter that will shorten the network edges in order to avoid overplotting edge arrows and nodes see \code{\link[ggnetwork]{fortify.network}}.
 #' @param size_guide TRUE to plot the guide for sizes (default to "FALSE").
 #' @param legend_position The position of the legend, "none" to remove (default to "right").
@@ -411,13 +420,14 @@ wdesr_node_geom <- function(node_type = "text") {
 #' @author Julien Gossa, \email{gossa@unistra.fr}
 
 wdesr_ggplot_graph <- function( df.g,
-                                layout = "kamadakawai",
+                                layout = igraph::with_kk,
                                 active_only = FALSE,
                                 node_sizes = c(10,30),
                                 label_sizes = c(4,6),
                                 node_label = "alias",
                                 node_type = "text",
                                 edge_label = TRUE,
+                                edge_arrow = FALSE,
                                 arrow_gap = 0.05,
                                 size_guide = "none",
                                 legend_position = "right",
@@ -434,26 +444,22 @@ wdesr_ggplot_graph <- function( df.g,
     statuts) 
   statuts_colors <- statuts_colors[unique(df.g$vertices$statut)]
   
-  # statuts <- statuts[! statuts %in% wdesr.statuts$libellé]
-  # statuts <- c(wdesr.statuts$libellé, statuts)
 
-  #df.g$edges$weight <- scales::rescale(as.numeric(df.g$edges$depth),c(1,2))
   geom_node_fun <- wdesr_node_geom(node_type)
-
-  net <- network::network(df.g$edges,
-                           vertices=df.g$vertices,
-                           matrix.type="edgelist", ignore.eval=FALSE,
-                           directed = TRUE)
-
+  if (edge_arrow == TRUE) edge_arrow <- arrow(length = unit(8, "pt"), type = "closed")
+  if (edge_arrow == FALSE) edge_arrow <- NULL
+   
+  df.g$vertices <- arrange(df.g$vertices,id)
+  
+  net <- igraph::graph_from_data_frame(df.g$edges, vertices = df.g$vertices)
+  
   ggnet <- ggnetwork(net,
-                      layout = layout,
-                      weights = "weight",
-                      radii  = scales::rescale(-as.numeric(df.g$vertices$niveau)),
-                      arrow.gap = arrow_gap)
-
+                     layout = layout(weights = distance2weight(df.g$edges$distance)),
+                     arrow.gap = 0)
+  
   g <- ggplot(ggnet, aes(x = x, y = y, xend = xend, yend = yend))
   g <- g + geom_edges(aes(linetype = type),#, size = weight),
-                      arrow = arrow(length = unit(8, "pt"), type = "closed"),
+                      arrow = edge_arrow,
                       alpha=1,
                       color="grey30")
 
@@ -464,22 +470,24 @@ wdesr_ggplot_graph <- function( df.g,
     color = état,
     #color=statut,
     #alpha = (dissolution != "NA"),
-    size = factor(niveau, levels=wdesr.niveaux$niveau)  #scales::rescale(-as.numeric(df.g$vertices$niveau),node_sizes)
+    size = niveau #factor(niveau, levels=wdesr.niveaux$niveau)
   ))
+  ggnet.nodes <- ggnet %>% select(name,niveau) %>% unique()
+  #g <- g + geom_nodelabel(label=as.character(seq(1,7)), size=10) 
   g <- g + geom_node_fun(aes(
     label = wdesr_node_label_aes(node_label,alias,label,fondation,dissolution),
     fill = statut),
-    size = scales::rescale(-as.numeric(df.g$vertices$niveau),label_sizes)
+    size = scales::rescale(-ggnet.nodes$niveau,label_sizes,range(-wdesr.niveaux$niveau))
     )
   g <- g + scale_alpha_manual(labels=c("dissous","actif"), values = (c(0.8,1)), name='statut')
   g <- g + scale_color_manual(values = c("grey30","white"))
   g <- g + scale_fill_manual(values = statuts_colors)
-  g <- g + scale_size_manual(breaks=as.character(wdesr.niveaux$niveau),
-                             values=scales::rescale(-as.numeric(wdesr.niveaux$niveau),node_sizes),
-                             labels=wdesr.niveaux$libellé,
-                             name="niveau",
-                             drop=TRUE,
-                             guide=size_guide)
+  g <- g + scale_size_continuous(breaks=wdesr.niveaux$niveau,
+                                 limits=range(wdesr.niveaux$niveau),
+                                 range=rev(node_sizes),
+                                 labels=wdesr.niveaux$libellé,
+                                 name="niveau",
+                                 guide=size_guide)
   g <- g + xlim(-margin_x,1+margin_x) + ylim(-margin_y,1+margin_y)
   g <- g + theme_blank() + theme(legend.position=legend_position)
 
@@ -551,9 +559,9 @@ wdesr_load_and_plot <- function( wdid,
 #' Write warnings to a log file
 #'
 #' @param df.g A data representing a graph, as returned by wdesr_get_graph.
-#' @param logfile A file that will be append with warning messages in markdown format
+#' @param kableFormat The format used for kableExtra::kable
 #'
-#' @return Nothing
+#' @return A string describing the warnings
 #' @export
 #'
 #' @examples wdesr_log_warnings(df, "warnings.md")
@@ -562,35 +570,46 @@ wdesr_load_and_plot <- function( wdid,
 #' - \url{https://www.wikidata.org}
 #' @seealso \code{\link{wdesr_clear_cache}}
 #' @author Julien Gossa, \email{gossa@unistra.fr}
-wdesr_log_warnings <- function(df.g, logfile) {
+wdesr_log_warnings <- function(df.g, kableformat = "pipe") {
 
-  vw <- left_join(df.g$vertices, wdesr.statuts, by = c("statut" = "libellé")) %>%
-    filter(recommandé == "non") %>%
-    transmute(
-      entité = wd_id2url(id.x),
-      alias,
-      statut,
-      message = ifelse(note!="",note,"Statut trop imprécis")
-    )
+  warning <- ""
+  
+  itemslevels <- unique(df.g$vertices$id)
+  suppressMessages(
+    vw <- left_join(df.g$vertices, wdesr.statuts %>% select(statut = libellé, recommandé, note)) %>%
+      mutate(id = factor(id,levels=itemslevels), message=as.character(NA)) %>%
+      bind_rows(
+        filter(.,recommandé == "non") %>% mutate(message = note),
+        filter(.,nchar(alias)>=20) %>% mutate(message = "Alias manquant ou long"),
+        filter(.,is.na(fondation)) %>% mutate(message = "Date de fondation manquante")
+      ) %>%
+      filter(! is.na(message)) %>%
+      arrange(id) %>%
+      transmute(entité = wikidataESR:::wd_id2url(id), alias, statut, message)
+  )
+
   if (nrow(vw) > 0) {
-    cat("\n\nProblèmes détectés dans les entités :\n\n", file=logfile, append = TRUE)
-    cat(vw %>% kableExtra::kable(format="pipe"), 
-        file=logfile, sep = '\n', append = TRUE)
+    warning <- paste0(warning,"Problèmes détectés dans les entités :\n\n",
+                      paste(vw %>% kableExtra::kable(format=kableformat), collapse='\n'),
+                      "\n\n")
   }
-    
-  ew <- df.g$edges %>% 
-    filter(! is.na(warning)) %>% 
-    transmute(
-      de = wd_id2url(from),
-      vers = wd_id2url(to),
-      message = warning
-    )
+  suppressMessages(
+    ew <- df.g$edges %>%
+      mutate(from = factor(from,levels=itemslevels), to = factor(to, levels = itemslevels)) %>%
+      bind_rows(
+        janitor::get_dupes(., from,to) %>% mutate(message = "Relation multiple"),
+        filter(.,is.na(date), ! type %in% c('composante','composante_de')) %>% mutate(message = "Date(s) manquante(s)") 
+        ) %>%
+      transmute(from = wd_id2url(from), to = wd_id2url(to), type, message) %>% 
+      filter(! is.na(message))
+  ) 
   if (nrow(ew) > 0) {
-    cat("\n\nProblèmes détectés dans les relations :\n\n", file=logfile, append = TRUE)
-    cat("\n",ew %>% kableExtra::kable(format="pipe"), 
-        file=logfile, sep = '\n', append = TRUE)
+    warning <- paste0(warning,"Problèmes détectés dans les relations :\n\n",
+                      paste(ew %>% kableExtra::kable(format=kableformat), collapse='\n'), 
+                      "\n\nNB : les dates manquantes pour les relations de composante ne sont pas remontées.")
   }
   
+  return(warning)
 }
 
 
