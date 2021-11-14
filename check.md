@@ -8,7 +8,7 @@ Batches de représentation wikidataESR
 https://github.com/cpesr/WikidataESR 
 
 ```
-  - twtexte:[#DataESR #HelpESR] Visualisation des organisations de l'#ESR.
+  - twtexte:[#DataESR #HelpESR] Visualisation des @wikidata de l'#ESR.
   - twalt:@juliengossa LO 2.0 www.cpesr.fr
   - twurl:https://twitter.com/CPESR_/status/1457453241378148361
 ``` 
