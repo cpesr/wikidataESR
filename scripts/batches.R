@@ -146,6 +146,10 @@ etab <- read.csv2("fr-esr-principaux-etablissements-enseignement-superieur.csv")
     twitter = compte_twitter 
   ) %>%
   filter(wdid != "") %>%
+  bind_rows(data.frame(wdid = c("Q109409389"),
+                       alias=c("Université Paris-Saclay"),
+                       type=c("Université"), 
+                       twitter=c("@UnivParisSaclay") )) %>%
   filter(type %in% c("Université", "Grand établissement")) %>%
   nest_by(type) %>% 
   arrange(desc(type))

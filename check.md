@@ -2738,3 +2738,26 @@ Avertissements et édition : [logs](plots/histoire/Q20808141.md)
 
 Avertissements et édition : [logs](plots/histoire/Q21592577.md) 
 
+### Université Paris-Saclay @UnivParisSaclay : Histoire.     Edition des données : https://github.com/cpesr/wikidataESR/blob/master/plots/etablissements/Q109409389.md 
+
+![](plots/etablissements/Q109409389-histoire.png) 
+
+Avertissements et édition : [logs](plots/etablissements/Q109409389.md) 
+
+### Université Paris-Saclay @UnivParisSaclay : Composition.     Edition des données : https://github.com/cpesr/wikidataESR/blob/master/plots/etablissements/Q109409389.md 
+
+
+Erreur : les données sont probablement trop partielles.
+```
+Error in wdesr_ggplot_graph(df, node_size = node_size, label_sizes = label_sizes, : Empty ESR graph: something went wrong with the graph production parameters
+
+``` 
+
+Avertissements et édition : [logs](plots/etablissements/Q109409389.md) 
+
+### Université Paris-Saclay @UnivParisSaclay : Associations.     Edition des données : https://github.com/cpesr/wikidataESR/blob/master/plots/etablissements/Q109409389.md 
+
+![](plots/etablissements/Q109409389-associations.png) 
+
+Avertissements et édition : [logs](plots/etablissements/Q109409389.md) 
+
