@@ -193,7 +193,7 @@ wdesr_get_data <- function(wdids) {
 
   wdesr_load_items(wdids[! wdids %in% wdesr.cache$items$id])
 
-  return(subset(wdesr.cache$items, id %in% wdids))
+  return(dplyr::left_join(data.frame(id=wdids),wdesr.cache$items))
 }
 
 
