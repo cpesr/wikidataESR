@@ -75,11 +75,13 @@ wdesr_make_package_data <- function(path="./R/") {
 #' @examples wdesr_clear_cache()
 #'
 #' @references
-#' - \url{https://github.com/juliengossa/DataESR/tree/master/etablissements.esr/wikidataESR}
+#' - \url{https://github.com/cpesr/wikidataESR}
 #' @seealso
+#' - \code{\link{wdesr_clear_cache}}
 #' - \code{\link{wdesr_get_cache}}
 #' - \code{\link{wdesr_save_cache}}
 #' - \code{\link{wdesr_load_cache}}
+#' - \code{\link{wdesr_remove_from_cache}}
 #' @author Julien Gossa, \email{gossa@unistra.fr}
 wdesr_clear_cache <- function() {
 
@@ -103,11 +105,13 @@ wdesr_clear_cache <- function() {
 #' wdesr.cache$status
 #' wdesr.cache$items
 #' @references
-#' - \url{https://github.com/juliengossa/DataESR/tree/master/etablissements.esr/wikidataESR}
+#' - \url{https://github.com/cpesr/wikidataESR}
 #' @seealso
 #' - \code{\link{wdesr_clear_cache}}
+#' - \code{\link{wdesr_get_cache}}
 #' - \code{\link{wdesr_save_cache}}
 #' - \code{\link{wdesr_load_cache}}
+#' - \code{\link{wdesr_remove_from_cache}}
 #' @author Julien Gossa, \email{gossa@unistra.fr}
 wdesr_get_cache <- function() {
   return(wdesr.cache)
@@ -126,11 +130,13 @@ wdesr_get_cache <- function() {
 #'
 #' @examples wdesr_save_cache()
 #' @references
-#' - \url{https://github.com/juliengossa/DataESR/tree/master/etablissements.esr/wikidataESR}
+#' - \url{https://github.com/cpesr/wikidataESR}
 #' @seealso
 #' - \code{\link{wdesr_clear_cache}}
 #' - \code{\link{wdesr_get_cache}}
+#' - \code{\link{wdesr_save_cache}}
 #' - \code{\link{wdesr_load_cache}}
+#' - \code{\link{wdesr_remove_from_cache}}
 #' @author Julien Gossa, \email{gossa@unistra.fr}
 #'
 wdesr_save_cache <- function(file = "wdesr-cache.RData") {
@@ -152,11 +158,13 @@ wdesr_save_cache <- function(file = "wdesr-cache.RData") {
 #'
 #' @examples wdesr_load_cache()
 #' @references
-#' - \url{https://github.com/juliengossa/DataESR/tree/master/etablissements.esr/wikidataESR}
+#' - \url{https://github.com/cpesr/wikidataESR}
 #' @seealso
 #' - \code{\link{wdesr_clear_cache}}
 #' - \code{\link{wdesr_get_cache}}
+#' - \code{\link{wdesr_save_cache}}
 #' - \code{\link{wdesr_load_cache}}
+#' - \code{\link{wdesr_remove_from_cache}}
 #' @author Julien Gossa, \email{gossa@unistra.fr}
 #'
 wdesr_load_cache <- function(file = "wdesr-cache.RData", package_statuts = FALSE) {
@@ -169,6 +177,29 @@ wdesr_load_cache <- function(file = "wdesr-cache.RData", package_statuts = FALSE
     wdesr.cache$status <- wdesr.statuts
   }
   return(wdesr.cache)
+}
+
+
+#' Remove items from the cache
+#'
+#' @param ... wikidata ids of the items to remove
+#'
+#' @return wdesr.cache$items
+#' @export
+#'
+#' @examples wdesr_remove_from_cache("Q30261532","Q30262192")
+#' @references
+#' - \url{https://github.com/cpesr/wikidataESR}
+#' @seealso
+#' - \code{\link{wdesr_clear_cache}}
+#' - \code{\link{wdesr_get_cache}}
+#' - \code{\link{wdesr_save_cache}}
+#' - \code{\link{wdesr_load_cache}}
+#' - \code{\link{wdesr_remove_from_cache}}
+#' @author Julien Gossa, \email{gossa@unistra.fr}
+#'
+wdesr_remove_from_cache <- function(...) {
+  wdesr.cache$items <- wdesr.cache$items %>% filter(!id %in% c(...))
 }
 
 # Creating an empty cache.

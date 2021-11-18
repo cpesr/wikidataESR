@@ -3,7 +3,7 @@ Batches de représentation wikidataESR
 
  
 
-14/11/2021 
+18/11/2021 
 
 https://github.com/cpesr/WikidataESR 
 
@@ -88,12 +88,7 @@ Avertissements et édition : [logs](plots/etablissements/Q65153823.md)
 
 ### Université Gustave Eiffel @UGustaveEiffel : Composition.     Edition des données : https://github.com/cpesr/wikidataESR/blob/master/plots/etablissements/Q65153823.md 
 
-
-Erreur : les données sont probablement trop partielles.
-```
-Error in wdesr_ggplot_graph(df, node_size = node_size, label_sizes = label_sizes, : Empty ESR graph: something went wrong with the graph production parameters
-
-``` 
+![](plots/etablissements/Q65153823-composition.png) 
 
 Avertissements et édition : [logs](plots/etablissements/Q65153823.md) 
 
@@ -1100,23 +1095,23 @@ Avertissements et édition : [logs](plots/etablissements/Q304872.md)
 
 Avertissements et édition : [logs](plots/etablissements/Q304872.md) 
 
-### Université Paris-Saclay @UnivParisSaclay : Histoire.     Edition des données : https://github.com/cpesr/wikidataESR/blob/master/plots/etablissements/Q13531686.md 
+### Université Paris-Saclay @UnivParisSaclay : Histoire.     Edition des données : https://github.com/cpesr/wikidataESR/blob/master/plots/etablissements/Q109409389.md 
 
-![](plots/etablissements/Q13531686-histoire.png) 
+![](plots/etablissements/Q109409389-histoire.png) 
 
-Avertissements et édition : [logs](plots/etablissements/Q13531686.md) 
+Avertissements et édition : [logs](plots/etablissements/Q109409389.md) 
 
-### Université Paris-Saclay @UnivParisSaclay : Composition.     Edition des données : https://github.com/cpesr/wikidataESR/blob/master/plots/etablissements/Q13531686.md 
+### Université Paris-Saclay @UnivParisSaclay : Composition.     Edition des données : https://github.com/cpesr/wikidataESR/blob/master/plots/etablissements/Q109409389.md 
 
-![](plots/etablissements/Q13531686-composition.png) 
+![](plots/etablissements/Q109409389-composition.png) 
 
-Avertissements et édition : [logs](plots/etablissements/Q13531686.md) 
+Avertissements et édition : [logs](plots/etablissements/Q109409389.md) 
 
-### Université Paris-Saclay @UnivParisSaclay : Associations.     Edition des données : https://github.com/cpesr/wikidataESR/blob/master/plots/etablissements/Q13531686.md 
+### Université Paris-Saclay @UnivParisSaclay : Associations.     Edition des données : https://github.com/cpesr/wikidataESR/blob/master/plots/etablissements/Q109409389.md 
 
-![](plots/etablissements/Q13531686-associations.png) 
+![](plots/etablissements/Q109409389-associations.png) 
 
-Avertissements et édition : [logs](plots/etablissements/Q13531686.md) 
+Avertissements et édition : [logs](plots/etablissements/Q109409389.md) 
 
 ### Université de la Nouvelle-Calédonie @unc_nc : Histoire.     Edition des données : https://github.com/cpesr/wikidataESR/blob/master/plots/etablissements/Q734332.md 
 
@@ -2035,419 +2030,16 @@ Avertissements et édition : [logs](plots/etablissements/Q2570220.md)
 
 ## Regroupements 
 
-### COMUE d'Aquitaine : Regroupement Court.     Edition des données : https://github.com/cpesr/wikidataESR/blob/master/plots/regroupements/Q16541346.md 
+### Association Université de Lorraine : Histoire.     Edition des données : https://github.com/cpesr/wikidataESR/blob/master/plots/regroupements/Q61718100.md 
 
-![](plots/regroupements/Q16541346-regroupement-court.png) 
 
-Avertissements et édition : [logs](plots/regroupements/Q16541346.md) 
+Erreur : les données sont probablement trop partielles.
+```
+Error in wdesr_ggplot_graph(df, node_size = node_size, label_sizes = label_sizes, : Empty ESR graph: something went wrong with the graph production parameters
 
-### COMUE d'Aquitaine : Regroupement Etendu.     Edition des données : https://github.com/cpesr/wikidataESR/blob/master/plots/regroupements/Q16541346.md 
+``` 
 
-![](plots/regroupements/Q16541346-regroupement-etendu.png) 
-
-Avertissements et édition : [logs](plots/regroupements/Q16541346.md) 
-
-### COMUE d'Aquitaine : Regroupement Superetendu.     Edition des données : https://github.com/cpesr/wikidataESR/blob/master/plots/regroupements/Q16541346.md 
-
-![](plots/regroupements/Q16541346-regroupement-superetendu.png) 
-
-Avertissements et édition : [logs](plots/regroupements/Q16541346.md) 
-
-### COMUE d'Aquitaine : Regroupement Court.     Edition des données : https://github.com/cpesr/wikidataESR/blob/master/plots/regroupements/Q13344.md 
-
-![](plots/regroupements/Q13344-regroupement-court.png) 
-
-Avertissements et édition : [logs](plots/regroupements/Q13344.md) 
-
-### COMUE d'Aquitaine : Regroupement Etendu.     Edition des données : https://github.com/cpesr/wikidataESR/blob/master/plots/regroupements/Q13344.md 
-
-![](plots/regroupements/Q13344-regroupement-etendu.png) 
-
-Avertissements et édition : [logs](plots/regroupements/Q13344.md) 
-
-### COMUE d'Aquitaine : Regroupement Superetendu.     Edition des données : https://github.com/cpesr/wikidataESR/blob/master/plots/regroupements/Q13344.md 
-
-![](plots/regroupements/Q13344-regroupement-superetendu.png) 
-
-Avertissements et édition : [logs](plots/regroupements/Q13344.md) 
-
-### COMUE Centre Val de Loire : Regroupement Court.     Edition des données : https://github.com/cpesr/wikidataESR/blob/master/plots/regroupements/Q2944885.md 
-
-![](plots/regroupements/Q2944885-regroupement-court.png) 
-
-Avertissements et édition : [logs](plots/regroupements/Q2944885.md) 
-
-### COMUE Centre Val de Loire : Regroupement Etendu.     Edition des données : https://github.com/cpesr/wikidataESR/blob/master/plots/regroupements/Q2944885.md 
-
-![](plots/regroupements/Q2944885-regroupement-etendu.png) 
-
-Avertissements et édition : [logs](plots/regroupements/Q2944885.md) 
-
-### COMUE Centre Val de Loire : Regroupement Superetendu.     Edition des données : https://github.com/cpesr/wikidataESR/blob/master/plots/regroupements/Q2944885.md 
-
-![](plots/regroupements/Q2944885-regroupement-superetendu.png) 
-
-Avertissements et édition : [logs](plots/regroupements/Q2944885.md) 
-
-### Comue de Bourgogne Franche Comté : Regroupement Court.     Edition des données : https://github.com/cpesr/wikidataESR/blob/master/plots/regroupements/Q3359833.md 
-
-![](plots/regroupements/Q3359833-regroupement-court.png) 
-
-Avertissements et édition : [logs](plots/regroupements/Q3359833.md) 
-
-### Comue de Bourgogne Franche Comté : Regroupement Etendu.     Edition des données : https://github.com/cpesr/wikidataESR/blob/master/plots/regroupements/Q3359833.md 
-
-![](plots/regroupements/Q3359833-regroupement-etendu.png) 
-
-Avertissements et édition : [logs](plots/regroupements/Q3359833.md) 
-
-### Comue de Bourgogne Franche Comté : Regroupement Superetendu.     Edition des données : https://github.com/cpesr/wikidataESR/blob/master/plots/regroupements/Q3359833.md 
-
-![](plots/regroupements/Q3359833-regroupement-superetendu.png) 
-
-Avertissements et édition : [logs](plots/regroupements/Q3359833.md) 
-
-### Comue de Toulouse : Regroupement Court.     Edition des données : https://github.com/cpesr/wikidataESR/blob/master/plots/regroupements/Q20669873.md 
-
-![](plots/regroupements/Q20669873-regroupement-court.png) 
-
-Avertissements et édition : [logs](plots/regroupements/Q20669873.md) 
-
-### Comue de Toulouse : Regroupement Etendu.     Edition des données : https://github.com/cpesr/wikidataESR/blob/master/plots/regroupements/Q20669873.md 
-
-![](plots/regroupements/Q20669873-regroupement-etendu.png) 
-
-Avertissements et édition : [logs](plots/regroupements/Q20669873.md) 
-
-### Comue de Toulouse : Regroupement Superetendu.     Edition des données : https://github.com/cpesr/wikidataESR/blob/master/plots/regroupements/Q20669873.md 
-
-![](plots/regroupements/Q20669873-regroupement-superetendu.png) 
-
-Avertissements et édition : [logs](plots/regroupements/Q20669873.md) 
-
-### Comue UCA : Regroupement Court.     Edition des données : https://github.com/cpesr/wikidataESR/blob/master/plots/regroupements/Q19370961.md 
-
-![](plots/regroupements/Q19370961-regroupement-court.png) 
-
-Avertissements et édition : [logs](plots/regroupements/Q19370961.md) 
-
-### Comue UCA : Regroupement Etendu.     Edition des données : https://github.com/cpesr/wikidataESR/blob/master/plots/regroupements/Q19370961.md 
-
-![](plots/regroupements/Q19370961-regroupement-etendu.png) 
-
-Avertissements et édition : [logs](plots/regroupements/Q19370961.md) 
-
-### Comue UCA : Regroupement Superetendu.     Edition des données : https://github.com/cpesr/wikidataESR/blob/master/plots/regroupements/Q19370961.md 
-
-![](plots/regroupements/Q19370961-regroupement-superetendu.png) 
-
-Avertissements et édition : [logs](plots/regroupements/Q19370961.md) 
-
-### Comue UGA : Regroupement Court.     Edition des données : https://github.com/cpesr/wikidataESR/blob/master/plots/regroupements/Q3551589.md 
-
-![](plots/regroupements/Q3551589-regroupement-court.png) 
-
-Avertissements et édition : [logs](plots/regroupements/Q3551589.md) 
-
-### Comue UGA : Regroupement Etendu.     Edition des données : https://github.com/cpesr/wikidataESR/blob/master/plots/regroupements/Q3551589.md 
-
-![](plots/regroupements/Q3551589-regroupement-etendu.png) 
-
-Avertissements et édition : [logs](plots/regroupements/Q3551589.md) 
-
-### Comue UGA : Regroupement Superetendu.     Edition des données : https://github.com/cpesr/wikidataESR/blob/master/plots/regroupements/Q3551589.md 
-
-![](plots/regroupements/Q3551589-regroupement-superetendu.png) 
-
-Avertissements et édition : [logs](plots/regroupements/Q3551589.md) 
-
-### HESAM : Regroupement Court.     Edition des données : https://github.com/cpesr/wikidataESR/blob/master/plots/regroupements/Q3128622.md 
-
-![](plots/regroupements/Q3128622-regroupement-court.png) 
-
-Avertissements et édition : [logs](plots/regroupements/Q3128622.md) 
-
-### HESAM : Regroupement Etendu.     Edition des données : https://github.com/cpesr/wikidataESR/blob/master/plots/regroupements/Q3128622.md 
-
-![](plots/regroupements/Q3128622-regroupement-etendu.png) 
-
-Avertissements et édition : [logs](plots/regroupements/Q3128622.md) 
-
-### HESAM : Regroupement Superetendu.     Edition des données : https://github.com/cpesr/wikidataESR/blob/master/plots/regroupements/Q3128622.md 
-
-![](plots/regroupements/Q3128622-regroupement-superetendu.png) 
-
-Avertissements et édition : [logs](plots/regroupements/Q3128622.md) 
-
-### Languedoc Roussillon Universités : Regroupement Court.     Edition des données : https://github.com/cpesr/wikidataESR/blob/master/plots/regroupements/Q2476558.md 
-
-![](plots/regroupements/Q2476558-regroupement-court.png) 
-
-Avertissements et édition : [logs](plots/regroupements/Q2476558.md) 
-
-### Languedoc Roussillon Universités : Regroupement Etendu.     Edition des données : https://github.com/cpesr/wikidataESR/blob/master/plots/regroupements/Q2476558.md 
-
-![](plots/regroupements/Q2476558-regroupement-etendu.png) 
-
-Avertissements et édition : [logs](plots/regroupements/Q2476558.md) 
-
-### Languedoc Roussillon Universités : Regroupement Superetendu.     Edition des données : https://github.com/cpesr/wikidataESR/blob/master/plots/regroupements/Q2476558.md 
-
-![](plots/regroupements/Q2476558-regroupement-superetendu.png) 
-
-Avertissements et édition : [logs](plots/regroupements/Q2476558.md) 
-
-### Normandie Université : Regroupement Court.     Edition des données : https://github.com/cpesr/wikidataESR/blob/master/plots/regroupements/Q3343880.md 
-
-![](plots/regroupements/Q3343880-regroupement-court.png) 
-
-Avertissements et édition : [logs](plots/regroupements/Q3343880.md) 
-
-### Normandie Université : Regroupement Etendu.     Edition des données : https://github.com/cpesr/wikidataESR/blob/master/plots/regroupements/Q3343880.md 
-
-![](plots/regroupements/Q3343880-regroupement-etendu.png) 
-
-Avertissements et édition : [logs](plots/regroupements/Q3343880.md) 
-
-### Normandie Université : Regroupement Superetendu.     Edition des données : https://github.com/cpesr/wikidataESR/blob/master/plots/regroupements/Q3343880.md 
-
-![](plots/regroupements/Q3343880-regroupement-superetendu.png) 
-
-Avertissements et édition : [logs](plots/regroupements/Q3343880.md) 
-
-### Picardie Universités : Regroupement Court.     Edition des données : https://github.com/cpesr/wikidataESR/blob/master/plots/regroupements/Q61716197.md 
-
-![](plots/regroupements/Q61716197-regroupement-court.png) 
-
-Avertissements et édition : [logs](plots/regroupements/Q61716197.md) 
-
-### Picardie Universités : Regroupement Etendu.     Edition des données : https://github.com/cpesr/wikidataESR/blob/master/plots/regroupements/Q61716197.md 
-
-![](plots/regroupements/Q61716197-regroupement-etendu.png) 
-
-Avertissements et édition : [logs](plots/regroupements/Q61716197.md) 
-
-### Picardie Universités : Regroupement Superetendu.     Edition des données : https://github.com/cpesr/wikidataESR/blob/master/plots/regroupements/Q61716197.md 
-
-![](plots/regroupements/Q61716197-regroupement-superetendu.png) 
-
-Avertissements et édition : [logs](plots/regroupements/Q61716197.md) 
-
-### PSL : Regroupement Court.     Edition des données : https://github.com/cpesr/wikidataESR/blob/master/plots/regroupements/Q1163431.md 
-
-![](plots/regroupements/Q1163431-regroupement-court.png) 
-
-Avertissements et édition : [logs](plots/regroupements/Q1163431.md) 
-
-### PSL : Regroupement Etendu.     Edition des données : https://github.com/cpesr/wikidataESR/blob/master/plots/regroupements/Q1163431.md 
-
-![](plots/regroupements/Q1163431-regroupement-etendu.png) 
-
-Avertissements et édition : [logs](plots/regroupements/Q1163431.md) 
-
-### PSL : Regroupement Superetendu.     Edition des données : https://github.com/cpesr/wikidataESR/blob/master/plots/regroupements/Q1163431.md 
-
-![](plots/regroupements/Q1163431-regroupement-superetendu.png) 
-
-Avertissements et édition : [logs](plots/regroupements/Q1163431.md) 
-
-### Site alsacien : Regroupement Court.     Edition des données : https://github.com/cpesr/wikidataESR/blob/master/plots/regroupements/Q61716176.md 
-
-![](plots/regroupements/Q61716176-regroupement-court.png) 
-
-Avertissements et édition : [logs](plots/regroupements/Q61716176.md) 
-
-### Site alsacien : Regroupement Etendu.     Edition des données : https://github.com/cpesr/wikidataESR/blob/master/plots/regroupements/Q61716176.md 
-
-![](plots/regroupements/Q61716176-regroupement-etendu.png) 
-
-Avertissements et édition : [logs](plots/regroupements/Q61716176.md) 
-
-### Site alsacien : Regroupement Superetendu.     Edition des données : https://github.com/cpesr/wikidataESR/blob/master/plots/regroupements/Q61716176.md 
-
-![](plots/regroupements/Q61716176-regroupement-superetendu.png) 
-
-Avertissements et édition : [logs](plots/regroupements/Q61716176.md) 
-
-### Site AMPM : Regroupement Court.     Edition des données : https://github.com/cpesr/wikidataESR/blob/master/plots/regroupements/Q61716142.md 
-
-![](plots/regroupements/Q61716142-regroupement-court.png) 
-
-Avertissements et édition : [logs](plots/regroupements/Q61716142.md) 
-
-### Site AMPM : Regroupement Etendu.     Edition des données : https://github.com/cpesr/wikidataESR/blob/master/plots/regroupements/Q61716142.md 
-
-![](plots/regroupements/Q61716142-regroupement-etendu.png) 
-
-Avertissements et édition : [logs](plots/regroupements/Q61716142.md) 
-
-### Site AMPM : Regroupement Superetendu.     Edition des données : https://github.com/cpesr/wikidataESR/blob/master/plots/regroupements/Q61716142.md 
-
-![](plots/regroupements/Q61716142-regroupement-superetendu.png) 
-
-Avertissements et édition : [logs](plots/regroupements/Q61716142.md) 
-
-### Site champenois : Regroupement Court.     Edition des données : https://github.com/cpesr/wikidataESR/blob/master/plots/regroupements/Q61716216.md 
-
-![](plots/regroupements/Q61716216-regroupement-court.png) 
-
-Avertissements et édition : [logs](plots/regroupements/Q61716216.md) 
-
-### Site champenois : Regroupement Etendu.     Edition des données : https://github.com/cpesr/wikidataESR/blob/master/plots/regroupements/Q61716216.md 
-
-![](plots/regroupements/Q61716216-regroupement-etendu.png) 
-
-Avertissements et édition : [logs](plots/regroupements/Q61716216.md) 
-
-### Site champenois : Regroupement Superetendu.     Edition des données : https://github.com/cpesr/wikidataESR/blob/master/plots/regroupements/Q61716216.md 
-
-![](plots/regroupements/Q61716216-regroupement-superetendu.png) 
-
-Avertissements et édition : [logs](plots/regroupements/Q61716216.md) 
-
-### Sorbonne Paris Cité : Regroupement Court.     Edition des données : https://github.com/cpesr/wikidataESR/blob/master/plots/regroupements/Q3491149.md 
-
-![](plots/regroupements/Q3491149-regroupement-court.png) 
-
-Avertissements et édition : [logs](plots/regroupements/Q3491149.md) 
-
-### Sorbonne Paris Cité : Regroupement Etendu.     Edition des données : https://github.com/cpesr/wikidataESR/blob/master/plots/regroupements/Q3491149.md 
-
-![](plots/regroupements/Q3491149-regroupement-etendu.png) 
-
-Avertissements et édition : [logs](plots/regroupements/Q3491149.md) 
-
-### Sorbonne Paris Cité : Regroupement Superetendu.     Edition des données : https://github.com/cpesr/wikidataESR/blob/master/plots/regroupements/Q3491149.md 
-
-![](plots/regroupements/Q3491149-regroupement-superetendu.png) 
-
-Avertissements et édition : [logs](plots/regroupements/Q3491149.md) 
-
-### Sorbonne Université : Regroupement Court.     Edition des données : https://github.com/cpesr/wikidataESR/blob/master/plots/regroupements/Q61716212.md 
-
-![](plots/regroupements/Q61716212-regroupement-court.png) 
-
-Avertissements et édition : [logs](plots/regroupements/Q61716212.md) 
-
-### Sorbonne Université : Regroupement Etendu.     Edition des données : https://github.com/cpesr/wikidataESR/blob/master/plots/regroupements/Q61716212.md 
-
-![](plots/regroupements/Q61716212-regroupement-etendu.png) 
-
-Avertissements et édition : [logs](plots/regroupements/Q61716212.md) 
-
-### Sorbonne Université : Regroupement Superetendu.     Edition des données : https://github.com/cpesr/wikidataESR/blob/master/plots/regroupements/Q61716212.md 
-
-![](plots/regroupements/Q61716212-regroupement-superetendu.png) 
-
-Avertissements et édition : [logs](plots/regroupements/Q61716212.md) 
-
-### UBL : Regroupement Court.     Edition des données : https://github.com/cpesr/wikidataESR/blob/master/plots/regroupements/Q21994834.md 
-
-![](plots/regroupements/Q21994834-regroupement-court.png) 
-
-Avertissements et édition : [logs](plots/regroupements/Q21994834.md) 
-
-### UBL : Regroupement Etendu.     Edition des données : https://github.com/cpesr/wikidataESR/blob/master/plots/regroupements/Q21994834.md 
-
-![](plots/regroupements/Q21994834-regroupement-etendu.png) 
-
-Avertissements et édition : [logs](plots/regroupements/Q21994834.md) 
-
-### UBL : Regroupement Superetendu.     Edition des données : https://github.com/cpesr/wikidataESR/blob/master/plots/regroupements/Q21994834.md 
-
-![](plots/regroupements/Q21994834-regroupement-superetendu.png) 
-
-Avertissements et édition : [logs](plots/regroupements/Q21994834.md) 
-
-### UCA : Regroupement Court.     Edition des données : https://github.com/cpesr/wikidataESR/blob/master/plots/regroupements/Q61716190.md 
-
-![](plots/regroupements/Q61716190-regroupement-court.png) 
-
-Avertissements et édition : [logs](plots/regroupements/Q61716190.md) 
-
-### UCA : Regroupement Etendu.     Edition des données : https://github.com/cpesr/wikidataESR/blob/master/plots/regroupements/Q61716190.md 
-
-![](plots/regroupements/Q61716190-regroupement-etendu.png) 
-
-Avertissements et édition : [logs](plots/regroupements/Q61716190.md) 
-
-### UCA : Regroupement Superetendu.     Edition des données : https://github.com/cpesr/wikidataESR/blob/master/plots/regroupements/Q61716190.md 
-
-![](plots/regroupements/Q61716190-regroupement-superetendu.png) 
-
-Avertissements et édition : [logs](plots/regroupements/Q61716190.md) 
-
-### UDL : Regroupement Court.     Edition des données : https://github.com/cpesr/wikidataESR/blob/master/plots/regroupements/Q10176.md 
-
-![](plots/regroupements/Q10176-regroupement-court.png) 
-
-Avertissements et édition : [logs](plots/regroupements/Q10176.md) 
-
-### UDL : Regroupement Etendu.     Edition des données : https://github.com/cpesr/wikidataESR/blob/master/plots/regroupements/Q10176.md 
-
-![](plots/regroupements/Q10176-regroupement-etendu.png) 
-
-Avertissements et édition : [logs](plots/regroupements/Q10176.md) 
-
-### UDL : Regroupement Superetendu.     Edition des données : https://github.com/cpesr/wikidataESR/blob/master/plots/regroupements/Q10176.md 
-
-![](plots/regroupements/Q10176-regroupement-superetendu.png) 
-
-Avertissements et édition : [logs](plots/regroupements/Q10176.md) 
-
-### Université confédérale Léonard-de-Vinci : Regroupement Court.     Edition des données : https://github.com/cpesr/wikidataESR/blob/master/plots/regroupements/Q20735682.md 
-
-![](plots/regroupements/Q20735682-regroupement-court.png) 
-
-Avertissements et édition : [logs](plots/regroupements/Q20735682.md) 
-
-### Université confédérale Léonard-de-Vinci : Regroupement Etendu.     Edition des données : https://github.com/cpesr/wikidataESR/blob/master/plots/regroupements/Q20735682.md 
-
-![](plots/regroupements/Q20735682-regroupement-etendu.png) 
-
-Avertissements et édition : [logs](plots/regroupements/Q20735682.md) 
-
-### Université confédérale Léonard-de-Vinci : Regroupement Superetendu.     Edition des données : https://github.com/cpesr/wikidataESR/blob/master/plots/regroupements/Q20735682.md 
-
-![](plots/regroupements/Q20735682-regroupement-superetendu.png) 
-
-Avertissements et édition : [logs](plots/regroupements/Q20735682.md) 
-
-### Université de Lille : Regroupement Court.     Edition des données : https://github.com/cpesr/wikidataESR/blob/master/plots/regroupements/Q1322289.md 
-
-![](plots/regroupements/Q1322289-regroupement-court.png) 
-
-Avertissements et édition : [logs](plots/regroupements/Q1322289.md) 
-
-### Université de Lille : Regroupement Etendu.     Edition des données : https://github.com/cpesr/wikidataESR/blob/master/plots/regroupements/Q1322289.md 
-
-![](plots/regroupements/Q1322289-regroupement-etendu.png) 
-
-Avertissements et édition : [logs](plots/regroupements/Q1322289.md) 
-
-### Université de Lille : Regroupement Superetendu.     Edition des données : https://github.com/cpesr/wikidataESR/blob/master/plots/regroupements/Q1322289.md 
-
-![](plots/regroupements/Q1322289-regroupement-superetendu.png) 
-
-Avertissements et édition : [logs](plots/regroupements/Q1322289.md) 
-
-### PRES Université de Lorraine : Regroupement Court.     Edition des données : https://github.com/cpesr/wikidataESR/blob/master/plots/regroupements/Q64590454.md 
-
-![](plots/regroupements/Q64590454-regroupement-court.png) 
-
-Avertissements et édition : [logs](plots/regroupements/Q64590454.md) 
-
-### PRES Université de Lorraine : Regroupement Etendu.     Edition des données : https://github.com/cpesr/wikidataESR/blob/master/plots/regroupements/Q64590454.md 
-
-![](plots/regroupements/Q64590454-regroupement-etendu.png) 
-
-Avertissements et édition : [logs](plots/regroupements/Q64590454.md) 
-
-### PRES Université de Lorraine : Regroupement Superetendu.     Edition des données : https://github.com/cpesr/wikidataESR/blob/master/plots/regroupements/Q64590454.md 
-
-![](plots/regroupements/Q64590454-regroupement-superetendu.png) 
-
-Avertissements et édition : [logs](plots/regroupements/Q64590454.md) 
+Avertissements et édition : [logs](plots/regroupements/Q61718100.md) 
 
 ### Association Université de Lorraine : Regroupement Court.     Edition des données : https://github.com/cpesr/wikidataESR/blob/master/plots/regroupements/Q61718100.md 
 
@@ -2467,95 +2059,335 @@ Avertissements et édition : [logs](plots/regroupements/Q61718100.md)
 
 Avertissements et édition : [logs](plots/regroupements/Q61718100.md) 
 
-### Université fédérale de Toulouse Midi-Pyrénées : Regroupement Court.     Edition des données : https://github.com/cpesr/wikidataESR/blob/master/plots/regroupements/Q578023.md 
+### Picardie Universités : Histoire.     Edition des données : https://github.com/cpesr/wikidataESR/blob/master/plots/regroupements/Q61716197.md 
 
-![](plots/regroupements/Q578023-regroupement-court.png) 
 
-Avertissements et édition : [logs](plots/regroupements/Q578023.md) 
+Erreur : les données sont probablement trop partielles.
+```
+Error in wdesr_ggplot_graph(df, node_size = node_size, label_sizes = label_sizes, : Empty ESR graph: something went wrong with the graph production parameters
 
-### Université fédérale de Toulouse Midi-Pyrénées : Regroupement Etendu.     Edition des données : https://github.com/cpesr/wikidataESR/blob/master/plots/regroupements/Q578023.md 
+``` 
 
-![](plots/regroupements/Q578023-regroupement-etendu.png) 
+Avertissements et édition : [logs](plots/regroupements/Q61716197.md) 
 
-Avertissements et édition : [logs](plots/regroupements/Q578023.md) 
+### Picardie Universités : Regroupement Court.     Edition des données : https://github.com/cpesr/wikidataESR/blob/master/plots/regroupements/Q61716197.md 
 
-### Université fédérale de Toulouse Midi-Pyrénées : Regroupement Superetendu.     Edition des données : https://github.com/cpesr/wikidataESR/blob/master/plots/regroupements/Q578023.md 
+![](plots/regroupements/Q61716197-regroupement-court.png) 
 
-![](plots/regroupements/Q578023-regroupement-superetendu.png) 
+Avertissements et édition : [logs](plots/regroupements/Q61716197.md) 
 
-Avertissements et édition : [logs](plots/regroupements/Q578023.md) 
+### Picardie Universités : Regroupement Etendu.     Edition des données : https://github.com/cpesr/wikidataESR/blob/master/plots/regroupements/Q61716197.md 
 
-### université Paris Lumières : Regroupement Court.     Edition des données : https://github.com/cpesr/wikidataESR/blob/master/plots/regroupements/Q3551474.md 
+![](plots/regroupements/Q61716197-regroupement-etendu.png) 
 
-![](plots/regroupements/Q3551474-regroupement-court.png) 
+Avertissements et édition : [logs](plots/regroupements/Q61716197.md) 
 
-Avertissements et édition : [logs](plots/regroupements/Q3551474.md) 
+### Picardie Universités : Regroupement Superetendu.     Edition des données : https://github.com/cpesr/wikidataESR/blob/master/plots/regroupements/Q61716197.md 
 
-### université Paris Lumières : Regroupement Etendu.     Edition des données : https://github.com/cpesr/wikidataESR/blob/master/plots/regroupements/Q3551474.md 
+![](plots/regroupements/Q61716197-regroupement-superetendu.png) 
 
-![](plots/regroupements/Q3551474-regroupement-etendu.png) 
+Avertissements et édition : [logs](plots/regroupements/Q61716197.md) 
 
-Avertissements et édition : [logs](plots/regroupements/Q3551474.md) 
+### Site AMPM : Histoire.     Edition des données : https://github.com/cpesr/wikidataESR/blob/master/plots/regroupements/Q61716142.md 
 
-### université Paris Lumières : Regroupement Superetendu.     Edition des données : https://github.com/cpesr/wikidataESR/blob/master/plots/regroupements/Q3551474.md 
 
-![](plots/regroupements/Q3551474-regroupement-superetendu.png) 
+Erreur : les données sont probablement trop partielles.
+```
+Error in wdesr_ggplot_graph(df, node_size = node_size, label_sizes = label_sizes, : Empty ESR graph: something went wrong with the graph production parameters
 
-Avertissements et édition : [logs](plots/regroupements/Q3551474.md) 
+``` 
 
-### Université Paris-Est : Regroupement Court.     Edition des données : https://github.com/cpesr/wikidataESR/blob/master/plots/regroupements/Q3551472.md 
+Avertissements et édition : [logs](plots/regroupements/Q61716142.md) 
 
-![](plots/regroupements/Q3551472-regroupement-court.png) 
+### Site AMPM : Regroupement Court.     Edition des données : https://github.com/cpesr/wikidataESR/blob/master/plots/regroupements/Q61716142.md 
 
-Avertissements et édition : [logs](plots/regroupements/Q3551472.md) 
+![](plots/regroupements/Q61716142-regroupement-court.png) 
 
-### Université Paris-Est : Regroupement Etendu.     Edition des données : https://github.com/cpesr/wikidataESR/blob/master/plots/regroupements/Q3551472.md 
+Avertissements et édition : [logs](plots/regroupements/Q61716142.md) 
 
-![](plots/regroupements/Q3551472-regroupement-etendu.png) 
+### Site AMPM : Regroupement Etendu.     Edition des données : https://github.com/cpesr/wikidataESR/blob/master/plots/regroupements/Q61716142.md 
 
-Avertissements et édition : [logs](plots/regroupements/Q3551472.md) 
+![](plots/regroupements/Q61716142-regroupement-etendu.png) 
 
-### Université Paris-Est : Regroupement Superetendu.     Edition des données : https://github.com/cpesr/wikidataESR/blob/master/plots/regroupements/Q3551472.md 
+Avertissements et édition : [logs](plots/regroupements/Q61716142.md) 
 
-![](plots/regroupements/Q3551472-regroupement-superetendu.png) 
+### Site AMPM : Regroupement Superetendu.     Edition des données : https://github.com/cpesr/wikidataESR/blob/master/plots/regroupements/Q61716142.md 
 
-Avertissements et édition : [logs](plots/regroupements/Q3551472.md) 
+![](plots/regroupements/Q61716142-regroupement-superetendu.png) 
 
-### PRES UniverSud Paris : Regroupement Court.     Edition des données : https://github.com/cpesr/wikidataESR/blob/master/plots/regroupements/Q3248808.md 
+Avertissements et édition : [logs](plots/regroupements/Q61716142.md) 
 
-![](plots/regroupements/Q3248808-regroupement-court.png) 
+### Site champenois : Histoire.     Edition des données : https://github.com/cpesr/wikidataESR/blob/master/plots/regroupements/Q61716216.md 
 
-Avertissements et édition : [logs](plots/regroupements/Q3248808.md) 
 
-### PRES UniverSud Paris : Regroupement Etendu.     Edition des données : https://github.com/cpesr/wikidataESR/blob/master/plots/regroupements/Q3248808.md 
+Erreur : les données sont probablement trop partielles.
+```
+Error in wdesr_ggplot_graph(df, node_size = node_size, label_sizes = label_sizes, : Empty ESR graph: something went wrong with the graph production parameters
 
-![](plots/regroupements/Q3248808-regroupement-etendu.png) 
+``` 
 
-Avertissements et édition : [logs](plots/regroupements/Q3248808.md) 
+Avertissements et édition : [logs](plots/regroupements/Q61716216.md) 
 
-### PRES UniverSud Paris : Regroupement Superetendu.     Edition des données : https://github.com/cpesr/wikidataESR/blob/master/plots/regroupements/Q3248808.md 
+### Site champenois : Regroupement Court.     Edition des données : https://github.com/cpesr/wikidataESR/blob/master/plots/regroupements/Q61716216.md 
 
-![](plots/regroupements/Q3248808-regroupement-superetendu.png) 
+![](plots/regroupements/Q61716216-regroupement-court.png) 
 
-Avertissements et édition : [logs](plots/regroupements/Q3248808.md) 
+Avertissements et édition : [logs](plots/regroupements/Q61716216.md) 
 
-### Université Paris-Seine : Regroupement Court.     Edition des données : https://github.com/cpesr/wikidataESR/blob/master/plots/regroupements/Q3247880.md 
+### Site champenois : Regroupement Etendu.     Edition des données : https://github.com/cpesr/wikidataESR/blob/master/plots/regroupements/Q61716216.md 
 
-![](plots/regroupements/Q3247880-regroupement-court.png) 
+![](plots/regroupements/Q61716216-regroupement-etendu.png) 
 
-Avertissements et édition : [logs](plots/regroupements/Q3247880.md) 
+Avertissements et édition : [logs](plots/regroupements/Q61716216.md) 
 
-### Université Paris-Seine : Regroupement Etendu.     Edition des données : https://github.com/cpesr/wikidataESR/blob/master/plots/regroupements/Q3247880.md 
+### Site champenois : Regroupement Superetendu.     Edition des données : https://github.com/cpesr/wikidataESR/blob/master/plots/regroupements/Q61716216.md 
 
-![](plots/regroupements/Q3247880-regroupement-etendu.png) 
+![](plots/regroupements/Q61716216-regroupement-superetendu.png) 
 
-Avertissements et édition : [logs](plots/regroupements/Q3247880.md) 
+Avertissements et édition : [logs](plots/regroupements/Q61716216.md) 
 
-### Université Paris-Seine : Regroupement Superetendu.     Edition des données : https://github.com/cpesr/wikidataESR/blob/master/plots/regroupements/Q3247880.md 
+### Sorbonne Université : Histoire.     Edition des données : https://github.com/cpesr/wikidataESR/blob/master/plots/regroupements/Q61716212.md 
 
-![](plots/regroupements/Q3247880-regroupement-superetendu.png) 
 
-Avertissements et édition : [logs](plots/regroupements/Q3247880.md) 
+Erreur : les données sont probablement trop partielles.
+```
+Error in wdesr_ggplot_graph(df, node_size = node_size, label_sizes = label_sizes, : Empty ESR graph: something went wrong with the graph production parameters
+
+``` 
+
+Avertissements et édition : [logs](plots/regroupements/Q61716212.md) 
+
+### Sorbonne Université : Regroupement Court.     Edition des données : https://github.com/cpesr/wikidataESR/blob/master/plots/regroupements/Q61716212.md 
+
+![](plots/regroupements/Q61716212-regroupement-court.png) 
+
+Avertissements et édition : [logs](plots/regroupements/Q61716212.md) 
+
+### Sorbonne Université : Regroupement Etendu.     Edition des données : https://github.com/cpesr/wikidataESR/blob/master/plots/regroupements/Q61716212.md 
+
+![](plots/regroupements/Q61716212-regroupement-etendu.png) 
+
+Avertissements et édition : [logs](plots/regroupements/Q61716212.md) 
+
+### Sorbonne Université : Regroupement Superetendu.     Edition des données : https://github.com/cpesr/wikidataESR/blob/master/plots/regroupements/Q61716212.md 
+
+![](plots/regroupements/Q61716212-regroupement-superetendu.png) 
+
+Avertissements et édition : [logs](plots/regroupements/Q61716212.md) 
+
+### UCA : Histoire.     Edition des données : https://github.com/cpesr/wikidataESR/blob/master/plots/regroupements/Q61716190.md 
+
+
+Erreur : les données sont probablement trop partielles.
+```
+Error in wdesr_ggplot_graph(df, node_size = node_size, label_sizes = label_sizes, : Empty ESR graph: something went wrong with the graph production parameters
+
+``` 
+
+Avertissements et édition : [logs](plots/regroupements/Q61716190.md) 
+
+### UCA : Regroupement Court.     Edition des données : https://github.com/cpesr/wikidataESR/blob/master/plots/regroupements/Q61716190.md 
+
+![](plots/regroupements/Q61716190-regroupement-court.png) 
+
+Avertissements et édition : [logs](plots/regroupements/Q61716190.md) 
+
+### UCA : Regroupement Etendu.     Edition des données : https://github.com/cpesr/wikidataESR/blob/master/plots/regroupements/Q61716190.md 
+
+![](plots/regroupements/Q61716190-regroupement-etendu.png) 
+
+Avertissements et édition : [logs](plots/regroupements/Q61716190.md) 
+
+### UCA : Regroupement Superetendu.     Edition des données : https://github.com/cpesr/wikidataESR/blob/master/plots/regroupements/Q61716190.md 
+
+![](plots/regroupements/Q61716190-regroupement-superetendu.png) 
+
+Avertissements et édition : [logs](plots/regroupements/Q61716190.md) 
+
+### COMUE Angers-Le Mans : Histoire.     Edition des données : https://github.com/cpesr/wikidataESR/blob/master/plots/regroupements/Q104621964.md 
+
+
+Erreur : les données sont probablement trop partielles.
+```
+Error in wdesr_ggplot_graph(df, node_size = node_size, label_sizes = label_sizes, : Empty ESR graph: something went wrong with the graph production parameters
+
+``` 
+
+Avertissements et édition : [logs](plots/regroupements/Q104621964.md) 
+
+### COMUE Angers-Le Mans : Regroupement Court.     Edition des données : https://github.com/cpesr/wikidataESR/blob/master/plots/regroupements/Q104621964.md 
+
+
+Erreur : les données sont probablement trop partielles.
+```
+Error in wdesr_ggplot_graph(df, node_size = node_size, label_sizes = label_sizes, : Empty ESR graph: something went wrong with the graph production parameters
+
+``` 
+
+Avertissements et édition : [logs](plots/regroupements/Q104621964.md) 
+
+### COMUE Angers-Le Mans : Regroupement Etendu.     Edition des données : https://github.com/cpesr/wikidataESR/blob/master/plots/regroupements/Q104621964.md 
+
+
+Erreur : les données sont probablement trop partielles.
+```
+Error in wdesr_ggplot_graph(df, node_size = node_size, label_sizes = label_sizes, : Empty ESR graph: something went wrong with the graph production parameters
+
+``` 
+
+Avertissements et édition : [logs](plots/regroupements/Q104621964.md) 
+
+### COMUE Angers-Le Mans : Regroupement Superetendu.     Edition des données : https://github.com/cpesr/wikidataESR/blob/master/plots/regroupements/Q104621964.md 
+
+
+Erreur : les données sont probablement trop partielles.
+```
+Error in wdesr_ggplot_graph(df, node_size = node_size, label_sizes = label_sizes, : Empty ESR graph: something went wrong with the graph production parameters
+
+``` 
+
+Avertissements et édition : [logs](plots/regroupements/Q104621964.md) 
+
+### COMUE Centre Val de Loire : Histoire.     Edition des données : https://github.com/cpesr/wikidataESR/blob/master/plots/regroupements/Q2944885.md 
+
+
+Erreur : les données sont probablement trop partielles.
+```
+Error in wdesr_ggplot_graph(df, node_size = node_size, label_sizes = label_sizes, : Empty ESR graph: something went wrong with the graph production parameters
+
+``` 
+
+Avertissements et édition : [logs](plots/regroupements/Q2944885.md) 
+
+### COMUE Centre Val de Loire : Regroupement Court.     Edition des données : https://github.com/cpesr/wikidataESR/blob/master/plots/regroupements/Q2944885.md 
+
+![](plots/regroupements/Q2944885-regroupement-court.png) 
+
+Avertissements et édition : [logs](plots/regroupements/Q2944885.md) 
+
+### COMUE Centre Val de Loire : Regroupement Etendu.     Edition des données : https://github.com/cpesr/wikidataESR/blob/master/plots/regroupements/Q2944885.md 
+
+![](plots/regroupements/Q2944885-regroupement-etendu.png) 
+
+Avertissements et édition : [logs](plots/regroupements/Q2944885.md) 
+
+### COMUE Centre Val de Loire : Regroupement Superetendu.     Edition des données : https://github.com/cpesr/wikidataESR/blob/master/plots/regroupements/Q2944885.md 
+
+![](plots/regroupements/Q2944885-regroupement-superetendu.png) 
+
+Avertissements et édition : [logs](plots/regroupements/Q2944885.md) 
+
+### COMUE de Bourgogne Franche Comté : Histoire.     Edition des données : https://github.com/cpesr/wikidataESR/blob/master/plots/regroupements/Q3359833.md 
+
+
+Erreur : les données sont probablement trop partielles.
+```
+Error in wdesr_ggplot_graph(df, node_size = node_size, label_sizes = label_sizes, : Empty ESR graph: something went wrong with the graph production parameters
+
+``` 
+
+Avertissements et édition : [logs](plots/regroupements/Q3359833.md) 
+
+### COMUE de Bourgogne Franche Comté : Regroupement Court.     Edition des données : https://github.com/cpesr/wikidataESR/blob/master/plots/regroupements/Q3359833.md 
+
+![](plots/regroupements/Q3359833-regroupement-court.png) 
+
+Avertissements et édition : [logs](plots/regroupements/Q3359833.md) 
+
+### COMUE de Bourgogne Franche Comté : Regroupement Etendu.     Edition des données : https://github.com/cpesr/wikidataESR/blob/master/plots/regroupements/Q3359833.md 
+
+![](plots/regroupements/Q3359833-regroupement-etendu.png) 
+
+Avertissements et édition : [logs](plots/regroupements/Q3359833.md) 
+
+### COMUE de Bourgogne Franche Comté : Regroupement Superetendu.     Edition des données : https://github.com/cpesr/wikidataESR/blob/master/plots/regroupements/Q3359833.md 
+
+![](plots/regroupements/Q3359833-regroupement-superetendu.png) 
+
+Avertissements et édition : [logs](plots/regroupements/Q3359833.md) 
+
+### COMUE de Toulouse : Histoire.     Edition des données : https://github.com/cpesr/wikidataESR/blob/master/plots/regroupements/Q20669873.md 
+
+
+Erreur : les données sont probablement trop partielles.
+```
+Error in wdesr_ggplot_graph(df, node_size = node_size, label_sizes = label_sizes, : Empty ESR graph: something went wrong with the graph production parameters
+
+``` 
+
+Avertissements et édition : [logs](plots/regroupements/Q20669873.md) 
+
+### COMUE de Toulouse : Regroupement Court.     Edition des données : https://github.com/cpesr/wikidataESR/blob/master/plots/regroupements/Q20669873.md 
+
+![](plots/regroupements/Q20669873-regroupement-court.png) 
+
+Avertissements et édition : [logs](plots/regroupements/Q20669873.md) 
+
+### COMUE de Toulouse : Regroupement Etendu.     Edition des données : https://github.com/cpesr/wikidataESR/blob/master/plots/regroupements/Q20669873.md 
+
+![](plots/regroupements/Q20669873-regroupement-etendu.png) 
+
+Avertissements et édition : [logs](plots/regroupements/Q20669873.md) 
+
+### COMUE de Toulouse : Regroupement Superetendu.     Edition des données : https://github.com/cpesr/wikidataESR/blob/master/plots/regroupements/Q20669873.md 
+
+![](plots/regroupements/Q20669873-regroupement-superetendu.png) 
+
+Avertissements et édition : [logs](plots/regroupements/Q20669873.md) 
+
+### COMUE UCA : Histoire.     Edition des données : https://github.com/cpesr/wikidataESR/blob/master/plots/regroupements/Q19370961.md 
+
+![](plots/regroupements/Q19370961-histoire.png) 
+
+Avertissements et édition : [logs](plots/regroupements/Q19370961.md) 
+
+### COMUE UCA : Regroupement Court.     Edition des données : https://github.com/cpesr/wikidataESR/blob/master/plots/regroupements/Q19370961.md 
+
+![](plots/regroupements/Q19370961-regroupement-court.png) 
+
+Avertissements et édition : [logs](plots/regroupements/Q19370961.md) 
+
+### COMUE UCA : Regroupement Etendu.     Edition des données : https://github.com/cpesr/wikidataESR/blob/master/plots/regroupements/Q19370961.md 
+
+![](plots/regroupements/Q19370961-regroupement-etendu.png) 
+
+Avertissements et édition : [logs](plots/regroupements/Q19370961.md) 
+
+### COMUE UCA : Regroupement Superetendu.     Edition des données : https://github.com/cpesr/wikidataESR/blob/master/plots/regroupements/Q19370961.md 
+
+![](plots/regroupements/Q19370961-regroupement-superetendu.png) 
+
+Avertissements et édition : [logs](plots/regroupements/Q19370961.md) 
+
+### COMUE UGA : Histoire.     Edition des données : https://github.com/cpesr/wikidataESR/blob/master/plots/regroupements/Q3551589.md 
+
+![](plots/regroupements/Q3551589-histoire.png) 
+
+Avertissements et édition : [logs](plots/regroupements/Q3551589.md) 
+
+### COMUE UGA : Regroupement Court.     Edition des données : https://github.com/cpesr/wikidataESR/blob/master/plots/regroupements/Q3551589.md 
+
+![](plots/regroupements/Q3551589-regroupement-court.png) 
+
+Avertissements et édition : [logs](plots/regroupements/Q3551589.md) 
+
+### COMUE UGA : Regroupement Etendu.     Edition des données : https://github.com/cpesr/wikidataESR/blob/master/plots/regroupements/Q3551589.md 
+
+![](plots/regroupements/Q3551589-regroupement-etendu.png) 
+
+Avertissements et édition : [logs](plots/regroupements/Q3551589.md) 
+
+### COMUE UGA : Regroupement Superetendu.     Edition des données : https://github.com/cpesr/wikidataESR/blob/master/plots/regroupements/Q3551589.md 
+
+![](plots/regroupements/Q3551589-regroupement-superetendu.png) 
+
+Avertissements et édition : [logs](plots/regroupements/Q3551589.md) 
+
+### COMUE Université Paris-Saclay : Histoire.     Edition des données : https://github.com/cpesr/wikidataESR/blob/master/plots/regroupements/Q13531686.md 
+
+![](plots/regroupements/Q13531686-histoire.png) 
+
+Avertissements et édition : [logs](plots/regroupements/Q13531686.md) 
 
 ### COMUE Université Paris-Saclay : Regroupement Court.     Edition des données : https://github.com/cpesr/wikidataESR/blob/master/plots/regroupements/Q13531686.md 
 
@@ -2574,6 +2406,200 @@ Avertissements et édition : [logs](plots/regroupements/Q13531686.md)
 ![](plots/regroupements/Q13531686-regroupement-superetendu.png) 
 
 Avertissements et édition : [logs](plots/regroupements/Q13531686.md) 
+
+### HESAM : Histoire.     Edition des données : https://github.com/cpesr/wikidataESR/blob/master/plots/regroupements/Q3128622.md 
+
+
+Erreur : les données sont probablement trop partielles.
+```
+Error in wdesr_ggplot_graph(df, node_size = node_size, label_sizes = label_sizes, : Empty ESR graph: something went wrong with the graph production parameters
+
+``` 
+
+Avertissements et édition : [logs](plots/regroupements/Q3128622.md) 
+
+### HESAM : Regroupement Court.     Edition des données : https://github.com/cpesr/wikidataESR/blob/master/plots/regroupements/Q3128622.md 
+
+![](plots/regroupements/Q3128622-regroupement-court.png) 
+
+Avertissements et édition : [logs](plots/regroupements/Q3128622.md) 
+
+### HESAM : Regroupement Etendu.     Edition des données : https://github.com/cpesr/wikidataESR/blob/master/plots/regroupements/Q3128622.md 
+
+![](plots/regroupements/Q3128622-regroupement-etendu.png) 
+
+Avertissements et édition : [logs](plots/regroupements/Q3128622.md) 
+
+### HESAM : Regroupement Superetendu.     Edition des données : https://github.com/cpesr/wikidataESR/blob/master/plots/regroupements/Q3128622.md 
+
+![](plots/regroupements/Q3128622-regroupement-superetendu.png) 
+
+Avertissements et édition : [logs](plots/regroupements/Q3128622.md) 
+
+### Languedoc Roussillon Universités : Histoire.     Edition des données : https://github.com/cpesr/wikidataESR/blob/master/plots/regroupements/Q2476558.md 
+
+
+Erreur : les données sont probablement trop partielles.
+```
+Error in wdesr_ggplot_graph(df, node_size = node_size, label_sizes = label_sizes, : Empty ESR graph: something went wrong with the graph production parameters
+
+``` 
+
+Avertissements et édition : [logs](plots/regroupements/Q2476558.md) 
+
+### Languedoc Roussillon Universités : Regroupement Court.     Edition des données : https://github.com/cpesr/wikidataESR/blob/master/plots/regroupements/Q2476558.md 
+
+![](plots/regroupements/Q2476558-regroupement-court.png) 
+
+Avertissements et édition : [logs](plots/regroupements/Q2476558.md) 
+
+### Languedoc Roussillon Universités : Regroupement Etendu.     Edition des données : https://github.com/cpesr/wikidataESR/blob/master/plots/regroupements/Q2476558.md 
+
+![](plots/regroupements/Q2476558-regroupement-etendu.png) 
+
+Avertissements et édition : [logs](plots/regroupements/Q2476558.md) 
+
+### Languedoc Roussillon Universités : Regroupement Superetendu.     Edition des données : https://github.com/cpesr/wikidataESR/blob/master/plots/regroupements/Q2476558.md 
+
+![](plots/regroupements/Q2476558-regroupement-superetendu.png) 
+
+Avertissements et édition : [logs](plots/regroupements/Q2476558.md) 
+
+### Normandie Université : Histoire.     Edition des données : https://github.com/cpesr/wikidataESR/blob/master/plots/regroupements/Q3343880.md 
+
+![](plots/regroupements/Q3343880-histoire.png) 
+
+Avertissements et édition : [logs](plots/regroupements/Q3343880.md) 
+
+### Normandie Université : Regroupement Court.     Edition des données : https://github.com/cpesr/wikidataESR/blob/master/plots/regroupements/Q3343880.md 
+
+![](plots/regroupements/Q3343880-regroupement-court.png) 
+
+Avertissements et édition : [logs](plots/regroupements/Q3343880.md) 
+
+### Normandie Université : Regroupement Etendu.     Edition des données : https://github.com/cpesr/wikidataESR/blob/master/plots/regroupements/Q3343880.md 
+
+![](plots/regroupements/Q3343880-regroupement-etendu.png) 
+
+Avertissements et édition : [logs](plots/regroupements/Q3343880.md) 
+
+### Normandie Université : Regroupement Superetendu.     Edition des données : https://github.com/cpesr/wikidataESR/blob/master/plots/regroupements/Q3343880.md 
+
+![](plots/regroupements/Q3343880-regroupement-superetendu.png) 
+
+Avertissements et édition : [logs](plots/regroupements/Q3343880.md) 
+
+### Sorbonne Paris Cité : Histoire.     Edition des données : https://github.com/cpesr/wikidataESR/blob/master/plots/regroupements/Q3491149.md 
+
+![](plots/regroupements/Q3491149-histoire.png) 
+
+Avertissements et édition : [logs](plots/regroupements/Q3491149.md) 
+
+### Sorbonne Paris Cité : Regroupement Court.     Edition des données : https://github.com/cpesr/wikidataESR/blob/master/plots/regroupements/Q3491149.md 
+
+![](plots/regroupements/Q3491149-regroupement-court.png) 
+
+Avertissements et édition : [logs](plots/regroupements/Q3491149.md) 
+
+### Sorbonne Paris Cité : Regroupement Etendu.     Edition des données : https://github.com/cpesr/wikidataESR/blob/master/plots/regroupements/Q3491149.md 
+
+![](plots/regroupements/Q3491149-regroupement-etendu.png) 
+
+Avertissements et édition : [logs](plots/regroupements/Q3491149.md) 
+
+### Sorbonne Paris Cité : Regroupement Superetendu.     Edition des données : https://github.com/cpesr/wikidataESR/blob/master/plots/regroupements/Q3491149.md 
+
+![](plots/regroupements/Q3491149-regroupement-superetendu.png) 
+
+Avertissements et édition : [logs](plots/regroupements/Q3491149.md) 
+
+### Sorbonne Universités : Histoire.     Edition des données : https://github.com/cpesr/wikidataESR/blob/master/plots/regroupements/Q3491150.md 
+
+
+Erreur : les données sont probablement trop partielles.
+```
+Error in wdesr_ggplot_graph(df, node_size = node_size, label_sizes = label_sizes, : Empty ESR graph: something went wrong with the graph production parameters
+
+``` 
+
+Avertissements et édition : [logs](plots/regroupements/Q3491150.md) 
+
+### Sorbonne Universités : Regroupement Court.     Edition des données : https://github.com/cpesr/wikidataESR/blob/master/plots/regroupements/Q3491150.md 
+
+![](plots/regroupements/Q3491150-regroupement-court.png) 
+
+Avertissements et édition : [logs](plots/regroupements/Q3491150.md) 
+
+### Sorbonne Universités : Regroupement Etendu.     Edition des données : https://github.com/cpesr/wikidataESR/blob/master/plots/regroupements/Q3491150.md 
+
+![](plots/regroupements/Q3491150-regroupement-etendu.png) 
+
+Avertissements et édition : [logs](plots/regroupements/Q3491150.md) 
+
+### Sorbonne Universités : Regroupement Superetendu.     Edition des données : https://github.com/cpesr/wikidataESR/blob/master/plots/regroupements/Q3491150.md 
+
+![](plots/regroupements/Q3491150-regroupement-superetendu.png) 
+
+Avertissements et édition : [logs](plots/regroupements/Q3491150.md) 
+
+### UBL : Histoire.     Edition des données : https://github.com/cpesr/wikidataESR/blob/master/plots/regroupements/Q21994834.md 
+
+![](plots/regroupements/Q21994834-histoire.png) 
+
+Avertissements et édition : [logs](plots/regroupements/Q21994834.md) 
+
+### UBL : Regroupement Court.     Edition des données : https://github.com/cpesr/wikidataESR/blob/master/plots/regroupements/Q21994834.md 
+
+![](plots/regroupements/Q21994834-regroupement-court.png) 
+
+Avertissements et édition : [logs](plots/regroupements/Q21994834.md) 
+
+### UBL : Regroupement Etendu.     Edition des données : https://github.com/cpesr/wikidataESR/blob/master/plots/regroupements/Q21994834.md 
+
+![](plots/regroupements/Q21994834-regroupement-etendu.png) 
+
+Avertissements et édition : [logs](plots/regroupements/Q21994834.md) 
+
+### UBL : Regroupement Superetendu.     Edition des données : https://github.com/cpesr/wikidataESR/blob/master/plots/regroupements/Q21994834.md 
+
+![](plots/regroupements/Q21994834-regroupement-superetendu.png) 
+
+Avertissements et édition : [logs](plots/regroupements/Q21994834.md) 
+
+### UDL : Histoire.     Edition des données : https://github.com/cpesr/wikidataESR/blob/master/plots/regroupements/Q10176.md 
+
+![](plots/regroupements/Q10176-histoire.png) 
+
+Avertissements et édition : [logs](plots/regroupements/Q10176.md) 
+
+### UDL : Regroupement Court.     Edition des données : https://github.com/cpesr/wikidataESR/blob/master/plots/regroupements/Q10176.md 
+
+![](plots/regroupements/Q10176-regroupement-court.png) 
+
+Avertissements et édition : [logs](plots/regroupements/Q10176.md) 
+
+### UDL : Regroupement Etendu.     Edition des données : https://github.com/cpesr/wikidataESR/blob/master/plots/regroupements/Q10176.md 
+
+![](plots/regroupements/Q10176-regroupement-etendu.png) 
+
+Avertissements et édition : [logs](plots/regroupements/Q10176.md) 
+
+### UDL : Regroupement Superetendu.     Edition des données : https://github.com/cpesr/wikidataESR/blob/master/plots/regroupements/Q10176.md 
+
+![](plots/regroupements/Q10176-regroupement-superetendu.png) 
+
+Avertissements et édition : [logs](plots/regroupements/Q10176.md) 
+
+### Union des universités de la Méditerranée : Histoire.     Edition des données : https://github.com/cpesr/wikidataESR/blob/master/plots/regroupements/Q850927.md 
+
+
+Erreur : les données sont probablement trop partielles.
+```
+Error in wdesr_ggplot_graph(df, node_size = node_size, label_sizes = label_sizes, : Empty ESR graph: something went wrong with the graph production parameters
+
+``` 
+
+Avertissements et édition : [logs](plots/regroupements/Q850927.md) 
 
 ### Union des universités de la Méditerranée : Regroupement Court.     Edition des données : https://github.com/cpesr/wikidataESR/blob/master/plots/regroupements/Q850927.md 
 
@@ -2608,25 +2634,7 @@ Error in wdesr_ggplot_graph(df, node_size = node_size, label_sizes = label_sizes
 
 Avertissements et édition : [logs](plots/regroupements/Q850927.md) 
 
-### Sorbonne Universités : Regroupement Court.     Edition des données : https://github.com/cpesr/wikidataESR/blob/master/plots/regroupements/Q3491150.md 
-
-![](plots/regroupements/Q3491150-regroupement-court.png) 
-
-Avertissements et édition : [logs](plots/regroupements/Q3491150.md) 
-
-### Sorbonne Universités : Regroupement Etendu.     Edition des données : https://github.com/cpesr/wikidataESR/blob/master/plots/regroupements/Q3491150.md 
-
-![](plots/regroupements/Q3491150-regroupement-etendu.png) 
-
-Avertissements et édition : [logs](plots/regroupements/Q3491150.md) 
-
-### Sorbonne Universités : Regroupement Superetendu.     Edition des données : https://github.com/cpesr/wikidataESR/blob/master/plots/regroupements/Q3491150.md 
-
-![](plots/regroupements/Q3491150-regroupement-superetendu.png) 
-
-Avertissements et édition : [logs](plots/regroupements/Q3491150.md) 
-
-### COMUE Angers-Le Mans : Regroupement Court.     Edition des données : https://github.com/cpesr/wikidataESR/blob/master/plots/regroupements/Q104621964.md 
+### Université confédérale Léonard-de-Vinci : Histoire.     Edition des données : https://github.com/cpesr/wikidataESR/blob/master/plots/regroupements/Q20735682.md 
 
 
 Erreur : les données sont probablement trop partielles.
@@ -2635,9 +2643,27 @@ Error in wdesr_ggplot_graph(df, node_size = node_size, label_sizes = label_sizes
 
 ``` 
 
-Avertissements et édition : [logs](plots/regroupements/Q104621964.md) 
+Avertissements et édition : [logs](plots/regroupements/Q20735682.md) 
 
-### COMUE Angers-Le Mans : Regroupement Etendu.     Edition des données : https://github.com/cpesr/wikidataESR/blob/master/plots/regroupements/Q104621964.md 
+### Université confédérale Léonard-de-Vinci : Regroupement Court.     Edition des données : https://github.com/cpesr/wikidataESR/blob/master/plots/regroupements/Q20735682.md 
+
+![](plots/regroupements/Q20735682-regroupement-court.png) 
+
+Avertissements et édition : [logs](plots/regroupements/Q20735682.md) 
+
+### Université confédérale Léonard-de-Vinci : Regroupement Etendu.     Edition des données : https://github.com/cpesr/wikidataESR/blob/master/plots/regroupements/Q20735682.md 
+
+![](plots/regroupements/Q20735682-regroupement-etendu.png) 
+
+Avertissements et édition : [logs](plots/regroupements/Q20735682.md) 
+
+### Université confédérale Léonard-de-Vinci : Regroupement Superetendu.     Edition des données : https://github.com/cpesr/wikidataESR/blob/master/plots/regroupements/Q20735682.md 
+
+![](plots/regroupements/Q20735682-regroupement-superetendu.png) 
+
+Avertissements et édition : [logs](plots/regroupements/Q20735682.md) 
+
+### Université de Lille : Histoire.     Edition des données : https://github.com/cpesr/wikidataESR/blob/master/plots/regroupements/Q1322289.md 
 
 
 Erreur : les données sont probablement trop partielles.
@@ -2646,9 +2672,75 @@ Error in wdesr_ggplot_graph(df, node_size = node_size, label_sizes = label_sizes
 
 ``` 
 
-Avertissements et édition : [logs](plots/regroupements/Q104621964.md) 
+Avertissements et édition : [logs](plots/regroupements/Q1322289.md) 
 
-### COMUE Angers-Le Mans : Regroupement Superetendu.     Edition des données : https://github.com/cpesr/wikidataESR/blob/master/plots/regroupements/Q104621964.md 
+### Université de Lille : Regroupement Court.     Edition des données : https://github.com/cpesr/wikidataESR/blob/master/plots/regroupements/Q1322289.md 
+
+![](plots/regroupements/Q1322289-regroupement-court.png) 
+
+Avertissements et édition : [logs](plots/regroupements/Q1322289.md) 
+
+### Université de Lille : Regroupement Etendu.     Edition des données : https://github.com/cpesr/wikidataESR/blob/master/plots/regroupements/Q1322289.md 
+
+![](plots/regroupements/Q1322289-regroupement-etendu.png) 
+
+Avertissements et édition : [logs](plots/regroupements/Q1322289.md) 
+
+### Université de Lille : Regroupement Superetendu.     Edition des données : https://github.com/cpesr/wikidataESR/blob/master/plots/regroupements/Q1322289.md 
+
+![](plots/regroupements/Q1322289-regroupement-superetendu.png) 
+
+Avertissements et édition : [logs](plots/regroupements/Q1322289.md) 
+
+### université Paris Lumières : Histoire.     Edition des données : https://github.com/cpesr/wikidataESR/blob/master/plots/regroupements/Q3551474.md 
+
+![](plots/regroupements/Q3551474-histoire.png) 
+
+Avertissements et édition : [logs](plots/regroupements/Q3551474.md) 
+
+### université Paris Lumières : Regroupement Court.     Edition des données : https://github.com/cpesr/wikidataESR/blob/master/plots/regroupements/Q3551474.md 
+
+![](plots/regroupements/Q3551474-regroupement-court.png) 
+
+Avertissements et édition : [logs](plots/regroupements/Q3551474.md) 
+
+### université Paris Lumières : Regroupement Etendu.     Edition des données : https://github.com/cpesr/wikidataESR/blob/master/plots/regroupements/Q3551474.md 
+
+![](plots/regroupements/Q3551474-regroupement-etendu.png) 
+
+Avertissements et édition : [logs](plots/regroupements/Q3551474.md) 
+
+### université Paris Lumières : Regroupement Superetendu.     Edition des données : https://github.com/cpesr/wikidataESR/blob/master/plots/regroupements/Q3551474.md 
+
+![](plots/regroupements/Q3551474-regroupement-superetendu.png) 
+
+Avertissements et édition : [logs](plots/regroupements/Q3551474.md) 
+
+### Université Paris-Est : Histoire.     Edition des données : https://github.com/cpesr/wikidataESR/blob/master/plots/regroupements/Q3551472.md 
+
+![](plots/regroupements/Q3551472-histoire.png) 
+
+Avertissements et édition : [logs](plots/regroupements/Q3551472.md) 
+
+### Université Paris-Est : Regroupement Court.     Edition des données : https://github.com/cpesr/wikidataESR/blob/master/plots/regroupements/Q3551472.md 
+
+![](plots/regroupements/Q3551472-regroupement-court.png) 
+
+Avertissements et édition : [logs](plots/regroupements/Q3551472.md) 
+
+### Université Paris-Est : Regroupement Etendu.     Edition des données : https://github.com/cpesr/wikidataESR/blob/master/plots/regroupements/Q3551472.md 
+
+![](plots/regroupements/Q3551472-regroupement-etendu.png) 
+
+Avertissements et édition : [logs](plots/regroupements/Q3551472.md) 
+
+### Université Paris-Est : Regroupement Superetendu.     Edition des données : https://github.com/cpesr/wikidataESR/blob/master/plots/regroupements/Q3551472.md 
+
+![](plots/regroupements/Q3551472-regroupement-superetendu.png) 
+
+Avertissements et édition : [logs](plots/regroupements/Q3551472.md) 
+
+### Université Paris-Seine : Histoire.     Edition des données : https://github.com/cpesr/wikidataESR/blob/master/plots/regroupements/Q3247880.md 
 
 
 Erreur : les données sont probablement trop partielles.
@@ -2657,7 +2749,184 @@ Error in wdesr_ggplot_graph(df, node_size = node_size, label_sizes = label_sizes
 
 ``` 
 
-Avertissements et édition : [logs](plots/regroupements/Q104621964.md) 
+Avertissements et édition : [logs](plots/regroupements/Q3247880.md) 
+
+### Université Paris-Seine : Regroupement Court.     Edition des données : https://github.com/cpesr/wikidataESR/blob/master/plots/regroupements/Q3247880.md 
+
+![](plots/regroupements/Q3247880-regroupement-court.png) 
+
+Avertissements et édition : [logs](plots/regroupements/Q3247880.md) 
+
+### Université Paris-Seine : Regroupement Etendu.     Edition des données : https://github.com/cpesr/wikidataESR/blob/master/plots/regroupements/Q3247880.md 
+
+![](plots/regroupements/Q3247880-regroupement-etendu.png) 
+
+Avertissements et édition : [logs](plots/regroupements/Q3247880.md) 
+
+### Université Paris-Seine : Regroupement Superetendu.     Edition des données : https://github.com/cpesr/wikidataESR/blob/master/plots/regroupements/Q3247880.md 
+
+![](plots/regroupements/Q3247880-regroupement-superetendu.png) 
+
+Avertissements et édition : [logs](plots/regroupements/Q3247880.md) 
+
+### PSL : Histoire.     Edition des données : https://github.com/cpesr/wikidataESR/blob/master/plots/regroupements/Q1163431.md 
+
+![](plots/regroupements/Q1163431-histoire.png) 
+
+Avertissements et édition : [logs](plots/regroupements/Q1163431.md) 
+
+### PSL : Regroupement Court.     Edition des données : https://github.com/cpesr/wikidataESR/blob/master/plots/regroupements/Q1163431.md 
+
+![](plots/regroupements/Q1163431-regroupement-court.png) 
+
+Avertissements et édition : [logs](plots/regroupements/Q1163431.md) 
+
+### PSL : Regroupement Etendu.     Edition des données : https://github.com/cpesr/wikidataESR/blob/master/plots/regroupements/Q1163431.md 
+
+![](plots/regroupements/Q1163431-regroupement-etendu.png) 
+
+Avertissements et édition : [logs](plots/regroupements/Q1163431.md) 
+
+### PSL : Regroupement Superetendu.     Edition des données : https://github.com/cpesr/wikidataESR/blob/master/plots/regroupements/Q1163431.md 
+
+![](plots/regroupements/Q1163431-regroupement-superetendu.png) 
+
+Avertissements et édition : [logs](plots/regroupements/Q1163431.md) 
+
+### PRES Université de Lorraine : Histoire.     Edition des données : https://github.com/cpesr/wikidataESR/blob/master/plots/regroupements/Q64590454.md 
+
+![](plots/regroupements/Q64590454-histoire.png) 
+
+Avertissements et édition : [logs](plots/regroupements/Q64590454.md) 
+
+### PRES Université de Lorraine : Regroupement Court.     Edition des données : https://github.com/cpesr/wikidataESR/blob/master/plots/regroupements/Q64590454.md 
+
+![](plots/regroupements/Q64590454-regroupement-court.png) 
+
+Avertissements et édition : [logs](plots/regroupements/Q64590454.md) 
+
+### PRES Université de Lorraine : Regroupement Etendu.     Edition des données : https://github.com/cpesr/wikidataESR/blob/master/plots/regroupements/Q64590454.md 
+
+![](plots/regroupements/Q64590454-regroupement-etendu.png) 
+
+Avertissements et édition : [logs](plots/regroupements/Q64590454.md) 
+
+### PRES Université de Lorraine : Regroupement Superetendu.     Edition des données : https://github.com/cpesr/wikidataESR/blob/master/plots/regroupements/Q64590454.md 
+
+![](plots/regroupements/Q64590454-regroupement-superetendu.png) 
+
+Avertissements et édition : [logs](plots/regroupements/Q64590454.md) 
+
+### PRES UniverSud Paris : Histoire.     Edition des données : https://github.com/cpesr/wikidataESR/blob/master/plots/regroupements/Q3248808.md 
+
+
+Erreur : les données sont probablement trop partielles.
+```
+Error in wdesr_ggplot_graph(df, node_size = node_size, label_sizes = label_sizes, : Empty ESR graph: something went wrong with the graph production parameters
+
+``` 
+
+Avertissements et édition : [logs](plots/regroupements/Q3248808.md) 
+
+### PRES UniverSud Paris : Regroupement Court.     Edition des données : https://github.com/cpesr/wikidataESR/blob/master/plots/regroupements/Q3248808.md 
+
+![](plots/regroupements/Q3248808-regroupement-court.png) 
+
+Avertissements et édition : [logs](plots/regroupements/Q3248808.md) 
+
+### PRES UniverSud Paris : Regroupement Etendu.     Edition des données : https://github.com/cpesr/wikidataESR/blob/master/plots/regroupements/Q3248808.md 
+
+![](plots/regroupements/Q3248808-regroupement-etendu.png) 
+
+Avertissements et édition : [logs](plots/regroupements/Q3248808.md) 
+
+### PRES UniverSud Paris : Regroupement Superetendu.     Edition des données : https://github.com/cpesr/wikidataESR/blob/master/plots/regroupements/Q3248808.md 
+
+![](plots/regroupements/Q3248808-regroupement-superetendu.png) 
+
+Avertissements et édition : [logs](plots/regroupements/Q3248808.md) 
+
+### Site alsacien : Histoire.     Edition des données : https://github.com/cpesr/wikidataESR/blob/master/plots/regroupements/Q61716176.md 
+
+
+Erreur : les données sont probablement trop partielles.
+```
+Error in wdesr_ggplot_graph(df, node_size = node_size, label_sizes = label_sizes, : Empty ESR graph: something went wrong with the graph production parameters
+
+``` 
+
+Avertissements et édition : [logs](plots/regroupements/Q61716176.md) 
+
+### Site alsacien : Regroupement Court.     Edition des données : https://github.com/cpesr/wikidataESR/blob/master/plots/regroupements/Q61716176.md 
+
+![](plots/regroupements/Q61716176-regroupement-court.png) 
+
+Avertissements et édition : [logs](plots/regroupements/Q61716176.md) 
+
+### Site alsacien : Regroupement Etendu.     Edition des données : https://github.com/cpesr/wikidataESR/blob/master/plots/regroupements/Q61716176.md 
+
+![](plots/regroupements/Q61716176-regroupement-etendu.png) 
+
+Avertissements et édition : [logs](plots/regroupements/Q61716176.md) 
+
+### Site alsacien : Regroupement Superetendu.     Edition des données : https://github.com/cpesr/wikidataESR/blob/master/plots/regroupements/Q61716176.md 
+
+![](plots/regroupements/Q61716176-regroupement-superetendu.png) 
+
+Avertissements et édition : [logs](plots/regroupements/Q61716176.md) 
+
+### Université fédérale de Toulouse Midi-Pyrénées : Histoire.     Edition des données : https://github.com/cpesr/wikidataESR/blob/master/plots/regroupements/Q578023.md 
+
+
+Erreur : les données sont probablement trop partielles.
+```
+Error in wdesr_ggplot_graph(df, node_size = node_size, label_sizes = label_sizes, : Empty ESR graph: something went wrong with the graph production parameters
+
+``` 
+
+Avertissements et édition : [logs](plots/regroupements/Q578023.md) 
+
+### Université fédérale de Toulouse Midi-Pyrénées : Regroupement Court.     Edition des données : https://github.com/cpesr/wikidataESR/blob/master/plots/regroupements/Q578023.md 
+
+![](plots/regroupements/Q578023-regroupement-court.png) 
+
+Avertissements et édition : [logs](plots/regroupements/Q578023.md) 
+
+### Université fédérale de Toulouse Midi-Pyrénées : Regroupement Etendu.     Edition des données : https://github.com/cpesr/wikidataESR/blob/master/plots/regroupements/Q578023.md 
+
+![](plots/regroupements/Q578023-regroupement-etendu.png) 
+
+Avertissements et édition : [logs](plots/regroupements/Q578023.md) 
+
+### Université fédérale de Toulouse Midi-Pyrénées : Regroupement Superetendu.     Edition des données : https://github.com/cpesr/wikidataESR/blob/master/plots/regroupements/Q578023.md 
+
+![](plots/regroupements/Q578023-regroupement-superetendu.png) 
+
+Avertissements et édition : [logs](plots/regroupements/Q578023.md) 
+
+### Université Paris-Saclay : Histoire.     Edition des données : https://github.com/cpesr/wikidataESR/blob/master/plots/regroupements/Q109409389.md 
+
+![](plots/regroupements/Q109409389-histoire.png) 
+
+Avertissements et édition : [logs](plots/regroupements/Q109409389.md) 
+
+### Université Paris-Saclay : Regroupement Court.     Edition des données : https://github.com/cpesr/wikidataESR/blob/master/plots/regroupements/Q109409389.md 
+
+![](plots/regroupements/Q109409389-regroupement-court.png) 
+
+Avertissements et édition : [logs](plots/regroupements/Q109409389.md) 
+
+### Université Paris-Saclay : Regroupement Etendu.     Edition des données : https://github.com/cpesr/wikidataESR/blob/master/plots/regroupements/Q109409389.md 
+
+![](plots/regroupements/Q109409389-regroupement-etendu.png) 
+
+Avertissements et édition : [logs](plots/regroupements/Q109409389.md) 
+
+### Université Paris-Saclay : Regroupement Superetendu.     Edition des données : https://github.com/cpesr/wikidataESR/blob/master/plots/regroupements/Q109409389.md 
+
+![](plots/regroupements/Q109409389-regroupement-superetendu.png) 
+
+Avertissements et édition : [logs](plots/regroupements/Q109409389.md) 
 
 ## Histoire des universités historiques 
 
@@ -2737,50 +3006,4 @@ Avertissements et édition : [logs](plots/histoire/Q20808141.md)
 ![](plots/histoire/Q21592577-histoire.png) 
 
 Avertissements et édition : [logs](plots/histoire/Q21592577.md) 
-
-### Université Paris-Saclay @UnivParisSaclay : Histoire.     Edition des données : https://github.com/cpesr/wikidataESR/blob/master/plots/etablissements/Q109409389.md 
-
-![](plots/etablissements/Q109409389-histoire.png) 
-
-Avertissements et édition : [logs](plots/etablissements/Q109409389.md) 
-
-### Université Paris-Saclay @UnivParisSaclay : Composition.     Edition des données : https://github.com/cpesr/wikidataESR/blob/master/plots/etablissements/Q109409389.md 
-
-
-Erreur : les données sont probablement trop partielles.
-```
-Error in wdesr_ggplot_graph(df, node_size = node_size, label_sizes = label_sizes, : Empty ESR graph: something went wrong with the graph production parameters
-
-``` 
-
-Avertissements et édition : [logs](plots/etablissements/Q109409389.md) 
-
-### Université Paris-Saclay @UnivParisSaclay : Associations.     Edition des données : https://github.com/cpesr/wikidataESR/blob/master/plots/etablissements/Q109409389.md 
-
-![](plots/etablissements/Q109409389-associations.png) 
-
-Avertissements et édition : [logs](plots/etablissements/Q109409389.md) 
-
-### Université Paris-Saclay @UnivParisSaclay : Histoire.     Edition des données : https://github.com/cpesr/wikidataESR/blob/master/plots/etablissements/Q109409389.md 
-
-![](plots/etablissements/Q109409389-histoire.png) 
-
-Avertissements et édition : [logs](plots/etablissements/Q109409389.md) 
-
-### Université Paris-Saclay @UnivParisSaclay : Composition.     Edition des données : https://github.com/cpesr/wikidataESR/blob/master/plots/etablissements/Q109409389.md 
-
-
-Erreur : les données sont probablement trop partielles.
-```
-Error in wdesr_ggplot_graph(df, node_size = node_size, label_sizes = label_sizes, : Empty ESR graph: something went wrong with the graph production parameters
-
-``` 
-
-Avertissements et édition : [logs](plots/etablissements/Q109409389.md) 
-
-### Université Paris-Saclay @UnivParisSaclay : Associations.     Edition des données : https://github.com/cpesr/wikidataESR/blob/master/plots/etablissements/Q109409389.md 
-
-![](plots/etablissements/Q109409389-associations.png) 
-
-Avertissements et édition : [logs](plots/etablissements/Q109409389.md) 
 

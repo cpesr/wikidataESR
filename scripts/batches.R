@@ -146,10 +146,10 @@ etab <- read.csv2("fr-esr-principaux-etablissements-enseignement-superieur.csv")
     twitter = compte_twitter 
   ) %>%
   filter(wdid != "") %>%
-  bind_rows(data.frame(wdid = c("Q109409389"),
-                       alias=c("Université Paris-Saclay"),
-                       type=c("Université"), 
-                       twitter=c("@UnivParisSaclay") )) %>%
+  mutate(wdid = case_when(
+    wdid == "Q13531686" ~ "Q109409389", # Paris-Saclay,
+    TRUE ~ wdid
+  )) %>%
   filter(type %in% c("Université", "Grand établissement")) %>%
   nest_by(type) %>% 
   arrange(desc(type))
@@ -195,13 +195,24 @@ print_to_md("## Regroupements")
 # Lecture des id wikidata des racines pour les regroupements, puis plot.
 regroupements <- read.csv2("regroupements.csv")
 for(i in 1:nrow(regroupements)) {
-  plot_batch(regroupements[i,1],regroupements[i,2], "regroupement-court", "regroupements",
-             relations = c('composante','associé'), depth = 1)
-  plot_batch(regroupements[i,1],regroupements[i,2], "regroupement-etendu", "regroupements",
-             relations = c('composante','associé'), depth = 2,
+  wdid <- regroupements[i,1]
+  alias <- regroupements[i,2]
+  
+  plot_batch(wdid,alias, "histoire", "regroupements",
+             c('séparé_de', 'absorbé_par', 'prédécesseur'), depth=10,
+             node_label = "alias_date",
+             edge_label = TRUE)
+  
+  plot_batch(wdid,alias, "regroupement-court", "regroupements",
+             relations = c('composante','associé','affilié_à'), depth = 1,
              append_logfile = TRUE)
-  plot_batch(regroupements[i,1],regroupements[i,2], "regroupement-superetendu", "regroupements",
-             relations = c('composante','associé','prédécesseur'), depth = 3,
+  
+  plot_batch(wdid,alias, "regroupement-etendu", "regroupements",
+             relations = c('composante','associé','affilié_à'), depth = 2,
+             append_logfile = TRUE)
+  
+  plot_batch(wdid,alias, "regroupement-superetendu", "regroupements",
+             relations = c('composante','associé','affilié_à'), depth = 10,
              ggs.width = 16, ggs.heigth = 9,
              append_logfile = TRUE)
 }

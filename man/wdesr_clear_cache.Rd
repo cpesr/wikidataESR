@@ -19,14 +19,16 @@ wdesr_clear_cache()
 }
 \references{
 \itemize{
-\item \url{https://github.com/juliengossa/DataESR/tree/master/etablissements.esr/wikidataESR}
+\item \url{https://github.com/cpesr/wikidataESR}
 }
 }
 \seealso{
 \itemize{
+\item \code{\link{wdesr_clear_cache}}
 \item \code{\link{wdesr_get_cache}}
 \item \code{\link{wdesr_save_cache}}
 \item \code{\link{wdesr_load_cache}}
+\item \code{\link{wdesr_remove_from_cache}}
 }
 }
 \author{

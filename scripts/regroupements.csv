@@ -1,34 +1,33 @@
-"id";"alias"
-"Q16541346";"COMUE d'Aquitaine"
-"Q13344";"COMUE d'Aquitaine"
-"Q2944885";"COMUE Centre Val de Loire"
-"Q3359833";"Comue de Bourgogne Franche Comté"
-"Q20669873";"Comue de Toulouse"
-"Q19370961";"Comue UCA"
-"Q3551589";"Comue UGA"
-"Q3128622";"HESAM"
-"Q2476558";"Languedoc Roussillon Universités"
-"Q3343880";"Normandie Université"
-"Q61716197";"Picardie Universités"
-"Q1163431";"PSL"
-"Q61716176";"Site alsacien"
-"Q61716142";"Site AMPM"
-"Q61716216";"Site champenois"
-"Q3491149";"Sorbonne Paris Cité"
-"Q61716212";"Sorbonne Université"
-"Q21994834";"UBL"
-"Q61716190";"UCA"
-"Q10176";"UDL"
-"Q20735682";"Université confédérale Léonard-de-Vinci"
-"Q1322289";"Université de Lille"
-"Q64590454";"PRES Université de Lorraine"
-"Q61718100";"Association Université de Lorraine"
-"Q578023";"Université fédérale de Toulouse Midi-Pyrénées"
-"Q3551474";"université Paris Lumières"
-"Q3551472";"Université Paris-Est"
-"Q3248808";"PRES UniverSud Paris"
-"Q3247880";"Université Paris-Seine"
-"Q13531686";"COMUE Université Paris-Saclay"
-"Q850927";"Union des universités de la Méditerranée"
-"Q3491150";"Sorbonne Universités"
-"Q104621964";"COMUE Angers-Le Mans"
+"id";"alias";"type";"twitter"
+"Q61718100";"Association Université de Lorraine";"association";NA
+"Q61716197";"Picardie Universités";"association";NA
+"Q61716142";"Site AMPM";"association";NA
+"Q61716216";"Site champenois";"association";NA
+"Q61716212";"Sorbonne Université";"association";NA
+"Q61716190";"UCA";"association";NA
+"Q104621964";"COMUE Angers-Le Mans";"COMUE";NA
+"Q2944885";"COMUE Centre Val de Loire";"COMUE";NA
+"Q3359833";"COMUE de Bourgogne Franche Comté";"COMUE";NA
+"Q20669873";"COMUE de Toulouse";"COMUE";NA
+"Q19370961";"COMUE UCA";"COMUE";NA
+"Q3551589";"COMUE UGA";"COMUE";NA
+"Q13531686";"COMUE Université Paris-Saclay";"COMUE";NA
+"Q3128622";"HESAM";"COMUE";NA
+"Q2476558";"Languedoc Roussillon Universités";"COMUE";NA
+"Q3343880";"Normandie Université";"COMUE";NA
+"Q3491149";"Sorbonne Paris Cité";"COMUE";NA
+"Q3491150";"Sorbonne Universités";"COMUE";NA
+"Q21994834";"UBL";"COMUE";NA
+"Q10176";"UDL";"COMUE";NA
+"Q850927";"Union des universités de la Méditerranée";"COMUE";NA
+"Q20735682";"Université confédérale Léonard-de-Vinci";"COMUE";NA
+"Q1322289";"Université de Lille";"COMUE";NA
+"Q3551474";"université Paris Lumières";"COMUE";NA
+"Q3551472";"Université Paris-Est";"COMUE";NA
+"Q3247880";"Université Paris-Seine";"COMUE";NA
+"Q1163431";"PSL";"EPE";NA
+"Q64590454";"PRES Université de Lorraine";"PRES";NA
+"Q3248808";"PRES UniverSud Paris";"PRES";NA
+"Q61716176";"Site alsacien";"Regroupement universitaire";NA
+"Q578023";"Université fédérale de Toulouse Midi-Pyrénées";"université";NA
+"Q109409389";"Université Paris-Saclay";"Université";NA

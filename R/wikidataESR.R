@@ -193,7 +193,10 @@ wdesr_get_data <- function(wdids) {
 
   wdesr_load_items(wdids[! wdids %in% wdesr.cache$items$id])
 
-  return(dplyr::left_join(data.frame(id=wdids),wdesr.cache$items))
+  suppressMessages(
+    data <- dplyr::left_join(data.frame(id=wdids),wdesr.cache$items)
+  )
+  return(data)
 }
 
 
