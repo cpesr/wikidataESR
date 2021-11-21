@@ -3007,3 +3007,58 @@ Avertissements et édition : [logs](plots/histoire/Q20808141.md)
 
 Avertissements et édition : [logs](plots/histoire/Q21592577.md) 
 
+### Université Paris-Saclay : Regroupement Superetendu.     Edition des données : https://github.com/cpesr/wikidataESR/blob/master/plots/regroupements/Q109409389.md 
+
+
+Erreur : les données sont probablement trop partielles.
+```
+Error in cpesr_cap(): impossible de trouver la fonction "cpesr_cap"
+
+``` 
+
+Avertissements et édition : [logs](plots/regroupements/Q109409389.md) 
+
+### Université Paris-Saclay : Histoire.     Edition des données : https://github.com/cpesr/wikidataESR/blob/master/plots/regroupements/Q109409389.md 
+
+
+Erreur : les données sont probablement trop partielles.
+```
+Error in cpesr_cap(): impossible de trouver la fonction "cpesr_cap"
+
+``` 
+
+Avertissements et édition : [logs](plots/regroupements/Q109409389.md) 
+
+### Université Paris-Saclay : Regroupement Court.     Edition des données : https://github.com/cpesr/wikidataESR/blob/master/plots/regroupements/Q109409389.md 
+
+
+Erreur : les données sont probablement trop partielles.
+```
+Error in cpesr_cap(): impossible de trouver la fonction "cpesr_cap"
+
+``` 
+
+Avertissements et édition : [logs](plots/regroupements/Q109409389.md) 
+
+### Université Paris-Saclay : Regroupement Etendu.     Edition des données : https://github.com/cpesr/wikidataESR/blob/master/plots/regroupements/Q109409389.md 
+
+
+Erreur : les données sont probablement trop partielles.
+```
+Error in cpesr_cap(): impossible de trouver la fonction "cpesr_cap"
+
+``` 
+
+Avertissements et édition : [logs](plots/regroupements/Q109409389.md) 
+
+### Université Paris-Saclay : Regroupement Superetendu.     Edition des données : https://github.com/cpesr/wikidataESR/blob/master/plots/regroupements/Q109409389.md 
+
+
+Erreur : les données sont probablement trop partielles.
+```
+Error in cpesr_cap(): impossible de trouver la fonction "cpesr_cap"
+
+``` 
+
+Avertissements et édition : [logs](plots/regroupements/Q109409389.md) 
+

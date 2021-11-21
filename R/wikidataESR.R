@@ -211,7 +211,7 @@ wdesr_get_data <- function(wdids) {
 #' @param props The set of properties to follow.
 #' @param depth The depth of the graph (more or less) (default to 3).
 #' @param active_only TRUE to filter dissolved universities (default to FALSE).
-#' @param stop_at A list of type of nodes that must not be visited furthermore (default to c("EPST","EPIC","EPCA","Académie")).
+#' @param stop_at A list of type of nodes that must not be visited furthermore (default to c("EPST","EPIC","EPCA","Académie","agence publique")).
 #'
 #' @return A list of edges and vertices.
 #' @export
@@ -226,7 +226,8 @@ wdesr_get_data <- function(wdids) {
 #' - \url{https://www.wikidata.org}
 #' @seealso \code{\link{wdesr_clear_cache}}
 #' @author Julien Gossa, \email{gossa@unistra.fr}
-wdesr_get_graph <- function(wdid, props, depth = 3, active_only = FALSE, stop_at = c("EPST","EPIC","EPCA","Académie") ) {
+wdesr_get_graph <- function(wdid, props, depth = 3, active_only = FALSE, 
+                            stop_at = c("EPST","EPIC","EPCA","Académie","agence publique") ) {
 
   wgge <- new.env()
   wgge$edges <- data.frame(from=character(),to=character(),type=character(),stringsAsFactors = FALSE)
@@ -550,7 +551,7 @@ wdesr_load_and_plot <- function( wdid,
                                  plot_type      = 'ggplot',
                                  ...) {
 
-  df.g <<- wdesr_get_graph(wdid,props,depth,active_only)
+  df.g <- wdesr_get_graph(wdid,props,depth,active_only)
 
   if(plot_type == 'plotly') {
     wdesr_ggplotly_graph(df.g)
