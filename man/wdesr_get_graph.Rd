@@ -9,7 +9,7 @@ wdesr_get_graph(
   props,
   depth = 3,
   active_only = FALSE,
-  stop_at = c("EPST", "EPIC", "EPCA", "Académie")
+  stop_at = c("EPST", "EPIC", "EPCA", "Académie", "agence publique")
 )
 }
 \arguments{
@@ -21,7 +21,7 @@ wdesr_get_graph(
 
 \item{active_only}{TRUE to filter dissolved universities (default to FALSE).}
 
-\item{stop_at}{A list of type of nodes that must not be visited furthermore (default to c("EPST","EPIC","EPCA","Académie")).}
+\item{stop_at}{A list of type of nodes that must not be visited furthermore (default to c("EPST","EPIC","EPCA","Académie","agence publique")).}
 }
 \value{
 A list of edges and vertices.

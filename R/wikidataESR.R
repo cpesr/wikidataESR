@@ -333,6 +333,7 @@ wdesr_get_subgraph <- function(wgge, wdid, props, depth = 3, active_only = FALSE
 #' @param label The label of the item.
 #' @param fondation The foundation date of the item.
 #' @param dissolution The dissolution date of the item.
+#' @param wrap The number of characters to wrap by line (default to 20)
 #'
 #' @return a label for a node, as a string
 #'
@@ -343,16 +344,16 @@ wdesr_get_subgraph <- function(wgge, wdid, props, depth = 3, active_only = FALSE
 #' @seealso \code{\link{wdesr_clear_cache}}
 #' @author Julien Gossa, \email{gossa@unistra.fr}
 #' @noRd
-wdesr_node_label_aes <- function(node_label = "alias", alias, label, fondation, dissolution) {
+wdesr_node_label_aes <- function(node_label = "alias", alias, label, fondation, dissolution, wrap = 20) {
   switch(node_label,
          alias = {
-           alias},
+           stringr::str_wrap(alias,wrap)},
          alias_date = {
-           paste0(alias,'\n',fondation,'-',dissolution) },
+           paste0(stringr::str_wrap(alias,wrap),'\n',fondation,'-',dissolution) },
          long = {
-           label},
+           stringr::str_wrap(label,wrap)},
          long_date = {
-           paste0(label,"\n",fondation,'-',dissolution) },
+           paste0(stringr::str_wrap(label,wrap),"\n",fondation,'-',dissolution) },
          ""
   )
 }
@@ -394,7 +395,8 @@ distance2weight <- function(d) {
 #' A wrapper for ggplot2 to plot graph as returned by \code{\link{wdesr_get_graph}}.
 #'
 #' @param df.g A data representing a graph, as returned by wdesr_get_graph.
-#' @param active_only TRUE to filter the dissolved nodes (default to FALSE).
+#' @param layout The layout to use in the graph computing
+#' @param size A multiplier of all of the other sizes (default to 1.0)
 #' @param node_sizes The size of the nodes, either a single value or a range c(min,max).
 #' @param label_sizes The size of the nodes, either a single value or a range c(min,max).
 #' @param node_label Define the label for the nodess. Either "alias", "alias_date", "long", or "long_date" (default to "alias").
@@ -405,7 +407,8 @@ distance2weight <- function(d) {
 #' @param size_guide TRUE to plot the guide for sizes (default to "FALSE").
 #' @param legend_position The position of the legend, "none" to remove (default to "right").
 #' @param margin_x The horizontal margins, useful for big nodes (defautl to 0.2).
-#' @param margin_y The vertical margins, useful for long node texts (defautl to 0.03).
+#' @param margin_y The vertical margins, useful for long node texts (default to 0.03).
+#' @param label_wrap The number of charaters to wrap labels (default to 20).
 #'
 #' @return A ggplot2.
 #' @export
@@ -425,7 +428,7 @@ distance2weight <- function(d) {
 
 wdesr_ggplot_graph <- function( df.g,
                                 layout = igraph::with_kk,
-                                active_only = FALSE,
+                                size = 1.0,
                                 node_sizes = c(10,30),
                                 label_sizes = c(4,6),
                                 node_label = "alias",
@@ -436,12 +439,18 @@ wdesr_ggplot_graph <- function( df.g,
                                 size_guide = "none",
                                 legend_position = "right",
                                 margin_x = 0.2,
-                                margin_y = 0.03) {
+                                margin_y = 0.03,
+                                label_wrap = 20) {
 
   if( nrow(df.g$vertices) == 0 | nrow(df.g$edges) == 0 ) {
     stop("Empty ESR graph: something went wrong with the graph production parameters")
   }
-
+  
+  node_sizes <- node_sizes * size
+  label_sizes <- label_sizes * size
+  margin_x <- margin_x * size
+  margin_y <- margin_y * size
+  
   statuts <- unique(c(wdesr.statuts$libellé,df.g$vertices$statut))
   statuts_colors <- setNames(
     colorRampPalette(RColorBrewer::brewer.pal(n=8, name="Accent"))(length(statuts)),
@@ -479,13 +488,14 @@ wdesr_ggplot_graph <- function( df.g,
   ggnet.nodes <- ggnet %>% select(name,niveau) %>% unique()
   #g <- g + geom_nodelabel(label=as.character(seq(1,7)), size=10) 
   g <- g + geom_node_fun(aes(
-    label = wdesr_node_label_aes(node_label,alias,label,fondation,dissolution),
+    label = wdesr_node_label_aes(node_label,alias,label,fondation,dissolution, label_wrap),
     fill = statut),
-    size = scales::rescale(-ggnet.nodes$niveau,label_sizes,range(-wdesr.niveaux$niveau))
+    size = scales::rescale(-ggnet.nodes$niveau,label_sizes,range(-wdesr.niveaux$niveau)),
+    lineheight = .6
     )
   g <- g + coord_cartesian(clip="off") 
   g <- g + scale_alpha_manual(labels=c("dissous","actif"), values = (c(0.8,1)), name='statut')
-  g <- g + scale_color_manual(values = c("grey30","white"))
+  g <- g + scale_color_manual(values = c("white","black")) #grey30
   g <- g + scale_fill_manual(values = statuts_colors)
   g <- g + scale_size_continuous(breaks=wdesr.niveaux$niveau,
                                  limits=range(wdesr.niveaux$niveau),
@@ -494,7 +504,9 @@ wdesr_ggplot_graph <- function( df.g,
                                  name="niveau",
                                  guide=size_guide)
   g <- g + xlim(-margin_x,1+margin_x) + ylim(-margin_y,1+margin_y)
-  g <- g + theme_blank() + theme(legend.position=legend_position)
+  g <- g + theme_blank() + theme(legend.position=legend_position) +
+    guides( fill = guide_legend(override.aes = list(size=5, color="white")) )
+           
 
   return(g)
 }

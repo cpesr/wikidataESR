@@ -7,7 +7,7 @@
 wdesr_ggplot_graph(
   df.g,
   layout = igraph::with_kk,
-  active_only = FALSE,
+  size = 1,
   node_sizes = c(10, 30),
   label_sizes = c(4, 6),
   node_label = "alias",
@@ -18,13 +18,16 @@ wdesr_ggplot_graph(
   size_guide = "none",
   legend_position = "right",
   margin_x = 0.2,
-  margin_y = 0.03
+  margin_y = 0.03,
+  label_wrap = 20
 )
 }
 \arguments{
 \item{df.g}{A data representing a graph, as returned by wdesr_get_graph.}
 
-\item{active_only}{TRUE to filter the dissolved nodes (default to FALSE).}
+\item{layout}{The layout to use in the graph computing}
+
+\item{size}{A multiplier of all of the other sizes (default to 1.0)}
 
 \item{node_sizes}{The size of the nodes, either a single value or a range c(min,max).}
 
@@ -46,7 +49,9 @@ wdesr_ggplot_graph(
 
 \item{margin_x}{The horizontal margins, useful for big nodes (defautl to 0.2).}
 
-\item{margin_y}{The vertical margins, useful for long node texts (defautl to 0.03).}
+\item{margin_y}{The vertical margins, useful for long node texts (default to 0.03).}
+
+\item{label_wrap}{The number of charaters to wrap labels (default to 20).}
 }
 \value{
 A ggplot2.
