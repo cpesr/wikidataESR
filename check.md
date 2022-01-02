@@ -3,7 +3,7 @@ Batches de représentation wikidataESR
 
  
 
-18/11/2021 
+30/12/2021 
 
 https://github.com/cpesr/WikidataESR 
 
@@ -122,7 +122,12 @@ Avertissements et édition : [logs](plots/etablissements/Q661056.md)
 
 ### Université de Poitiers @UnivPoitiers : Associations.     Edition des données : https://github.com/cpesr/wikidataESR/blob/master/plots/etablissements/Q661056.md 
 
-![](plots/etablissements/Q661056-associations.png) 
+
+Erreur : les données sont probablement trop partielles.
+```
+Error in wdesr_ggplot_graph(df, node_size = node_size, label_sizes = label_sizes, : Empty ESR graph: something went wrong with the graph production parameters
+
+``` 
 
 Avertissements et édition : [logs](plots/etablissements/Q661056.md) 
 
@@ -186,7 +191,12 @@ Avertissements et édition : [logs](plots/etablissements/Q1500822.md)
 
 ### La Rochelle Université @UnivLaRochelle : Associations.     Edition des données : https://github.com/cpesr/wikidataESR/blob/master/plots/etablissements/Q1500822.md 
 
-![](plots/etablissements/Q1500822-associations.png) 
+
+Erreur : les données sont probablement trop partielles.
+```
+Error in wdesr_ggplot_graph(df, node_size = node_size, label_sizes = label_sizes, : Empty ESR graph: something went wrong with the graph production parameters
+
+``` 
 
 Avertissements et édition : [logs](plots/etablissements/Q1500822.md) 
 
@@ -345,12 +355,7 @@ Avertissements et édition : [logs](plots/etablissements/Q55849612.md)
 
 ### Université de Paris @Univ_Paris : Associations.     Edition des données : https://github.com/cpesr/wikidataESR/blob/master/plots/etablissements/Q55849612.md 
 
-
-Erreur : les données sont probablement trop partielles.
-```
-Error in wdesr_ggplot_graph(df, node_size = node_size, label_sizes = label_sizes, : Empty ESR graph: something went wrong with the graph production parameters
-
-``` 
+![](plots/etablissements/Q55849612-associations.png) 
 
 Avertissements et édition : [logs](plots/etablissements/Q55849612.md) 
 
@@ -483,7 +488,12 @@ Avertissements et édition : [logs](plots/etablissements/Q13334.md)
 
 ### Université d'Orléans @Univ_Orleans : Associations.     Edition des données : https://github.com/cpesr/wikidataESR/blob/master/plots/etablissements/Q13334.md 
 
-![](plots/etablissements/Q13334-associations.png) 
+
+Erreur : les données sont probablement trop partielles.
+```
+Error in wdesr_ggplot_graph(df, node_size = node_size, label_sizes = label_sizes, : Empty ESR graph: something went wrong with the graph production parameters
+
+``` 
 
 Avertissements et édition : [logs](plots/etablissements/Q13334.md) 
 
@@ -506,7 +516,12 @@ Avertissements et édition : [logs](plots/etablissements/Q74452784.md)
 
 ### CY Cergy Paris Université @UniversiteCergy : Associations.     Edition des données : https://github.com/cpesr/wikidataESR/blob/master/plots/etablissements/Q74452784.md 
 
-![](plots/etablissements/Q74452784-associations.png) 
+
+Erreur : les données sont probablement trop partielles.
+```
+Error in wdesr_load_item(wdid): Redirection Q84697990 -> Q3578029
+
+``` 
 
 Avertissements et édition : [logs](plots/etablissements/Q74452784.md) 
 
@@ -1160,7 +1175,12 @@ Avertissements et édition : [logs](plots/etablissements/Q2661290.md)
 
 ### Université de Limoges @unilim : Associations.     Edition des données : https://github.com/cpesr/wikidataESR/blob/master/plots/etablissements/Q2661290.md 
 
-![](plots/etablissements/Q2661290-associations.png) 
+
+Erreur : les données sont probablement trop partielles.
+```
+Error in wdesr_ggplot_graph(df, node_size = node_size, label_sizes = label_sizes, : Empty ESR graph: something went wrong with the graph production parameters
+
+``` 
 
 Avertissements et édition : [logs](plots/etablissements/Q2661290.md) 
 
@@ -1723,7 +1743,12 @@ Avertissements et édition : [logs](plots/etablissements/Q974394.md)
 
 ### École navale @Ecole_navale : Associations.     Edition des données : https://github.com/cpesr/wikidataESR/blob/master/plots/etablissements/Q974394.md 
 
-![](plots/etablissements/Q974394-associations.png) 
+
+Erreur : les données sont probablement trop partielles.
+```
+Error in query(url, "pcontent", clean_response, query_param = query_param, : The API returned an error: missingtitle - The page you specified doesn't exist.
+
+``` 
 
 Avertissements et édition : [logs](plots/etablissements/Q974394.md) 
 
@@ -2538,7 +2563,12 @@ Avertissements et édition : [logs](plots/regroupements/Q3491150.md)
 
 ### Sorbonne Universités : Regroupement Superetendu.     Edition des données : https://github.com/cpesr/wikidataESR/blob/master/plots/regroupements/Q3491150.md 
 
-![](plots/regroupements/Q3491150-regroupement-superetendu.png) 
+
+Erreur : les données sont probablement trop partielles.
+```
+Error in query(url, "pcontent", clean_response, query_param = query_param, : The API returned an error: missingtitle - The page you specified doesn't exist.
+
+``` 
 
 Avertissements et édition : [logs](plots/regroupements/Q3491150.md) 
 
@@ -3006,59 +3036,4 @@ Avertissements et édition : [logs](plots/histoire/Q20808141.md)
 ![](plots/histoire/Q21592577-histoire.png) 
 
 Avertissements et édition : [logs](plots/histoire/Q21592577.md) 
-
-### Université Paris-Saclay : Regroupement Superetendu.     Edition des données : https://github.com/cpesr/wikidataESR/blob/master/plots/regroupements/Q109409389.md 
-
-
-Erreur : les données sont probablement trop partielles.
-```
-Error in cpesr_cap(): impossible de trouver la fonction "cpesr_cap"
-
-``` 
-
-Avertissements et édition : [logs](plots/regroupements/Q109409389.md) 
-
-### Université Paris-Saclay : Histoire.     Edition des données : https://github.com/cpesr/wikidataESR/blob/master/plots/regroupements/Q109409389.md 
-
-
-Erreur : les données sont probablement trop partielles.
-```
-Error in cpesr_cap(): impossible de trouver la fonction "cpesr_cap"
-
-``` 
-
-Avertissements et édition : [logs](plots/regroupements/Q109409389.md) 
-
-### Université Paris-Saclay : Regroupement Court.     Edition des données : https://github.com/cpesr/wikidataESR/blob/master/plots/regroupements/Q109409389.md 
-
-
-Erreur : les données sont probablement trop partielles.
-```
-Error in cpesr_cap(): impossible de trouver la fonction "cpesr_cap"
-
-``` 
-
-Avertissements et édition : [logs](plots/regroupements/Q109409389.md) 
-
-### Université Paris-Saclay : Regroupement Etendu.     Edition des données : https://github.com/cpesr/wikidataESR/blob/master/plots/regroupements/Q109409389.md 
-
-
-Erreur : les données sont probablement trop partielles.
-```
-Error in cpesr_cap(): impossible de trouver la fonction "cpesr_cap"
-
-``` 
-
-Avertissements et édition : [logs](plots/regroupements/Q109409389.md) 
-
-### Université Paris-Saclay : Regroupement Superetendu.     Edition des données : https://github.com/cpesr/wikidataESR/blob/master/plots/regroupements/Q109409389.md 
-
-
-Erreur : les données sont probablement trop partielles.
-```
-Error in cpesr_cap(): impossible de trouver la fonction "cpesr_cap"
-
-``` 
-
-Avertissements et édition : [logs](plots/regroupements/Q109409389.md) 
 

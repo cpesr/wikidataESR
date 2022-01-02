@@ -8,6 +8,8 @@ export(wdesr_load_cache)
 export(wdesr_save_cache)
 export(wdesr_clear_cache)
 export(wdesr_remove_from_cache)
+export(wdesr_log_warnings_vertices)
+export(wdesr_log_warnings_edges)
 export(wdesr_log_warnings)
 
 import(dplyr)

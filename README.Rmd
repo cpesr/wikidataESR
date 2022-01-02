@@ -5,12 +5,17 @@ date: "`r format(Sys.time(), '%d/%m/%Y')`"
 output:  github_document
 ---
 
-Des visualisations de contrôles sont disponible ici : 
+Des visualisations de contrôles pour de nombres établissement de l'ESR sont disponibles ici : 
 [check](check.md)
 
 # Guide de style pour les données wikidata
 
 ```{r child = 'Rmd/guideline.Rmd'}
+```
+
+# Manuel d'édition
+
+```{r child = 'Rmd/edition.Rmd'}
 ```
 
 # Tutorial pour la librairie R 

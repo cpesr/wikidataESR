@@ -2,7 +2,7 @@
 % Please edit documentation in R/wikidataESR.R
 \name{wdesr_log_warnings}
 \alias{wdesr_log_warnings}
-\title{Write warnings to a log file}
+\title{Output warnings in kable format}
 \usage{
 wdesr_log_warnings(df.g, kableformat = "pipe")
 }
@@ -15,7 +15,7 @@ wdesr_log_warnings(df.g, kableformat = "pipe")
 A string describing the warnings
 }
 \description{
-Write warnings to a log file
+Output warnings in kable format
 }
 \examples{
 wdesr_log_warnings(df, "warnings.md")

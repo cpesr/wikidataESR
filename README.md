@@ -1,9 +1,10 @@
 Tenter d’y voir clair dans l’ESR : tutorial R/WikidataESR
 ================
 Julien Gossa
-11/11/2021
+02/01/2022
 
-Des visualisations de contrôles sont disponible ici : [check](check.md)
+Des visualisations de contrôles pour de nombres établissement de l’ESR
+sont disponibles ici : [check](check.md)
 
 # Guide de style pour les données wikidata
 
@@ -90,7 +91,7 @@ informations :
 | [P355](https://www.wikidata.org/wiki/Property:P355)   | organisation filiale | composante    | lien de subordination vertical: avec hiérarchie et dépendance politique ou financière accrue                                                                                | [date de début](https://www.wikidata.org/wiki/Property:P580) [date de fin](https://www.wikidata.org/wiki/Property:P582) |
 | [P749](https://www.wikidata.org/wiki/Property:P749)   | organisation mère    | composante de | inverse de composante                                                                                                                                                       | [date de début](https://www.wikidata.org/wiki/Property:P580) [date de fin](https://www.wikidata.org/wiki/Property:P582) |
 | [P1365](https://www.wikidata.org/wiki/Property:P1365) | remplace             | prédécesseur  | marque un changement de statut                                                                                                                                              | [date](https://www.wikidata.org/wiki/Property:P585)                                                                     |
-| [P1366](https://www.wikidata.org/wiki/Property:P1366) | remplacé par         | successeur    | inverse de prédécesseur                                                                                                                                                     |                                                                                                                         |
+| [P1366](https://www.wikidata.org/wiki/Property:P1366) | remplacé par         | successeur    | inverse de prédécesseur                                                                                                                                                     | [date](https://www.wikidata.org/wiki/Property:P585)                                                                     |
 | [P807](https://www.wikidata.org/wiki/Property:P807)   | séparé de            |               | marque une séparation, lorsqu’un établissement nouveau est créé à partir d’une partie d’un autre, qui continue d’exister (doit être renseigné dans les deux établissements) | [date](https://www.wikidata.org/wiki/Property:P585)                                                                     |
 | [P7888](https://www.wikidata.org/wiki/Property:P7888) | fusionné dans        | absorbé par   | marque une absorbtion, lorsqu’un établissement est dissout et fusionné dans un autre qui existait auparavant (doit être renseigné dans les deux établissements)             | [date](https://www.wikidata.org/wiki/Property:P585)                                                                     |
 | [P1416](https://www.wikidata.org/wiki/Property:P1416) | affilié à            |               | pour le lien avec les organismes nationnaux (tutelles, EPIC, ONR, rectorat, etc.)                                                                                           | [date de début](https://www.wikidata.org/wiki/Property:P580) [date de fin](https://www.wikidata.org/wiki/Property:P582) |
@@ -164,82 +165,87 @@ librairie [R/wikidataESR](wikidataESR).
 
 ### Liste des statuts recommandés
 
-|     | wikidata.id                                          | libellé                     | niveau | note                                   | wikipedia                                                                                                                    |
-|:----|:-----------------------------------------------------|:----------------------------|-------:|:---------------------------------------|:-----------------------------------------------------------------------------------------------------------------------------|
-| 1   | [Q13582798](https://www.wikidata.org/wiki/Q13582798) | EPST                        |      1 |                                        | [ref](https://fr.wikipedia.org/wiki/%C3%89tablissement_public_%C3%A0_caract%C3%A8re_scientifique_et_technologique)           |
-| 2   | [Q3244038](https://www.wikidata.org/wiki/Q3244038)   | EPCA                        |      1 |                                        | [ref](https://fr.wikipedia.org/wiki/%C3%89tablissement_public_%C3%A0_caract%C3%A8re_administratif_en_France)                 |
-| 3   | [Q3591583](https://www.wikidata.org/wiki/Q3591583)   | EPIC                        |      1 |                                        | [ref](https://fr.wikipedia.org/wiki/%C3%89tablissement_public_%C3%A0_caract%C3%A8re_industriel_et_commercial_en_France)      |
-| 4   | [Q61612084](https://www.wikidata.org/wiki/Q61612084) | PRES                        |      2 |                                        | [ref](https://fr.wikipedia.org/wiki/Regroupement_universitaire)                                                              |
-| 5   | [Q15974764](https://www.wikidata.org/wiki/Q15974764) | COMUE                       |      2 |                                        | [ref](https://fr.wikipedia.org/wiki/Communaut%C3%A9_d%27universit%C3%A9s_et_%C3%A9tablissements)                             |
-| 6   | [Q65963615](https://www.wikidata.org/wiki/Q65963615) | EPE                         |      2 |                                        | [ref](https://fr.wikipedia.org/wiki/Regroupement_universitaire)                                                              |
-| 7   | [Q3412198](https://www.wikidata.org/wiki/Q3412198)   | Regroupement universitaire  |      2 | Pour les autres regroupements          | [ref](https://fr.wikipedia.org/wiki/Regroupement_universitaire)                                                              |
-| 8   | [Q2822246](https://www.wikidata.org/wiki/Q2822246)   | Académie                    |      2 |                                        | [ref](https://fr.wikipedia.org/wiki/Acad%C3%A9mie_(%C3%A9ducation_en_France))                                                |
-| 9   | [Q3551775](https://www.wikidata.org/wiki/Q3551775)   | Université (EPSCP)          |      3 |                                        | [ref](https://fr.wikipedia.org/wiki/%C3%89tablissement_public_%C3%A0_caract%C3%A8re_scientifique,_culturel_et_professionnel) |
-| 10  | [Q1542938](https://www.wikidata.org/wiki/Q1542938)   | Grand Établissement         |      3 |                                        | [ref](https://fr.wikipedia.org/wiki/Grand_%C3%A9tablissement)                                                                |
-| 11  | [Q3591586](https://www.wikidata.org/wiki/Q3591586)   | EPSCP                       |      3 |                                        | [ref](https://fr.wikipedia.org/wiki/%C3%89tablissement_public_%C3%A0_caract%C3%A8re_scientifique,_culturel_et_professionnel) |
-| 12  | [Q135436](https://www.wikidata.org/wiki/Q135436)     | École normale supérieure    |      3 |                                        | [ref](https://fr.wikipedia.org/wiki/%C3%89cole_normale_sup%C3%A9rieure_(France))                                             |
-| 13  | [Q3457065](https://www.wikidata.org/wiki/Q3457065)   | réseau universitaire        |      4 | Pour les réseaux, type EUA ou COUPERIN |                                                                                                                              |
-| 14  | [Q6542557](https://www.wikidata.org/wiki/Q6542557)   | consortium de bibliothèques |      4 | Pour les réseaux de bibliothèques      |                                                                                                                              |
-| 15  | [Q1059324](https://www.wikidata.org/wiki/Q1059324)   | CHU                         |      4 |                                        | [ref](https://fr.wikipedia.org/wiki/Centre_hospitalier_universitaire)                                                        |
-| 16  | [Q3152659](https://www.wikidata.org/wiki/Q3152659)   | IUT                         |      4 |                                        | [ref](https://fr.wikipedia.org/wiki/Institut_universitaire_de_technologie)                                                   |
-| 17  | [Q1475041](https://www.wikidata.org/wiki/Q1475041)   | IEP                         |      4 |                                        | [ref](https://fr.wikipedia.org/wiki/Institut_d%27%C3%A9tudes_politiques)                                                     |
-| 18  | [Q3578562](https://www.wikidata.org/wiki/Q3578562)   | ESPÉ                        |      4 |                                        | [ref](https://fr.wikipedia.org/wiki/%C3%89cole_sup%C3%A9rieure_du_professorat_et_de_l%27%C3%A9ducation)                      |
-| 19  | [Q184644](https://www.wikidata.org/wiki/Q184644)     | école supérieure de musique |      4 |                                        | [ref](https://fr.wikipedia.org/wiki/%C3%89cole_sup%C3%A9rieure_de_musique)                                                   |
-| 20  | [Q1143635](https://www.wikidata.org/wiki/Q1143635)   | école de commerce           |      4 |                                        | [ref](https://fr.wikipedia.org/wiki/%C3%89cole_de_commerce)                                                                  |
-| 21  | [Q383092](https://www.wikidata.org/wiki/Q383092)     | école d’art                 |      4 |                                        | [ref](https://fr.wikipedia.org/wiki/%C3%89cole_d%27art)                                                                      |
-| 22  | [Q479716](https://www.wikidata.org/wiki/Q479716)     | presse universitaire        |      4 |                                        |                                                                                                                              |
-| 23  | [Q3550864](https://www.wikidata.org/wiki/Q3550864)   | UMR                         |      5 |                                        | [ref](https://fr.wikipedia.org/wiki/Unit%C3%A9_mixte_de_recherche)                                                           |
-| 24  | [Q43371084](https://www.wikidata.org/wiki/Q43371084) | UPR                         |      5 |                                        | [ref](https://fr.wikipedia.org/wiki/Centre_national_de_la_recherche_scientifique)                                            |
-| 25  | [Q3550863](https://www.wikidata.org/wiki/Q3550863)   | UMS                         |      5 |                                        | [ref](https://fr.wikipedia.org/wiki/Unit%C3%A9_mixte_de_service)                                                             |
-| 26  | [Q43371093](https://www.wikidata.org/wiki/Q43371093) | FRE                         |      5 |                                        | [ref](https://fr.wikipedia.org/wiki/Centre_national_de_la_recherche_scientifique)                                            |
-| 27  | [Q3550804](https://www.wikidata.org/wiki/Q3550804)   | UFR                         |      5 |                                        | [ref](https://fr.wikipedia.org/wiki/Unit%C3%A9_de_formation_et_de_recherche)                                                 |
-| 28  | [Q13220391](https://www.wikidata.org/wiki/Q13220391) | école doctorale             |      5 |                                        |                                                                                                                              |
-| 29  | [Q57314035](https://www.wikidata.org/wiki/Q57314035) | faculté de médecine         |      5 |                                        |                                                                                                                              |
-| 30  | [Q856234](https://www.wikidata.org/wiki/Q856234)     | bibliothèque universitaire  |      5 |                                        |                                                                                                                              |
-| 31  | [Q180958](https://www.wikidata.org/wiki/Q180958)     | composante                  |      5 | A défaut de plus précis                | [ref](https://fr.wikipedia.org/wiki/Universit%C3%A9_en_France#Composantes)                                                   |
-| 32  | [Q1254933](https://www.wikidata.org/wiki/Q1254933)   | observatoire astronomique   |      6 |                                        |                                                                                                                              |
-| 33  | [Q1298668](https://www.wikidata.org/wiki/Q1298668)   | projet de recherche         |      6 |                                        |                                                                                                                              |
-| 65  | [Q22806](https://www.wikidata.org/wiki/Q22806)       | bibliothèque nationale      |      5 |                                        |                                                                                                                              |
+| wikidata.id                                            | libellé                     | niveau | note | wikipedia                                                                                                                    |
+|:-------------------------------------------------------|:----------------------------|-------:|:-----|:-----------------------------------------------------------------------------------------------------------------------------|
+| [Q13582798](https://www.wikidata.org/wiki/Q13582798)   | EPST                        |      1 | NA   | [ref](https://fr.wikipedia.org/wiki/%C3%89tablissement_public_%C3%A0_caract%C3%A8re_scientifique_et_technologique)           |
+| [Q3244038](https://www.wikidata.org/wiki/Q3244038)     | EPCA                        |      1 | NA   | [ref](https://fr.wikipedia.org/wiki/%C3%89tablissement_public_%C3%A0_caract%C3%A8re_administratif_en_France)                 |
+| [Q3591583](https://www.wikidata.org/wiki/Q3591583)     | EPIC                        |      1 | NA   | [ref](https://fr.wikipedia.org/wiki/%C3%89tablissement_public_%C3%A0_caract%C3%A8re_industriel_et_commercial_en_France)      |
+| [Q61612084](https://www.wikidata.org/wiki/Q61612084)   | PRES                        |      2 | NA   | [ref](https://fr.wikipedia.org/wiki/Regroupement_universitaire)                                                              |
+| [Q15974764](https://www.wikidata.org/wiki/Q15974764)   | COMUE                       |      2 | NA   | [ref](https://fr.wikipedia.org/wiki/Communaut%C3%A9_d%27universit%C3%A9s_et_%C3%A9tablissements)                             |
+| [Q77979904](https://www.wikidata.org/wiki/Q77979904)   | EPE                         |      2 | NA   | [ref](https://fr.wikipedia.org/wiki/Regroupement_universitaire)                                                              |
+| [Q3412198](https://www.wikidata.org/wiki/Q3412198)     | Regroupement universitaire  |      2 | NA   | [ref](https://fr.wikipedia.org/wiki/Regroupement_universitaire)                                                              |
+| [Q2822246](https://www.wikidata.org/wiki/Q2822246)     | Académie                    |      2 | NA   | [ref](https://fr.wikipedia.org/wiki/Acad%C3%A9mie_(%C3%A9ducation_en_France))                                                |
+| [Q3551775](https://www.wikidata.org/wiki/Q3551775)     | Université (EPSCP)          |      3 | NA   | [ref](https://fr.wikipedia.org/wiki/%C3%89tablissement_public_%C3%A0_caract%C3%A8re_scientifique,_culturel_et_professionnel) |
+| [Q1542938](https://www.wikidata.org/wiki/Q1542938)     | Grand Établissement         |      3 | NA   | [ref](https://fr.wikipedia.org/wiki/Grand_%C3%A9tablissement)                                                                |
+| [Q3591586](https://www.wikidata.org/wiki/Q3591586)     | EPSCP                       |      3 | NA   | [ref](https://fr.wikipedia.org/wiki/%C3%89tablissement_public_%C3%A0_caract%C3%A8re_scientifique,_culturel_et_professionnel) |
+| [Q135436](https://www.wikidata.org/wiki/Q135436)       | École normale supérieure    |      3 | NA   | [ref](https://fr.wikipedia.org/wiki/%C3%89cole_normale_sup%C3%A9rieure_(France))                                             |
+| [Q3457065](https://www.wikidata.org/wiki/Q3457065)     | réseau universitaire        |      4 | NA   | [ref](NA)                                                                                                                    |
+| [Q6542557](https://www.wikidata.org/wiki/Q6542557)     | consortium de bibliothèques |      4 | NA   | [ref](NA)                                                                                                                    |
+| [Q1059324](https://www.wikidata.org/wiki/Q1059324)     | CHU                         |      4 | NA   | [ref](https://fr.wikipedia.org/wiki/Centre_hospitalier_universitaire)                                                        |
+| [Q3152659](https://www.wikidata.org/wiki/Q3152659)     | IUT                         |      4 | NA   | [ref](https://fr.wikipedia.org/wiki/Institut_universitaire_de_technologie)                                                   |
+| [Q1475041](https://www.wikidata.org/wiki/Q1475041)     | IEP                         |      4 | NA   | [ref](https://fr.wikipedia.org/wiki/Institut_d%27%C3%A9tudes_politiques)                                                     |
+| [Q3578562](https://www.wikidata.org/wiki/Q3578562)     | ESPÉ                        |      4 | NA   | [ref](https://fr.wikipedia.org/wiki/%C3%89cole_sup%C3%A9rieure_du_professorat_et_de_l%27%C3%A9ducation)                      |
+| [Q184644](https://www.wikidata.org/wiki/Q184644)       | école supérieure de musique |      4 | NA   | [ref](https://fr.wikipedia.org/wiki/%C3%89cole_sup%C3%A9rieure_de_musique)                                                   |
+| [Q1143635](https://www.wikidata.org/wiki/Q1143635)     | école de commerce           |      4 | NA   | [ref](https://fr.wikipedia.org/wiki/%C3%89cole_de_commerce)                                                                  |
+| [Q383092](https://www.wikidata.org/wiki/Q383092)       | école d’art                 |      4 | NA   | [ref](https://fr.wikipedia.org/wiki/%C3%89cole_d%27art)                                                                      |
+| [Q479716](https://www.wikidata.org/wiki/Q479716)       | presse universitaire        |      4 | NA   | [ref](NA)                                                                                                                    |
+| [Q3550864](https://www.wikidata.org/wiki/Q3550864)     | UMR                         |      5 | NA   | [ref](https://fr.wikipedia.org/wiki/Unit%C3%A9_mixte_de_recherche)                                                           |
+| [Q43371084](https://www.wikidata.org/wiki/Q43371084)   | UPR                         |      5 | NA   | [ref](https://fr.wikipedia.org/wiki/Centre_national_de_la_recherche_scientifique)                                            |
+| [Q3550863](https://www.wikidata.org/wiki/Q3550863)     | UMS                         |      5 | NA   | [ref](https://fr.wikipedia.org/wiki/Unit%C3%A9_mixte_de_service)                                                             |
+| [Q43371093](https://www.wikidata.org/wiki/Q43371093)   | FRE                         |      5 | NA   | [ref](https://fr.wikipedia.org/wiki/Centre_national_de_la_recherche_scientifique)                                            |
+| [Q109584561](https://www.wikidata.org/wiki/Q109584561) | USC                         |      5 | NA   | [ref](https://fr.wikipedia.org/wiki/Laboratoire_de_recherche)                                                                |
+| [Q3279950](https://www.wikidata.org/wiki/Q3279950)     | MSH                         |      5 | NA   | [ref](https://fr.wikipedia.org/wiki/Maison_des_Sciences_de_l%27Homme)                                                        |
+| [Q3550804](https://www.wikidata.org/wiki/Q3550804)     | UFR                         |      5 | NA   | [ref](https://fr.wikipedia.org/wiki/Unit%C3%A9_de_formation_et_de_recherche)                                                 |
+| [Q13220391](https://www.wikidata.org/wiki/Q13220391)   | école doctorale             |      5 | NA   | [ref](NA)                                                                                                                    |
+| [Q57314035](https://www.wikidata.org/wiki/Q57314035)   | faculté de médecine         |      5 | NA   | [ref](NA)                                                                                                                    |
+| [Q856234](https://www.wikidata.org/wiki/Q856234)       | bibliothèque universitaire  |      5 | NA   | [ref](NA)                                                                                                                    |
+| [Q180958](https://www.wikidata.org/wiki/Q180958)       | composante                  |      5 | NA   | [ref](https://fr.wikipedia.org/wiki/Universit%C3%A9_en_France#Composantes)                                                   |
+| [Q1254933](https://www.wikidata.org/wiki/Q1254933)     | observatoire astronomique   |      6 | NA   | [ref](NA)                                                                                                                    |
+| [Q1298668](https://www.wikidata.org/wiki/Q1298668)     | projet de recherche         |      6 | NA   | [ref](NA)                                                                                                                    |
+| [Q28863779](https://www.wikidata.org/wiki/Q28863779)   | équipe de recherche         |      6 | NA   | [ref](NA)                                                                                                                    |
+| [Q22806](https://www.wikidata.org/wiki/Q22806)         | bibliothèque nationale      |      5 | NA   | [ref](NA)                                                                                                                    |
+| [Q1241025](https://www.wikidata.org/wiki/Q1241025)     | équipe de recherche         |      6 | NA   | [ref](NA,)                                                                                                                   |
 
 ### Liste des statuts déconseillés
 
 La plupart des statuts dans cette liste sont déconseillés parce que des
 statuts plus précises existent.
 
-|     | wikidata.id                                          | libellé                           | niveau | note                                                        | wikipedia                                                    |
-|:----|:-----------------------------------------------------|:----------------------------------|-------:|:------------------------------------------------------------|:-------------------------------------------------------------|
-| 34  | [Q2659904](https://www.wikidata.org/wiki/Q2659904)   | organisation gouvernementale      |      1 |                                                             |                                                              |
-| 35  | [Q327333](https://www.wikidata.org/wiki/Q327333)     | agence publique                   |      1 |                                                             |                                                              |
-| 36  | [Q43229](https://www.wikidata.org/wiki/Q43229)       | organisation                      |      2 |                                                             |                                                              |
-| 37  | [Q15911314](https://www.wikidata.org/wiki/Q15911314) | association                       |      2 |                                                             |                                                              |
-| 38  | [Q15343039](https://www.wikidata.org/wiki/Q15343039) | établissement public              |      3 |                                                             |                                                              |
-| 39  | [Q270791](https://www.wikidata.org/wiki/Q270791)     | entreprise d’État                 |      3 |                                                             |                                                              |
-| 40  | [Q902104](https://www.wikidata.org/wiki/Q902104)     | université privée                 |      3 |                                                             |                                                              |
-| 41  | [Q1371037](https://www.wikidata.org/wiki/Q1371037)   | institut de technologie           |      3 |                                                             | [ref](https://fr.wikipedia.org/wiki/Institut_de_technologie) |
-| 42  | [Q16917](https://www.wikidata.org/wiki/Q16917)       | hôpital                           |      3 | Préférer CHU                                                |                                                              |
-| 43  | [Q2945655](https://www.wikidata.org/wiki/Q2945655)   | CH                                |      3 | Préférer CHU                                                |                                                              |
-| 44  | [Q3918](https://www.wikidata.org/wiki/Q3918)         | université                        |      3 |                                                             |                                                              |
-| 45  | [Q847027](https://www.wikidata.org/wiki/Q847027)     | Grande ecole                      |      3 | Réserver aux écoles non contemporaines                      | [ref](https://fr.wikipedia.org/wiki/Grande_%C3%A9cole)       |
-| 46  | [Q875538](https://www.wikidata.org/wiki/Q875538)     | université publique               |      3 |                                                             |                                                              |
-| 47  | [Q194166](https://www.wikidata.org/wiki/Q194166)     | consortium                        |      4 | Préferer réseau universitaire (Q3457065)                    |                                                              |
-| 48  | [Q1663017](https://www.wikidata.org/wiki/Q1663017)   | école d’ingé                      |      4 |                                                             |                                                              |
-| 49  | [Q3578166](https://www.wikidata.org/wiki/Q3578166)   | École nationale supérieure        |      4 | Confusion avec les ENS                                      |                                                              |
-| 50  | [Q2385804](https://www.wikidata.org/wiki/Q2385804)   | institution éducative             |      4 |                                                             |                                                              |
-| 51  | [Q189004](https://www.wikidata.org/wiki/Q189004)     | Collége                           |      4 |                                                             |                                                              |
-| 52  | [Q4287745](https://www.wikidata.org/wiki/Q4287745)   | organisation de santé             |      4 |                                                             |                                                              |
-| 53  | [Q13226383](https://www.wikidata.org/wiki/Q13226383) | site                              |      5 |                                                             |                                                              |
-| 54  | [Q3914](https://www.wikidata.org/wiki/Q3914)         | école                             |      5 |                                                             |                                                              |
-| 55  | [Q483242](https://www.wikidata.org/wiki/Q483242)     | laboratoire                       |      5 |                                                             |                                                              |
-| 56  | [Q31855](https://www.wikidata.org/wiki/Q31855)       | institut de recherche             |      5 |                                                             |                                                              |
-| 57  | [Q1664720](https://www.wikidata.org/wiki/Q1664720)   | institut                          |      5 |                                                             |                                                              |
-| 58  | [Q7315155](https://www.wikidata.org/wiki/Q7315155)   | centre de recherche               |      5 |                                                             |                                                              |
-| 59  | [Q4671277](https://www.wikidata.org/wiki/Q4671277)   | institut universitaire            |      5 |                                                             |                                                              |
-| 60  | [Q38723](https://www.wikidata.org/wiki/Q38723)       | institut d’enseignement supérieur |      5 |                                                             |                                                              |
-| 61  | [Q3356144](https://www.wikidata.org/wiki/Q3356144)   | ODAC                              |      5 |                                                             |                                                              |
-| 62  | [Q28863779](https://www.wikidata.org/wiki/Q28863779) | centre de recherche               |      5 |                                                             |                                                              |
-| 63  | [Q7075](https://www.wikidata.org/wiki/Q7075)         | bibliothèque                      |      5 | préférer BU/biliothèque universitaire (Q856234)             |                                                              |
-| 64  | [Q1622062](https://www.wikidata.org/wiki/Q1622062)   | college library                   |      5 | Préférer bibliothèque universitaire (Q856234)               |                                                              |
-| 66  | [NOID](https://www.wikidata.org/wiki/NOID)           | statut manquant                   |      6 | Absence de propriété P31 (instance\_of/nature de l’élément) |                                                              |
+|     | wikidata.id                                          | libellé                           | niveau | note                                                                           | wikipedia                                                       |
+|:----|:-----------------------------------------------------|:----------------------------------|-------:|:-------------------------------------------------------------------------------|:----------------------------------------------------------------|
+| 39  | [Q10861173](https://www.wikidata.org/wiki/Q10861173) | Système universitaire             |      1 | Préferer réseau universitaire (Q3457065), COMUE (Q15974764) ou EPE (Q77979904) | [ref](https://en.wikipedia.org/wiki/University_system)          |
+| 40  | [Q65963615](https://www.wikidata.org/wiki/Q65963615) | EPE                               |      2 | Préférer Q77979904                                                             | [ref](https://fr.wikipedia.org/wiki/Regroupement_universitaire) |
+| 41  | [Q2659904](https://www.wikidata.org/wiki/Q2659904)   | organisation gouvernementale      |      1 | Statut trop imprécis                                                           | [ref](NA)                                                       |
+| 42  | [Q327333](https://www.wikidata.org/wiki/Q327333)     | agence publique                   |      1 | Statut trop imprécis                                                           | [ref](NA)                                                       |
+| 43  | [Q43229](https://www.wikidata.org/wiki/Q43229)       | organisation                      |      2 | Statut trop imprécis                                                           | [ref](NA)                                                       |
+| 44  | [Q15911314](https://www.wikidata.org/wiki/Q15911314) | association                       |      2 | Statut trop imprécis                                                           | [ref](NA)                                                       |
+| 45  | [Q15343039](https://www.wikidata.org/wiki/Q15343039) | établissement public              |      3 | Statut trop imprécis                                                           | [ref](NA)                                                       |
+| 46  | [Q270791](https://www.wikidata.org/wiki/Q270791)     | entreprise d’État                 |      3 | Statut trop imprécis                                                           | [ref](NA)                                                       |
+| 47  | [Q902104](https://www.wikidata.org/wiki/Q902104)     | université privée                 |      3 | Statut trop imprécis                                                           | [ref](NA)                                                       |
+| 48  | [Q1371037](https://www.wikidata.org/wiki/Q1371037)   | institut de technologie           |      3 | Statut trop imprécis                                                           | [ref](https://fr.wikipedia.org/wiki/Institut_de_technologie)    |
+| 49  | [Q16917](https://www.wikidata.org/wiki/Q16917)       | hôpital                           |      3 | Préférer CHU                                                                   | [ref](NA)                                                       |
+| 50  | [Q2945655](https://www.wikidata.org/wiki/Q2945655)   | CH                                |      3 | Préférer CHU                                                                   | [ref](NA)                                                       |
+| 51  | [Q3918](https://www.wikidata.org/wiki/Q3918)         | université                        |      3 | Statut trop imprécis                                                           | [ref](NA)                                                       |
+| 52  | [Q847027](https://www.wikidata.org/wiki/Q847027)     | Grande ecole                      |      3 | Réserver aux écoles non contemporaines                                         | [ref](https://fr.wikipedia.org/wiki/Grande_%C3%A9cole)          |
+| 53  | [Q875538](https://www.wikidata.org/wiki/Q875538)     | université publique               |      3 | Statut trop imprécis                                                           | [ref](NA)                                                       |
+| 54  | [Q194166](https://www.wikidata.org/wiki/Q194166)     | consortium                        |      4 | Préferer réseau universitaire (Q3457065)                                       | [ref](NA)                                                       |
+| 55  | [Q1663017](https://www.wikidata.org/wiki/Q1663017)   | école d’ingé                      |      4 | Statut trop imprécis                                                           | [ref](NA)                                                       |
+| 56  | [Q3578166](https://www.wikidata.org/wiki/Q3578166)   | École nationale supérieure        |      4 | Confusion avec les ENS                                                         | [ref](NA)                                                       |
+| 57  | [Q2385804](https://www.wikidata.org/wiki/Q2385804)   | institution éducative             |      4 | Statut trop imprécis                                                           | [ref](NA)                                                       |
+| 58  | [Q189004](https://www.wikidata.org/wiki/Q189004)     | Collége                           |      4 | Statut trop imprécis                                                           | [ref](NA)                                                       |
+| 59  | [Q4287745](https://www.wikidata.org/wiki/Q4287745)   | organisation de santé             |      4 | Statut trop imprécis                                                           | [ref](NA)                                                       |
+| 60  | [Q13226383](https://www.wikidata.org/wiki/Q13226383) | site                              |      5 | Statut trop imprécis                                                           | [ref](NA)                                                       |
+| 61  | [Q3914](https://www.wikidata.org/wiki/Q3914)         | école                             |      5 | Statut trop imprécis                                                           | [ref](NA)                                                       |
+| 62  | [Q483242](https://www.wikidata.org/wiki/Q483242)     | laboratoire                       |      5 | Statut trop imprécis                                                           | [ref](NA)                                                       |
+| 63  | [Q31855](https://www.wikidata.org/wiki/Q31855)       | institut de recherche             |      5 | Statut trop imprécis                                                           | [ref](NA)                                                       |
+| 64  | [Q1664720](https://www.wikidata.org/wiki/Q1664720)   | institut                          |      5 | Statut trop imprécis                                                           | [ref](NA)                                                       |
+| 65  | [Q7315155](https://www.wikidata.org/wiki/Q7315155)   | centre de recherche               |      5 | Statut trop imprécis                                                           | [ref](NA)                                                       |
+| 66  | [Q4671277](https://www.wikidata.org/wiki/Q4671277)   | institut universitaire            |      5 | Statut trop imprécis                                                           | [ref](NA)                                                       |
+| 67  | [Q38723](https://www.wikidata.org/wiki/Q38723)       | institut d’enseignement supérieur |      5 | Statut trop imprécis                                                           | [ref](NA)                                                       |
+| 68  | [Q3356144](https://www.wikidata.org/wiki/Q3356144)   | ODAC                              |      5 | Statut trop imprécis                                                           | [ref](NA)                                                       |
+| 69  | [Q7075](https://www.wikidata.org/wiki/Q7075)         | bibliothèque                      |      5 | préférer BU/biliothèque universitaire (Q856234)                                | [ref](NA)                                                       |
+| 70  | [Q1622062](https://www.wikidata.org/wiki/Q1622062)   | college library                   |      5 | Préférer bibliothèque universitaire (Q856234)                                  | [ref](NA)                                                       |
+| 71  | [NOID](https://www.wikidata.org/wiki/NOID)           | statut manquant                   |      6 | Absence de propriété P31 (instance\_of/nature de l’élément)                    | [ref](NA)                                                       |
 
 <!-- 
 `{r pressure, echo=FALSE, warning=FALSE, message=FALSE, fig.width=6, fig.height=4}
@@ -249,6 +255,176 @@ statuts plus précises existent.
 `                    edge_label = FALSE)
 `
 -->
+
+# Manuel d’édition
+
+En complément des informations propres à wikidata, disponibles sur le
+[portail
+communautaire](https://www.wikidata.org/wiki/Wikidata:Community_portal/fr),
+ces procédures aident aux premières éditions des données sur l’ESR.
+
+## Bonnes pratiques
+
+-   Supprimer et modifier ne servent qu’à corriger des erreurs, pas à
+    indiquer les modifications qui ont eu lieu.
+-   Les fins des choses s’indiquent avec des dates.
+-   Les modifications des choses s’indiquent souvent en créant un nouvel
+    élément à partir de l’ancien.
+
+### Ajouter un établissement/organisation/structure
+
+Dans wikidata, les établissements/organisations/structures sont
+représentés par des `éléments`.
+
+1.  Vérifier que l’élément n’existe pas déjà en cherchant son nom sur
+    [wikidata](https://www.wikidata.org/w/index.php?search=&search=&title=Special%3ASearch&go=Lire).
+    -   **Surtout, ne jamais créer d’élément en double**
+2.  Si l’élément nexiste pas, la page de recherche renvoie [un
+    lien](https://www.wikidata.org/w/index.php?title=Special:NewItem)
+    permettant d’en créer un nouveau.
+3.  Renseigner `Libellé` (nom complet), `Description` et `Alias`
+    (sigle/nom court).
+    -   Une fois créé, l’élément dispose d’un identifiant wikidata
+        unique, sous la forme `Qxxxxxxx`, indiqué dans son adresse
+        internet et à droite de son nom entre parenthèses.
+4.  Renseigner le statut de l’établissement/organisation/structure :
+    1.  Choisir `Ajouter une déclaration` ;
+    2.  Dans `Propriété` choisir `Nature de l'élément` ;
+    3.  Rechercher et sélectionner le statut le plus précis possible :
+        -   WikidataESR propose une [liste des statuts
+            recommandés](#listes-statuts) ;
+        -   En cas de doute, choisissez une statut générique
+            (e.g. `laboratoire` plutôt que `UMR`), même si ce statut
+            n’est pas recommandé.
+    4.  Choisir `Publier`.
+5.  (Optionnel) En utilisation la même procédure, ajouter les
+    informations additionnelles (dates de création, adresse, Identifiant
+    UAI ou UMR, etc.).
+
+### Ajouter une relation entre deux entités
+
+Dans wikidata, les relations entre les
+établissements/organisations/structures sont représentées par des
+`propriétés`, qui doivent être ajoutées dans toutes les entités
+concernées.
+
+Les relations sont orientées : elles sont renseignées dans un élément
+*source* et indiquent un élément *destination*.
+
+1.  Identifier la `propriété` la plus adéquate à la relation en
+    utilisant la [liste des propriétés wikidataESR](#liste-proprietes).
+    -   **Attention : les propriétés ont une appellation wikidata qui
+        diffère légèrement de l’appellation wikidataESR**.
+2.  Depuis la page wikidata de l’élément *source*,
+    `Ajouter une déclaration`.
+3.  Renseigner l’élément *destination* dans la propriété.
+4.  (Optionnel) Ajouter les informations annexes grâce aux `qualitatifs`
+    (par exemple, `date de début` et `date de fin`).
+5.  (Optionnel) Ajouter les références (par exemple décret ou site web).
+6.  Choisir `Publier`.
+7.  Si la relation est symétrique (par exemple, `organisation filiale`
+    et `organisation mère`), recommencer en inversant *source* et
+    *destination*.
+
+## Modifications fréquentes
+
+### Une composante (UFR/labo) de l’établissement est manquante
+
+1.  Vérifier l’existence d’un élément wikidata pour la composante :
+    -   Si aucun élément n’existe, le créer (voir [Ajouter
+        élément](#ajouter-element)) ;
+2.  Depuis la page wikidata de l’établissement :
+    -   `Ajouter une déclaration`/`organisation filiale`, et choisir
+        l’élément wikidata de la composante (voir [Ajouter
+        relation](#ajouter-relation)) ;
+3.  Depuis la page wikidata de la composante :
+    -   `Ajouter une déclaration`/`organisation mère`, et choisir
+        l’élément wikidata de la composante.
+
+### Une association (COMUE, etc.) de l’établissement est manquante
+
+1.  Depuis la page wikidata de l’établissement :
+    -   `Ajouter une déclaration`/`comprend`, et choisir l’élément
+        wikidata de l’association (voir [Ajouter
+        relation](#ajouter-relation)) ;
+    -   Ajouter `qualitatif`/`date de début` ;
+2.  Depuis la page wikidata de l’association :
+    -   `Ajouter une déclaration`/`partie de`, et choisir l’élément
+        wikidata de l’établissement ;
+    -   Ajouter `qualitatif`/`date de début`.
+
+### Une tutelle de l’établissement est manquante
+
+1.  Depuis la page wikidata de l’établissement :
+    -   `Ajouter une déclaration`/`affilié à`, et choisir l’élément
+        wikidata de la tutelle (voir [Ajouter
+        relation](#ajouter-relation))
+
+### Une adhésion de l’établissement à une organisation est manquante
+
+1.  Depuis la page wikidata de l’établissement :
+    -   `Ajouter une déclaration`/`membre de`, et choisir l’élément
+        wikidata de l’organisation (voir [Ajouter
+        relation](#ajouter-relation)) ;
+    -   (Optionnel) Ajouter `qualitatif`/`date de début`.
+
+### Une relation (composante/tutelle/adhésion) a pris fin
+
+**Ne surtout pas supprimer la relation.**
+
+1.  Depuis la page wikidata de l’établissement :
+    -   Trouver et `modifier` la `déclaration` de la relation ;
+    -   Ajouter `qualitatif`/`date de fin`.
+
+### Un établissement n’existe plus
+
+**Ne surtout pas supprimer l’élément wikidata**
+
+1.  Depuis la page wikidata de l’établissement :
+    -   `Ajouter une déclaration`/`date de dissolution` ;
+2.  Si l’établissement a été fusionné dans un autre, qui existait
+    auparavant :
+    -   `Ajouter une déclaration`/`fusionné dans` et renseigner
+        l’établissement fusion ;
+        -   Ajouter un `qualitatif`/`date`.
+3.  Si l’établissement a été fusionné avec plusieurs autres pour en
+    créer un nouveau :
+    -   Vérifier que le nouvel établissement existe dans wikidata, sinon
+        le créer (voir [Ajouter élément](#ajouter-element)) ;
+    -   Dans l’ancien établissement,
+        `Ajouter une déclaration`/`remplacé par`
+        -   Renseigner le nouvel établissement ;
+        -   `Ajouter une déclaration`/`date` ;
+    -   Dans le nouvel établissement,
+        `Ajouter une déclaration`/`remplace`
+        -   Renseigner l’ancien établissement ;
+        -   `Ajouter une déclaration`/`date`.
+    -   Recommencer pour tous les établissements fusionnés.
+
+### Un établissement a changé de statut
+
+**Ne surtout pas changer la nature de l’élément wikidata**
+
+1.  Créer un nouvel élément pour l’établissement (voir [Ajouter
+    élément](#ajouter-element)) ;
+    -   [duplicate item tool](https://www.wikidata.org/wiki/Q108311191)
+        peut être utile pour copier l’élément qui a changé de statut ;
+    -   `Ajouter une déclaration`/`date de fondation` ;
+    -   `Ajouter une déclaration`/`remplace` et renseigner l’ancien
+        élément.
+        -   Ajouter un `qualitatif`/`date`
+2.  Si tout l’établissement a changé de statut, depuis la page wikidata
+    de l’ancien établissement :
+    -   `Ajouter une déclaration`/`date de dissolution` ;
+    -   `Ajouter une déclaration`/`remplacé par` et renseigner le nouvel
+        élément ;
+        -   Ajouter un `qualitatif`/`date`
+3.  Si une partie de l’établissement s’est détachée d’un établissement
+    qui continue d’exister, depuis la page wikidata du nouvel
+    établissement :
+    -   `Ajouter une déclaration`/`séparé de` et renseigner l’ancien
+        élément ;
+        -   Ajouter un `qualitatif`/`date`
 
 # Tutorial pour la librairie R
 
@@ -298,7 +474,7 @@ df.alsace <- wdesr_get_graph("Q61716176", c('composante','associé'), 1)
     ## [1] "Loading:  Q521036"
 
     ## Warning in wdesr_get_item_status(item): The instance of wikidata item Q521036 is not recommended: école d'ingé.
-    ##   Reason is: Statut pas assez précis.
+    ##   Reason is: Statut trop imprécis.
     ##   Please check https://www.wikidata.org/wiki/Q521036
     ##   using the guideline at https://github.com/cpesr
 
@@ -322,20 +498,20 @@ les établissements et leurs relations.
 |:----------|:--------------------------------------------------------|:----------------------------|:---------------------------|-------:|
 | Q61716176 | site universitaire alsacien                             | site universitaire alsacien | Regroupement universitaire |      2 |
 | Q280183   | université de Haute-Alsace                              | UHA                         | Université (EPSCP)         |      3 |
-| Q157575   | université de Strasbourg                                | Unistra                     | Université (EPSCP)         |      3 |
+| Q157575   | Université de Strasbourg                                | Unistra                     | Université (EPSCP)         |      3 |
 | Q521036   | Institut national des sciences appliquées de Strasbourg | INSA Strasbourg             | école d’ingé               |      4 |
 | Q630461   | Bibliothèque nationale et universitaire                 | BNU                         | bibliothèque nationale     |      5 |
 | Q3578190  | École nationale supérieure d’architecture de Strasbourg | ENSAS                       | École nationale supérieure |      4 |
 | Q21041502 | Haute école des arts du Rhin                            | HEAR                        | école d’art                |      4 |
 
-| from      | to        | type    | date | depth |
-|:----------|:----------|:--------|:-----|------:|
-| Q61716176 | Q280183   | associé | NA   |     1 |
-| Q61716176 | Q157575   | associé | NA   |     1 |
-| Q61716176 | Q521036   | associé | NA   |     1 |
-| Q61716176 | Q630461   | associé | NA   |     1 |
-| Q61716176 | Q3578190  | associé | NA   |     1 |
-| Q61716176 | Q21041502 | associé | NA   |     1 |
+| from      | to        | type    | date | depth | distance |
+|:----------|:----------|:--------|:-----|------:|---------:|
+| Q61716176 | Q280183   | associé | NA   |     1 |       -1 |
+| Q61716176 | Q157575   | associé | NA   |     1 |       -1 |
+| Q61716176 | Q521036   | associé | NA   |     1 |       -2 |
+| Q61716176 | Q630461   | associé | NA   |     1 |       -3 |
+| Q61716176 | Q3578190  | associé | NA   |     1 |       -2 |
+| Q61716176 | Q21041502 | associé | NA   |     1 |       -2 |
 
 ### Tracer des représentations
 

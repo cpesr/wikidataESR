@@ -1,0 +1,137 @@
+
+En complément des informations propres à wikidata, disponibles sur le 
+[portail communautaire](https://www.wikidata.org/wiki/Wikidata:Community_portal/fr),
+ces procédures aident aux premières éditions des données sur l'ESR.
+
+## Bonnes pratiques
+
+- Supprimer et modifier ne servent qu'à corriger des erreurs, pas à indiquer les modifications qui ont eu lieu.
+- Les fins des choses s'indiquent avec des dates.
+- Les modifications des choses s'indiquent souvent en créant un nouvel élément à partir de l'ancien.
+
+### Ajouter un établissement/organisation/structure {#ajouter-element}
+
+Dans wikidata, les établissements/organisations/structures sont représentés par des `éléments`.
+
+1. Vérifier que l'élément n'existe pas déjà en cherchant son nom sur [wikidata](https://www.wikidata.org/w/index.php?search=&search=&title=Special%3ASearch&go=Lire).
+    - **Surtout, ne jamais créer d'élément en double**
+1. Si l'élément nexiste pas, la page de recherche renvoie [un lien](https://www.wikidata.org/w/index.php?title=Special:NewItem) permettant d'en créer un nouveau.
+1. Renseigner `Libellé` (nom complet), `Description` et `Alias` (sigle/nom court).
+    - Une fois créé, l'élément dispose d'un identifiant wikidata unique, sous la forme `Qxxxxxxx`, 
+  indiqué dans son adresse internet et à droite de son nom entre parenthèses.
+1. Renseigner le statut de l'établissement/organisation/structure :
+    1. Choisir `Ajouter une déclaration` ;
+    1. Dans `Propriété` choisir `Nature de l'élément` ;
+    1. Rechercher et sélectionner le statut le plus précis possible :
+        - WikidataESR propose une [liste des statuts recommandés](#listes-statuts) ;
+        - En cas de doute, choisissez une statut générique (e.g. `laboratoire` plutôt que `UMR`), 
+        même si ce statut n'est pas recommandé.
+    1. Choisir `Publier`.
+1. (Optionnel) En utilisation la même procédure, ajouter les informations additionnelles (dates de création, adresse, Identifiant UAI ou UMR, etc.).
+
+### Ajouter une relation entre deux entités {#ajouter-relation}
+
+Dans wikidata, les relations entre les établissements/organisations/structures sont 
+représentées par des `propriétés`, qui doivent être ajoutées dans toutes les entités 
+concernées. 
+
+Les relations sont orientées : elles sont renseignées dans un élément *source* et 
+indiquent un élément *destination*.
+
+1. Identifier la `propriété` la plus adéquate à la relation en utilisant 
+la [liste des propriétés wikidataESR](#liste-proprietes).
+    - **Attention : les propriétés ont une appellation wikidata qui diffère légèrement 
+    de l'appellation wikidataESR**.
+1. Depuis la page wikidata de l'élément *source*, `Ajouter une déclaration`.
+1. Renseigner l'élément *destination* dans la propriété.
+1. (Optionnel) Ajouter les informations annexes grâce aux `qualitatifs` 
+(par exemple, `date de début` et `date de fin`).
+1. (Optionnel) Ajouter les références (par exemple décret ou site web).
+1. Choisir `Publier`.
+1. Si la relation est symétrique (par exemple, `organisation filiale` et `organisation mère`),
+recommencer en inversant *source* et *destination*.
+
+## Modifications fréquentes 
+
+### Une composante (UFR/labo) de l'établissement est manquante {#ajout-composante}
+
+1. Vérifier l'existence d'un élément wikidata pour la composante :
+    - Si aucun élément n'existe, le créer (voir [Ajouter élément](#ajouter-element)) ;
+1. Depuis la page wikidata de l'établissement :
+    - `Ajouter une déclaration`/`organisation filiale`, et choisir l'élément 
+    wikidata de la composante (voir [Ajouter relation](#ajouter-relation)) ;
+1. Depuis la page wikidata de la composante :
+    - `Ajouter une déclaration`/`organisation mère`, et choisir l'élément 
+    wikidata de la composante. 
+
+### Une association (COMUE, etc.) de l'établissement est manquante {#ajout-asso}
+
+1. Depuis la page wikidata de l'établissement :
+    - `Ajouter une déclaration`/`comprend`, et choisir l'élément 
+    wikidata de l'association (voir [Ajouter relation](#ajouter-relation)) ;
+    - Ajouter `qualitatif`/`date de début` ;
+1. Depuis la page wikidata de l'association :
+    - `Ajouter une déclaration`/`partie de`, et choisir l'élément 
+    wikidata de l'établissement ;
+    - Ajouter `qualitatif`/`date de début`.
+
+### Une tutelle de l'établissement est manquante {#ajout-tutelle}
+
+1. Depuis la page wikidata de l'établissement :
+    - `Ajouter une déclaration`/`affilié à`, et choisir l'élément 
+    wikidata de la tutelle (voir [Ajouter relation](#ajouter-relation))
+
+### Une adhésion de l'établissement à une organisation est manquante {#ajout-adhesion}
+
+1. Depuis la page wikidata de l'établissement :
+    - `Ajouter une déclaration`/`membre de`, et choisir l'élément 
+    wikidata de l'organisation (voir [Ajouter relation](#ajouter-relation)) ;
+    - (Optionnel) Ajouter `qualitatif`/`date de début`.
+
+### Une relation (composante/tutelle/adhésion) a pris fin {#fin-relation}
+
+**Ne surtout pas supprimer la relation.**
+
+1. Depuis la page wikidata de l'établissement :
+    - Trouver et `modifier` la `déclaration` de la relation ;
+    - Ajouter `qualitatif`/`date de fin`.
+
+### Un établissement n'existe plus {#fin-etablissement}
+
+**Ne surtout pas supprimer l'élément wikidata**
+
+1. Depuis la page wikidata de l'établissement :
+    - `Ajouter une déclaration`/`date de dissolution` ;
+1. Si l'établissement a été fusionné dans un autre, qui existait auparavant :
+    - `Ajouter une déclaration`/`fusionné dans` et renseigner l'établissement fusion ;
+        - Ajouter un `qualitatif`/`date`.
+1. Si l'établissement a été fusionné avec plusieurs autres pour en créer un nouveau :
+    - Vérifier que le nouvel établissement existe dans wikidata, 
+    sinon le créer (voir [Ajouter élément](#ajouter-element)) ;
+    - Dans l'ancien établissement, `Ajouter une déclaration`/`remplacé par`
+        - Renseigner le nouvel établissement ;
+        - `Ajouter une déclaration`/`date` ;
+    - Dans le nouvel établissement, `Ajouter une déclaration`/`remplace`
+        - Renseigner l'ancien établissement ;
+        - `Ajouter une déclaration`/`date`.
+    - Recommencer pour tous les établissements fusionnés.
+    
+
+### Un établissement a changé de statut {#changement-statut}
+
+**Ne surtout pas changer la nature de l'élément wikidata**
+
+1. Créer un nouvel élément pour l'établissement (voir [Ajouter élément](#ajouter-element)) ;
+    - [duplicate item tool](https://www.wikidata.org/wiki/Q108311191) peut être 
+    utile pour copier l'élément qui a changé de statut ;
+    - `Ajouter une déclaration`/`date de fondation` ;
+    - `Ajouter une déclaration`/`remplace` et renseigner l'ancien élément.
+        - Ajouter un `qualitatif`/`date`
+1. Si tout l'établissement a changé de statut, depuis la page wikidata de l'ancien établissement :
+    - `Ajouter une déclaration`/`date de dissolution` ;
+    - `Ajouter une déclaration`/`remplacé par` et renseigner le nouvel élément ;
+        - Ajouter un `qualitatif`/`date`
+1. Si une partie de l'établissement s'est détachée d'un établissement qui continue d'exister,
+depuis la page wikidata du nouvel établissement :
+    - `Ajouter une déclaration`/`séparé de` et renseigner l'ancien élément ;
+        - Ajouter un `qualitatif`/`date`

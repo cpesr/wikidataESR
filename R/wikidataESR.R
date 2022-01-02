@@ -451,6 +451,8 @@ wdesr_ggplot_graph <- function( df.g,
   margin_x <- margin_x * size
   margin_y <- margin_y * size
   
+  if (edge_arrow == FALSE) arrow_gap = 0
+  
   statuts <- unique(c(wdesr.statuts$libellé,df.g$vertices$statut))
   statuts_colors <- setNames(
     colorRampPalette(RColorBrewer::brewer.pal(n=8, name="Accent"))(length(statuts)),
@@ -468,7 +470,7 @@ wdesr_ggplot_graph <- function( df.g,
   
   ggnet <- ggnetwork(net,
                      layout = layout(weights = distance2weight(df.g$edges$distance)),
-                     arrow.gap = 0)
+                     arrow.gap = arrow_gap)
   
   g <- ggplot(ggnet, aes(x = x, y = y, xend = xend, yend = yend))
   g <- g + geom_edges(aes(linetype = type),#, size = weight),
@@ -540,8 +542,8 @@ wdesr_ggplot_graph <- function( df.g,
 #' @param props The properties to follows.
 #' @param depth The depth of the following
 #' @param plot_type Either "ggplot" or "plotly" (default to ggplot).
-#' @param ... Additionnal parameters for the plot; see \code{\link{wdesr_ggplot_graph}} for details.
 #' @param active_only TRUE to filter dissolved universities (default to FALSE).
+#' @param ... Additionnal parameters for the plot; see \code{\link{wdesr_ggplot_graph}} for details.
 #' @return A ggplot or a plotly.
 #' @export
 #'
@@ -573,7 +575,58 @@ wdesr_load_and_plot <- function( wdid,
 }
 
 
-#' Write warnings to a log file
+#' Get warnings for the vetices
+#'
+#' @param df.g A data representing a graph, as returned by wdesr_get_graph.
+#'
+#' @return A dataframe with vetices warnings
+#' @export
+#'
+#' @examples
+wdesr_log_warnings_vertices <- function(df.g) {
+  itemslevels <- unique(df.g$vertices$id)
+  suppressMessages(
+    vw <- left_join(df.g$vertices, wdesr.statuts %>% select(statut = libellé, recommandé, note)) %>%
+      mutate(id = factor(id,levels=itemslevels), message=as.character(NA)) %>%
+      bind_rows(
+        filter(.,recommandé == "non") %>% mutate(message = note),
+        filter(.,nchar(alias)>=20) %>% mutate(message = "Alias manquant ou long"),
+        filter(.,is.na(fondation)) %>% mutate(message = "Date de fondation manquante")
+      ) %>%
+      filter(! is.na(message)) %>%
+      arrange(id) %>%
+      select(entité = id, alias, statut, message)
+  )
+  
+  return(vw)
+}
+
+#' Get warnings for the edges
+#'
+#' @param df.g A data representing a graph, as returned by wdesr_get_graph.
+#'
+#' @return A dataframe with edges warnings
+#' @export
+#'
+#' @examples
+wdesr_log_warnings_edges <- function(df.g) {
+  itemslevels <- unique(df.g$vertices$id)
+  suppressMessages(
+    ew <- df.g$edges %>%
+      mutate(from = factor(from,levels=itemslevels), to = factor(to, levels = itemslevels)) %>%
+      bind_rows(
+        janitor::get_dupes(., from,to) %>% mutate(message = "Relation multiple"),
+        filter(.,is.na(date), ! type %in% c('composante','composante_de')) %>% mutate(message = "Date(s) manquante(s)") 
+      ) %>%
+      select(depuis = from, vers = to, type, message) %>% 
+      filter(! is.na(message))
+  ) 
+  
+  return(ew)
+}
+
+
+#' Output warnings in kable format
 #'
 #' @param df.g A data representing a graph, as returned by wdesr_get_graph.
 #' @param kableFormat The format used for kableExtra::kable
@@ -590,39 +643,21 @@ wdesr_load_and_plot <- function( wdid,
 wdesr_log_warnings <- function(df.g, kableformat = "pipe") {
 
   warning <- ""
-  
-  itemslevels <- unique(df.g$vertices$id)
-  suppressMessages(
-    vw <- left_join(df.g$vertices, wdesr.statuts %>% select(statut = libellé, recommandé, note)) %>%
-      mutate(id = factor(id,levels=itemslevels), message=as.character(NA)) %>%
-      bind_rows(
-        filter(.,recommandé == "non") %>% mutate(message = note),
-        filter(.,nchar(alias)>=20) %>% mutate(message = "Alias manquant ou long"),
-        filter(.,is.na(fondation)) %>% mutate(message = "Date de fondation manquante")
-      ) %>%
-      filter(! is.na(message)) %>%
-      arrange(id) %>%
-      transmute(entité = wikidataESR:::wd_id2url(id), alias, statut, message)
-  )
-
+  vw <- wdesr_log_warnings_vertices(df.g)
   if (nrow(vw) > 0) {
     warning <- paste0(warning,"Problèmes détectés dans les entités :\n\n",
-                      paste(vw %>% kableExtra::kable(format=kableformat), collapse='\n'),
+                      paste(vw %>% 
+                              mutate(entité = wd_id2url(entité)) %>%
+                              kableExtra::kable(format=kableformat), collapse='\n'),
                       "\n\n")
   }
-  suppressMessages(
-    ew <- df.g$edges %>%
-      mutate(from = factor(from,levels=itemslevels), to = factor(to, levels = itemslevels)) %>%
-      bind_rows(
-        janitor::get_dupes(., from,to) %>% mutate(message = "Relation multiple"),
-        filter(.,is.na(date), ! type %in% c('composante','composante_de')) %>% mutate(message = "Date(s) manquante(s)") 
-        ) %>%
-      transmute(from = wd_id2url(from), to = wd_id2url(to), type, message) %>% 
-      filter(! is.na(message))
-  ) 
+
+  ew <- wdesr_log_warnings_edges(df.g)
   if (nrow(ew) > 0) {
     warning <- paste0(warning,"Problèmes détectés dans les relations :\n\n",
-                      paste(ew %>% kableExtra::kable(format=kableformat), collapse='\n'), 
+                      paste(ew %>% 
+                              mutate(depuis = wd_id2url(depuis), vers = wd_id2url(vers)) %>%
+                              kableExtra::kable(format=kableformat), collapse='\n'), 
                       "\n\nNB : les dates manquantes pour les relations de composante ne sont pas remontées.")
   }
   
