@@ -292,7 +292,7 @@ représentés par des `éléments`.
     2.  Dans `Propriété` choisir `Nature de l'élément` ;
     3.  Rechercher et sélectionner le statut le plus précis possible :
         -   WikidataESR propose une [liste des statuts
-            recommandés](#listes-statuts) ;
+            recommandés](#Liste-des-statuts-recommandés) ;
         -   En cas de doute, choisissez une statut générique
             (e.g. `laboratoire` plutôt que `UMR`), même si ce statut
             n’est pas recommandé.
@@ -312,7 +312,7 @@ Les relations sont orientées : elles sont renseignées dans un élément
 *source* et indiquent un élément *destination*.
 
 1.  Identifier la `propriété` la plus adéquate à la relation en
-    utilisant la [liste des propriétés wikidataESR](#liste-proprietes).
+    utilisant la \[liste des propriétés wikidataESR\](\#Propriétés.
     -   **Attention : les propriétés ont une appellation wikidata qui
         diffère légèrement de l’appellation wikidataESR**.
 2.  Depuis la page wikidata de l’élément *source*,
@@ -332,11 +332,11 @@ Les relations sont orientées : elles sont renseignées dans un élément
 
 1.  Vérifier l’existence d’un élément wikidata pour la composante :
     -   Si aucun élément n’existe, le créer (voir [Ajouter
-        élément](#ajouter-element)) ;
+        élément](#Ajouter-un-établissementorganisationstructure)) ;
 2.  Depuis la page wikidata de l’établissement :
     -   `Ajouter une déclaration`/`organisation filiale`, et choisir
         l’élément wikidata de la composante (voir [Ajouter
-        relation](#ajouter-relation)) ;
+        relation](#Ajouter-une-relation-entre-deux-entités)) ;
 3.  Depuis la page wikidata de la composante :
     -   `Ajouter une déclaration`/`organisation mère`, et choisir
         l’élément wikidata de la composante.
@@ -346,7 +346,7 @@ Les relations sont orientées : elles sont renseignées dans un élément
 1.  Depuis la page wikidata de l’établissement :
     -   `Ajouter une déclaration`/`comprend`, et choisir l’élément
         wikidata de l’association (voir [Ajouter
-        relation](#ajouter-relation)) ;
+        relation](#Ajouter-une-relation-entre-deux-entités)) ;
     -   Ajouter `qualitatif`/`date de début` ;
 2.  Depuis la page wikidata de l’association :
     -   `Ajouter une déclaration`/`partie de`, et choisir l’élément
@@ -358,14 +358,14 @@ Les relations sont orientées : elles sont renseignées dans un élément
 1.  Depuis la page wikidata de l’établissement :
     -   `Ajouter une déclaration`/`affilié à`, et choisir l’élément
         wikidata de la tutelle (voir [Ajouter
-        relation](#ajouter-relation))
+        relation](#Ajouter-une-relation-entre-deux-entités))
 
 ### Une adhésion de l’établissement à une organisation est manquante
 
 1.  Depuis la page wikidata de l’établissement :
     -   `Ajouter une déclaration`/`membre de`, et choisir l’élément
         wikidata de l’organisation (voir [Ajouter
-        relation](#ajouter-relation)) ;
+        relation](#Ajouter-une-relation-entre-deux-entités)) ;
     -   (Optionnel) Ajouter `qualitatif`/`date de début`.
 
 ### Une relation (composante/tutelle/adhésion) a pris fin
@@ -390,7 +390,8 @@ Les relations sont orientées : elles sont renseignées dans un élément
 3.  Si l’établissement a été fusionné avec plusieurs autres pour en
     créer un nouveau :
     -   Vérifier que le nouvel établissement existe dans wikidata, sinon
-        le créer (voir [Ajouter élément](#ajouter-element)) ;
+        le créer (voir [Ajouter
+        élément](#Ajouter-un-établissementorganisationstructure)) ;
     -   Dans l’ancien établissement,
         `Ajouter une déclaration`/`remplacé par`
         -   Renseigner le nouvel établissement ;
@@ -406,7 +407,7 @@ Les relations sont orientées : elles sont renseignées dans un élément
 **Ne surtout pas changer la nature de l’élément wikidata**
 
 1.  Créer un nouvel élément pour l’établissement (voir [Ajouter
-    élément](#ajouter-element)) ;
+    élément](#Ajouter-un-établissementorganisationstructure)) ;
     -   [duplicate item tool](https://www.wikidata.org/wiki/Q108311191)
         peut être utile pour copier l’élément qui a changé de statut ;
     -   `Ajouter une déclaration`/`date de fondation` ;
