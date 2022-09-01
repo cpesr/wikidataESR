@@ -493,7 +493,7 @@ wdesr_ggplot_graph <- function( df.g,
     label = wdesr_node_label_aes(node_label,alias,label,fondation,dissolution, label_wrap),
     fill = statut),
     size = scales::rescale(-ggnet.nodes$niveau,label_sizes,range(-wdesr.niveaux$niveau)),
-    lineheight = .6
+    lineheight = .8
     )
   g <- g + coord_cartesian(clip="off") 
   g <- g + scale_alpha_manual(labels=c("dissous","actif"), values = (c(0.8,1)), name='statut')

@@ -24,8 +24,9 @@ library(ggplot2)
 library(network)
 library(ggnetwork)
 library(scales)
-library(dplyr)
+library(tidyverse)
 library(stringr)
+library(kpiESR)
 
 library(ggcpesrthemes)
 theme_cpesr_setup(authors = "Julien Gossa", url = "www.cpesr.fr WikidataESR")
@@ -121,9 +122,9 @@ plot_batch <- function(racine, alias, suffix,
 
 # Chargement du cache s'il existe. 
 # Sinon, les données seront téléchargées sur wikidate.
-wdesr_load_cache()
+# wdesr_load_cache()
 
-setwd("scripts")
+try(setwd("scripts"))
 
 
 
@@ -138,22 +139,34 @@ print_to_md(paste(sep='\n',"```",
 "```"))
 
 ## Charge les établissements, puis plote par type
-etab <- read.csv2("fr-esr-principaux-etablissements-enseignement-superieur.csv") %>%
-  transmute(
-    wdid = Identifiant.wikidata,
-    alias = ifelse(nom_court=="",Libellé,nom_court),
-    type = type.d.établissement,
-    twitter = compte_twitter 
-  ) %>%
-  filter(wdid != "") %>%
-  mutate(wdid = case_when(
-    wdid == "Q13531686" ~ "Q109409389", # Paris-Saclay,
-    TRUE ~ wdid
-  )) %>%
-  filter(type %in% c("Université", "Grand établissement")) %>%
-  nest_by(type) %>% 
-  arrange(desc(type))
+# etab <- read.csv2("fr-esr-principaux-etablissements-enseignement-superieur.csv") %>%
+#   transmute(
+#     wdid = Identifiant.wikidata,
+#     alias = ifelse(nom_court=="",Libellé,nom_court),
+#     type = type.d.établissement,
+#     twitter = compte_twitter 
+#   ) %>%
+#   filter(wdid != "") %>%
+#   mutate(wdid = case_when(
+#     wdid == "Q13531686" ~ "Q109409389", # Paris-Saclay,
+#     TRUE ~ wdid
+#   )) %>%
+#   filter(type %in% c("Université", "Grand établissement")) %>%
+#   nest_by(type) %>% 
+#   arrange(desc(type))
 
+etab <- kpiESR::esr.etab %>%
+  filter(dataset == "CPESR") %>%
+  transmute(
+    wdid = str_replace(url.wikidata,"https://www.wikidata.org/entity/",""),
+    alias = ifelse(!is.na(Sigle),Sigle,Etablissement),
+    type = Groupe,
+    twitter
+  ) %>%
+  filter(!is.na(wdid)) %>%
+  filter(!str_detect(type,"Autres"),!is.na(type)) %>%
+  nest_by(type) %>%
+  arrange(type)
 
 
 for(i in 1:nrow(etab)) {
@@ -163,7 +176,7 @@ for(i in 1:nrow(etab)) {
   subetab <- etab[i,2]$data[[1]]
   
   print_to_md(paste0("Twitters manquants :\n```\n",
-                     paste0(" - ", subetab %>% filter(twitter=="") %>% pull(alias), collapse = "\n"),
+                     paste0(" - ", subetab %>% filter(is.na(twitter)) %>% pull(alias), collapse = "\n"),
                      "\n```"))
   
   for (i in 1:nrow(subetab)) {
