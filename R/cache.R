@@ -52,9 +52,16 @@
 #' @examples wdesr_make_package_data()
 #' @noRd
 wdesr_make_package_data <- function(path="./R/") {
+  wdesr.niveaux <- read.csv2(paste0(path,"wdesr.niveaux.csv"))
   wdesr.statuts <- read.csv2(paste0(path,"wdesr.statuts.csv"), na.strings = "") %>%
     mutate(note = ifelse(is.na(note) & recommandé=="non","Statut trop imprécis",note))
-  wdesr.niveaux <- read.csv2(paste0(path,"wdesr.niveaux.csv"))
+  
+  wdesr.statuts <- wdesr.statuts %>%
+    group_by(niveau) %>%
+    mutate(color = wdesr_make_palette(niveau,n())) %>%
+    ungroup() %>%
+    arrange(niveau)
+  
   usethis::use_data(wdesr.statuts, wdesr.niveaux, overwrite = TRUE, internal = FALSE)
 
   #write.table(wdesr.statuts, file = paste0(path,"wdesr.statuts.csv"), sep=';', quote = TRUE, row.names = FALSE)
@@ -62,6 +69,16 @@ wdesr_make_package_data <- function(path="./R/") {
 
   #usethis::use_data(items,instance_ofs, internal = TRUE, overwrite = TRUE)
 }
+
+wdesr_make_palette <- function(niveau, n) {
+  palniv <- c("Blues", "Reds", "Greens", "Purples", "Oranges", "Greys") 
+  
+  pal <- RColorBrewer::brewer.pal(n=9, name=palniv[head(niveau,1)])
+  pal <- rev(colorRampPalette(pal)(n+10))
+  
+  pal[-c(1:8,n+9,n+10)]
+}
+
 
 
 #' Clear the local WDESR cache.

@@ -64,7 +64,7 @@ wdesr_get_item_status <- function(item) {
     label <- wd_get_item_alias(it)
 
     warning("The instance of wikidata item ", item_id, " is unknown by wikidataESR: ",label,".\n",
-            "  Default level (size of the node) is set to 4.\n",
+            "  Default level is set to 5.\n",
             "  Please check the property P31 at https://www.wikidata.org/wiki/",item_id,"\n",
             "  using the guideline at https://github.com/cpesr")
 
@@ -390,6 +390,18 @@ distance2weight <- function(d) {
   return(10+d)
 }
 
+get_status_colors <- function(df.g) {
+  unknown_statuts <- setdiff(df.g$vertices$statut, wdesr.statuts$libellé)
+  unknown_statuts_colors <- setNames(
+    rep("grey",length(unknown_statuts)),
+    unknown_statuts)
+  
+  ws <- wdesr.statuts %>% filter(libellé %in% df.g$vertices$statut)
+  statuts_colors <- c(
+    setNames(ws$color, ws$libellé),
+    unknown_statuts_colors)
+}
+
 #' Plot an ESR graph.
 #'
 #' A wrapper for ggplot2 to plot graph as returned by \code{\link{wdesr_get_graph}}.
@@ -453,18 +465,13 @@ wdesr_ggplot_graph <- function( df.g,
   
   if (edge_arrow == FALSE) arrow_gap = 0
   
-  statuts <- unique(c(wdesr.statuts$libellé,df.g$vertices$statut))
-  statuts_colors <- setNames(
-    colorRampPalette(RColorBrewer::brewer.pal(n=8, name="Accent"))(length(statuts)),
-    statuts) 
-  statuts_colors <- statuts_colors[unique(df.g$vertices$statut)]
-  
-
   geom_node_fun <- wdesr_node_geom(node_type)
   if (edge_arrow == TRUE) edge_arrow <- arrow(length = unit(8, "pt"), type = "closed")
   if (edge_arrow == FALSE) edge_arrow <- NULL
    
   df.g$vertices <- arrange(df.g$vertices,id)
+  
+  statuts_colors <- get_status_colors(df.g)
   
   net <- igraph::graph_from_data_frame(df.g$edges, vertices = df.g$vertices)
   
