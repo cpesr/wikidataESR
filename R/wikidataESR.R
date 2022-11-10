@@ -362,7 +362,7 @@ wdesr_node_label_aes <- function(node_label = "alias", alias, label, fondation, 
 #'
 #' Get the suitable geom_nodeX function according the node_type
 #'
-#' @param node_type Either "text", "text_repel", "label", or "label_repel" (default to "text").
+#' @param node_type Either "text", "text_repel", "label", "label_repel", "node" or "none" (default to "text").
 #'
 #' @return The suitable geom_nodeX function according the node_type.
 #'
@@ -380,6 +380,7 @@ wdesr_node_geom <- function(node_type = "text") {
          text_repel = {geom_nodetext_repel},
          label = {geom_nodelabel},
          label_repel = {geom_nodelabel_repel},
+         node = {geom_nodes},
          geom_blank
   )
 }
@@ -412,7 +413,7 @@ get_status_colors <- function(df.g) {
 #' @param node_sizes The size of the nodes, either a single value or a range c(min,max).
 #' @param label_sizes The size of the nodes, either a single value or a range c(min,max).
 #' @param node_label Define the label for the nodess. Either "alias", "alias_date", "long", or "long_date" (default to "alias").
-#' @param node_type Define the type of drawing for the nodes. Either "text", "text_repel", "label", or "label_repel" (default to "text").
+#' @param node_type Define the type of drawing for the nodes. Either "text", "text_repel", "label", "label_repel", "node" or "none" (default to "text").
 #' @param edge_label TRUE to plot dates on edges (default to "TRUE").
 #' @param edge_arrow TRUE or arrow object to plot arrow on edges, FALSE otherwise (default to "FALSE").
 #' @param arrow_gap A parameter that will shorten the network edges in order to avoid overplotting edge arrows and nodes see \code{\link[ggnetwork]{fortify.network}}.
