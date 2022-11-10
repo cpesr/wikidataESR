@@ -136,6 +136,7 @@ print_to_md(paste(sep='\n',"```",
 "  - twtexte:[#DataESR #HelpESR] Visualisation des @wikidata de l'#ESR.",
 "  - twalt:@juliengossa LO 2.0 www.cpesr.fr",
 "  - twurl:https://twitter.com/CPESR_/status/1457453241378148361",
+"  - url:https://github.com/cpesr/WikidataESR",
 "```"))
 
 ## Charge les établissements, puis plote par type
@@ -156,7 +157,7 @@ print_to_md(paste(sep='\n',"```",
 #   arrange(desc(type))
 
 etab <- kpiESR::esr.etab %>%
-  filter(dataset == "CPESR") %>%
+  #filter(dataset == "CPESR") %>%
   transmute(
     wdid = str_replace(url.wikidata,"https://www.wikidata.org/entity/",""),
     alias = ifelse(!is.na(Sigle),Sigle,Etablissement),

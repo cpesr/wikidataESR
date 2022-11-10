@@ -35,7 +35,7 @@ wdesr_ggplot_graph(
 
 \item{node_label}{Define the label for the nodess. Either "alias", "alias_date", "long", or "long_date" (default to "alias").}
 
-\item{node_type}{Define the type of drawing for the nodes. Either "text", "text_repel", "label", or "label_repel" (default to "text").}
+\item{node_type}{Define the type of drawing for the nodes. Either "text", "text_repel", "label", "label_repel", "node" or "none" (default to "text").}
 
 \item{edge_label}{TRUE to plot dates on edges (default to "TRUE").}
 
