@@ -78,8 +78,8 @@ plot_batch <- function(racine, alias, suffix,
   ploturl = paste0("plots/",ggs.path,"/",plotfilename)
   
   if(!append_logfile) start_logfile(racine,alias,logfile)
-  print_to_md(paste0("### ",alias," : ",str_to_title(str_replace(suffix,'-',' ')),
-                     ".     Edition des données : ", githuburl,logurl))
+  print_to_md(paste0("### ",alias," : ",str_to_title(str_replace(suffix,'-',' '))))
+  print_to_md(paste0("- url:Edition des données : ", githuburl,logurl))
   print_to_md(paste0("\n\n## ",suffix), file=logfile)
   print_to_md(paste0("![Graphique non généré](",plotfilename,")"), file=logfile)
   
@@ -135,7 +135,6 @@ print_to_md("https://github.com/cpesr/WikidataESR")
 print_to_md(paste(sep='\n',"```",
 "  - twtexte:[#DataESR #HelpESR] Visualisation des @wikidata de l'#ESR.",
 "  - twalt:@juliengossa LO 2.0 www.cpesr.fr",
-"  - twurl:https://twitter.com/CPESR_/status/1457453241378148361",
 "  - url:https://github.com/cpesr/WikidataESR",
 "```"))
 
