@@ -79,7 +79,7 @@ plot_batch <- function(racine, alias, suffix,
   
   if(!append_logfile) start_logfile(racine,alias,logfile)
   print_to_md(paste0("### ",alias," : ",str_to_title(str_replace(suffix,'-',' '))))
-  print_to_md(paste0("- url:Edition des données : ", githuburl,logurl))
+  print_to_md(paste0("- url:", githuburl,logurl))
   print_to_md(paste0("\n\n## ",suffix), file=logfile)
   print_to_md(paste0("![Graphique non généré](",plotfilename,")"), file=logfile)
   
@@ -122,7 +122,7 @@ plot_batch <- function(racine, alias, suffix,
 
 # Chargement du cache s'il existe. 
 # Sinon, les données seront téléchargées sur wikidate.
-# wdesr_load_cache()
+wdesr_load_cache()
 
 try(setwd("scripts"))
 
