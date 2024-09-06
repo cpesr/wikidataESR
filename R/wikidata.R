@@ -73,7 +73,8 @@ wd_get_item_statement_as_year <- function(item,prop) {
     date <- item[[1]]$claims[[prop]]$mainsnak$datavalue$value$time[1],
     error = function(e) date<-NULL)
 
-  return(ifelse(is.null(date),NA,substr(as.character.Date(date),2,5)))
+  #return(ifelse(is.null(date),NA,substr(as.character.Date(date),2,5)))
+  return(ifelse(is.null(date),NA,substr(date,2,5)))
 }
 
 #' Get the list of statements for a given property.
